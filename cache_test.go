@@ -6,6 +6,7 @@ import (
 	"sync"
 	"sync/atomic"
 	"testing"
+	"time"
 )
 
 func testLoader(t *testing.T, calls *atomic.Int32) Loader {
@@ -211,7 +212,7 @@ func TestCacheCopies(t *testing.T) {
 	}
 }
 
-func TestCacheStaleCopiesAreDropped(t *testing.T) {
+func TestCacheCopyReturnsToDroppedEntry(t *testing.T) {
 	var calls atomic.Int32
 	load := testLoader(t, &calls)
 	c := NewCache()
@@ -236,11 +237,44 @@ func TestCacheStaleCopiesAreDropped(t *testing.T) {
 	}
 	close(hold)
 	<-done
-	if !old.stale || len(old.idle) != 0 {
-		t.Fatalf("stale = %v, idle copies = %d; the copy must not return to the dropped entry", old.stale, len(old.idle))
+	// the copy returns to the dropped entry, which nothing but this test
+	// references anymore, so it is collected together with the entry
+	if len(old.idle) != 1 {
+		t.Fatalf("idle copies of the dropped entry = %d, want 1", len(old.idle))
 	}
 	if c.Len() != 1 || c.entries["en"].Value.(*cacheEntry).version != "2" {
 		t.Fatal("new version is not the current entry")
+	}
+}
+
+// TestCacheAcquireAfterDrop covers a goroutine which got the entry from entry
+// but has not taken a copy yet when the entry is dropped. The idle copies must
+// stay with the entry, otherwise the goroutine would wait for them forever.
+func TestCacheAcquireAfterDrop(t *testing.T) {
+	var calls atomic.Int32
+	load := testLoader(t, &calls)
+	c := NewCache(WithCopies(1))
+
+	e, err := c.entry("en", "1", load)
+	if err != nil {
+		t.Fatal(err)
+	}
+	c.Invalidate("en")
+
+	done := make(chan struct{})
+	go func() {
+		defer close(done)
+		d, err := c.acquire(e)
+		if err != nil {
+			t.Error(err)
+			return
+		}
+		c.release(e, d)
+	}()
+	select {
+	case <-done:
+	case <-time.After(5 * time.Second):
+		t.Fatal("acquire on a dropped entry did not finish")
 	}
 }
 

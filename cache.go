@@ -56,7 +56,6 @@ type cacheEntry struct {
 	version string
 	aff     []byte
 	dic     []byte
-	stale   bool             // dropped from the cache, copies are not returned
 	idle    chan *Dictionary // copies not in use, capacity copies
 	created int              // copies loaded so far
 	loading sync.Mutex       // serializes loading the copies of one entry
@@ -236,14 +235,10 @@ func (c *Cache) acquire(e *cacheEntry) (*Dictionary, error) {
 	return <-e.idle, nil
 }
 
-// release returns a copy to e, or drops it if e was removed meanwhile.
+// release returns a copy to e. The copy goes back even if e was removed
+// from the cache meanwhile: a goroutine may still wait for it in acquire,
+// and once nobody references e anymore the copies are collected with it.
 func (c *Cache) release(e *cacheEntry, d *Dictionary) {
-	c.mu.Lock()
-	stale := e.stale
-	c.mu.Unlock()
-	if stale {
-		return
-	}
 	select {
 	case e.idle <- d:
 	default:
@@ -251,20 +246,13 @@ func (c *Cache) release(e *cacheEntry, d *Dictionary) {
 	}
 }
 
-// remove drops el from the cache, c.mu must be held.
+// remove drops el from the cache, c.mu must be held. The copies are not
+// touched: a goroutine which already holds e may still take one, they are
+// collected with e once nobody references it anymore.
 func (c *Cache) remove(el *list.Element) {
 	e := el.Value.(*cacheEntry)
-	e.stale = true
 	delete(c.entries, e.key)
 	c.lru.Remove(el)
-	// idle copies are dropped right away, busy ones when they are released
-	for {
-		select {
-		case <-e.idle:
-		default:
-			return
-		}
-	}
 }
 
 // Words returns the distinct misspelled words in the order of their first

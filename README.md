@@ -1,6 +1,21 @@
-# gohunspell
+<p align="center">
+  <img src="docs/gopher.png" width="600" alt="A flying gopher superhero hunting misspelled words with a magnifying glass">
+</p>
 
-`gohunspell` is a pure Go port of [Hunspell](https://github.com/hunspell/hunspell),
+<h1 align="center">go-hunspell</h1>
+
+<p align="center">
+  <a href="https://github.com/documatrix/go-hunspell/actions/workflows/go.yml"><img src="https://github.com/documatrix/go-hunspell/actions/workflows/go.yml/badge.svg" alt="CI"></a>
+  <a href="https://pkg.go.dev/github.com/documatrix/go-hunspell"><img src="https://pkg.go.dev/badge/github.com/documatrix/go-hunspell.svg" alt="Go Reference"></a>
+  <a href="https://goreportcard.com/report/github.com/documatrix/go-hunspell"><img src="https://goreportcard.com/badge/github.com/documatrix/go-hunspell" alt="Go Report Card"></a>
+  <a href="https://github.com/documatrix/go-hunspell/tags"><img src="https://img.shields.io/github/v/tag/documatrix/go-hunspell?label=release&sort=semver" alt="Release"></a>
+  <img src="https://img.shields.io/github/go-mod/go-version/documatrix/go-hunspell" alt="Go version">
+  <img src="https://img.shields.io/badge/cgo-none-success" alt="No cgo">
+  <img src="https://img.shields.io/badge/coverage-98.9%25-brightgreen" alt="Coverage 98.9%">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MPL--1.1%20%7C%20GPL--2.0%20%7C%20LGPL--2.1-blue" alt="License"></a>
+</p>
+
+`go-hunspell` is a pure Go port of [Hunspell](https://github.com/hunspell/hunspell),
 the spell checker of LibreOffice, Firefox, Chrome and macOS.
 
 It is not a re-implementation "in the spirit of" Hunspell: the engine is a
@@ -227,10 +242,10 @@ per goroutine for parallel throughput.
 ## Hunspell feature support
 
 Everything Hunspell 1.7 understands is implemented. On the `.good`/`.wrong`
-word lists of the 151 upstream test dictionaries, gohunspell decides every
+word lists of the 151 upstream test dictionaries, go-hunspell decides every
 word like Hunspell.
 
-| Area | Option / feature | gohunspell |
+| Area | Option / feature | go-hunspell |
 |---|---|:-:|
 | **General** | `SET` UTF-8 | ✅ |
 | | `SET` ISO8859-1…15, KOI8-R/U, CP1251, TIS-620, ISCII | ✅ |
@@ -348,7 +363,7 @@ library of the same Hunspell commit built with `g++ -O2`. Suggestions are
 measured without time limits in both (`WithoutTimeLimits`, and the C++
 limits raised), so both do the same work.
 
-| | gohunspell | Hunspell (C++) |
+| | go-hunspell | Hunspell (C++) |
 |---|--:|--:|
 | load en_US | 16 ms | 13 ms |
 | spell a correct word | 0.27 µs | 0.38 µs |
@@ -361,7 +376,7 @@ A `Dictionary` serializes its calls; with one `Dictionary` per goroutine,
 spelling scales with the cores (`BenchmarkSpellParallel`: 72 ns per
 correct word on 4 cores).
 
-Run them with `go test -bench . .` (gohunspell) and
+Run them with `go test -bench . .` (go-hunspell) and
 `benchmarks/cpp/bench.cxx` (the C++ library, see the comment at its top).
 
 ## Packages
@@ -379,6 +394,10 @@ Run them with `go test -bench . .` (gohunspell) and
 
 ## License
 
-gohunspell is a derivative of Hunspell and is available, like Hunspell,
+go-hunspell is a derivative of Hunspell and is available, like Hunspell,
 under the terms of any one of the MPL 1.1, the GPL 2.0 or later, or the LGPL
 2.1 or later. See [LICENSE](LICENSE).
+
+The artwork in `docs/gopher.png` is our own. The Go gopher character it is
+based on was designed by [Renée French](https://reneefrench.blogspot.com/)
+and is used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,10 @@
+utf8 1
+line [.TH X 1]
+token 4 [X] word [X]
+line [caf\xc3\xa9 \\fBm\xc3\xbcnchen\\fR]
+token 0 [caf\xc3\xa9] word [caf\xc3\xa9]
+token 9 [m\xc3\xbcnchen] word [m\xc3\xbcnchen]
+prev 0 [caf\xc3\xa9 \\fBm\xc3\xbcnchen\\fR]
+prev 1 [.TH X 1]
+prev 2 []
+prev 3 []

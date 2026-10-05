@@ -1,0 +1,29 @@
+hello wrold
+!
+hello wrold
+%
+`
+hello wrold
+%
+*wrold
+hello wrold
+@foo
+foo bar
+@*foo
+foo
+*flub/hello
+flubs
+@quux//world
+quuxs
+&quux
+~tex
+^*notacommand wrold
+^
++
+\emph{wrold} $x+y$ hello
+-
+\emph{wrold} $x+y$ hello
+#
+*zzyzx
+#
+zzyzx

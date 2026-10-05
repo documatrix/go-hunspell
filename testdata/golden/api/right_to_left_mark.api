@@ -1,0 +1,640 @@
+# example: طِير
+> ا‏س‏ك‏و‏ن
+  spell 0 0 
+  sug سكون
+> سرتاٍن
+  spell 0 0 
+  sug كسرتان
+> سكتوْن
+  spell 0 0 
+  sug سكون
+> سكرتاٍن
+  spell 0 0 
+  sug كسرتان
+> سكوْ
+  spell 0 0 
+  sug سكون
+> سكوْن
+  spell 1 0 
+  sug سكون
+  ana  st:سكون
+  stem سكون
+  stemmorph سكون
+> سكوْن-‏ك‏س‏ر‏ت‏ا‏ن
+  spell 1 1 
+> سكوْنشدّة
+  spell 0 0 
+  sug سكون شدة
+  sug سكون
+> سك‏ْن
+  spell 0 0 
+  sug سكون
+> شدّ
+  spell 0 0 
+  sug شدة
+> شدّة
+  spell 1 0 
+  sug شدة
+  ana  st:شدة
+  stem شدة
+  stemmorph شدة
+> شدّة.
+  spell 1 0 
+  sug شدة
+  ana  st:شدة
+  stem شدة
+  stemmorph شدة
+> شدّةفتحًتان
+  spell 0 0 
+  sug شدة فتحتان
+  sug فتحتان
+> شدّة‏ض‏م‏ة
+  spell 0 0 
+  sug شدة ضمة
+  sug شدة
+> شدّش
+  spell 0 0 
+  sug شدة
+> شّة
+  spell 0 0 
+  sug شدة
+> ش‏‏د‏ة
+  spell 1 0 
+  sug شدة
+  ana  st:شدة
+  stem شدة
+  stemmorph شدة
+> ضتانٌ
+  spell 0 0 
+  sug ضمتان
+> ضمتاطنٌ
+  spell 0 0 
+  sug ضمتان
+> ضمتانٌ
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ضمتانٌ.
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ضُمة
+  spell 1 0 
+  sug ضمة
+  ana  st:ضمة
+  stem ضمة
+  stemmorph ضمة
+> ضُمة.
+  spell 1 0 
+  sug ضمة
+  ana  st:ضمة
+  stem ضمة
+  stemmorph ضمة
+> طِوير
+  spell 0 0 
+  sug طير
+> طِير
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> طِير.
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> طِير‏ف‏ت‏ح‏ة
+  spell 0 0 
+  sug طير فتحة
+  sug فتحة
+> فتحتان
+  spell 1 0 
+  sug فتحتان
+  ana  st:فتحتان
+  stem فتحتان
+  stemmorph فتحتان
+> فتحًتاة
+  spell 0 0 
+  sug فتحتان
+> فتحًتان
+  spell 1 0 
+  sug فتحتان
+  ana  st:فتحتان
+  stem فتحتان
+  stemmorph فتحتان
+> فتحًتان.
+  spell 1 0 
+  sug فتحتان
+  ana  st:فتحتان
+  stem فتحتان
+  stemmorph فتحتان
+> فتحًتانح
+  spell 0 0 
+  sug فتحتان
+  sug فتحة
+> فتحًتان‏ف‏ت‏ح‏ة
+  spell 0 0 
+  sug فتحتان فتحة
+  sug فتحتان
+> فحًتان
+  spell 0 0 
+  sug فتحتان
+> فنحًتان
+  spell 0 0 
+  sug فتحتان
+> فَتحة
+  spell 1 0 
+  sug فتحة
+  ana  st:فتحة
+  stem فتحة
+  stemmorph فتحة
+> فَتحة.
+  spell 1 0 
+  sug فتحة
+  ana  st:فتحة
+  stem فتحة
+  stemmorph فتحة
+> فَتحةسكوْن
+  spell 0 0 
+  sug فتحة سكون
+  sug فتحة
+> فَتحةفَتحة
+  spell 0 0 
+  sug فتحة فتحة
+  sug فتحة
+> فَتحةٍ
+  spell 1 0 
+  sug فتحة
+  ana  st:فتحة
+  stem فتحة
+  stemmorph فتحة
+> فَتحة‏س‏ك‏و‏ن
+  spell 0 0 
+  sug فتحة سكون
+  sug فتحة
+> فَتحة‏ط‏ي‏ر
+  spell 0 0 
+  sug فتحة طير
+  sug فتحة
+> فَحة
+  spell 0 0 
+  sug فتحة
+> فَشحة
+  spell 0 0 
+  sug فتحة
+> فَْتحة
+  spell 1 0 
+  sug فتحة
+  ana  st:فتحة
+  stem فتحة
+  stemmorph فتحة
+> ف‏ك‏س‏ر‏ة
+  spell 0 0 
+  sug كسرة
+  sug كسرتان
+> كسراٍن
+  spell 0 0 
+  sug كسرتان
+> كسرتاٍن
+  spell 1 0 
+  sug كسرتان
+  ana  st:كسرتان
+  stem كسرتان
+  stemmorph كسرتان
+> كسرتاٍن-شدّة
+  spell 1 1 
+  sug كسرتان
+> كسرتاٍن-كِسرة
+  spell 1 1 
+> كسرتاٍنسكوْن
+  spell 0 0 
+  sug كسرتان سكون
+  sug كسرتان
+> كسرتاٍن‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+  sug كسرتان ضمتان
+> كسِرة
+  spell 1 0 
+  sug كسرة
+  ana  st:كسرة
+  stem كسرة
+  stemmorph كسرة
+> ككرتاٍن
+  spell 0 0 
+  sug كسرتان
+> كِسر
+  spell 0 0 
+  sug كسرة
+> كِسرة
+  spell 1 0 
+  sug كسرة
+  ana  st:كسرة
+  stem كسرة
+  stemmorph كسرة
+> كِسرة-ضمتانٌ
+  spell 1 1 
+> كِسرة-‏س‏ك‏و‏ن
+  spell 1 1 
+> كِسرة.
+  spell 1 0 
+  sug كسرة
+  ana  st:كسرة
+  stem كسرة
+  stemmorph كسرة
+> كِسرة‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+  sug كسرة ضمتان
+  sug كسرتان
+> كِسرة‏ف‏ت‏ح‏ة
+  spell 0 0 
+  sug كسرة فتحة
+  sug كسرة
+> وط‏ي‏ر
+  spell 0 0 
+  sug طير
+> ُمة
+  spell 0 0 
+  sug ضمة
+> ِسرة
+  spell 0 0 
+  sug كسرة
+> ِطير
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> ِكسرة
+  spell 1 0 
+  sug كسرة
+  ana  st:كسرة
+  stem كسرة
+  stemmorph كسرة
+> ِير
+  spell 0 0 
+  sug طير
+> ‏س‏ك‏ون‏
+  spell 1 0 
+  sug سكون
+  ana  st:سكون
+  stem سكون
+  stemmorph سكون
+> ‏س‏ك‏و‏ن
+  spell 1 0 
+  sug سكون
+  ana  st:سكون
+  stem سكون
+  stemmorph سكون
+> ‏س‏ك‏و‏نشدّة
+  spell 0 0 
+  sug سكون شدة
+  sug سكون
+> ‏ش‏د‏ة
+  spell 1 0 
+  sug شدة
+  ana  st:شدة
+  stem شدة
+  stemmorph شدة
+> ‏ش‏د‏ة.
+  spell 1 0 
+  sug شدة
+  ana  st:شدة
+  stem شدة
+  stemmorph شدة
+> ‏ش‏د‏ةد
+  spell 0 0 
+  sug شدة
+> ‏ض‏مة‏
+  spell 1 0 
+  sug ضمة
+  ana  st:ضمة
+  stem ضمة
+  stemmorph ضمة
+> ‏ض‏موة
+  spell 0 0 
+  sug ضمة
+> ‏ض‏م‏ة
+  spell 1 0 
+  sug ضمة
+  ana  st:ضمة
+  stem ضمة
+  stemmorph ضمة
+> ‏ض‏م‏ة.
+  spell 1 0 
+  sug ضمة
+  ana  st:ضمة
+  stem ضمة
+  stemmorph ضمة
+> ‏ض‏م‏ةسكوْن
+  spell 0 0 
+  sug ضمة سكون
+  sug سكون
+> ‏ض‏م‏تا‏‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏اك‏ن
+  spell 0 0 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏ن-فَتحة
+  spell 1 1 
+> ‏ض‏م‏ت‏ا‏ن-‏ض‏م‏ت‏ا‏ن
+  spell 1 1 
+> ‏ض‏م‏ت‏ا‏ن.
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏نفتحًتان
+  spell 0 0 
+  sug ضمتان فتحتان
+> ‏ض‏م‏ت‏ا‏ن‏س‏ك‏و‏ن
+  spell 0 0 
+  sug ضمتان سكون
+  sug ضمتان
+> ‏ض‏‏مت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ط‏ير
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> ‏ط‏يُ‏ر
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> ‏ط‏ي‏ر
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> ‏ط‏ي‏ر-كسرتاٍن
+  spell 1 1 
+  sug كسرتان
+> ‏ط‏ي‏ر.
+  spell 1 0 
+  sug طير
+  ana  st:طير
+  stem طير
+  stemmorph طير
+> ‏فت‏ح‏ت‏ا‏ن
+  spell 1 0 
+  sug فتحتان
+  ana  st:فتحتان
+  stem فتحتان
+  stemmorph فتحتان
+> ‏ف‏ت‏ح‏ة
+  spell 1 0 
+  sug فتحة
+  ana  st:فتحة
+  stem فتحة
+  stemmorph فتحة
+> ‏ف‏ت‏ح‏ة-فتحًتان
+  spell 1 1 
+> ‏ف‏ت‏ح‏ة-‏ط‏ي‏ر
+  spell 1 1 
+  sug فتحة
+> ‏ف‏ت‏ح‏ة-‏ف‏ت‏ح‏ة
+  spell 1 1 
+> ‏ف‏ت‏ح‏ة.
+  spell 1 0 
+  sug فتحة
+  ana  st:فتحة
+  stem فتحة
+  stemmorph فتحة
+> ‏ف‏ت‏ح‏ةم
+  spell 0 0 
+  sug فتحة
+  sug فتحتان
+> ‏ف‏ت‏ح‏ت‏ا‏ن
+  spell 1 0 
+  sug فتحتان
+  ana  st:فتحتان
+  stem فتحتان
+  stemmorph فتحتان
+> ‏ف‏ت‏ح‏د
+  spell 0 0 
+  sug فتحة
+> ‏ف‏ت‏ح‏و
+  spell 0 0 
+  sug فتحة
+> ‏ف‏ت‏ح‏‏ا‏ن
+  spell 0 0 
+  sug فتحتان
+> ‏ف‏يت‏ح‏ت‏ا‏ن
+  spell 0 0 
+  sug فتحتان
+> ‏ك‏س‏ر‏ة
+  spell 1 0 
+  sug كسرة
+  ana  st:كسرة
+  stem كسرة
+  stemmorph كسرة
+> ‏ك‏س‏ر‏ة.
+  spell 1 0 
+  sug كسرة
+  ana  st:كسرة
+  stem كسرة
+  stemmorph كسرة
+> ‏ك‏س‏ر‏ة‏ط‏ي‏ر
+  spell 0 0 
+  sug كسرة طير
+  sug كسرة
+> ‏ك‏س‏ر‏تِا‏ن
+  spell 1 0 
+  sug كسرتان
+  ana  st:كسرتان
+  stem كسرتان
+  stemmorph كسرتان
+> ‏ك‏س‏ر‏ت‏اان
+  spell 0 0 
+  sug كسرتان
+> ‏ك‏س‏ر‏ت‏ا‏ن
+  spell 1 0 
+  sug كسرتان
+  ana  st:كسرتان
+  stem كسرتان
+  stemmorph كسرتان
+> ‏ك‏س‏ر‏ت‏ا‏ن-طِير
+  spell 1 1 
+  sug كسرتان
+> ‏ك‏س‏ر‏ت‏ا‏‏
+  spell 0 0 
+  sug كسرتان
+> ‏ك‏س‏ر‏ت‏‏ن
+  spell 0 0 
+  sug كسرتان
+> ‏‏ت‏ح‏ت‏ا‏ن
+  spell 0 0 
+  sug فتحتان
+> ‏‏ضم‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> ‏ض‏م‏ت‏ا‏ن's
+  spell 0 0 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن’s
+  spell 0 0 
+  sug ضمتان
+> '‏ض‏م‏ت‏ا‏ن'
+  spell 0 0 
+  sug ضمتان
+> l'‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن.
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏ن..
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> .‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+  sug ضمتان
+> ...
+  spell 1 0 
+> -‏ض‏م‏ت‏ا‏ن
+  spell 1 1 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن-
+  spell 1 1 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن--‏ف‏ت‏ح‏ة
+  spell 1 1 
+> ‏ض‏م‏ت‏ا‏ن-‏ف‏ت‏ح‏ة-‏ض‏م‏ت‏ا‏ن
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ‏ض‏م‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏ن ‏ف‏ت‏ح‏ة
+  spell 0 0 
+>  ‏ض‏م‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏ن 
+  spell 0 0 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن	‏ف‏ت‏ح‏ة
+  spell 0 0 
+> ��‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+> ‏ض‏م‏ت‏ا‏ن�
+  spell 0 0 
+  sug ضمتان
+> �‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+  sug ضمتان
+> 𐐀‏ض‏م‏ت‏ا‏ن
+  spell 0 0 
+> İ‏ض‏م‏ت‏ا‏ن
+  spell 0 32 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏نß
+  spell 0 0 
+  sug ضمتان
+> ‏ض‏م‏ت‏ا‏ن
+  spell 1 0 
+  sug ضمتان
+  ana  st:ضمتان
+  stem ضمتان
+  stemmorph ضمتان
+> ‏ض‏م‏ت‏ا‏نSS
+  spell 0 32 
+  sug ضمتان
+> <?xml?><query type="analyze"><word>‏ض‏م‏ت‏ا‏ن</word></query>
+  spell 0 0 
+  sug <code><a> st:ضمتان</a></code>
+> <?xml?><query type="stem"><word>‏ض‏م‏ت‏ا‏ن</word></query>
+  spell 0 0 
+  sug ضمتان
+> <?xml?><query type="suggest"><word>‏ض‏م‏ت‏ا‏نx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>‏ض‏م‏ت‏ا‏ن</word><word>‏ف‏ت‏ح‏ة</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>‏ض‏م‏ت‏ا‏ن</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>‏ض‏م‏ت‏ا‏ن</word></query>
+  spell 0 0 
+  sug <code><a> st:ضمتان</a></code>
+> <?xml?><query type="add"><word>‏ض‏م‏ت‏ا‏ن</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;‏ض‏م‏ت‏ا‏ن&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>‏ض‏م‏ت‏ا‏ن</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

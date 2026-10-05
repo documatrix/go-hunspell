@@ -1,0 +1,225 @@
+# example: lag
+> LAG
+  spell 1 32 
+  sug LAG
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> Lag
+  spell 1 32 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> aag
+  spell 0 0 
+  sug lag
+> alag
+  spell 0 0 
+  sug lag
+> alg
+  spell 0 0 
+  sug lag
+> la
+  spell 0 0 
+  sug lag
+> laa
+  spell 0 0 
+  sug lag
+> laag
+  spell 0 0 
+  sug lag
+> lag
+  spell 1 0 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> lag-lag
+  spell 1 1 
+  sug lag
+> lag.
+  spell 1 0 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> laga
+  spell 0 0 
+  sug lag
+> lagg
+  spell 0 0 
+  sug lag
+> lagl
+  spell 0 0 
+  sug lag
+> laglag
+  spell 0 0 
+  sug lag lag
+  sug lag
+> lal
+  spell 0 0 
+  sug lag
+> lalg
+  spell 0 0 
+  sug lag
+> lg
+  spell 0 0 
+  sug lag
+> lga
+  spell 0 0 
+  sug lag
+> lgag
+  spell 0 0 
+  sug lag
+> lgg
+  spell 0 0 
+  sug lag
+> llag
+  spell 0 0 
+  sug lag
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> lag's
+  spell 0 0 
+  sug lag
+> lagâ€™s
+  spell 0 0 
+  sug lag
+> 'lag'
+  spell 0 0 
+  sug lag
+> l'lag
+  spell 0 0 
+  sug lag
+> lag.
+  spell 1 0 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> lag..
+  spell 1 0 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> .lag
+  spell 0 0 
+  sug lag
+> ...
+  spell 1 0 
+> -lag
+  spell 1 1 
+  sug lag
+> lag-
+  spell 1 1 
+  sug lag
+> lag--lag
+  spell 1 1 
+> lag-lag-lag
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> LAG
+  spell 1 32 
+  sug LAG
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> LAG
+  spell 1 32 
+  sug LAG
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> Lag
+  spell 1 32 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> lag lag
+  spell 0 0 
+  sug lag
+>  lag
+  spell 1 0 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> lag 
+  spell 0 0 
+  sug lag
+> lag	lag
+  spell 0 0 
+  sug lag
+> ÿþlag
+  spell 0 0 
+  sug lag
+> lagÃ
+  spell 0 0 
+  sug lag
+> €lag
+  spell 0 0 
+  sug lag
+> ð€lag
+  spell 0 0 
+> Ä°lag
+  spell 0 32 
+  sug Lag
+> lagÃŸ
+  spell 0 0 
+  sug lag
+> lag
+  spell 1 0 
+  sug lag
+  ana  st:lag
+  stem lag
+  stemmorph lag
+> LAGSS
+  spell 0 32 
+  sug LAG
+> <?xml?><query type="analyze"><word>lag</word></query>
+  spell 0 0 
+  sug <code><a> st:lag</a></code>
+> <?xml?><query type="stem"><word>lag</word></query>
+  spell 0 0 
+  sug lag
+> <?xml?><query type="suggest"><word>lagx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>lag</word><word>lag</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>lag</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>lag</word></query>
+  spell 0 0 
+  sug <code><a> st:lag</a></code>
+> <?xml?><query type="add"><word>lag</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;lag&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>lag</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

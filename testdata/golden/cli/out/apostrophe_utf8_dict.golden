@@ -1,0 +1,16 @@
+exit 0
+stdout 224
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& don't 1 0: doesn’t
+& can't 1 6: can’t
+# it's 12
+# rock'n'roll 17
+
+& don’t 2 0: won’t, doesn’t
+*
+# it’s 12
+# isn 17
+# apos 21
+& t 1 26: text
+
+stderr 0

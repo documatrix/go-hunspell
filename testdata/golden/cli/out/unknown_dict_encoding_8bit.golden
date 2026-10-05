@@ -1,0 +1,14 @@
+exit 0
+stdout 32
+hello
+wrold
+tset
+forbidden
+NASA
+stderr 306
+error - iconv_open: X-UNKNOWN-42 -> ANSI_X3.4-1968
+error - iconv_open: ANSI_X3.4-1968 -> X-UNKNOWN-42
+error - iconv_open: ANSI_X3.4-1968 -> X-UNKNOWN-42
+error - iconv_open: ANSI_X3.4-1968 -> X-UNKNOWN-42
+error - iconv_open: ANSI_X3.4-1968 -> X-UNKNOWN-42
+error - iconv_open: ANSI_X3.4-1968 -> X-UNKNOWN-42

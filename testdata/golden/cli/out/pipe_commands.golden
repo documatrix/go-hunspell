@@ -1,0 +1,43 @@
+exit 0
+stdout 339
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wrold 2 6: world, wold
+
+& wrold 2 6: world, wold
+
+* hello
+& wrold 2 6: world, wold
+
+*
+*
+
+*
+*
+
+& foo 1 0: few
+
+*
+
+& quuxs 5 0: quux, quuxes, quux's, quux s, queues
+
+*
+
+& notacommand 4 2: commandant, commandment, commando, command
+*
+
+
+*
+*
+
+& emph 1 1: emf
+*
+*
+*
+*
+
+*
+
+stderr 60
+error - missing HOME variable
+error - missing HOME variable

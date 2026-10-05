@@ -1,0 +1,834 @@
+# example: ofo
+> 4ianretne
+  spell 0 0 
+  sug nianretne
+> 6ntertain
+  spell 0 0 
+  sug entertain
+> ENTERTAIN
+  spell 1 32 
+  sug ENTERTAIN
+  ana  st:entertain
+  stem entertain
+  stemmorph entertain
+> ENTERTAINING
+  spell 1 32 entertain
+  sug ENTERTAINING
+  ana  st:entertain fl:Q
+  stem entertain
+  stemmorph entertain
+> Gninnianretne
+  spell 0 32 
+  sug Gninianretne
+  sug Nianretne
+> OFO
+  spell 1 32 
+  sug OFO
+  ana  st:ofo
+  stem ofo
+  stemmorph ofo
+> OFOSUF1
+  spell 1 32 ofo
+  sug OFOSUF1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> OFOSUF10
+  spell 1 32 ofo
+  sug OFOSUF1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> OFOSUF17
+  spell 0 32 
+  sug OFOSUF1
+  sug OFOSUF7
+> OFOSUF18
+  spell 0 32 
+  sug OFOSUF1
+> OFOSUF9
+  spell 0 32 
+> Ofo
+  spell 1 32 
+  sug ofo
+  ana  st:ofo
+  stem ofo
+  stemmorph ofo
+> Ofosuf14
+  spell 1 32 ofo
+  sug Ofosuf1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> Ofosuf17
+  spell 0 32 
+  sug Ofosuf1
+  sug Ofosuf7
+> Ofosuf4
+  spell 0 32 
+> Ofosuf8
+  spell 0 32 
+> PRE11OFO
+  spell 0 32 
+  sug PRE1OFO
+> PRE16OFO
+  spell 1 32 ofo
+  sug PRE1OFO
+  sug PRE6OFO
+  ana pre16 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> PRE4OFO
+  spell 0 32 
+> PRE5OFO
+  spell 0 32 
+> Pre13ofo
+  spell 1 32 ofo
+  sug Pre1ofo
+  sug Pre3ofo
+  ana pre13 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> Pre16ofo
+  spell 1 32 ofo
+  sug Pre1ofo
+  sug Pre6ofo
+  ana pre16 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> Pre17ofo
+  spell 0 32 
+  sug Pre1ofo
+  sug Pre7ofo
+> Pre2ofo
+  spell 1 32 ofo
+  sug pre2ofo
+  ana pre2 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> Pre3ofo
+  spell 1 32 ofo
+  sug pre3ofo
+  ana pre3 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> Pre8ofo
+  spell 0 32 
+> WRIES
+  spell 1 32 wry
+  sug WRIES
+  ana  st:wry fl:T
+  stem wry
+  stemmorph wry
+> enertain
+  spell 0 0 
+  sug entertain
+> entegrtaining
+  spell 0 0 
+  sug entertaining
+  sug entertain
+> entertain
+  spell 1 0 
+  sug entertain
+  ana  st:entertain
+  stem entertain
+  stemmorph entertain
+  sfx entertaining
+> entertain7ing
+  spell 0 0 
+  sug entertaining
+  sug entertain
+> entertainentertaining
+  spell 0 0 
+  sug entertain entertaining
+> entertaining
+  spell 1 0 entertain
+  sug entertaining
+  ana  st:entertain fl:Q
+  stem entertain
+  stemmorph entertain
+> entertainn5ng
+  spell 0 0 
+  sug entertain
+> entertainning
+  spell 0 0 
+  sug entertaining
+  sug entertain
+> entertainningofosuf12
+  spell 0 0 
+> entertainningÃ©rach
+  spell 0 32 
+> entertainnnig
+  spell 0 0 
+  sug entertain
+> entretain
+  spell 0 0 
+  sug entertain
+> etertain
+  spell 0 0 
+  sug entertain
+> etnertain
+  spell 0 0 
+  sug entertain
+  sug nianretne
+> fofosuf7
+  spell 0 0 
+  sug ofosuf7
+> gninianretne
+  spell 1 0 nianretne
+  sug gninianretne
+  ana gni st:nianretne fl:R
+  stem nianretne
+  stemmorph nianretne
+> gninianretnepre8ofo
+  spell 0 0 
+> gniniarnetne
+  spell 0 0 
+  sug gninianretne
+  sug nianretne
+> gninnianretne
+  spell 0 0 
+  sug gninianretne
+  sug nianretne
+> gninnianretne-ofosuf11
+  spell 0 0 
+  sug gninianretne-ofosuf11
+  sug nianretne-ofosuf11
+> gninnianretne-ofosuf6
+  spell 0 0 
+  sug gninianretne-ofosuf6
+  sug nianretne-ofosuf6
+> nia6nretne
+  spell 0 0 
+  sug nianretne
+> nianretne
+  spell 1 0 
+  sug nianretne
+  ana  st:nianretne
+  stem nianretne
+  stemmorph nianretne
+> nianretne.
+  spell 1 0 
+  sug nianretne
+  ana  st:nianretne
+  stem nianretne
+  stemmorph nianretne
+> of3osuf16
+  spell 0 0 
+  sug ofosuf16
+> ofo
+  spell 1 0 
+  sug ofo
+  ana  st:ofo
+  stem ofo
+  stemmorph ofo
+  sfx ofosuf10
+  sfx ofosuf1
+  sfx ofosuf2
+  sfx ofosuf13
+  sfx ofosuf3
+  sfx ofosuf14
+  sfx ofosuf16
+  sfx ofosuf6
+  sfx ofosuf7
+> ofo-wry
+  spell 1 1 
+> ofo.
+  spell 1 0 
+  sug ofo
+  ana  st:ofo
+  stem ofo
+  stemmorph ofo
+> ofoofosuf7
+  spell 0 0 
+  sug ofo ofosuf7
+> ofopre16ofo
+  spell 0 0 
+  sug ofo pre16ofo
+> oforuf1
+  spell 0 0 
+> ofosfu13
+  spell 0 0 
+  sug ofosuf13
+> ofosfu2
+  spell 0 0 
+  sug ofosuf2
+> ofosuf1
+  spell 1 0 ofo
+  sug ofosuf1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf1.
+  spell 1 0 ofo
+  sug ofosuf1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf10
+  spell 1 0 ofo
+  sug ofosuf1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf11
+  spell 0 0 
+  sug ofosuf1
+> ofosuf11pre15ofo
+  spell 0 0 
+> ofosuf11pre18ofo
+  spell 0 0 
+> ofosuf12
+  spell 0 0 
+  sug ofosuf1
+  sug ofosuf2
+> ofosuf12-wries
+  spell 0 0 
+  sug ofosuf1-wries
+  sug ofosuf2-wries
+> ofosuf13
+  spell 1 0 ofo
+  sug ofosuf1
+  sug ofosuf3
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf14
+  spell 1 0 ofo
+  sug ofosuf1
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf14wries
+  spell 0 0 
+  sug ofosuf14 wries
+> ofosuf15
+  spell 0 0 
+  sug ofosuf1
+> ofosuf15.
+  spell 0 0 
+  sug ofosuf1
+> ofosuf16
+  spell 1 0 ofo
+  sug ofosuf1
+  sug ofosuf6
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf17
+  spell 0 0 
+  sug ofosuf1
+  sug ofosuf7
+> ofosuf18
+  spell 0 0 
+  sug ofosuf1
+> ofosuf18.
+  spell 0 0 
+  sug ofosuf1
+> ofosuf18ofo
+  spell 0 0 
+> ofosuf1pre1ofo
+  spell 0 0 
+  sug ofosuf1 pre1ofo
+> ofosuf2
+  spell 1 0 ofo
+  sug ofosuf2
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf2.
+  spell 1 0 ofo
+  sug ofosuf2
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf26
+  spell 0 0 
+  sug ofosuf2
+  sug ofosuf6
+> ofosuf3
+  spell 1 0 ofo
+  sug ofosuf3
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf3gninianretne
+  spell 0 0 
+  sug ofosuf3 gninianretne
+> ofosuf3ofosuf17
+  spell 0 0 
+> ofosuf4
+  spell 0 0 
+> ofosuf5
+  spell 0 0 
+> ofosuf6
+  spell 1 0 ofo
+  sug ofosuf6
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf6r
+  spell 0 0 
+  sug ofosuf6
+> ofosuf7
+  spell 1 0 ofo
+  sug ofosuf7
+  ana  st:ofo fl:S
+  stem ofo
+  stemmorph ofo
+> ofosuf7gninnianretne
+  spell 0 0 
+> ofosuf8
+  spell 0 0 
+> ofosuf8.
+  spell 0 0 
+> ofosuf84
+  spell 0 0 
+> ofosuf9
+  spell 0 0 
+> ofosuf9-pre12ofo
+  spell 0 0 
+> ofosuf9©
+  spell 0 32 
+> ofosuff5
+  spell 0 0 
+> ofoséf5
+  spell 0 0 
+> ofposuf1
+  spell 0 0 
+  sug ofosuf1
+> ofrosuf10
+  spell 0 0 
+  sug ofosuf10
+> ofsouf5
+  spell 0 0 
+> oosuf6
+  spell 0 0 
+  sug ofosuf6
+> oosuf7
+  spell 0 0 
+  sug ofosuf7
+> pe1ofo
+  spell 0 0 
+> per7ofo
+  spell 0 0 
+  sug pre7ofo
+> pore3ofo
+  spell 0 0 
+  sug pre3ofo
+> pr11ofo
+  spell 0 0 
+> pr9ofo
+  spell 0 0 
+> pre01ofo
+  spell 0 0 
+  sug pre1ofo
+> pre10o3o
+  spell 0 0 
+> pre10ofo
+  spell 0 0 
+  sug pre1ofo
+> pre11ofo
+  spell 0 0 
+  sug pre1ofo
+> pre12ofo
+  spell 0 0 
+  sug pre1ofo
+  sug pre2ofo
+> pre13ofo
+  spell 1 0 ofo
+  sug pre1ofo
+  sug pre3ofo
+  ana pre13 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre14ofo
+  spell 1 0 ofo
+  sug pre1ofo
+  ana pre14 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre14ofogninnianretne
+  spell 0 0 
+> pre15ofo
+  spell 0 0 
+  sug pre1ofo
+> pre16ofo
+  spell 1 0 ofo
+  sug pre1ofo
+  sug pre6ofo
+  ana pre16 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre16ofo-entertainning
+  spell 0 0 
+  sug pre16ofo-entertaining
+  sug pre16ofo-entertain
+> pre16ofo-éra
+  spell 1 1 
+> pre16ofo.
+  spell 1 0 ofo
+  sug pre1ofo
+  sug pre6ofo
+  sug pre16ofo
+  ana pre16 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre16ohfo
+  spell 0 0 
+  sug pre16ofo
+> pre17ofo
+  spell 0 0 
+  sug pre1ofo
+  sug pre7ofo
+> pre17ofo-ofosuf7
+  spell 0 0 
+  sug pre1ofo-ofosuf7
+  sug pre7ofo-ofosuf7
+> pre17ofoofosuf11
+  spell 0 0 
+> pre17oo
+  spell 0 0 
+  sug pre1ofo
+> pre18ofo
+  spell 0 0 
+  sug pre1ofo
+> pre1ofo
+  spell 1 0 ofo
+  sug pre1ofo
+  ana pre1 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre1ofogninnianretne
+  spell 0 0 
+> pre1ofopre2ofo
+  spell 0 0 
+  sug pre1ofo pre2ofo
+> pre1oo
+  spell 0 0 
+  sug pre1ofo
+> pre2ofo
+  spell 1 0 ofo
+  sug pre2ofo
+  ana pre2 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre2ofo.
+  spell 1 0 ofo
+  sug pre2ofo
+  ana pre2 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre2ofoofosuf9
+  spell 0 0 
+> pre2oo
+  spell 0 0 
+  sug pre2ofo
+> pre3ofo
+  spell 1 0 ofo
+  sug pre3ofo
+  ana pre3 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre48ofo
+  spell 0 0 
+> pre4ofo
+  spell 0 0 
+> pre5hofo
+  spell 0 0 
+> pre5ofo
+  spell 0 0 
+> pre5ofo.
+  spell 0 0 
+> pre6ofo
+  spell 1 0 ofo
+  sug pre6ofo
+  ana pre6 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre7fo
+  spell 0 0 
+  sug pre7ofo
+> pre7ofc
+  spell 0 0 
+  sug pre7ofo
+> pre7ofo
+  spell 1 0 ofo
+  sug pre7ofo
+  ana pre7 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre7ofo.
+  spell 1 0 ofo
+  sug pre7ofo
+  ana pre7 st:ofo fl:P
+  stem ofo
+  stemmorph ofo
+> pre89ofo
+  spell 0 0 
+> pre8ofo
+  spell 0 0 
+> pre8ofo-ofosuf3
+  spell 0 0 
+> pre9ofo
+  spell 0 0 
+> preofo
+  spell 0 0 
+> prewofo
+  spell 0 0 
+> prfe15ofo
+  spell 0 0 
+> pyre18ofo
+  spell 0 0 
+> rpe10ofo
+  spell 0 0 
+> sre16ofo
+  spell 0 0 
+> tfosuf13
+  spell 0 0 
+> unwry
+  spell 1 0 wry
+  sug unwry
+  ana un st:wry fl:U
+  stem wry
+  stemmorph wry
+> unwry-pre13ofo
+  spell 1 1 
+> unwry.
+  spell 1 0 wry
+  sug unwry
+  ana un st:wry fl:U
+  stem wry
+  stemmorph wry
+> unwry9
+  spell 0 0 
+  sug unwry
+> wries
+  spell 1 0 wry
+  sug wries
+  ana  st:wry fl:T
+  stem wry
+  stemmorph wry
+> wriespre12ofo
+  spell 0 0 
+> wrise
+  spell 0 0 
+  sug wries
+> wry
+  spell 1 0 
+  sug wry
+  ana  st:wry
+  stem wry
+  stemmorph wry
+> wry.
+  spell 1 0 
+  sug wry
+  ana  st:wry
+  stem wry
+  stemmorph wry
+> wy
+  spell 0 0 
+  sug wry
+> ©r
+  spell 0 32 
+> ©Ãr
+  spell 0 32 
+> ©Ãrach
+  spell 0 32 
+  sug Érach
+> Ãh©ram
+  spell 0 32 
+> Ã©
+  spell 0 32 
+> Ã©RACH
+  spell 0 32 
+  sug ÉRACH
+> Ã©r
+  spell 0 32 
+> Ã©r-pre6ofo
+  spell 0 32 
+> Ã©r-unwry
+  spell 0 32 
+> Ã©rach
+  spell 0 32 
+  sug Érach
+> Ã©rach-ofosuf3
+  spell 0 32 
+  sug Érach-ofosuf3
+> Ã©rachwries
+  spell 0 32 
+> Ã©ram
+  spell 0 32 
+  sug Éram
+> Ã©ri
+  spell 0 32 
+> Ã©yam
+  spell 0 32 
+> Ã©Ã
+  spell 0 32 
+> ÉRA
+  spell 1 32 
+  sug ÉR
+  sug ÉRA
+  ana  st:éra
+  stem éra
+  stemmorph éra
+> éra
+  spell 1 0 
+  sug ér
+  ana  st:éra
+  stem éra
+  stemmorph éra
+  sfx érach
+  sfx éram
+> éra.
+  spell 1 0 
+  sug ér
+  sug éra
+  ana  st:éra
+  stem éra
+  stemmorph éra
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> éra's
+  spell 0 0 
+  sug éra
+> éraâ€™s
+  spell 0 0 
+> 'éra'
+  spell 0 0 
+  sug éra
+> l'éra
+  spell 0 0 
+  sug éra
+> éra.
+  spell 1 0 
+  sug ér
+  sug éra
+  ana  st:éra
+  stem éra
+  stemmorph éra
+> éra..
+  spell 1 0 
+  sug ér
+  sug éra
+  ana  st:éra
+  stem éra
+  stemmorph éra
+> .éra
+  spell 0 0 
+  sug éra
+> ...
+  spell 1 0 
+> -éra
+  spell 1 1 
+  sug éra
+> éra-
+  spell 1 1 
+  sug éra
+> éra--entertainning
+  spell 0 0 
+  sug éra--entertaining
+  sug éra--entertain
+> éra-entertainning-éra
+  spell 0 0 
+  sug éra-entertaining-éra
+  sug éra-entertain-éra
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> éRA
+  spell 0 32 
+  sug éra
+  sug ér
+> éRA
+  spell 0 32 
+  sug éra
+  sug ér
+> éRa
+  spell 0 32 
+  sug éra
+  sug ér
+> éra entertainning
+  spell 0 0 
+>  éra
+  spell 1 0 
+  sug ér
+  ana  st:éra
+  stem éra
+  stemmorph éra
+> éra 
+  spell 0 0 
+  sug éra
+> éra	entertainning
+  spell 0 0 
+> ÿþéra
+  spell 0 0 
+  sug éra
+> éraÃ
+  spell 0 32 
+  sug éra
+> €éra
+  spell 0 0 
+  sug éra
+> ð€éra
+  spell 0 0 
+> Ä°éra
+  spell 0 32 
+  sug Éra
+> éraÃŸ
+  spell 0 32 
+  sug éra
+> éra
+  spell 1 0 
+  sug ér
+  ana  st:éra
+  stem éra
+  stemmorph éra
+  sfx érach
+  sfx éram
+> éRASS
+  spell 0 32 
+  sug éra
+> <?xml?><query type="analyze"><word>éra</word></query>
+  spell 0 0 
+  sug <code><a> st:éra</a></code>
+> <?xml?><query type="stem"><word>éra</word></query>
+  spell 0 0 
+  sug éra
+> <?xml?><query type="suggest"><word>érax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>éra</word><word>entertainning</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>éra</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>éra</word></query>
+  spell 0 0 
+  sug <code><a> st:éra</a></code>
+> <?xml?><query type="add"><word>éra</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;éra&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>éra</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

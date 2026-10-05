@@ -1,0 +1,337 @@
+# example: apéritif
+> AAÉRITIF
+  spell 0 32 
+  sug APÉRITIF
+> APPRITIF
+  spell 0 32 
+  sug APÉRITIF
+> APRÉITIF
+  spell 0 32 
+  sug APÉRITIF
+> APrRITIF
+  spell 0 32 
+  sug Apéritif
+> APÉIRTIF
+  spell 0 32 
+  sug APÉRITIF
+> APÉITIF
+  spell 0 32 
+  sug APÉRITIF
+> APÉRIATIF
+  spell 0 32 
+  sug APÉRITIF
+> APÉRIIF
+  spell 0 32 
+  sug APÉRITIF
+> APÉRITIF
+  spell 1 32 
+  sug APÉRITIF
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> APÉRITIF-APÉRITIF
+  spell 1 33 
+> APÉRITIF-apéritif
+  spell 1 33 
+  sug Apéritif-apéritif
+> APÉRITIF.
+  spell 1 32 
+  sug APÉRITIF
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> APÉRITIFAPÉRITIF
+  spell 0 32 
+  sug APÉRITIF APÉRITIF
+> APÉRITIFapéritif
+  spell 0 32 
+  sug Apéritif apéritif
+> APÉRITIFp
+  spell 0 32 
+  sug Apéritif
+> APÉRITIT
+  spell 0 32 
+  sug APÉRITIF
+> APÉRITaIF
+  spell 0 32 
+  sug Apéritif
+> APÉRTIIF
+  spell 0 32 
+  sug APÉRITIF
+> APÉéRITIF
+  spell 0 32 
+  sug Apéritif
+> Apéritif
+  spell 1 32 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> AÉPRITIF
+  spell 0 32 
+  sug APÉRITIF
+> Ipéritif
+  spell 0 32 
+  sug Apéritif
+> PAPÉRITIF
+  spell 0 32 
+  sug APÉRITIF
+> PÉRITIF
+  spell 0 32 
+  sug APÉRITIF
+> aIéritif
+  spell 0 32 
+  sug apéritif
+> apRéritif
+  spell 0 32 
+  sug apéritif
+> apÉéritif
+  spell 0 32 
+  sug apéritif
+> apéAritif
+  spell 0 32 
+  sug apéritif
+> apéIitif
+  spell 0 32 
+  sug apéritif
+> apéfritif
+  spell 0 0 
+  sug apéritif
+> apéitif
+  spell 0 0 
+  sug apéritif
+> apériFif
+  spell 0 32 
+  sug apéritif
+> apériIif
+  spell 0 32 
+  sug apéritif
+> apériTtif
+  spell 0 32 
+  sug apéritif
+> apériatif
+  spell 0 0 
+  sug apéritif
+> apériif
+  spell 0 0 
+  sug apéritif
+> apériitf
+  spell 0 0 
+  sug apéritif
+> apéritAf
+  spell 0 32 
+  sug apéritif
+> apéritf
+  spell 0 0 
+  sug apéritif
+> apéritfi
+  spell 0 0 
+  sug apéritif
+> apéritiPf
+  spell 0 32 
+  sug apéritif
+> apéritif
+  spell 1 0 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> apéritif-apéritif
+  spell 1 1 
+> apéritif.
+  spell 1 0 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> apéritifA
+  spell 0 32 
+  sug apéritif
+> apéritifAPÉRITIF
+  spell 0 32 
+  sug apéritif Apéritif
+> apéritifF
+  spell 0 32 
+  sug apéritif
+> apéritifI
+  spell 0 32 
+  sug apéritif
+> apéritifapéritif
+  spell 0 0 
+  sug apéritif apéritif
+> apéritifp
+  spell 0 0 
+  sug apéritif
+> apéritift
+  spell 0 0 
+  sug apéritif
+> apéritié
+  spell 0 0 
+  sug apéritif
+> apéritéf
+  spell 0 0 
+  sug apéritif
+> apértif
+  spell 0 0 
+  sug apéritif
+> apértiif
+  spell 0 0 
+  sug apéritif
+> apéréitif
+  spell 0 0 
+  sug apéritif
+> apéÉritif
+  spell 0 32 
+  sug apéritif
+> aépritif
+  spell 0 0 
+  sug apéritif
+> aéritif
+  spell 0 0 
+  sug apéritif
+> péritif
+  spell 0 0 
+  sug apéritif
+> rAPÉRITIF
+  spell 0 32 
+  sug apéritif
+> éapéritif
+  spell 0 0 
+  sug apéritif
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> apéritif's
+  spell 0 0 
+  sug apéritif
+> apéritif’s
+  spell 0 0 
+  sug apéritif
+> 'apéritif'
+  spell 0 0 
+  sug apéritif
+> l'apéritif
+  spell 0 0 
+  sug apéritif
+> apéritif.
+  spell 1 0 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> apéritif..
+  spell 1 0 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> .apéritif
+  spell 0 0 
+  sug apéritif
+> ...
+  spell 1 0 
+> -apéritif
+  spell 1 1 
+  sug apéritif
+> apéritif-
+  spell 1 1 
+  sug apéritif
+> apéritif--APÉRITIF
+  spell 1 33 
+  sug apéritif--apéritif
+> apéritif-APÉRITIF-apéritif
+  spell 1 33 
+  sug apéritif-apéritif-apéritif
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> APéRITIF
+  spell 0 32 
+  sug Apéritif
+> APéRITIF
+  spell 0 32 
+  sug Apéritif
+> ApéRitif
+  spell 0 32 
+  sug Apéritif
+> apéritif APÉRITIF
+  spell 0 32 
+>  apéritif
+  spell 1 0 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> apéritif 
+  spell 0 0 
+  sug apéritif
+> apéritif	APÉRITIF
+  spell 0 32 
+> ��apéritif
+  spell 0 0 
+  sug apéritif
+> apéritif�
+  spell 0 0 
+  sug apéritif
+> �apéritif
+  spell 0 0 
+  sug apéritif
+> 𐐀apéritif
+  spell 0 0 
+  sug apéritif
+> İapéritif
+  spell 0 32 
+  sug Apéritif
+> apéritifß
+  spell 0 0 
+  sug apéritif
+> apéritif
+  spell 1 0 
+  sug apéritif
+  ana  st:apéritif
+  stem apéritif
+  stemmorph apéritif
+> APéRITIFSS
+  spell 0 32 
+  sug Apéritif
+> <?xml?><query type="analyze"><word>apéritif</word></query>
+  spell 0 0 
+  sug <code><a> st:apéritif</a></code>
+> <?xml?><query type="stem"><word>apéritif</word></query>
+  spell 0 0 
+  sug apéritif
+> <?xml?><query type="suggest"><word>apéritifx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>apéritif</word><word>APÉRITIF</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>apéritif</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>apéritif</word></query>
+  spell 0 0 
+  sug <code><a> st:apéritif</a></code>
+> <?xml?><query type="add"><word>apéritif</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;apéritif&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>apéritif</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,53 @@
+# example: unfoo
+> foobar
+  spell 1 1 bar
+  sug foo bar
+  sug foobar
+  ana foo:ts po:foofoo:ap po:bar bar:ts bar:ap 
+> barfoo
+  spell 1 1 foo
+  sug bar foo
+  sug barfoo
+  ana bar:ts po:barbar:ap po:foo foo:ts foo:ap 
+> bazbaz
+  spell 1 1 baz
+  sug baz baz
+  sug baz
+  ana baz:ts po:bazbaz:ap po:baz baz:ts baz:ap 
+> foobaz
+  spell 0 0 
+  sug foo baz
+> unfoobar
+  spell 1 1 bar
+  sug unfoo bar
+  sug unfoobar
+  ana ip:un foo:ts po:foo unfoo:ap po:bar bar:ts bar:ap 
+> foounbar
+  spell 0 0 
+  sug foo unbar
+> reunfoo
+  spell 1 0 foo
+  sug reunfoo
+  ana ip:re ip:un foo:ts po:foo
+> foounreunbar
+  spell 0 0 
+> quxfoo
+  spell 1 1 foo
+  sug qux foo
+  sug quxfoo
+  ana qux:ap po:foo foo:ts foo:ap 
+> fooqux
+  spell 1 1 qux
+  sug foo qux
+  sug fooqux
+  ana foo:ts po:foofoo:ap qux:ts qux:ap 
+> quxqux
+  spell 1 1 qux
+  sug qux qux
+  sug qux
+  ana qux:ap qux:ts qux:ap 
+> unfooqux
+  spell 1 1 qux
+  sug unfoo qux
+  sug unfooqux
+  ana ip:un foo:ts po:foo unfoo:ap qux:ts qux:ap 

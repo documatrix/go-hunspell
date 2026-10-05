@@ -1,0 +1,8 @@
+SET UTF-8
+VERSION Golden test dictionary 1.0
+TRY abcdefghijklmnopqrstuvwxyz
+COMPOUNDMIN 3
+COMPOUNDFLAG A
+
+SFX S Y 1
+SFX S 0 s .

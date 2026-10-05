@@ -1,0 +1,5 @@
+# analyses over the 4 MB limit (homonyms with long descriptions), cut
+# by OCONV (in its trie); stems over the limit
+FLAG num
+OCONV 1
+OCONV z Z

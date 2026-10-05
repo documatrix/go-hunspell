@@ -1,0 +1,417 @@
+# example: glass
+> GLASS
+  spell 1 32 
+  sug GLASS
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> GLASSKO
+  spell 1 33 glass
+  sug GLASSKO
+  sug GLASS
+> GLASSSKO
+  spell 0 32 
+  sug GLASS SKO
+  sug GLASSKO
+  sug GLASS
+> Glass
+  spell 1 32 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> Glassko
+  spell 1 33 glass
+  sug glassko
+> Glasssko
+  spell 0 32 
+  sug Glass sko
+  sug Glassko
+> SKO
+  spell 1 32 
+  sug SKO
+  ana  st:sko
+  stem sko
+  stemmorph sko
+> Sko
+  spell 1 32 
+  sug sko
+  ana  st:sko
+  stem sko
+  stemmorph sko
+> galasssko
+  spell 0 0 
+> galss
+  spell 0 0 
+  sug glass
+> gass
+  spell 0 0 
+  sug glass
+> gglassko
+  spell 0 0 
+  sug glassko
+> glas
+  spell 0 0 
+  sug glass
+> glasasko
+  spell 0 0 
+  sug glassko
+> glask
+  spell 0 0 
+  sug glass
+> glasko
+  spell 0 0 
+  sug glass
+> glasos
+  spell 0 0 
+  sug glass
+> glasossko
+  spell 0 0 
+  sug glass
+> glass
+  spell 1 0 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> glass-glass
+  spell 1 1 
+  sug glassglass
+> glass-glassko
+  spell 1 1 
+  sug glassglassko
+> glass.
+  spell 1 0 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> glassglass
+  spell 1 1 glass
+  sug glass glass
+  sug glassglass
+  ana  pa:glass st:glass pa:glass
+  stem glass
+  stemmorph glass
+> glassglassko
+  spell 1 1 glass
+  sug glassglassko
+> glassglasssko
+  spell 0 0 
+  sug glassglassko
+> glassk
+  spell 0 0 
+  sug glass
+> glassko
+  spell 1 1 glass
+  sug glassko
+> glassko-glassko
+  spell 1 1 
+  sug glasskoglassko
+> glassko-sko
+  spell 1 1 
+  sug glasskosko
+> glassko.
+  spell 1 1 glass
+  sug glassko
+  sug glass
+> glasskosko
+  spell 1 1 glass
+  sug glasskosko
+> glasskso
+  spell 0 0 
+  sug glassko
+> glasslo
+  spell 0 0 
+  sug glassko
+> glassska
+  spell 0 0 
+  sug glass
+> glassskg
+  spell 0 0 
+  sug glass
+> glasssko
+  spell 0 0 
+  sug glass sko
+  sug glassko
+> glasssko-glass
+  spell 0 0 
+  sug glass sko-glass
+  sug glassko-glass
+> glasssko-glassko
+  spell 0 0 
+  sug glass sko-glassko
+  sug glassko-glassko
+> glasssko-glasssko
+  spell 0 0 
+  sug glass sko-glasssko
+  sug glassko-glasssko
+> glasssko-sko
+  spell 0 0 
+  sug glass sko-sko
+  sug glassko-sko
+> glasssko.
+  spell 0 0 
+  sug glass sko
+  sug glassko
+  sug glass
+> glassskoglass
+  spell 0 0 
+  sug glasskoglass
+> glassskosko
+  spell 0 0 
+  sug glasskosko
+> glassssko
+  spell 0 0 
+  sug glassko
+> glkass
+  spell 0 0 
+  sug glass
+> gloss
+  spell 0 0 
+  sug glass
+> glsas
+  spell 0 0 
+  sug glass
+> glsasko
+  spell 0 0 
+  sug glassko
+> glsassko
+  spell 0 0 
+  sug glassko
+> glsss
+  spell 0 0 
+  sug glass
+> glsssko
+  spell 0 0 
+  sug glassko
+> kso
+  spell 0 0 
+  sug sko
+> lass
+  spell 0 0 
+  sug glass
+> lgass
+  spell 0 0 
+  sug glass
+> olass
+  spell 0 0 
+  sug glass
+> sglass
+  spell 0 0 
+  sug glass
+> skao
+  spell 0 0 
+  sug sko
+> skg
+  spell 0 0 
+  sug sko
+> skl
+  spell 0 0 
+  sug sko
+> sko
+  spell 1 0 
+  sug sko
+  ana  st:sko
+  stem sko
+  stemmorph sko
+> sko-glass
+  spell 1 1 
+  sug skoglass
+> sko-glasssko
+  spell 0 0 
+  sug sko-glass sko
+  sug sko-glassko
+> sko-sko
+  spell 1 1 
+  sug skosko
+> sko.
+  spell 1 0 
+  sug sko
+  ana  st:sko
+  stem sko
+  stemmorph sko
+> skoa
+  spell 0 0 
+  sug sko
+> skoglass
+  spell 1 1 sko
+  sug sko glass
+  sug skoglass
+  ana  pa:sko st:sko pa:glass
+  stem sko
+  stemmorph sko
+> skoglassko
+  spell 1 1 sko
+  sug skoglassko
+> skoglasssko
+  spell 0 0 
+  sug skoglassko
+> skol
+  spell 0 0 
+  sug sko
+> skos
+  spell 0 0 
+  sug sko
+> skosko
+  spell 1 1 sko
+  sug sko sko
+  sug sko
+  ana  pa:sko st:sko pa:sko
+  stem sko
+  stemmorph sko
+> slko
+  spell 0 0 
+  sug sko
+> slo
+  spell 0 0 
+  sug sko
+> so
+  spell 0 0 
+  sug sko
+> sso
+  spell 0 0 
+  sug sko
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> glass's
+  spell 0 0 
+  sug glass
+> glassâ€™s
+  spell 0 0 
+  sug glass
+> 'glass'
+  spell 0 0 
+  sug glass
+> l'glass
+  spell 0 0 
+  sug glass
+> glass.
+  spell 1 0 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> glass..
+  spell 1 0 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> .glass
+  spell 0 0 
+  sug glass
+> ...
+  spell 1 0 
+> -glass
+  spell 1 1 
+  sug glass
+> glass-
+  spell 1 1 
+  sug glass
+> glass--sko
+  spell 1 1 
+> glass-sko-glass
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> GLASS
+  spell 1 32 
+  sug GLASS
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> GLASS
+  spell 1 32 
+  sug GLASS
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> Glass
+  spell 1 32 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> glass sko
+  spell 0 0 
+  sug glass
+>  glass
+  spell 1 0 
+  sug glass
+  ana  st:glass
+  stem glass
+  stemmorph glass
+> glass 
+  spell 0 0 
+  sug glass
+> glass	sko
+  spell 0 0 
+  sug glass
+> ÿþglass
+  spell 0 0 
+  sug glass
+> glassÃ
+  spell 0 32 
+  sug glass
+> €glass
+  spell 0 0 
+  sug glass
+> ð€glass
+  spell 0 0 
+  sug glass
+> Ä°glass
+  spell 0 32 
+  sug Glass
+> glassÃŸ
+  spell 0 32 
+  sug glass
+> glaÃŸ
+  spell 0 32 
+  sug glass
+> GLASSSS
+  spell 0 32 
+  sug GLASS
+> <?xml?><query type="analyze"><word>glass</word></query>
+  spell 0 0 
+  sug <code><a> st:glass</a></code>
+> <?xml?><query type="stem"><word>glass</word></query>
+  spell 0 0 
+  sug glass
+> <?xml?><query type="suggest"><word>glassx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>glass</word><word>sko</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>glass</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>glass</word></query>
+  spell 0 0 
+  sug <code><a> st:glass</a></code>
+> <?xml?><query type="add"><word>glass</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;glass&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>glass</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

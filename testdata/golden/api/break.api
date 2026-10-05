@@ -1,0 +1,603 @@
+# example: foo
+> -foo
+  spell 0 0 
+  sug foo
+> -foo-foo-bar-foo-bar
+  spell 0 0 
+> -foo.
+  spell 0 0 
+  sug foo
+> -fox
+  spell 0 0 
+  sug fox-bax
+> BAR-BAZ
+  spell 1 33 
+  sug BAZ
+> BAX
+  spell 0 32 
+  sug BAZ
+  sug BAR
+> BAZ
+  spell 1 32 
+  sug BAZ
+  ana  st:baz
+  stem baz
+  stemmorph baz
+> BAZ-FOO
+  spell 1 33 
+> Baz-foo
+  spell 1 33 
+> E-mail
+  spell 1 32 
+  sug e-mail
+  ana  st:e-mail
+  stem e-mail
+  stemmorph e-mail
+> E-mail-foo
+  spell 1 33 
+  sug E-mail
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOO-BAR
+  spell 1 33 
+  sug FOX-BAX
+> FOO-BAR-FOX-BAR
+  spell 0 32 
+  sug FOO-BAR-FOO-BAR
+> FOO-BAX
+  spell 0 32 
+  sug FOX-BAX
+> FOO-BAX–FOO-BAR
+  spell 0 32 
+  sug FOO-FOX-BAX-BAR
+> FOO-BAZ
+  spell 0 34 
+  sug FOX-BAX
+> FOO–BAR
+  spell 1 33 
+> FOX–BAR
+  spell 0 32 
+  sug FOX-BAX
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foo-bar-foo-bar
+  spell 1 33 
+> Foo-bar-foo-bar-foo-bar-foo-bar-foo-bar
+  spell 1 33 
+> Foo-bar-fox-bar
+  spell 0 32 
+  sug Foo-bar-foo-bar
+> Foo-bar–fox-bar
+  spell 0 32 
+  sug Foo-fox-bax-bar
+> Foo-bax
+  spell 0 32 
+  sug Fox-bax
+> Foo-bax–foo-bar
+  spell 0 32 
+  sug Foo-fox-bax-bar
+> Foo-baz
+  spell 0 34 
+  sug Fox-bax
+> Foo–bar
+  spell 1 33 
+> Foo–bax
+  spell 0 32 
+  sug Fox-bax
+> Fox-bax
+  spell 1 32 
+  sug fox-bax
+  ana  st:fox-bax
+  stem fox-bax
+  stemmorph fox-bax
+> Fox–bar
+  spell 0 32 
+  sug Fox-bax
+> abz-foo
+  spell 0 0 
+  sug baz-foo
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bar-
+  spell 0 0 
+  sug bar
+> bar--baz
+  spell 0 0 
+> bar-.
+  spell 0 0 
+  sug bar
+> bar-baz
+  spell 1 1 
+  sug baz
+> bar-baze-mail
+  spell 0 0 
+  sug bar-baz-mail
+> bar-foo-bar
+  spell 1 1 
+> bar-z
+  spell 0 0 
+  sug bar-baz
+  sug bar
+> bar.
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> barfoo-bar
+  spell 0 0 
+  sug bar foo-bar
+  sug bar-bar
+> baribaz
+  spell 0 0 
+  sug baz
+> bax
+  spell 0 0 
+  sug baz
+  sug bar
+> baxf
+  spell 0 0 
+  sug fox-bax
+> baxx
+  spell 0 0 
+  sug fox-bax
+> baz
+  spell 1 0 
+  sug baz
+  ana  st:baz
+  stem baz
+  stemmorph baz
+> baz-foo
+  spell 1 1 
+> baz-foo-foo-bar-foo-bar-foo-bar-foo-bar-foo-bar
+  spell 0 0 
+> baz-foofoo-bax
+  spell 0 0 
+  sug baz-foo foo-bax
+  sug baz-foo-bax
+> baz-fox
+  spell 0 0 
+  sug fox-bax
+> baz-fox-bax
+  spell 1 1 
+  sug fox-bax
+> bra
+  spell 0 0 
+  sug bar
+> bza
+  spell 0 0 
+  sug baz
+> e-ail
+  spell 0 0 
+  sug e-mail
+> e-mail
+  spell 1 0 
+  sug e-mail
+  ana  st:e-mail
+  stem e-mail
+  stemmorph e-mail
+> e-mail-foo
+  spell 1 1 
+  sug e-mail
+> e-mail-foo-foo-bar
+  spell 1 1 
+> e-mail-foo.
+  spell 1 1 
+  sug e-mail
+> e-mail.
+  spell 1 0 
+  sug e-mail
+  ana  st:e-mail
+  stem e-mail
+  stemmorph e-mail
+> e-mailb
+  spell 0 0 
+  sug e-mail
+> e-maile
+  spell 0 0 
+  sug e-mail
+> e-mail–
+  spell 0 0 
+  sug e-mail
+> e-mil-foo
+  spell 0 0 
+> efox-bar
+  spell 0 0 
+  sug fox-bax
+> faoo
+  spell 0 0 
+  sug foo
+> flo-baz
+  spell 0 0 
+  sug fox-bax
+> fo
+  spell 0 0 
+  sug foo
+> fo-bar-foo-bar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> fo-baz
+  spell 0 0 
+  sug fox-bax
+> fo-xbax
+  spell 0 0 
+  sug fox-bax
+> foao-bar-fox-bar
+  spell 0 0 
+  sug foo-bar-fox-bar
+> foeo-bar
+  spell 0 0 
+  sug fox-bax
+> foe–bax
+  spell 0 0 
+  sug fox-bax
+> fofo-bar–foo-bar
+  spell 0 0 
+  sug foo-bar–foo-bar
+  sug fox-bax-bar–foo-bar
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-abz
+  spell 0 0 
+> foo-bar
+  spell 1 1 
+  sug fox-bax
+> foo-bar-foo-ar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-bar-foo-bar
+  spell 1 1 
+> foo-bar-foo-bar-baz
+  spell 1 1 
+> foo-bar-foo-bar-foo-bar-foo-bar-foo-bar
+  spell 1 1 
+> foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-foo
+  spell 0 0 
+> foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-fox-bar
+  spell 0 0 
+  sug foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-foo-bar
+> foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-fox-bar
+  spell 0 0 
+  sug foo-bar-foo-bar-foo-bar-foo-bar-foo-bar-foo-bar
+> foo-bar-foo-bar-foo-bar-foo-bar-foo-bar.
+  spell 1 1 
+> foo-bar-foo-bar-foo-bar-foo-bar-foo-barbar
+  spell 0 0 
+  sug foo-bar-foo-bar-foo-bar-foo-bar-foo-bar bar
+  sug foo-bar-foo-bar-foo-bar-foo-bar-foo-bar
+> foo-bar-foo-bar.
+  spell 1 1 
+> foo-bar-foo-barfox-bar
+  spell 0 0 
+  sug foo-bar-foo-fox-bax-bar
+> foo-bar-foo-barl
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-bar-fox-bar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-bar-fox-bar.
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-bar-fox-barbaz-foo
+  spell 0 0 
+  sug foo-bar-foo-barbaz-foo
+> foo-bar–foo-bar
+  spell 1 1 
+> foo-bar–foo-bar-foo-bar–fox-bar
+  spell 0 0 
+  sug foo-bar–foo-bar-foo-fox-bax-bar
+> foo-bar–foo-bar.
+  spell 1 1 
+> foo-bar–fox-bar
+  spell 0 0 
+  sug foo-fox-bax-bar
+> foo-bar–fox-bar-bar-baz
+  spell 0 0 
+  sug foo-fox-bax-bar-bar-baz
+> foo-bar–fox-bar.
+  spell 0 0 
+  sug foo-fox-bax-bar
+> foo-bar–fox-barfoo-bar–foo-bar
+  spell 0 0 
+  sug foo-fox-bax-barfoo-bar–foo-bar
+> foo-bax
+  spell 0 0 
+  sug fox-bax
+> foo-bax-foo-abr
+  spell 0 0 
+  sug foo-baz-foo-abr
+  sug foo-bar-foo-abr
+> foo-bax-foo-bar
+  spell 0 0 
+  sug foo-baz-foo-bar
+  sug foo-bar-foo-bar
+> foo-bax-foo-barfoo-bax–foo-bar
+  spell 0 0 
+  sug foo-baz-foo-barfoo-bax–foo-bar
+  sug foo-bar-foo-barfoo-bax–foo-bar
+> foo-bax-fozo-bar
+  spell 0 0 
+  sug foo-baz-fozo-bar
+  sug foo-bar-fozo-bar
+> foo-baxl
+  spell 0 0 
+  sug fox-bax
+> foo-bax–flo-bar
+  spell 0 0 
+> foo-bax–foo-bar
+  spell 0 0 
+  sug foo-fox-bax-bar
+> foo-baz
+  spell 0 2 
+  sug fox-bax
+> foo-baz–foo-bar
+  spell 1 1 
+> foo-ear–fox-bar
+  spell 0 0 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foob–ar
+  spell 0 0 
+> fooz
+  spell 0 0 
+  sug foo
+> foo–ba
+  spell 0 0 
+  sug fox-bax
+> foo–bai
+  spell 0 0 
+> foo–bao
+  spell 0 0 
+  sug fox-bax
+> foo–bar
+  spell 1 1 
+> foo–bar-fox-bax
+  spell 1 1 
+  sug foo–bar-foo-bax
+> foo–barf
+  spell 0 0 
+> foo–bax
+  spell 0 0 
+  sug fox-bax
+> foo–bax-baz-foo
+  spell 0 0 
+  sug fox-bax-baz-foo
+> foo–bax-e-mail
+  spell 0 0 
+  sug fox-bax-e-mail
+> foo–baxbaz-foo
+  spell 0 0 
+> foo–baxz
+  spell 0 0 
+  sug fox-bax
+> for-bax
+  spell 0 0 
+  sug fox-bax
+> fox
+  spell 0 0 
+  sug foo
+> fox-ax
+  spell 0 0 
+  sug fox-bax
+> fox-bar
+  spell 0 0 
+  sug fox-bax
+> fox-bar-foo
+  spell 0 0 
+  sug fox-bax
+> fox-bar-fox-bax
+  spell 0 0 
+  sug foo-bar-fox-bax
+> fox-bar.
+  spell 0 0 
+  sug fox-bax
+> fox-barb
+  spell 0 0 
+  sug fox-bax
+> fox-bax
+  spell 1 0 
+  sug fox-bax
+  ana  st:fox-bax
+  stem fox-bax
+  stemmorph fox-bax
+> fox-bax-bar
+  spell 1 1 
+  sug fox-bax
+> fox-bax-e-mail
+  spell 1 1 
+  sug foo-bax-e-mail
+> fox-bax.
+  spell 1 0 
+  sug fox-bax
+  ana  st:fox-bax
+  stem fox-bax
+  stemmorph fox-bax
+> fox-baxbar
+  spell 0 0 
+  sug fox-bax bar
+  sug fox-bax
+> fox-zax
+  spell 0 0 
+  sug fox-bax
+> fox.
+  spell 0 0 
+  sug foo
+> fox–ba
+  spell 0 0 
+  sug fox-bax
+> fox–bar
+  spell 0 0 
+  sug fox-bax
+> fox–bar-foo–bax
+  spell 0 0 
+  sug fox-bax-foo–bax
+> fox–bar-fox-bax
+  spell 0 0 
+  sug fox-bax-fox-bax
+> fox–bar.
+  spell 0 0 
+  sug fox-bax
+> fox–bazr
+  spell 0 0 
+  sug fox-bax
+> fozo
+  spell 0 0 
+  sug foo
+> fozx-bax
+  spell 0 0 
+  sug fox-bax
+> fzo
+  spell 0 0 
+  sug foo
+> f–oo
+  spell 0 0 
+  sug foo
+> rar
+  spell 0 0 
+  sug bar
+> –oo-bar–foo-bar
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 0 0 
+> fox's
+  spell 0 0 
+  sug fox-bax
+> fox’s
+  spell 0 0 
+  sug fox-bax
+> 'fox'
+  spell 0 0 
+  sug fox-bax
+> l'fox
+  spell 0 0 
+  sug fox-bax
+> fox.
+  spell 0 0 
+  sug foo
+> fox..
+  spell 0 0 
+  sug foo
+> .fox
+  spell 0 0 
+  sug fox-bax
+> ...
+  spell 1 0 
+> -fox
+  spell 0 0 
+  sug fox-bax
+> fox-
+  spell 0 0 
+  sug fox-bax
+> fox--foo-bax
+  spell 0 0 
+  sug foo--foo-bax
+> fox-foo-bax-fox
+  spell 0 0 
+  sug foo-foo-bax-fox
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> FOX
+  spell 0 32 
+  sug FOO
+> FOX
+  spell 0 32 
+  sug FOO
+> Fox
+  spell 0 32 
+  sug Foo
+> fox foo-bax
+  spell 0 0 
+  sug fox-bax
+>  fox
+  spell 0 0 
+  sug foo
+> fox 
+  spell 0 0 
+  sug fox-bax
+> fox	foo-bax
+  spell 0 0 
+  sug fox-bax
+> ��fox
+  spell 0 0 
+  sug fox-bax
+> fox�
+  spell 0 0 
+  sug fox-bax
+> �fox
+  spell 0 0 
+  sug fox-bax
+> 𐐀fox
+  spell 0 0 
+> İfox
+  spell 0 32 
+  sug Fox-bax
+> foxß
+  spell 0 0 
+  sug fox-bax
+> fox
+  spell 0 0 
+  sug foo
+> FOXSS
+  spell 0 32 
+  sug FOX-BAX
+> <?xml?><query type="analyze"><word>fox</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>fox</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>foxx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>fox</word><word>foo-bax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>fox</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>fox</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>fox</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;fox&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>fox</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,2 @@
+# The test files of Hunspell are byte exact: no line ending conversion.
+testdata/** -text

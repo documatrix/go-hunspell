@@ -1,0 +1,103 @@
+# affix corner cases: zero affixes, FULLSTRIP, conditional affixes,
+# cross products of twofold suffixes, NEEDAFFIX and ONLYINCOMPOUND affixes
+SET UTF-8
+FULLSTRIP
+NEEDAFFIX N
+ONLYINCOMPOUND O
+COMPOUNDFLAG X
+COMPOUNDPERMITFLAG W
+SUBSTANDARD Q
+TRY esianrtolcdugmphbyfvkwz
+
+PFX B Y 1
+PFX B 0 0 .
+
+SFX C Y 1
+SFX C 0 0 .
+
+PFX D Y 1
+PFX D y 0 .
+
+PFX E Y 1
+PFX E 0 X .
+
+SFX A Y 1
+SFX A 0 s .
+
+PFX P Y 1
+PFX P 0 un/S . ip:un
+
+SFX S Y 1
+SFX S 0 s/P . is:s
+
+SFX T Y 1
+SFX T 0 t/U . is:t
+
+SFX U Y 1
+SFX U 0 u/P . is:u
+
+PFX R Y 1
+PFX R 0 re/N . ip:re
+
+SFX G Y 1
+SFX G 0 ing/O . is:ing
+
+SFX H Y 1
+SFX H 0 er/N . is:er
+
+SFX I Y 1
+SFX I 0 ik/XW . is:ik
+
+PFX J Y 1
+PFX J 0 ja/X . ip:ja
+
+PFX K Y 2
+PFX K 0 ké [áé]
+PFX K 0 kő [^áé]ö
+
+SFX L Y 3
+SFX L 0 lé [áé]
+SFX L 0 lő [^áé]ö
+SFX L ö ű [őö]ö
+
+SFX M Y 1
+SFX M 0 m/Q . is:m
+
+PFX V Y 1
+PFX V 0 vé .ö
+
+SFX W Y 7
+SFX W 0 w x[ab]
+SFX W 0 y xa
+SFX W 0 z [ÁŁ]
+SFX W 0 q €é
+SFX W 0 v Á
+SFX W 0 u x[áé]
+SFX W 0 t xá
+
+PFX Z Y 1
+PFX Z 0 0/Y .
+
+SFX Y Y 1
+SFX Y 0 er/F .
+
+SFX F Y 1
+SFX F 0 s .
+
+PFX 2 Y 1
+PFX 2 0 re . ip:re
+
+SFX 1 Y 1
+SFX 1 0 s/2 . is:s
+
+SFX 3 Y 1
+SFX 3 0 er/1 . is:er
+
+PFX 5 Y 1
+PFX 5 0 0/6 . ip:zero
+
+SFX 6 Y 1
+SFX 6 0 ed/4 . is:ed
+
+SFX 4 Y 1
+SFX 4 0 0 . is:none

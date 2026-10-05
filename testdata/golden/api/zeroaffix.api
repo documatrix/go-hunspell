@@ -1,0 +1,382 @@
+# example: foo
+> BAR
+  spell 1 32 bar
+  sug BAR
+  ana  st:bar <BAR <ZERO>>
+  ana  st:bar <BAR >
+  ana  st:bar <BAR <ZERODERIV> <ZERO>>
+  ana  st:bar <BAR <ZERODERIV> >
+  stem bar
+  stemmorph bar
+> BARBAZ
+  spell 1 32 bar
+  sug BAR
+  ana  st:bar <BAR <DERIV> <ZERO>>
+  ana  st:bar <BAR <DERIV> >
+  stem bar
+  stemmorph bar
+> Bar
+  spell 1 32 bar
+  sug bar
+  ana  st:bar <BAR <ZERO>>
+  ana  st:bar <BAR >
+  ana  st:bar <BAR <ZERODERIV> <ZERO>>
+  ana  st:bar <BAR <ZERODERIV> >
+  stem bar
+  stemmorph bar
+> Barbaz
+  spell 1 32 bar
+  sug Bar
+  ana  st:bar <BAR <DERIV> <ZERO>>
+  ana  st:bar <BAR <DERIV> >
+  stem bar
+  stemmorph bar
+> FOO
+  spell 1 32 foo
+  sug FOO
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> abar
+  spell 0 0 
+  sug bar
+> abr
+  spell 0 0 
+  sug bar
+> ar
+  spell 0 0 
+  sug bar
+> ba
+  spell 0 0 
+  sug bar
+> baa
+  spell 0 0 
+  sug bar
+> bar
+  spell 1 0 bar
+  sug bar
+  ana  st:bar <BAR <ZERO>>
+  ana  st:bar <BAR >
+  ana  st:bar <BAR <ZERODERIV> <ZERO>>
+  ana  st:bar <BAR <ZERODERIV> >
+  stem bar
+  stemmorph bar
+  sfx bar
+  sfx bar
+  sfx bar
+  sfx barbaz
+> bar-bar
+  spell 1 1 
+  sug bar
+> bar-barbaz
+  spell 1 1 
+> bar-foo
+  spell 1 1 
+> bar.
+  spell 1 0 bar
+  sug bar
+  ana  st:bar <BAR <ZERO>>
+  ana  st:bar <BAR >
+  ana  st:bar <BAR <ZERODERIV> <ZERO>>
+  ana  st:bar <BAR <ZERODERIV> >
+  stem bar
+  stemmorph bar
+> bara
+  spell 0 0 
+  sug bar
+> barbaaz
+  spell 0 0 
+  sug barbaz
+  sug bar
+> barbar
+  spell 0 0 
+  sug bar bar
+  sug bar
+> barbarbaz
+  spell 0 0 
+  sug bar barbaz
+> barbaz
+  spell 1 0 bar
+  sug bar
+  ana  st:bar <BAR <DERIV> <ZERO>>
+  ana  st:bar <BAR <DERIV> >
+  stem bar
+  stemmorph bar
+> barbaz-bar
+  spell 1 1 
+> barbaz-barbaz
+  spell 1 1 
+> barbaz-foo
+  spell 1 1 
+> barbaz.
+  spell 1 0 bar
+  sug barbaz
+  sug bar
+  ana  st:bar <BAR <DERIV> <ZERO>>
+  ana  st:bar <BAR <DERIV> >
+  stem bar
+  stemmorph bar
+> barbazbar
+  spell 0 0 
+  sug barbaz bar
+> barbazf
+  spell 0 0 
+  sug barbaz
+> barbazfoo
+  spell 0 0 
+  sug barbaz foo
+> barbz
+  spell 0 0 
+  sug bar
+> barfoo
+  spell 0 0 
+  sug bar foo
+  sug bar
+> baro
+  spell 0 0 
+  sug bar
+> barr
+  spell 0 0 
+  sug bar
+> barrbaz
+  spell 0 0 
+  sug barbaz
+  sug bar
+> barz
+  spell 0 0 
+  sug bar
+> bbar
+  spell 0 0 
+  sug bar
+> bbarbaz
+  spell 0 0 
+  sug barbaz
+> bfar
+  spell 0 0 
+  sug bar
+> br
+  spell 0 0 
+  sug bar
+> bra
+  spell 0 0 
+  sug bar
+> brbaz
+  spell 0 0 
+> faoo
+  spell 0 0 
+  sug foo
+> far
+  spell 0 0 
+  sug bar
+> fbar
+  spell 0 0 
+  sug bar
+> ffoo
+  spell 0 0 
+  sug foo
+> fo
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+  sfx foo
+> foo-bar
+  spell 1 1 
+> foo-barbaz
+  spell 1 1 
+> foo-foo
+  spell 1 1 
+  sug foo
+> foo.
+  spell 1 0 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> foobar
+  spell 0 0 
+  sug foo bar
+> foobarbaz
+  spell 0 0 
+  sug foo barbaz
+> foof
+  spell 0 0 
+  sug foo
+> foofoo
+  spell 0 0 
+  sug foo foo
+  sug foo
+> fooo
+  spell 0 0 
+  sug foo
+> fooz
+  spell 0 0 
+  sug foo
+> fzoo
+  spell 0 0 
+  sug foo
+> obar
+  spell 0 0 
+  sug bar
+> oo
+  spell 0 0 
+  sug foo
+> rarbaz
+  spell 0 0 
+> rfoo
+  spell 0 0 
+  sug foo
+> roo
+  spell 0 0 
+> zar
+  spell 0 0 
+  sug bar
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foo's
+  spell 0 0 
+  sug foo
+> fooâ€™s
+  spell 0 0 
+> 'foo'
+  spell 0 0 
+> l'foo
+  spell 0 0 
+> foo.
+  spell 1 0 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> foo..
+  spell 1 0 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> .foo
+  spell 0 0 
+  sug foo
+> ...
+  spell 1 0 
+> -foo
+  spell 1 1 
+  sug foo
+> foo-
+  spell 1 1 
+  sug foo
+> foo--bar
+  spell 1 1 
+> foo-bar-foo
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FOO
+  spell 1 32 foo
+  sug FOO
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> FOO
+  spell 1 32 foo
+  sug FOO
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> foo bar
+  spell 0 0 
+>  foo
+  spell 1 0 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+> foo 
+  spell 0 0 
+  sug foo
+> foo	bar
+  spell 0 0 
+> ÿþfoo
+  spell 0 0 
+> fooÃ
+  spell 0 32 
+  sug foo
+> €foo
+  spell 0 0 
+  sug foo
+> ð€foo
+  spell 0 0 
+> Ä°foo
+  spell 0 32 
+> fooÃŸ
+  spell 0 32 
+  sug foo
+> foo
+  spell 1 0 foo
+  sug foo
+  ana  st:foo <FOO >
+  stem foo
+  stemmorph foo
+  sfx foo
+> FOOSS
+  spell 0 32 
+  sug FOO
+> <?xml?><query type="analyze"><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo &lt;FOO ></a></code>
+> <?xml?><query type="stem"><word>foo</word></query>
+  spell 0 0 
+  sug foo
+> <?xml?><query type="suggest"><word>foox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><word>bar</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo &lt;FOO ></a></code>
+> <?xml?><query type="add"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,545 @@
+# example: a
+> A
+  spell 0 32 
+> Alot
+  spell 0 32 
+  sug A lot
+> GOSH!
+  spell 0 32 
+> GOSH!.
+  spell 0 32 
+> Gosh!
+  spell 0 32 
+> HO
+  spell 0 32 
+> IN
+  spell 0 32 
+> In
+  spell 0 32 
+> Inspire
+  spell 1 32 
+  sug inspire
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> Inspite
+  spell 0 32 
+  sug In spite
+> MY
+  spell 0 32 
+> Mwensday
+  spell 0 32 
+> OH
+  spell 0 32 
+> OH,
+  spell 0 32 
+> OMG
+  spell 0 32 
+  sug OH, MY GOSH!
+> OMG.
+  spell 0 32 
+  sug OH, MY GOSH!
+> OMGOh
+  spell 0 32 
+> OMGWednesday
+  spell 0 32 
+> Oh
+  spell 0 32 
+> Oh,
+  spell 0 32 
+> Oh,Wednesday
+  spell 0 32 
+> Oin
+  spell 0 32 
+> OnMG
+  spell 0 32 
+> WEDNESDAY
+  spell 1 32 
+  sug WEDNESDAY
+  ana  st:Wednesday ph:wendsay ph:wensday
+  stem Wednesday
+  stemmorph Wednesday
+> WENDSAY
+  spell 0 32 
+  sug WEDNESDAY
+> WENSDAY
+  spell 0 32 
+  sug WEDNESDAY
+> WHAT
+  spell 1 32 
+  sug WHAT
+  ana  st:what ph:whta ph:waht
+  stem what
+  stemmorph what
+> WHICH
+  spell 1 32 
+  sug WHICH
+  ana  st:which ph:wich
+  stem which
+  stemmorph which
+> WINCH
+  spell 1 32 
+  sug WITCH
+  sug WINCH
+  ana  st:winch
+  stem winch
+  stemmorph winch
+> WISH
+  spell 1 32 
+  sug WISH
+  ana  st:wish
+  stem wish
+  stemmorph wish
+> WITCH
+  spell 1 32 
+  sug WINCH
+  sug WITCH
+  ana  st:witch ph:wich
+  stem witch
+  stemmorph witch
+> Waht
+  spell 0 32 
+  sug What
+> WedWesday
+  spell 0 32 
+  sug Wednesday
+> Wednemday
+  spell 0 32 
+  sug Wednesday
+> Wednesay
+  spell 0 32 
+  sug Wednesday
+> Wednesdagy
+  spell 0 32 
+  sug Wednesday
+> Wednesday
+  spell 1 32 
+  sug Wednesday
+  ana  st:Wednesday ph:wendsay ph:wensday
+  stem Wednesday
+  stemmorph Wednesday
+> Wednesday-Wednesday
+  spell 1 33 
+> Wednesday-Wensday
+  spell 0 32 
+  sug Wednesday-Wednesday
+> Wednesday-lot
+  spell 0 32 
+> Wednesday.
+  spell 1 32 
+  sug Wednesday
+  ana  st:Wednesday ph:wendsay ph:wensday
+  stem Wednesday
+  stemmorph Wednesday
+> Wednespday
+  spell 0 32 
+  sug Wednesday
+> Wedsesday
+  spell 0 32 
+  sug Wednesday
+> Wedwnesday
+  spell 0 32 
+  sug Wednesday
+> WenGsay
+  spell 0 32 
+> Wendasy
+  spell 0 32 
+> Wendsay
+  spell 0 32 
+  sug Wednesday
+> Wendsay-GOSH!
+  spell 0 32 
+> Wensdan
+  spell 0 32 
+> Wensday
+  spell 0 32 
+  sug Wednesday
+> Wensdya
+  spell 0 32 
+> What
+  spell 1 32 
+  sug what
+  ana  st:what ph:whta ph:waht
+  stem what
+  stemmorph what
+> Wich
+  spell 0 32 
+  sug Which
+  sug Witch
+> YM
+  spell 0 32 
+> a
+  spell 0 0 
+> a.
+  spell 0 0 
+> aht
+  spell 0 0 
+> alot
+  spell 0 0 
+  sug a lot
+> alot.
+  spell 0 0 
+  sug a lot
+> alotOH
+  spell 0 32 
+> alto
+  spell 0 0 
+> aolt
+  spell 0 0 
+> comg
+  spell 0 0 
+> ednesday
+  spell 0 0 
+  sug Wednesday
+> goh!
+  spell 0 0 
+> gosh!
+  spell 0 0 
+> gosh!-Wednesday
+  spell 0 32 
+> gosh!.
+  spell 0 0 
+> gosh!Wednesday
+  spell 0 32 
+> hwat
+  spell 0 0 
+  sug what
+> ilspite
+  spell 0 0 
+> in
+  spell 0 0 
+> in-Wednesday
+  spell 0 32 
+> in-what
+  spell 0 0 
+> in.
+  spell 0 0 
+> inpire
+  spell 0 0 
+  sug inspire
+> inpsire
+  spell 0 0 
+  sug inspire
+> inspire
+  spell 1 0 
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> inspireWednesday
+  spell 0 32 
+  sug inspire Wednesday
+  sug inspire-Wednesday
+> inspit
+  spell 0 0 
+> inspite
+  spell 0 0 
+  sug in spite
+> inspite-winch
+  spell 0 0 
+  sug in spite-winch
+> inspite.
+  spell 0 0 
+  sug in spite
+> inspiteW
+  spell 0 32 
+> int
+  spell 0 0 
+> inwhich
+  spell 0 0 
+> inwhta
+  spell 0 0 
+> loc
+  spell 0 0 
+> lot
+  spell 0 0 
+> lot-wish
+  spell 0 0 
+> lot.
+  spell 0 0 
+> lotinspire
+  spell 0 0 
+> lotl
+  spell 0 0 
+> mh
+  spell 0 0 
+> my
+  spell 0 0 
+> my.
+  spell 0 0 
+> myWensday
+  spell 0 32 
+> omg
+  spell 0 0 
+  sug Oh, my gosh!
+> omg-spite
+  spell 0 0 
+  sug Oh, my gosh!-spite
+> omg-waht
+  spell 0 0 
+  sug Oh, my gosh!-waht
+> omg-wendsay
+  spell 0 0 
+  sug Oh, my gosh!-wendsay
+> omg.
+  spell 0 0 
+  sug Oh, my gosh!
+> omgWednesday
+  spell 0 32 
+> omgm
+  spell 0 0 
+> pot
+  spell 0 0 
+> spite
+  spell 0 0 
+> spite.
+  spell 0 0 
+> wMG
+  spell 0 32 
+> wOat
+  spell 0 32 
+  sug what
+> wahot
+  spell 0 0 
+> waht
+  spell 0 0 
+  sug what
+> waht-witch
+  spell 0 0 
+  sug what-witch
+> wcih
+  spell 0 0 
+> wendsay
+  spell 0 0 
+  sug Wednesday
+> wendsayOH
+  spell 0 32 
+> wenndsay
+  spell 0 0 
+> wensday
+  spell 0 0 
+  sug Wednesday
+> wensday.
+  spell 0 0 
+  sug Wednesday
+> wesnday
+  spell 0 0 
+> whSt
+  spell 0 32 
+  sug what
+> wha!
+  spell 0 0 
+  sug what
+> what
+  spell 1 0 
+  ana  st:what ph:whta ph:waht
+  stem what
+  stemmorph what
+> what-MY
+  spell 0 32 
+> what-Wednesday
+  spell 1 33 
+> what.
+  spell 1 0 
+  sug what
+  ana  st:what ph:whta ph:waht
+  stem what
+  stemmorph what
+> whatWednesday
+  spell 0 32 
+  sug what Wednesday
+  sug what-Wednesday
+> whato
+  spell 0 0 
+  sug what
+> whatwendsay
+  spell 0 0 
+> which
+  spell 1 0 
+  ana  st:which ph:wich
+  stem which
+  stemmorph which
+> which-which
+  spell 1 1 
+> whiich
+  spell 0 0 
+  sug which
+> whta
+  spell 0 0 
+  sug what
+> whta-what
+  spell 0 0 
+  sug what-what
+> whtoa
+  spell 0 0 
+> wich
+  spell 0 0 
+  sug which
+  sug witch
+> wich.
+  spell 0 0 
+  sug which
+  sug witch
+> wicth
+  spell 0 0 
+  sug witch
+> winch
+  spell 1 0 
+  sug witch
+  ana  st:winch
+  stem winch
+  stemmorph winch
+> winch.
+  spell 1 0 
+  sug witch
+  sug winch
+  ana  st:winch
+  stem winch
+  stemmorph winch
+> wish
+  spell 1 0 
+  ana  st:wish
+  stem wish
+  stemmorph wish
+> wish.
+  spell 1 0 
+  sug wish
+  ana  st:wish
+  stem wish
+  stemmorph wish
+> witch
+  spell 1 0 
+  sug winch
+  ana  st:witch ph:wich
+  stem witch
+  stemmorph witch
+> witch-wish
+  spell 1 1 
+> witch.
+  spell 1 0 
+  sug winch
+  sug witch
+  ana  st:witch ph:wich
+  stem witch
+  stemmorph witch
+> witchOh,
+  spell 0 32 
+> witcw
+  spell 0 0 
+  sug witch
+> wtat
+  spell 0 0 
+  sug what
+> wtch
+  spell 0 0 
+  sug witch
+> y
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> omg's
+  spell 0 0 
+> omgâ€™s
+  spell 0 0 
+> 'omg'
+  spell 0 0 
+> l'omg
+  spell 0 0 
+> omg.
+  spell 0 0 
+  sug Oh, my gosh!
+> omg..
+  spell 0 0 
+  sug Oh, my gosh!
+> .omg
+  spell 0 0 
+> ...
+  spell 1 0 
+> -omg
+  spell 0 0 
+  sug -Oh, my gosh!
+> omg-
+  spell 0 0 
+  sug Oh, my gosh!-
+> omg--lot
+  spell 0 0 
+  sug Oh, my gosh!--lot
+> omg-lot-omg
+  spell 0 0 
+  sug Oh, my gosh!-lot-omg
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> OMG
+  spell 0 32 
+  sug OH, MY GOSH!
+> OMG
+  spell 0 32 
+  sug OH, MY GOSH!
+> Omg
+  spell 0 32 
+  sug Oh, my gosh!
+> omg lot
+  spell 0 0 
+>  omg
+  spell 0 0 
+  sug Oh, my gosh!
+> omg 
+  spell 0 0 
+> omg	lot
+  spell 0 0 
+> ÿşomg
+  spell 0 0 
+> omgÃ
+  spell 0 32 
+> €omg
+  spell 0 0 
+> ğ€omg
+  spell 0 0 
+> Ä°omg
+  spell 0 32 
+> omgÃŸ
+  spell 0 32 
+> omg
+  spell 0 0 
+  sug Oh, my gosh!
+> OMGSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>omg</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>omg</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>omgx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>omg</word><word>lot</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>omg</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>omg</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>omg</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;omg&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>omg</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

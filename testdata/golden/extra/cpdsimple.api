@@ -1,0 +1,137 @@
+# example: 
+> aabbcc
+  spell 0 0 
+  sug AABBCC
+  ana  pa:aa st:aa pa:bb st:bb pa:cc
+  stem aabb
+  stemmorph aabb
+> aabbcz
+  spell 0 0 
+  sug aabbcy
+  ana  pa:aa st:aa pa:bb st:bb pa:cz
+  stem aabb
+  stemmorph aabb
+> aabbaa
+  spell 1 1 aa
+  sug aabbaa
+  sug aabbcy
+  ana  pa:aa st:aa pa:bb st:bb pa:aa
+  stem aabb
+  stemmorph aabb
+> AABBCC
+  spell 1 32 
+  sug AABBCC
+  ana  st:AABBCC
+  ana  pa:aa st:aa pa:bb st:bb pa:cc
+  stem AABBCC
+  stem aabb
+  stemmorph AABBCC
+  stemmorph aabb
+@trace aabbcc
+  trace 0 word "aabbcc"
+  trace 1 lookup "aabbcc" -> miss
+  trace 1 pfx "aabbcc" candidates=0
+  trace 1 sfx "aabbcc" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=2 left="aa" right="bbcc"
+  trace 3 first "aa" -> entry "aa" flags=X
+  trace 3 second "bbcc" -> miss
+  trace 3 pfx "bbcc" candidates=0
+  trace 3 sfx "bbcc" candidates=0
+  trace 2 split at=3 left="aab" right="bcc"
+  trace 3 first "aab" -> miss
+  trace 3 pfx "aab" candidates=0
+  trace 3 sfx "aab" candidates=0
+  trace 2 split at=4 left="aabb" right="cc"
+  trace 3 first "aabb" -> miss
+  trace 3 pfx "aabb" candidates=0
+  trace 3 sfx "aabb" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=2 left="aa" right="bbcc"
+  trace 3 first "aa" -> entry "aa" flags=X
+  trace 3 second "bbcc" -> miss
+  trace 3 pfx "bbcc" candidates=0
+  trace 3 sfx "bbcc" candidates=0
+  trace 3 split at=2 left="bb" right="cc"
+  trace 4 first "bb" -> entry "bb" flags=X
+  trace 4 second "cc" -> entry "cc" flags=X
+  trace 4 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 pfx "aabbcc" candidates=0
+  trace 3 sfx "aabbcc" candidates=0
+  trace 1 test simplesug -> fail, a simpler form of this word exists
+  trace 1 result incorrect
+  spell 0
+@trace aabbcz
+  trace 0 word "aabbcz"
+  trace 1 lookup "aabbcz" -> miss
+  trace 1 pfx "aabbcz" candidates=0
+  trace 1 sfx "aabbcz" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=2 left="aa" right="bbcz"
+  trace 3 first "aa" -> entry "aa" flags=X
+  trace 3 second "bbcz" -> miss
+  trace 3 pfx "bbcz" candidates=0
+  trace 3 sfx "bbcz" candidates=0
+  trace 2 split at=3 left="aab" right="bcz"
+  trace 3 first "aab" -> miss
+  trace 3 pfx "aab" candidates=0
+  trace 3 sfx "aab" candidates=0
+  trace 2 split at=4 left="aabb" right="cz"
+  trace 3 first "aabb" -> miss
+  trace 3 pfx "aabb" candidates=0
+  trace 3 sfx "aabb" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=2 left="aa" right="bbcz"
+  trace 3 first "aa" -> entry "aa" flags=X
+  trace 3 second "bbcz" -> miss
+  trace 3 pfx "bbcz" candidates=0
+  trace 3 sfx "bbcz" candidates=0
+  trace 3 split at=2 left="bb" right="cz"
+  trace 4 first "bb" -> entry "bb" flags=X
+  trace 4 second "cz" -> entry "cz" flags=X
+  trace 4 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 pfx "aabbcz" candidates=0
+  trace 3 sfx "aabbcz" candidates=0
+  trace 1 test simplesug -> fail, a simpler form of this word exists
+  trace 1 result incorrect
+  spell 0
+@trace aabbaa
+  trace 0 word "aabbaa"
+  trace 1 lookup "aabbaa" -> miss
+  trace 1 pfx "aabbaa" candidates=0
+  trace 1 sfx "aabbaa" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=2 left="aa" right="bbaa"
+  trace 3 first "aa" -> entry "aa" flags=X
+  trace 3 second "bbaa" -> miss
+  trace 3 pfx "bbaa" candidates=0
+  trace 3 sfx "bbaa" candidates=0
+  trace 2 split at=3 left="aab" right="baa"
+  trace 3 first "aab" -> miss
+  trace 3 pfx "aab" candidates=0
+  trace 3 sfx "aab" candidates=0
+  trace 2 split at=4 left="aabb" right="aa"
+  trace 3 first "aabb" -> miss
+  trace 3 pfx "aabb" candidates=0
+  trace 3 sfx "aabb" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=2 left="aa" right="bbaa"
+  trace 3 first "aa" -> entry "aa" flags=X
+  trace 3 second "bbaa" -> miss
+  trace 3 pfx "bbaa" candidates=0
+  trace 3 sfx "bbaa" candidates=0
+  trace 3 split at=2 left="bb" right="aa"
+  trace 4 first "bb" -> entry "bb" flags=X
+  trace 4 second "aa" -> entry "aa" flags=X
+  trace 4 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 3 pfx "aabbaa" candidates=0
+  trace 3 sfx "aabbaa" candidates=0
+  trace 1 test simplesug -> pass, no simpler form of this word exists
+  trace 1 result correct
+  spell 1

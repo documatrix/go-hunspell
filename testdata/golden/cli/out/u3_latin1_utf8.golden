@@ -1,0 +1,13 @@
+exit 0
+stdout 386
+in/latin1.txt:1: Locate: wrold
+in/latin1.txt:1: Locate: café | Try: can't
+in/latin1.txt:1: Locate: naïve
+in/latin1.txt:1: Locate: résumé
+in/latin1.txt:1: Locate: été.
+in/latin1.txt:2: Locate: The | Try: Text
+in/latin1.txt:2: Locate: to | Try: text
+in/latin1.txt:3: Locate: decreate. | Try: recreate
+in/latin1.txt:4: Locate: can | Try: can't
+in/latin1.txt:4: Locate: t | Try: text
+stderr 0

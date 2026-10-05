@@ -1,0 +1,19 @@
+exit 0
+stdout 89
+Some
+textt
+in
+XML
+with
+entities
+and
+BC.
+The
+dog's
+bone
+and
+rock'n'roll.
+Multi
+line
+notte
+stderr 0

@@ -1,0 +1,9 @@
+exit 0
+stdout 26
+wrold
+tset
+forbidden
+NASA
+stderr 101
+error: ./dict/badcount.dic: line 1: missing or bad word count in the dic file
+Hash Manager Error : 4

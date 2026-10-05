@@ -1,0 +1,10 @@
+exit 0
+stdout 73
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+
+
+
+
+stderr 76
+error - iconv_open: FOO-42 -> UTF-8
+error - iconv_open: ISO8859-1 -> FOO-42

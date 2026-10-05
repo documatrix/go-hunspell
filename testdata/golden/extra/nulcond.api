@@ -1,0 +1,34 @@
+# example: foo
+> refoo
+  spell 1 0 foo
+  sug refoo
+  ana re st:foo fl:P
+  stem foo
+  stemmorph foo
+> foos
+  spell 1 0 foo
+  sug foos
+  sug foo
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> refoos
+  spell 1 0 foo
+  sug refoos
+  sug refoo
+  ana  fl:P st:foo fl:S
+  stem foo
+  stemmorph foo
+@trace foos
+  trace 0 word "foos"
+  trace 1 lookup "foos" -> miss
+  trace 1 pfx "foos" candidates=0
+  trace 1 sfx flag=S strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+  trace 2 stem "foo"
+  trace 2 test condition cond="." on "foo" -> pass
+  trace 2 lookup "foo" -> entry "foo" flags=P,S
+  trace 2 test sfx-aflag flag=S in=dic have=P,S -> pass
+  trace 2 accept
+  trace 1 form "foos" = "foo" + sfx(S:"s")
+  trace 1 result correct
+  spell 1

@@ -1,0 +1,24 @@
+exit 0
+stdout 870
+in/plain.txt:1: Locate: wrold | Try: world
+in/plain.txt:1: Locate: tset | Try: stet
+in/plain.txt:1: Locate: speling | Try: spieling
+in/plain.txt:2: Locate: jumpss | Try: jumps
+in/plain.txt:3: Locate: ated | Try: ate
+in/plain.txt:4: Locate: MiXeD | Try: Mix Ed
+in/plain.txt:4: Locate: CaSe | Try: Case
+in/plain.txt:4: Locate: hELLO | Try: hell O
+in/plain.txt:4: Locate: Nasa | Try: NASA
+in/plain.txt:5: Locate: doesn | Try: does
+in/plain.txt:5: Locate: isn | Try: sin
+in/plain.txt:6: Locate: ssa | Try: SSA
+in/plain.txt:7: Locate: caf | Try: cad
+in/plain.txt:7: Locate: eacute | Try: acute
+in/plain.txt:7: Locate: na&iuml;ve
+in/plain.txt:7: Locate: &Agrave;bc | Try: engraver
+in/plain.txt:7: Locate: x&yuml;z
+in/plain.txt:9: Locate: ok | Try: OK
+in/plain.txt:10: Locate: tabz | Try: tab
+in/words.txt:2: Locate: wrold | Try: world
+in/words.txt:3: Locate: tset | Try: stet
+stderr 0

@@ -1,0 +1,63 @@
+# example: ok
+# warnings: load
+! This UTF-8 encoding can't convert to UTF-16:
+! UTF-8 encoding error. Missing character at the end
+! UTF-8 encoding error. Missing character at the end
+! UTF-8 encoding error. Missing character at the end
+! UTF-8 encoding error. Missing character at the end
+! UTF-8 encoding error. Missing continuation byte in 0. character position:
+! UTF-8 encoding error. Missing continuation byte in 1. character position:
+! UTF-8 encoding error. Missing continuation byte in 2. character position:
+! UTF-8 encoding error. Unexpected continuation bytes in 0. character position
+! UTF-8 encoding error. Unexpected continuation bytes in 0. character position
+! UTF-8 encoding error. Unexpected continuation bytes in 2. character position
+! a√
+! a‚
+! a‚Ç
+! baÄ
+! ba
+! Äab
+! Ç‚a
+! Ç‚a
+! √a
+! ‚a
+! ab
+> Äab
+  spell 1 0 
+  sug Äab
+  ana Äab:ts 
+> a√
+  spell 1 0 
+  sug √a
+  ana √a:ts 
+> ‚a
+  spell 1 0 
+  sug ‚a
+  ana ‚a:ts 
+> ab
+  spell 1 0 
+  sug ab
+  ana ab:ts 
+> reok
+  spell 1 0 ok
+  sug reok
+  ana P:lf ok:ts 
+> re√©t√©
+  spell 1 0 √©t√©
+  sug re√©t√©
+  ana P:lf √©t√©:ts 
+> √©t√
+  spell 0 0 
+  sug √©t√©
+> ok
+  spell 1 0 
+  sug ok
+  ana ok:ts 
+> mor
+  spell 1 0 
+  sug mor
+  ana po:m√© mor:ts 
+> remor
+  spell 1 0 mor
+  sug remor
+  ana P:lf mor:ts po:m√©

@@ -1,0 +1,165 @@
+# example: hello
+> HELLO
+  spell 0 32 
+> Hello
+  spell 0 32 
+> eello
+  spell 0 0 
+> ehello
+  spell 0 0 
+> ehllo
+  spell 0 0 
+> ello
+  spell 0 0 
+> heello
+  spell 0 0 
+> hehllo
+  spell 0 0 
+> hehlo
+  spell 0 0 
+> helelo
+  spell 0 0 
+> hell
+  spell 0 0 
+> hellh
+  spell 0 0 
+> helll
+  spell 0 0 
+> helllo
+  spell 0 0 
+> hello
+  spell 0 0 
+> hello-hello
+  spell 0 0 
+> hello.
+  spell 0 0 
+> helloe
+  spell 0 0 
+> helloh
+  spell 0 0 
+> hellohello
+  spell 0 0 
+> hellol
+  spell 0 0 
+> helloo
+  spell 0 0 
+> helo
+  spell 0 0 
+> helol
+  spell 0 0 
+> heloo
+  spell 0 0 
+> heolo
+  spell 0 0 
+> hhello
+  spell 0 0 
+> hlello
+  spell 0 0 
+> hlelo
+  spell 0 0 
+> hllo
+  spell 0 0 
+> lello
+  spell 0 0 
+> lhello
+  spell 0 0 
+> oello
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> hello's
+  spell 0 0 
+> helloâ€™s
+  spell 0 0 
+> 'hello'
+  spell 0 0 
+> l'hello
+  spell 0 0 
+> hello.
+  spell 0 0 
+> hello..
+  spell 0 0 
+> .hello
+  spell 0 0 
+> ...
+  spell 1 0 
+> -hello
+  spell 0 0 
+> hello-
+  spell 0 0 
+> hello--hello
+  spell 0 0 
+> hello-hello-hello
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> HELLO
+  spell 0 32 
+> HELLO
+  spell 0 32 
+> Hello
+  spell 0 32 
+> hello hello
+  spell 0 0 
+>  hello
+  spell 0 0 
+> hello 
+  spell 0 0 
+> hello	hello
+  spell 0 0 
+> ÿþhello
+  spell 0 0 
+> helloÃ
+  spell 0 0 
+> €hello
+  spell 0 0 
+> ð€hello
+  spell 0 0 
+> Ä°hello
+  spell 0 32 
+> helloÃŸ
+  spell 0 0 
+> hello
+  spell 0 0 
+> HELLOSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>hellox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hello</word><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hello</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;hello&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

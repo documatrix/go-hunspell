@@ -1,0 +1,488 @@
+# example: work
+> REWORKED
+  spell 1 32 work
+  sug REWORKED
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> REWORKS
+  spell 0 32 
+  sug REWORK
+  sug WORKS
+> Reworked
+  spell 1 32 work
+  sug reworked
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> Reworks
+  spell 0 32 
+  sug Rework
+  sug Works
+> WORK
+  spell 1 32 
+  sug WORK
+  ana  st:work
+  stem work
+  stemmorph work
+> WORKS
+  spell 1 32 work
+  sug WORK
+  sug WORKS
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> Work
+  spell 1 32 
+  sug work
+  ana  st:work
+  stem work
+  stemmorph work
+> Works
+  spell 1 32 work
+  sug Work
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> dork
+  spell 0 0 
+  sug work
+> eork
+  spell 0 0 
+  sug work
+> eworked
+  spell 0 0 
+  sug worked
+> kreworked
+  spell 0 0 
+  sug reworked
+> oork
+  spell 0 0 
+  sug work
+> oreworks
+  spell 0 0 
+  sug works
+> orks
+  spell 0 0 
+  sug works
+> owork
+  spell 0 0 
+  sug work
+> owrks
+  spell 0 0 
+  sug works
+> rdworked
+  spell 0 0 
+  sug worked
+> rekorked
+  spell 0 0 
+  sug reworked
+> reorks
+  spell 0 0 
+  sug rework
+> reowrks
+  spell 0 0 
+  sug rework
+> resworked
+  spell 0 0 
+  sug reworked
+> rewdorks
+  spell 0 0 
+  sug rework
+> rewoked
+  spell 0 0 
+  sug reworked
+  sug worked
+> rewokrs
+  spell 0 0 
+  sug rework
+> rewoorked
+  spell 0 0 
+  sug reworked
+> reworkde
+  spell 0 0 
+  sug reworked
+  sug rework
+> reworke
+  spell 0 0 
+  sug rework
+  sug work
+> reworked
+  spell 1 0 work
+  sug reworked
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> reworked-reworked
+  spell 1 1 
+> reworked-reworks
+  spell 0 0 
+  sug reworked-rework
+  sug reworked-works
+> reworked.
+  spell 1 0 work
+  sug reworked
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> reworkedreworked
+  spell 0 0 
+  sug reworked reworked
+> reworkedworks
+  spell 0 0 
+  sug reworked works
+> reworkeed
+  spell 0 0 
+  sug reworked
+> reworks
+  spell 0 0 
+  sug rework
+  sug works
+> reworks-reworked
+  spell 0 0 
+  sug rework-reworked
+  sug works-reworked
+> reworks-reworks
+  spell 0 0 
+  sug rework-reworks
+  sug works-reworks
+> reworks-work
+  spell 0 0 
+  sug rework-work
+  sug works-work
+> reworks.
+  spell 0 0 
+  sug rework
+  sug works
+> reworksd
+  spell 0 0 
+  sug rework
+> reworksreworks
+  spell 0 0 
+> reworksw
+  spell 0 0 
+  sug rework
+> reworksworks
+  spell 0 0 
+> reworsk
+  spell 0 0 
+  sug rework
+> reworwks
+  spell 0 0 
+  sug rework
+> rewowrks
+  spell 0 0 
+  sug rework
+> rewrks
+  spell 0 0 
+  sug rework
+> rewroked
+  spell 0 0 
+  sug reworked
+  sug rework
+> rewroks
+  spell 0 0 
+  sug rework
+> rewrorked
+  spell 0 0 
+  sug reworked
+> rork
+  spell 0 0 
+  sug work
+> rreworked
+  spell 0 0 
+  sug reworked
+> rwork
+  spell 0 0 
+  sug work
+> rworks
+  spell 0 0 
+  sug works
+  sug work
+> wdrks
+  spell 0 0 
+  sug works
+> wodrk
+  spell 0 0 
+  sug work
+> wok
+  spell 0 0 
+  sug work
+> wokks
+  spell 0 0 
+  sug works
+> wokr
+  spell 0 0 
+  sug work
+> wokrs
+  spell 0 0 
+  sug works
+> woks
+  spell 0 0 
+  sug works
+> wooks
+  spell 0 0 
+  sug works
+> woork
+  spell 0 0 
+  sug work
+> work
+  spell 1 0 
+  sug work
+  ana  st:work
+  stem work
+  stemmorph work
+  sfx worked
+  sfx works
+> work-reworks
+  spell 0 0 
+  sug work-rework
+  sug work-works
+> work-work
+  spell 1 1 
+> work-works
+  spell 1 1 
+> work.
+  spell 1 0 
+  sug work
+  ana  st:work
+  stem work
+  stemmorph work
+> worke
+  spell 0 0 
+  sug work
+> workos
+  spell 0 0 
+  sug works
+  sug work
+> workreworked
+  spell 0 0 
+  sug work reworked
+> works
+  spell 1 0 work
+  sug work
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> works-reworked
+  spell 1 1 
+> works-reworks
+  spell 0 0 
+  sug works-rework
+  sug works-works
+> works-work
+  spell 1 1 
+> works-works
+  spell 1 1 
+> works.
+  spell 1 0 work
+  sug work
+  sug works
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> worksd
+  spell 0 0 
+  sug works
+  sug work
+> worksk
+  spell 0 0 
+  sug works
+  sug work
+> worksreworked
+  spell 0 0 
+  sug works reworked
+> workswork
+  spell 0 0 
+  sug works work
+> workwork
+  spell 0 0 
+  sug work work
+  sug work
+> workworks
+  spell 0 0 
+  sug work works
+> wors
+  spell 0 0 
+  sug works
+> worsk
+  spell 0 0 
+  sug works
+  sug work
+> worws
+  spell 0 0 
+  sug works
+> wreworks
+  spell 0 0 
+  sug works
+> wrk
+  spell 0 0 
+  sug work
+> wrks
+  spell 0 0 
+  sug works
+> wroks
+  spell 0 0 
+  sug works
+> wrorks
+  spell 0 0 
+  sug works
+  sug work
+> wwork
+  spell 0 0 
+  sug work
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> works's
+  spell 0 0 
+  sug works
+> worksâ€™s
+  spell 0 0 
+> 'works'
+  spell 0 0 
+> l'works
+  spell 0 0 
+  sug works
+> works.
+  spell 1 0 work
+  sug work
+  sug works
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> works..
+  spell 1 0 work
+  sug work
+  sug works
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> .works
+  spell 0 0 
+  sug works
+  sug work
+> ...
+  spell 1 0 
+> -works
+  spell 1 1 
+  sug works
+  sug work
+> works-
+  spell 1 1 
+  sug works
+  sug work
+> works--reworks
+  spell 0 0 
+  sug works--rework
+  sug works--works
+> works-reworks-works
+  spell 0 0 
+  sug works-rework-works
+  sug works-works-works
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> WORKS
+  spell 1 32 work
+  sug WORK
+  sug WORKS
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> WORKS
+  spell 1 32 work
+  sug WORK
+  sug WORKS
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> Works
+  spell 1 32 work
+  sug Work
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> works reworks
+  spell 0 0 
+>  works
+  spell 1 0 work
+  sug work
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> works 
+  spell 0 0 
+  sug works
+  sug work
+> works	reworks
+  spell 0 0 
+> ÿþworks
+  spell 0 0 
+  sug works
+> worksÃ
+  spell 0 32 
+  sug works
+  sug work
+> €works
+  spell 0 0 
+  sug works
+  sug work
+> ð€works
+  spell 0 0 
+> Ä°works
+  spell 0 32 
+  sug Works
+> worksÃŸ
+  spell 0 32 
+  sug work
+> works
+  spell 1 0 work
+  sug work
+  ana  st:work fl:C
+  stem work
+  stemmorph work
+> WORKSSS
+  spell 0 32 
+  sug WORKS
+> <?xml?><query type="analyze"><word>works</word></query>
+  spell 0 0 
+  sug <code><a> st:work fl:C</a></code>
+> <?xml?><query type="stem"><word>works</word></query>
+  spell 0 0 
+  sug work
+> <?xml?><query type="suggest"><word>worksx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>works</word><word>reworks</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>works</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>works</word></query>
+  spell 0 0 
+  sug <code><a> st:work fl:C</a></code>
+> <?xml?><query type="add"><word>works</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;works&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>works</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

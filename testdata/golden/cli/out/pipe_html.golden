@@ -1,0 +1,15 @@
+exit 0
+stdout 251
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wrold 2 9: world, wold
+
+& wrold 2 6: world, wold
+*
+& tset 5 16: stet, test, set, sett, t set
+
+& emph 1 1: emf
+& wrold 2 6: world, wold
+& tset 5 16: stet, test, set, sett, t set
+
+stderr 0

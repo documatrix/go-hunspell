@@ -1,0 +1,523 @@
+# example: sUrya
+> Eru
+  spell 0 32 
+  sug PEru
+> PERU
+  spell 1 32 
+  sug PERU
+  ana  st:Peru
+  stem Peru
+  stemmorph Peru
+> PERUUNNA
+  spell 0 32 
+> Peru
+  spell 0 32 
+  sug PEru
+  ana  st:Peru
+  stem Peru
+  stemmorph Peru
+> Perunna
+  spell 0 32 
+  sug PErunna
+> Peruunna
+  spell 0 32 
+> SURYA
+  spell 1 32 
+  sug SURYA
+  ana  st:Surya
+  stem Surya
+  stemmorph Surya
+> SURYAUDAYAM
+  spell 0 32 
+> SURYODAYAM
+  spell 0 32 
+  sug UDAYAM
+> Surya
+  spell 0 32 
+  sug SUrya
+  ana  st:Surya
+  stem Surya
+  stemmorph Surya
+> Suryaudayam
+  spell 0 32 
+> Suryodayam
+  spell 0 32 
+  sug UdayaM
+> UDAYAM
+  spell 1 32 
+  sug UDAYAM
+  ana  st:Udayam
+  stem Udayam
+  stemmorph Udayam
+> UNNA
+  spell 1 32 
+  sug UNNA
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> UUryaudayaM
+  spell 0 32 
+> Udayam
+  spell 0 32 
+  sug UdayaM
+  ana  st:Udayam
+  stem Udayam
+  stemmorph Udayam
+> Unna
+  spell 1 32 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> dpErunna
+  spell 0 32 
+  sug pErunna
+> duayaM
+  spell 0 32 
+  sug udayaM
+> nuna
+  spell 0 0 
+  sug unna
+> pEaru
+  spell 0 32 
+  sug pEru
+> pEpuunna
+  spell 0 32 
+> pErMunna
+  spell 0 32 
+  sug pErunna
+> pErOu
+  spell 0 32 
+  sug pEru
+> pErOuunna
+  spell 0 32 
+> pErUu
+  spell 0 32 
+  sug pEru
+> pErnuna
+  spell 0 32 
+  sug pErunna
+> pErru
+  spell 0 32 
+  sug pEru
+> pErsnna
+  spell 0 32 
+> pEru
+  spell 1 32 
+  sug pEru
+  ana  st:pEru
+  stem pEru
+  stemmorph pEru
+> pEru-pErunna
+  spell 1 33 
+  sug pErupErunna
+> pEru-sUryOdayaM
+  spell 1 33 
+  sug pErusUryOdayaM
+> pEru-unna
+  spell 1 33 
+> pEru.
+  spell 1 32 
+  sug pEru
+  ana  st:pEru
+  stem pEru
+  stemmorph pEru
+> pEruMnna
+  spell 0 32 
+  sug pErunna
+> pErud
+  spell 0 32 
+  sug pEru
+> pErunUa
+  spell 0 32 
+  sug pEru
+> pEruna
+  spell 0 32 
+  sug pEru
+> pErunn
+  spell 0 32 
+  sug pEru
+> pErunna
+  spell 1 33 pEru
+  sug pErunna
+  sug pEru
+> pErunna-pErunna
+  spell 1 33 
+> pErunna-sUryOdayaM
+  spell 1 33 
+> pErunna-sUrya
+  spell 1 33 
+> pErunna.
+  spell 1 33 pEru
+  sug pErunna
+  sug pEru
+> pErunnaO
+  spell 0 32 
+  sug pErunna
+> pErunnad
+  spell 0 32 
+  sug pErunna
+> pErunnapEruunna
+  spell 0 32 
+> pErunnaunna
+  spell 0 32 
+> pErunnn
+  spell 0 32 
+  sug pEru
+> pErup
+  spell 0 32 
+  sug pEru
+> pErupEruunna
+  spell 0 32 
+  sug pErupErunna
+> pEruuOna
+  spell 0 32 
+> pEruudayaM
+  spell 1 33 pEru
+  sug pEru udayaM
+  sug pEruudayaM
+  sug udayaM
+> pEruunna
+  spell 0 32 
+  sug pEru unna
+  sug pErunna
+> pEruunna-sUrya
+  spell 0 32 
+  sug pEru unna-sUrya
+  sug pErunna-sUrya
+> pEruunna-udayaM
+  spell 0 32 
+  sug pEru unna-udayaM
+  sug pErunna-udayaM
+> pEruunna.
+  spell 0 32 
+  sug pEru unna
+  sug pErunna
+> pEruunnapErunna
+  spell 0 32 
+> pEruuyna
+  spell 0 32 
+> pEurnna
+  spell 0 32 
+  sug pErunna
+> prErunna
+  spell 0 32 
+  sug pErunna
+> sUrMaudayaM
+  spell 0 32 
+> sUrOdayaM
+  spell 0 32 
+  sug udayaM
+> sUra
+  spell 0 32 
+  sug sUrya
+> sUrdya
+  spell 0 32 
+  sug sUrya
+> sUry
+  spell 0 32 
+  sug sUrya
+> sUryMOdayaM
+  spell 0 32 
+  sug sUryOdayaM
+> sUryOdMyaM
+  spell 0 32 
+> sUryOdaOaM
+  spell 0 32 
+> sUryOdayaM
+  spell 1 33 sUrya
+  sug udayaM
+> sUryOdayaM.
+  spell 1 33 sUrya
+  sug udayaM
+> sUryOdayaMp
+  spell 0 32 
+  sug sUryOdayaM
+> sUryOdayaMpEru
+  spell 0 32 
+> sUryOdayaMpErunna
+  spell 0 32 
+  sug sUryOdayaM pErunna
+> sUryOdayaU
+  spell 0 32 
+> sUryOdyaaM
+  spell 0 32 
+  sug sUryOdayaM
+> sUrya
+  spell 1 32 
+  sug sUrya
+  ana  st:sUrya
+  stem sUrya
+  stemmorph sUrya
+> sUrya-sUryaudayaM
+  spell 0 32 
+  sug sUrya-sUrya udayaM
+> sUrya.
+  spell 1 32 
+  sug sUrya
+  ana  st:sUrya
+  stem sUrya
+  stemmorph sUrya
+> sUryauOayaM
+  spell 0 32 
+> sUryauadyaM
+  spell 0 32 
+> sUryaudayMa
+  spell 0 32 
+> sUryaudayaM
+  spell 0 32 
+  sug sUrya udayaM
+> sUryaudayaM-pEru
+  spell 0 32 
+  sug sUrya udayaM-pEru
+> sUryaudayaM-sUrya
+  spell 0 32 
+  sug sUrya udayaM-sUrya
+> sUryaudayaM-sUryaudayaM
+  spell 0 32 
+> sUryaudayaM.
+  spell 0 32 
+  sug sUrya udayaM
+> sUryaudayaMpEru
+  spell 0 32 
+> sUryaudayaMsUryaudayaM
+  spell 0 32 
+> sUryaudayaUM
+  spell 0 32 
+> sUryaudyayaM
+  spell 0 32 
+> sUryauudayaM
+  spell 0 32 
+> sUrydayaM
+  spell 0 32 
+  sug udayaM
+> sUryua
+  spell 0 32 
+  sug sUrya
+> sUryya
+  spell 0 32 
+  sug sUrya
+> sUyOdayaM
+  spell 0 32 
+  sug udayaM
+> ssUryaudayaM
+  spell 0 32 
+> ssryaudayaM
+  spell 0 32 
+> suUrya
+  spell 0 32 
+  sug sUrya
+> syUryaudayaM
+  spell 0 32 
+> udaaM
+  spell 0 32 
+  sug udayaM
+> udayM
+  spell 0 32 
+  sug udayaM
+> udayaM
+  spell 1 32 
+  sug udayaM
+  ana  st:udayaM
+  stem udayaM
+  stemmorph udayaM
+> udayaM-sUrya
+  spell 1 33 
+  sug udayaMsUrya
+> udayaM.
+  spell 1 32 
+  sug udayaM
+  ana  st:udayaM
+  stem udayaM
+  stemmorph udayaM
+> udayaMM
+  spell 0 32 
+  sug udayaM
+> udayaMU
+  spell 0 32 
+  sug udayaM
+> udayaMn
+  spell 0 32 
+  sug udayaM
+> udayaMpEru
+  spell 1 33 udayaM
+  sug udayaM pEru
+  sug udayaM
+  ana  pa:udayaM st:udayaM pa:pEru
+  stem udayaM
+  stemmorph udayaM
+> udayarM
+  spell 0 32 
+  sug udayaM
+> una
+  spell 0 0 
+  sug unna
+> unna
+  spell 1 0 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> unna-pErunna
+  spell 1 33 
+  sug unnapErunna
+> unna-sUrya
+  spell 1 33 
+  sug unnasUrya
+> unna.
+  spell 1 0 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> unnapEruunna
+  spell 0 32 
+  sug unnapErunna
+> unnasUryOdayaM
+  spell 1 33 unna
+  sug unnasUryOdayaM
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> unna's
+  spell 0 0 
+  sug unna
+> unnaâ€™s
+  spell 0 0 
+  sug unna
+> 'unna'
+  spell 0 0 
+  sug unna
+> l'unna
+  spell 0 0 
+  sug unna
+> unna.
+  spell 1 0 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> unna..
+  spell 1 0 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> .unna
+  spell 0 0 
+  sug unna
+> ...
+  spell 1 0 
+> -unna
+  spell 1 1 
+  sug unna
+> unna-
+  spell 1 1 
+  sug unna
+> unna--udayaM
+  spell 1 33 
+> unna-udayaM-unna
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> UNNA
+  spell 1 32 
+  sug UNNA
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> UNNA
+  spell 1 32 
+  sug UNNA
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> Unna
+  spell 1 32 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> unna udayaM
+  spell 0 32 
+  sug unnaudayaM
+>  unna
+  spell 1 0 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> unna 
+  spell 0 0 
+  sug unna
+> unna	udayaM
+  spell 0 32 
+  sug unnaudayaM
+> ÿşunna
+  spell 0 0 
+  sug unna
+> unnaÃ
+  spell 0 32 
+  sug unna
+> €unna
+  spell 0 0 
+  sug unna
+> ğ€unna
+  spell 0 0 
+> Ä°unna
+  spell 0 32 
+  sug Unna
+> unnaÃŸ
+  spell 0 32 
+  sug unna
+> unna
+  spell 1 0 
+  sug unna
+  ana  st:unna
+  stem unna
+  stemmorph unna
+> UNNASS
+  spell 0 32 
+  sug UNNA
+> <?xml?><query type="analyze"><word>unna</word></query>
+  spell 0 0 
+  sug <code><a> st:unna</a></code>
+> <?xml?><query type="stem"><word>unna</word></query>
+  spell 0 0 
+  sug unna
+> <?xml?><query type="suggest"><word>unnax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>unna</word><word>udayaM</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>unna</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>unna</word></query>
+  spell 0 0 
+  sug <code><a> st:unna</a></code>
+> <?xml?><query type="add"><word>unna</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;unna&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>unna</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

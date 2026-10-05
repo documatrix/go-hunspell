@@ -1,0 +1,5 @@
+exit 0
+stdout 9
+bars
+baz
+stderr 0

@@ -1,0 +1,341 @@
+# example: c½ur
+> C’ÅUR
+  spell 0 32 
+> C’Å’UR
+  spell 0 32 
+> C“Å’UR
+  spell 0 32 
+> C½UR
+  spell 0 32 
+  sug C½ur
+> C½ur
+  spell 1 32 
+  sug c½ur
+  ana  st:c½ur
+  stem c½ur
+  stemmorph c½ur
+> CÅUR
+  spell 0 32 
+  sug C¼UR
+> CÅ’RU
+  spell 0 32 
+> CÅ’UR
+  spell 0 32 
+> CÅ’UR-c½ur
+  spell 0 32 
+> CÅ’UR-cÅ“ur
+  spell 0 32 
+> CÅ’UR-Å’UVRE
+  spell 0 32 
+> CÅ’UR-Å“uvre
+  spell 0 32 
+> CÅ’UR.
+  spell 0 32 
+> CÅ’URE
+  spell 0 32 
+> CÅ’URcÅ“ur
+  spell 0 32 
+> CÅ’URv
+  spell 0 32 
+> CÅ’URÅ’UVRE
+  spell 0 32 
+> CÅ’rUR
+  spell 0 32 
+> CÅ’½R
+  spell 0 32 
+> Cå’ur
+  spell 0 32 
+> Cå“ur
+  spell 0 32 
+> RCÅ’UR
+  spell 0 32 
+> cCÅ’UR
+  spell 0 32 
+> c½Er
+  spell 0 32 
+  sug c½ur
+> c½r
+  spell 0 0 
+  sug c½ur
+> c½rr
+  spell 0 0 
+  sug c½ur
+> c½uCr
+  spell 0 32 
+  sug c½ur
+> c½uR
+  spell 0 32 
+  sug c½ur
+> c½ur
+  spell 1 0 
+  sug c½ur
+  ana  st:c½ur
+  stem c½ur
+  stemmorph c½ur
+> c½ur-c½ur
+  spell 1 1 
+> c½ur-cÅ“ur
+  spell 0 32 
+> c½ur-½uvre
+  spell 1 1 
+> c½ur.
+  spell 1 0 
+  sug c½ur
+  ana  st:c½ur
+  stem c½ur
+  stemmorph c½ur
+> c½urCÅ’UR
+  spell 0 32 
+> c½urcÅ“ur
+  spell 0 32 
+> c½ur½uvre
+  spell 0 0 
+  sug c½ur ½uvre
+  sug ½uvre
+> c½urÅ“uvre
+  spell 0 32 
+> c½uur
+  spell 0 0 
+  sug c½ur
+> c½u’
+  spell 0 0 
+  sug c½ur
+> c½’r
+  spell 0 0 
+  sug c½ur
+> c½“r
+  spell 0 0 
+  sug c½ur
+> cÅur
+  spell 0 32 
+  sug c½ur
+> cÅ“u
+  spell 0 32 
+> cÅ“ur
+  spell 0 32 
+> cÅ“ur-½uvre
+  spell 0 32 
+> cÅ“ur-Å’UVRE
+  spell 0 32 
+> cÅ“ur.
+  spell 0 32 
+> cÅ“urcÅ“ur
+  spell 0 32 
+> cÅ“uru
+  spell 0 32 
+> cÅ“ur½uvre
+  spell 0 32 
+> cÅ“’r
+  spell 0 32 
+> eÅ’UR
+  spell 0 32 
+> ruvre
+  spell 0 0 
+  sug ½uvre
+> r“uvre
+  spell 0 0 
+  sug ½uvre
+> v“uvre
+  spell 0 0 
+  sug ½uvre
+> ½UVRE
+  spell 0 32 
+  sug ½uvre
+> ½cur
+  spell 0 0 
+  sug c½ur
+> ½cvre
+  spell 0 0 
+  sug ½uvre
+> ½ur
+  spell 0 0 
+  sug c½ur
+> ½uvre
+  spell 1 0 
+  sug ½uvre
+  ana  st:½uvre
+  stem ½uvre
+  stemmorph ½uvre
+> ½uvre-½uvre
+  spell 1 1 
+> ½uvre.
+  spell 1 0 
+  sug ½uvre
+  ana  st:½uvre
+  stem ½uvre
+  stemmorph ½uvre
+> ½uvree
+  spell 0 0 
+  sug ½uvre
+> ½uvreÅ“uvre
+  spell 0 32 
+> ½uvr“e
+  spell 0 0 
+  sug ½uvre
+> ½uv“re
+  spell 0 0 
+  sug ½uvre
+> ½vre
+  spell 0 0 
+  sug ½uvre
+> ½Å“uvre
+  spell 0 32 
+  sug ½uvre
+> ÅUVRE
+  spell 0 32 
+  sug ¼UVRE
+> ÅU’VRE
+  spell 0 32 
+> Åvuvre
+  spell 0 32 
+  sug ¼uvre
+> Å’UR
+  spell 0 32 
+> Å’UUVRE
+  spell 0 32 
+  sug ¼UVRE
+> Å’UVR
+  spell 0 32 
+  sug ¼UVRE
+> Å’UVRE
+  spell 0 32 
+  sug ¼UVRE
+> Å’UVRE-CÅ’UR
+  spell 0 32 
+> Å’UVRE-c½ur
+  spell 0 32 
+  sug ¼UVRE-c½ur
+> Å’UVRE-Å“uvre
+  spell 0 32 
+> Å’UVRE.
+  spell 0 32 
+  sug ¼UVRE
+> Å’UVRECÅ’UR
+  spell 0 32 
+> Å’uvre
+  spell 0 32 
+  sug ¼uvre
+> Å“uvVre
+  spell 0 32 
+> Å“uver
+  spell 0 32 
+> Å“uvre
+  spell 0 32 
+  sug ¼uvre
+> Å“uvre-cÅ“ur
+  spell 0 32 
+> Å“uvre-½uvre
+  spell 0 32 
+  sug ¼uvre-½uvre
+> Å“uvre-Å“uvre
+  spell 0 32 
+> Å“uvre.
+  spell 0 32 
+  sug ¼uvre
+> Å“uvrec½ur
+  spell 0 32 
+> Å“uvrer
+  spell 0 32 
+  sug ¼uvre
+> Å“uvr’e
+  spell 0 32 
+> Å“u“vre
+  spell 0 32 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> CÅ’UR's
+  spell 0 32 
+> CÅ’URâ€™s
+  spell 0 32 
+> 'CÅ’UR'
+  spell 0 32 
+> l'CÅ’UR
+  spell 0 32 
+> CÅ’UR.
+  spell 0 32 
+> CÅ’UR..
+  spell 0 32 
+> .CÅ’UR
+  spell 0 32 
+> ...
+  spell 1 0 
+> -CÅ’UR
+  spell 0 32 
+> CÅ’UR-
+  spell 0 32 
+> CÅ’UR--Å“uvre
+  spell 0 32 
+> CÅ’UR-Å“uvre-CÅ’UR
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> CÅ’UR
+  spell 0 32 
+> cÅ’ur
+  spell 0 32 
+> CÅ’Ur
+  spell 0 32 
+> CÅ’UR Å“uvre
+  spell 0 32 
+>  CÅ’UR
+  spell 0 32 
+> CÅ’UR 
+  spell 0 32 
+> CÅ’UR	Å“uvre
+  spell 0 32 
+> ÿþCÅ’UR
+  spell 0 32 
+> CÅ’URÃ
+  spell 0 32 
+> €CÅ’UR
+  spell 0 32 
+> ð€CÅ’UR
+  spell 0 32 
+> Ä°CÅ’UR
+  spell 0 32 
+> CÅ’URÃŸ
+  spell 0 32 
+> CÅ’UR
+  spell 0 32 
+> CÅ’URSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>CÅ’UR</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>CÅ’UR</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>CÅ’URx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>CÅ’UR</word><word>Å“uvre</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>CÅ’UR</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>CÅ’UR</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>CÅ’UR</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;CÅ’UR&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>CÅ’UR</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

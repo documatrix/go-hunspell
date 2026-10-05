@@ -1,0 +1,7 @@
+/testdata/hunspell/testSubDir/
+/hunspell
+/analyze
+/chmorph
+*.test
+!/testdata/hunspell/*.test
+*.prof

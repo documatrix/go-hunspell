@@ -1,0 +1,11 @@
+# COMPLEXPREFIXES compounds with morphological analysis
+COMPLEXPREFIXES
+COMPOUNDFLAG X
+COMPOUNDRULE 1
+COMPOUNDRULE AB
+
+PFX P Y 1
+PFX P 0 un/Q . ip:un
+
+PFX Q Y 1
+PFX Q 0 re . ip:re

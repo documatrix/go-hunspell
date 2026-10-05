@@ -1,0 +1,482 @@
+# example: OpenOffice.org
+> NICEF
+  spell 0 32 
+  sug UNICEF
+> NUICEF
+  spell 0 32 
+  sug UNICEF
+> NUICEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> OPENOFFICE.OG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFFICE.ORG
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORG-Openoffice.org
+  spell 0 32 
+  sug OPENOFFICE.ORG-OpenOffice.org
+> OPENOFFICE.ORG-UNICEF
+  spell 0 32 
+> OPENOFFICE.ORG.
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORGOpenOffice.org
+  spell 0 32 
+> OPENOFFICE.ORGUNICEF'S
+  spell 0 32 
+> OPENOFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OpNnOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffEce.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffNice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffce.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffcie.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffice.oerg
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffice.og
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffice.org
+  spell 1 32 
+  sug OpenOffice.org
+  ana  st:OpenOffice.org
+  stem OpenOffice.org
+  stemmorph OpenOffice.org
+> OpenOffice.org.
+  spell 1 32 
+  sug OpenOffice.org
+  ana  st:OpenOffice.org
+  stem OpenOffice.org
+  stemmorph OpenOffice.org
+> OpenOffice.orgOPENOFFICE.ORG
+  spell 0 32 
+> OpenOffice.orgOpenOffice.org
+  spell 0 32 
+  sug OpenOffice.org OpenOffice.org
+> OpenOffice.orgOpenoffice.org
+  spell 0 32 
+> OpenOffice.rg
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOfficee.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOfice.org
+  spell 0 32 
+  sug OpenOffice.org
+> Openoffice.org
+  spell 0 32 
+  sug OpenOffice.org
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> Openoffice.org-UNICEF's
+  spell 0 32 
+  sug OpenOffice.org-UNICEF's
+> Openoffice.org-Unicef's
+  spell 0 32 
+> Openoffice.org.
+  spell 0 32 
+  sug OpenOffice.org
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> Openoffice.orgOpenOffice.org
+  spell 0 32 
+> Openoffice.orgOpenoffice.org
+  spell 0 32 
+> Openoffice.orgUNICEF's
+  spell 0 32 
+> Openoffice.rog
+  spell 0 32 
+  sug OpenOffice.org
+> Openofice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OsenOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> Osenoffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> UICEF
+  spell 0 32 
+  sug UNICEF
+> UICEF's
+  spell 0 32 
+  sug UNICEF's
+> UINICEF
+  spell 0 32 
+  sug UNICEF
+> UN.ICEF
+  spell 0 32 
+  sug UNICEF
+> UNCEF's
+  spell 0 32 
+  sug UNICEF's
+> UNICEF
+  spell 1 32 
+  sug UNICEF
+  ana  st:UNICEF
+  ana  st:Unicef
+  stem UNICEF
+  stem Unicef
+  stemmorph UNICEF
+  stemmorph Unicef
+  sfx UNICEF's
+> UNICEF'Ps
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF'S
+  spell 1 32 Unicef
+  sug UNICEF'S
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> UNICEF'S.
+  spell 1 32 Unicef
+  sug UNICEF'S
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> UNICEF'Sp
+  spell 0 32 
+  sug UNICEF
+> UNICEF'r
+  spell 0 32 
+  sug UNICEF
+> UNICEF'rS
+  spell 0 32 
+  sug UNICEF
+> UNICEF's
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF's-OPENOFFICE.ORG
+  spell 1 33 
+> UNICEF's-OpenOffice.org
+  spell 1 33 
+> UNICEF's-Unicef
+  spell 0 32 
+  sug UNICEF's-UNICEF
+> UNICEF's.
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF'sOpenOffice.org
+  spell 0 32 
+  sug UNICEF's OpenOffice.org
+> UNICEF'sUNICEF'S
+  spell 0 32 
+> UNICEF'sUnicef
+  spell 0 32 
+> UNICEF-OPENOFFICE.ORG
+  spell 0 32 
+> UNICEF-OpenOffice.org
+  spell 1 33 
+> UNICEF-UNICEF
+  spell 0 32 
+> UNICEF-Unicef's
+  spell 0 32 
+  sug UNICEF-UNICEF's
+> UNICEF.
+  spell 1 32 
+  sug UNICEF
+  ana  st:UNICEF
+  ana  st:Unicef
+  stem UNICEF
+  stem Unicef
+  stemmorph UNICEF
+  stemmorph Unicef
+> UNICEFEs
+  spell 0 32 
+  sug UNICEF
+> UNICEFI
+  spell 0 32 
+  sug UNICEF
+> UNICEFOpenoffice.org
+  spell 0 32 
+> UNICEFS
+  spell 0 32 
+  sug UNICEF
+> UNICEFUNICEF'S
+  spell 0 32 
+> UNICEFUNICEF's
+  spell 0 32 
+  sug UNICEF UNICEF's
+> UNICEFe's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICEP
+  spell 0 32 
+  sug UNICEF
+> UNICEiF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICF'S
+  spell 0 32 
+  sug UNICEF'S
+> UNICFE
+  spell 0 32 
+  sug UNICEF
+> UNINEF'S
+  spell 0 32 
+  sug UNICEF'S
+> UNIcEF
+  spell 0 32 
+  sug UNICEF
+> UNIfCEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNUCEF's
+  spell 0 32 
+  sug UNICEF's
+> UNcCEF
+  spell 0 32 
+  sug UNICEF
+> Uncef's
+  spell 0 32 
+  sug UNICEF's
+> Uncief
+  spell 0 32 
+  sug UNICEF
+> Uniceef
+  spell 0 32 
+  sug UNICEF
+> Unicef
+  spell 0 32 
+  sug UNICEF
+  ana  st:Unicef
+  stem Unicef
+  stemmorph Unicef
+  sfx Unicef's
+> Unicef's
+  spell 0 32 
+  sug UNICEF's
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> Unicef's-UNICEF's
+  spell 0 32 
+  sug UNICEF's-UNICEF's
+> Unicef's-Unicef
+  spell 0 32 
+> Unicef's.
+  spell 0 32 
+  sug UNICEF's
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> Unicef'sUNICEF's
+  spell 0 32 
+> Unicef-Unicef's
+  spell 0 32 
+> Unicef.
+  spell 0 32 
+  sug UNICEF
+  ana  st:Unicef
+  stem Unicef
+  stemmorph Unicef
+> UnicefE
+  spell 0 32 
+  sug UNICEF
+> Uniecf
+  spell 0 32 
+  sug UNICEF
+> Uniecf's
+  spell 0 32 
+  sug UNICEF's
+> Unief
+  spell 0 32 
+  sug UNICEF
+> Uniief
+  spell 0 32 
+  sug UNICEF
+> fUNICEF
+  spell 0 32 
+  sug UNICEF
+> gnicef's
+  spell 0 0 
+  sug UNICEF's
+> oNICEF
+  spell 0 32 
+  sug UNICEF
+> penOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> UNICEF's's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF'sâ€™s
+  spell 0 32 
+  sug UNICEF
+> 'UNICEF's'
+  spell 0 32 
+  sug UNICEF
+> l'UNICEF's
+  spell 0 32 
+  sug UNICEF's
+> UNICEF's.
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF's..
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> .UNICEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> ...
+  spell 1 0 
+> -UNICEF's
+  spell 1 33 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF's-
+  spell 1 33 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF's--UNICEF's
+  spell 1 33 
+> UNICEF's-UNICEF's-UNICEF's
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> UNICEF'S
+  spell 1 32 Unicef
+  sug UNICEF'S
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> unicef'S
+  spell 0 32 
+  sug UNICEF's
+> Unicef'S
+  spell 0 32 
+  sug UNICEF's
+> UNICEF's UNICEF's
+  spell 0 32 
+>  UNICEF's
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF's 
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF's	UNICEF's
+  spell 0 32 
+> ÿþUNICEF's
+  spell 0 0 
+  sug UNICEF's
+> UNICEF'sÃ
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> €UNICEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> ð€UNICEF's
+  spell 0 0 
+  sug UNICEF's
+> Ä°UNICEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF'sÃŸ
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICEF's
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF'SSS
+  spell 0 32 
+  sug UNICEF
+> <?xml?><query type="analyze"><word>UNICEF's</word></query>
+  spell 0 32 
+  sug <code><a> st:UNICEF fl:S</a></code>
+> <?xml?><query type="stem"><word>UNICEF's</word></query>
+  spell 0 32 
+  sug UNICEF
+> <?xml?><query type="suggest"><word>UNICEF'sx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>UNICEF's</word><word>UNICEF's</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>UNICEF's</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>UNICEF's</word></query>
+  spell 0 32 
+  sug <code><a> st:UNICEF fl:S</a></code>
+> <?xml?><query type="add"><word>UNICEF's</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;UNICEF's&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>UNICEF's</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

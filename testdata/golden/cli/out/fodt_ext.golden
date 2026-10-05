@@ -1,0 +1,29 @@
+exit 0
+stdout 246
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+
+
+
+
+
+*
+& ODF 5 13: OFF, ODD, OF, ODE, OAF
+& wrold 2 17: world, wold
+*
+*
+*
+*
+*
+*
+
+*
+*
+*
+
+& ple 13 1: ole, pl, pile, plea, pale, pole, pule, pleb, pee, pie, ale, ply, pl e
+*
+*
+
+
+
+stderr 0

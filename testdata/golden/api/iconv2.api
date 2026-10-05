@@ -1,0 +1,470 @@
+# example: GAG
+> AG
+  spell 0 32 
+  sug GAG
+> AGGGNA
+  spell 0 32 
+  sug GAGGNA
+> ANA
+  spell 0 32 
+  sug GANA
+> ANanDa
+  spell 0 32 
+  sug NANDA
+> GA
+  spell 0 32 
+  sug GAG
+> GAA
+  spell 0 32 
+  sug GAG
+> GAAN
+  spell 0 32 
+  sug GANA
+> GAG
+  spell 1 32 
+  sug GAG
+  ana  st:GAG
+  stem GAG
+  stemmorph GAG
+> GAG-NANDA
+  spell 0 32 
+  sug NANDA
+> GAGGAG
+  spell 0 32 
+  sug GAGGNA
+  sug GAG
+> GAGGGNA
+  spell 0 32 
+  sug GAGGNA
+> GAGGN
+  spell 0 32 
+  sug GAGGNA
+> GAGGNA
+  spell 1 32 
+  sug GAGGNA
+  ana  st:GAGGNA
+  stem GAGGNA
+  stemmorph GAGGNA
+> GAGGNA-GaNa
+  spell 0 32 
+> GAGGNA-Gag
+  spell 0 32 
+  sug GAGGNA
+> GAGGNA-GaggNa
+  spell 0 32 
+> GAGGNA.
+  spell 1 32 
+  sug GAGGNA
+  ana  st:GAGGNA
+  stem GAGGNA
+  stemmorph GAGGNA
+> GAGGNAA
+  spell 0 32 
+  sug GAGGNA
+> GAGGNAGaggNa
+  spell 0 32 
+> GAGGaNa
+  spell 0 32 
+  sug GAGGNA
+  sug GANA
+> GAGGnA
+  spell 0 32 
+  sug GAGGNA
+> GAGg
+  spell 0 32 
+  sug GAG
+  sug GANA
+> GAN
+  spell 0 32 
+  sug GANA
+> GANA
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GANA-Gag
+  spell 0 32 
+  sug GAGGNA
+> GANA.
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GANAG
+  spell 0 32 
+  sug GANA
+  sug GAGGNA
+  sug GAG
+> GANAGaNa
+  spell 0 32 
+  sug GANA
+  sug GAGGNA
+> GANG
+  spell 0 32 
+  sug GANA
+> GANa
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GAaggNa
+  spell 0 32 
+  sug GAGGNA
+> GAn
+  spell 0 32 
+  sug GANA
+> GGA
+  spell 0 32 
+  sug GAG
+> GGAGNA
+  spell 0 32 
+  sug GAGGNA
+> GNA
+  spell 0 32 
+  sug GAGGNA
+> GNAA
+  spell 0 32 
+  sug GANA
+> GNa
+  spell 0 32 
+  sug GAGGNA
+> GNaa
+  spell 0 32 
+  sug GANA
+> GNag
+  spell 0 32 
+  sug GAGGNA
+> GaN
+  spell 0 32 
+  sug GANA
+> GaNa
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GaNa-GaggNa
+  spell 0 32 
+> GaNa-NANDA
+  spell 0 32 
+> GaNaD
+  spell 0 32 
+  sug GANA
+> Gag
+  spell 1 32 
+  sug GAG
+  ana  st:GAG
+  stem GAG
+  stemmorph GAG
+> Gag-GaggNa
+  spell 0 32 
+  sug GAGGNA
+> Gag-NanDa
+  spell 0 32 
+  sug NANDA
+> Gag.
+  spell 1 32 
+  sug GAG
+  ana  st:GAG
+  stem GAG
+  stemmorph GAG
+> GagGAGGNA
+  spell 0 32 
+  sug GAGGNA
+> GagGaggNa
+  spell 0 32 
+  sug GAGGNA
+> GagGgNa
+  spell 0 32 
+  sug GAGGNA
+> GagNANDA
+  spell 0 32 
+  sug GAGGNA
+> GagNa
+  spell 0 32 
+  sug GAGGNA
+  sug GANA
+> GagNga
+  spell 0 32 
+  sug GAGGNA
+> GaggNa
+  spell 1 32 
+  sug GAGGNA
+  ana  st:GAGGNA
+  stem GAGGNA
+  stemmorph GAGGNA
+> GaggNa-GANA
+  spell 0 32 
+> GaggNa-Gag
+  spell 0 32 
+  sug GAGGNA
+> GaggNa-NANDA
+  spell 0 32 
+> GaggNa.
+  spell 1 32 
+  sug GAGGNA
+  ana  st:GAGGNA
+  stem GAGGNA
+  stemmorph GAGGNA
+> GaggNaGANA
+  spell 0 32 
+  sug GAGGNA
+> GaggNaN
+  spell 0 32 
+  sug GAGGNA
+  sug GANA
+> Gaggna
+  spell 0 32 
+  sug GAGGNA
+> Gagn
+  spell 0 32 
+  sug GAG
+> Gana
+  spell 0 32 
+  sug GANA
+> Gg
+  spell 0 32 
+  sug GAG
+> GgAG
+  spell 0 32 
+  sug GAG
+  sug GANA
+> GgNa
+  spell 0 32 
+  sug GAGGNA
+> GnaNa
+  spell 0 32 
+  sug GAGGNA
+  sug GANA
+> Gnag
+  spell 0 32 
+  sug GAGGNA
+> NANA
+  spell 0 32 
+  sug NANDA
+  sug GANA
+> NANDA
+  spell 1 32 
+  sug NANDA
+  ana  st:NANDA
+  stem NANDA
+  stemmorph NANDA
+> NANDA-Gag
+  spell 0 32 
+  sug NANDA
+> NANDA-NANDA
+  spell 0 32 
+> NANDA.
+  spell 1 32 
+  sug NANDA
+  ana  st:NANDA
+  stem NANDA
+  stemmorph NANDA
+> NANDAG
+  spell 0 32 
+  sug NANDA
+> NANDAN
+  spell 0 32 
+  sug NANDA
+> NANGA
+  spell 0 32 
+  sug GANA
+> NAnDA
+  spell 0 32 
+  sug NANDA
+> NaADa
+  spell 0 32 
+  sug NANDA
+> NaDa
+  spell 0 32 
+  sug NANDA
+> NanDa
+  spell 1 32 
+  sug NANDA
+  ana  st:NANDA
+  stem NANDA
+  stemmorph NANDA
+> NanDa-GANA
+  spell 0 32 
+> NanDa-GaggNa
+  spell 0 32 
+> NanDa.
+  spell 1 32 
+  sug NANDA
+  ana  st:NANDA
+  stem NANDA
+  stemmorph NANDA
+> NanDaa
+  spell 0 32 
+  sug NANDA
+> NanDan
+  spell 0 32 
+  sug NANDA
+> Nanda
+  spell 0 32 
+  sug NANDA
+> NangDa
+  spell 0 32 
+  sug NANDA
+> NnaDa
+  spell 0 32 
+  sug NANDA
+> aANDA
+  spell 0 32 
+  sug NANDA
+> aNa
+  spell 0 32 
+  sug GANA
+> ag
+  spell 0 0 
+  sug GAG
+> aggNa
+  spell 0 32 
+  sug GAGGNA
+> gGAG
+  spell 0 32 
+  sug GAG
+  sug GANA
+> gNANDA
+  spell 0 32 
+  sug NANDA
+  sug GAGGNA
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> GaNa's
+  spell 0 32 
+  sug GANA
+> GaNaâ€™s
+  spell 0 32 
+> 'GaNa'
+  spell 0 32 
+  sug GANA
+> l'GaNa
+  spell 0 32 
+  sug GANA
+> GaNa.
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GaNa..
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> .GaNa
+  spell 0 32 
+  sug GANA
+> ...
+  spell 1 0 
+> -GaNa
+  spell 0 32 
+  sug GANA
+> GaNa-
+  spell 0 32 
+  sug GANA
+> GaNa--GAGGNA
+  spell 0 32 
+> GaNa-GAGGNA-GaNa
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> GANA
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> gAnA
+  spell 0 32 
+  sug GANA
+> Gana
+  spell 0 32 
+  sug GANA
+> GaNa GAGGNA
+  spell 0 32 
+>  GaNa
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GaNa 
+  spell 0 32 
+  sug GANA
+> GaNa	GAGGNA
+  spell 0 32 
+> ÿþGaNa
+  spell 0 32 
+  sug GANA
+> GaNaÃ
+  spell 0 32 
+  sug GANA
+> €GaNa
+  spell 0 32 
+  sug GANA
+> ð€GaNa
+  spell 0 32 
+> Ä°GaNa
+  spell 0 32 
+  sug GANA
+> GaNaÃŸ
+  spell 0 32 
+  sug GANA
+> GaNa
+  spell 1 32 
+  sug GANA
+  ana  st:GANA
+  stem GANA
+  stemmorph GANA
+> GANASS
+  spell 0 32 
+  sug GANA
+> <?xml?><query type="analyze"><word>GaNa</word></query>
+  spell 0 32 
+  sug <code><a> st:GANA</a></code>
+> <?xml?><query type="stem"><word>GaNa</word></query>
+  spell 0 32 
+  sug GANA
+> <?xml?><query type="suggest"><word>GaNax</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>GaNa</word><word>GAGGNA</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>GaNa</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>GaNa</word></query>
+  spell 0 32 
+  sug <code><a> st:GANA</a></code>
+> <?xml?><query type="add"><word>GaNa</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;GaNa&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>GaNa</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

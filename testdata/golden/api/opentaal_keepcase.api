@@ -1,0 +1,657 @@
+# example: tv-
+> -NAT
+  spell 0 32 
+  sug -NATO
+> -NATO
+  spell 1 32 
+  sug -NATO
+  ana  st:-NATO
+  ana  st:-nato
+  ana  st:-nato
+  stem -NATO
+  stem -nato
+  stemmorph -NATO
+  stemmorph -nato
+> -NATO--NATO
+  spell 0 32 
+> -NATONATO-
+  spell 0 32 
+> -NATONATO-word
+  spell 0 32 
+> -NATa
+  spell 0 32 
+  sug -NATO
+> -Otv
+  spell 0 32 
+  sug -tv
+> -TV
+  spell 0 32 
+  sug -tv
+  sug tv-
+  ana  st:-tv
+  ana  st:-tv
+  stem -tv
+  stemmorph -tv
+> -nato
+  spell 1 0 
+  sug -NATO
+  ana  st:-nato
+  stem -nato
+  stemmorph -nato
+> -tv
+  spell 1 0 
+  sug tv-
+  sug -tv
+  ana  st:-tv
+  stem -tv
+  stemmorph -tv
+> -tv.
+  spell 1 0 
+  sug tv-
+  sug -tv
+  ana  st:-tv
+  stem -tv
+  stemmorph -tv
+> -tvword
+  spell 0 0 
+  sug -tv word
+  sug tv-word
+> N-ATO
+  spell 0 32 
+  sug -NATO
+> NAT-
+  spell 0 32 
+  sug NATO-
+> NATO-
+  spell 1 32 
+  sug NATO-
+  ana  st:NATO-
+  ana  st:Nato-
+  stem NATO-
+  stem Nato-
+  stemmorph NATO-
+  stemmorph Nato-
+> NATO--Word
+  spell 0 32 
+> NATO--word-TV
+  spell 0 32 
+> NATO-.
+  spell 1 32 
+  sug NATO-
+  ana  st:NATO-
+  ana  st:Nato-
+  stem NATO-
+  stem Nato-
+  stemmorph NATO-
+  stemmorph Nato-
+> NATO-A
+  spell 0 32 
+  sug NATO-
+  sug -NATO
+> NATO-owrd
+  spell 0 32 
+  sug NATO-word
+  sug NATO-
+> NATO-tv-word
+  spell 0 32 
+> NATO-word
+  spell 1 33 NATO-
+  sug NATO- word
+  sug NATO-word
+  sug NATO-
+  ana  pa:NATO- st:NATO- pa:word
+  stem NATO-
+  stemmorph NATO-
+> NATO-wordW
+  spell 0 32 
+  sug NATO-word
+> NATO-wordword
+  spell 1 33 NATO-
+  sug NATO-wordword
+  ana  pa:NATO- st:NATO- pa:word st:word pa:word
+  stem NATO-word
+  stemmorph NATO-word
+> NATO-wort
+  spell 0 32 
+  sug NATO-
+> NATOt
+  spell 0 32 
+  sug NATO-
+> NTAO-
+  spell 0 32 
+  sug NATO-
+> Naato-word
+  spell 0 32 
+> Nato-
+  spell 0 32 
+  sug NATO-
+  ana  st:Nato-
+  stem Nato-
+  stemmorph Nato-
+> Nato-word
+  spell 0 32 
+  sug NATO-
+> Nato-word-word-tv
+  spell 0 32 
+> Nato-word.
+  spell 0 32 
+  sug NATO-
+> NnATO-
+  spell 0 32 
+  sug NATO-
+  sug -NATO
+> O-NATO
+  spell 0 32 
+  sug -NATO
+  sug NATO-
+> T-Vword-TV
+  spell 0 32 
+  sug tv-word-tv
+> T-vword
+  spell 0 32 
+  sug tv-word
+> TV-WORD
+  spell 0 33 tv-
+  sug tv-word
+  sug WORD
+  ana  pa:tv- st:tv- pa:word
+  stem tv-
+  stemmorph tv-
+> TV-ord
+  spell 0 32 
+  sug tv-
+> TV-w-rd
+  spell 0 32 
+> TV-word
+  spell 0 32 
+  sug tv-word
+  sug Word
+> TV-word-TV
+  spell 0 32 
+  sug tv-word-tv
+> TV-word-TV-tv
+  spell 0 32 
+> TV-word.
+  spell 0 32 
+  sug tv-word
+  sug Word
+> TV-wrd
+  spell 0 32 
+  sug tv-
+> Tv-word
+  spell 0 33 tv-
+  sug Word
+  ana  pa:tv- st:tv- pa:word
+  stem tv-
+  stemmorph tv-
+> Tv-word-word-tv
+  spell 0 32 
+  sug tv-wordword-tv
+> Tv-word.
+  spell 0 33 tv-
+  sug Word
+  ana  pa:tv- st:tv- pa:word
+  stem tv-
+  stemmorph tv-
+> Tv-wrd
+  spell 0 32 
+  sug tv-
+> VT-word
+  spell 0 32 
+  sug tv-word
+  sug Word
+> WORD
+  spell 1 32 
+  sug WORD
+  ana  st:word
+  stem word
+  stemmorph word
+> WORD-TV
+  spell 1 33 word
+  sug WORD-TV
+  sug WORD
+  ana  pa:word st:word pa:-tv
+  stem word
+  stemmorph word
+> WORDWORD-TV
+  spell 1 33 word
+  sug WORDWORD-TV
+  ana  pa:word st:word pa:word st:word pa:-tv
+  stem wordword
+  stemmorph wordword
+> Wod
+  spell 0 32 
+  sug Word
+> Word
+  spell 1 32 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> Word-nato
+  spell 0 32 
+  sug -NATO
+> Word-tv
+  spell 1 33 word
+  sug Word -tv
+  sug Word
+  ana  pa:word st:word pa:-tv
+  stem word
+  stemmorph word
+> Word.
+  spell 1 32 
+  sug Word
+  ana  st:word
+  stem word
+  stemmorph word
+> Wordtv-word
+  spell 0 32 
+> Wordword-tv
+  spell 1 33 word
+  ana  pa:word st:word pa:word st:word pa:-tv
+  stem wordword
+  stemmorph wordword
+> Wrod
+  spell 0 32 
+  sug Word
+> Wwordword-tv
+  spell 0 32 
+  sug Wordword-tv
+> nword
+  spell 0 0 
+  sug word
+> oWrd
+  spell 0 32 
+  sug word
+> owrd
+  spell 0 0 
+  sug word
+> owrdword-TV
+  spell 0 32 
+  sug wordword-tv
+> t-v
+  spell 0 0 
+  sug -tv
+  sug tv-
+> t-word-tv
+  spell 0 0 
+  sug tv--word-tv
+> tVv-
+  spell 0 32 
+  sug tv-
+  sug -tv
+> tv
+  spell 0 0 
+  sug tv-
+> tv-
+  spell 1 0 
+  sug -tv
+  sug tv-
+  ana  st:tv-
+  stem tv-
+  stemmorph tv-
+> tv--word-tv
+  spell 0 0 
+  sug tv-word-tv
+> tv-.
+  spell 1 0 
+  sug -tv
+  sug tv-
+  ana  st:tv-
+  stem tv-
+  stemmorph tv-
+> tv-V
+  spell 0 32 
+  sug tv-
+  sug -tv
+> tv-woord
+  spell 0 0 
+  sug tv-word
+> tv-word
+  spell 1 1 tv-
+  sug tv- word
+  sug word
+  ana  pa:tv- st:tv- pa:word
+  stem tv-
+  stemmorph tv-
+> tv-word--tv
+  spell 0 0 
+  sug tv-word-tv
+> tv-word-TV
+  spell 0 32 
+  sug tv-word-tv
+> tv-word-tv
+  spell 1 1 tv-
+  sug tv--word-tv
+  ana  pa:tv- st:tv- pa:word st:word pa:-tv
+  stem tv-word
+  stemmorph tv-word
+> tv-word-tv-word-tv
+  spell 0 0 
+  sug tv--word-tv-word-tv
+> tv-word-tv.
+  spell 1 1 tv-
+  sug tv-word-tv
+  ana  pa:tv- st:tv- pa:word st:word pa:-tv
+  stem tv-word
+  stemmorph tv-word
+> tv-word-word
+  spell 0 0 
+  sug tv-wordword
+> tv-wordtv-word
+  spell 0 0 
+  sug tv-word tv-word
+> tv-wrod-tv
+  spell 0 0 
+  sug tv-word-tv
+> tvr
+  spell 0 0 
+  sug tv-
+> v-word
+  spell 0 0 
+  sug -tv-word
+  sug word
+> wAord
+  spell 0 32 
+  sug word
+> wVord
+  spell 0 32 
+  sug word
+> wod
+  spell 0 0 
+  sug word
+> wodr
+  spell 0 0 
+  sug word
+> wood-Tv
+  spell 0 32 
+  sug word-tv
+> wor
+  spell 0 0 
+  sug word
+> wor-tv
+  spell 0 0 
+  sug word-tv
+  sug word
+> wora-tv
+  spell 0 0 
+  sug word-tv
+> worad-tv
+  spell 0 0 
+  sug word-tv
+> word
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> word-NATO
+  spell 1 33 word
+  sug word -NATO
+  sug -NATO
+  ana  pa:word st:word pa:-NATO
+  stem word
+  stemmorph word
+> word-T
+  spell 0 32 
+  sug word
+> word-TV
+  spell 0 32 
+  sug word -tv
+  sug word-tv
+  sug word
+> word-TV-word
+  spell 0 32 
+> word-Tt
+  spell 0 32 
+  sug word
+> word-Tv
+  spell 0 32 
+  sug word -tv
+  sug word-tv
+  sug word
+> word-Tv--NATO
+  spell 0 32 
+> word-Tv--tv
+  spell 0 32 
+> word-nato
+  spell 0 0 
+  sug -NATO
+> word-nato-NATO-word
+  spell 0 32 
+> word-natoword-NATO
+  spell 0 32 
+> word-tv
+  spell 1 1 word
+  sug word -tv
+  sug word
+  ana  pa:word st:word pa:-tv
+  stem word
+  stemmorph word
+> word-tv--NATO
+  spell 0 32 
+> word-tv-tv-word
+  spell 0 0 
+  sug word-tv--tv-word
+> word-tv.
+  spell 1 1 word
+  sug word -tv
+  sug word-tv
+  sug word
+  ana  pa:word st:word pa:-tv
+  stem word
+  stemmorph word
+> word-tw
+  spell 0 0 
+  sug word-tv-
+  sug word
+> word-vT
+  spell 0 32 
+  sug word-tv
+> word.
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> wordOtv
+  spell 0 32 
+  sug word
+> wordTord-TV
+  spell 0 32 
+  sug word-tv
+> wordd
+  spell 0 0 
+  sug word
+> wordo
+  spell 0 0 
+  sug word
+> wordt-v
+  spell 0 0 
+  sug word-tv
+> wordwoord-tv
+  spell 0 0 
+  sug wordword-tv
+> wordword--v
+  spell 0 0 
+  sug wordword---tv
+> wordword-T
+  spell 0 32 
+> wordword-TV
+  spell 0 32 
+  sug wordword-tv
+> wordword-TV.
+  spell 0 32 
+  sug wordword-tv
+> wordword-tdv
+  spell 0 0 
+  sug wordword-tv
+> wordword-tv
+  spell 1 1 word
+  sug wordword-tv-
+  ana  pa:word st:word pa:word st:word pa:-tv
+  stem wordword
+  stemmorph wordword
+> wordword-tv-word
+  spell 0 0 
+  sug wordword-tv--word
+> wordword-tv-word-tv
+  spell 0 0 
+  sug wordword-tv--word-tv
+> wordword-tv.
+  spell 1 1 word
+  sug wordword-tv
+  ana  pa:word st:word pa:word st:word pa:-tv
+  stem wordword
+  stemmorph wordword
+> wordwordT-V
+  spell 0 32 
+  sug wordword-tv
+> worword-TV
+  spell 0 32 
+  sug word-tv
+> wotrd
+  spell 0 0 
+  sug word
+> wowd
+  spell 0 0 
+  sug word
+> wrd-tv
+  spell 0 0 
+  sug word-tv
+> wwrd
+  spell 0 0 
+  sug word
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-tv-
+> 3rd
+  spell 0 0 
+  sug word
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 0 0 
+  sug -tv
+> word-TV's
+  spell 0 32 
+> word-TVâ€™s
+  spell 0 32 
+> 'word-TV'
+  spell 0 32 
+> l'word-TV
+  spell 0 32 
+  sug word-tv
+> word-TV.
+  spell 0 32 
+  sug word -tv
+  sug word-tv
+  sug word
+> word-TV..
+  spell 0 32 
+  sug word -tv
+  sug word-tv
+  sug word
+> .word-TV
+  spell 0 32 
+  sug word-tv
+> ...
+  spell 1 0 
+> -word-TV
+  spell 0 32 
+  sug word-tv
+> word-TV-
+  spell 0 32 
+  sug word-tv
+> word-TV--word
+  spell 0 32 
+> word-TV-word-word-TV
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> WORD-TV
+  spell 1 33 word
+  sug WORD-TV
+  sug WORD
+  ana  pa:word st:word pa:-tv
+  stem word
+  stemmorph word
+> WORD-tv
+  spell 0 32 
+  sug Word-tv
+  sug Word -tv
+  sug Word
+> Word-Tv
+  spell 0 32 
+  sug Word -tv
+  sug Word-tv
+  sug Word
+> word-TV word
+  spell 0 32 
+>  word-TV
+  spell 0 32 
+  sug word -tv
+  sug word-tv
+  sug word
+> word-TV 
+  spell 0 32 
+  sug word-tv
+> word-TV	word
+  spell 0 32 
+> ÿþword-TV
+  spell 0 32 
+  sug word-tv
+> word-TVÃ
+  spell 0 32 
+  sug word-tv
+> €word-TV
+  spell 0 32 
+  sug word-tv
+> ð€word-TV
+  spell 0 32 
+> Ä°word-TV
+  spell 0 32 
+  sug word-tv
+> word-TVÃŸ
+  spell 0 32 
+> word-TV
+  spell 0 32 
+  sug word -tv
+  sug word-tv
+  sug word
+> WORD-TVSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>word-TV</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>word-TV</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>word-TVx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>word-TV</word><word>word</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>word-TV</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>word-TV</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>word-TV</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;word-TV&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>word-TV</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,9 @@
+# example: 
+# aff: longline.aff
+# dic: longflags.dic.gz
+! Hash Manager Error : 5
+! error: affix len 32768 is over max limit
+> foo
+  spell 0 0 
+> bar
+  spell 0 0 

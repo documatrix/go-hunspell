@@ -1,0 +1,8 @@
+exit 1
+stdout 82
+in/words.txt: wrold
+in/words.txt: tset
+in/words.txt: forbidden
+in/words.txt: NASA
+stderr 31
+Can't open in/nonexistent.txt.

@@ -1,0 +1,13 @@
+kind man
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change manuall manual
+---
+.TH HUNSPELL 1 "2026"
+.SH NAME
+hunspell \\- spell checker
+\\fBhunspell\\fR [\\fIoptions\\fR] \\fBbolld\\fP
+.B boldd macro argument
+This is a manuall page.
+.\\" comment line
+.
+trailing \\f

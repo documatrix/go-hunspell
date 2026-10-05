@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- coment wrods -->
+<root attr="atribute value">
+  <para>Some textt in XML with &amp; entities &apos; and &#x41;BC.</para>
+  <para lang='en'>The dog&apos;s bone and rock&apos;n&apos;roll.</para>
+  <![cdata[ skippd ]]>
+  <note>Multi
+  line notte</note>
+</root>

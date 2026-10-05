@@ -1,0 +1,580 @@
+# example: form
+> ALOT
+  spell 0 32 
+  sug A LOT
+  sug LOT
+> ALUNNO
+  spell 1 32 
+  sug ALUNNO
+  ana  st:alunno
+  stem alunno
+  stemmorph alunno
+> Auto's
+  spell 1 32 auto
+  ana  st:auto fl:A
+  stem auto
+  stemmorph auto
+> Autos
+  spell 0 32 
+  sug Auto's
+> Bar
+  spell 1 32 
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> Barbars
+  spell 1 32 
+  ana  st:barbars
+  stem barbars
+  stemmorph barbars
+> E
+  spell 1 32 
+  ana  st:e
+  stem e
+  stemmorph e
+> FORM
+  spell 1 32 
+  ana  st:form
+  stem form
+  stemmorph form
+> Form
+  spell 1 32 
+  ana  st:form
+  stem form
+  stemmorph form
+> LOT
+  spell 1 32 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> Lot
+  spell 1 32 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> PHANTOM
+  spell 1 32 
+  ana  st:phantom
+  stem phantom
+  stemmorph phantom
+> Phantom
+  spell 1 32 
+  ana  st:phantom
+  stem phantom
+  stemmorph phantom
+> UN
+  spell 1 32 
+  ana  st:un
+  stem un
+  stemmorph un
+> UN'ALUNNO
+  spell 0 32 
+  sug UN ALUNNO
+> VACASHUN
+  spell 0 32 
+  sug VACATION
+> VACASHUNS
+  spell 0 32 
+> VACATION
+  spell 1 32 
+  ana  st:vacation
+  stem vacation
+  stemmorph vacation
+> VINTE
+  spell 1 32 
+  ana  st:vinte
+  stem vinte
+  stemmorph vinte
+> Vacations
+  spell 1 32 
+  sug Vacation
+  ana  st:vacations
+  stem vacations
+  stemmorph vacations
+> a
+  spell 1 0 
+  ana  st:a
+  stem a
+  stemmorph a
+> a-auto's
+  spell 1 1 
+> a.
+  spell 1 0 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> abarfoos
+  spell 0 0 
+> albt
+  spell 0 0 
+> alot
+  spell 0 0 
+  sug a lot
+  sug lot
+> alot.
+  spell 0 0 
+  sug a lot
+  sug lot
+> alotn
+  spell 0 0 
+> alotvinte
+  spell 0 0 
+> alunno
+  spell 1 0 
+  sug alunno
+  ana  st:alunno
+  stem alunno
+  stemmorph alunno
+> alunno-vinte
+  spell 1 1 
+> alunno.
+  spell 1 0 
+  sug alunno
+  ana  st:alunno
+  stem alunno
+  stemmorph alunno
+> am
+  spell 0 0 
+  sug a
+> ato
+  spell 0 0 
+> aufos
+  spell 0 0 
+> aunno
+  spell 0 0 
+> auto
+  spell 1 0 
+  ana  st:auto
+  stem auto
+  stemmorph auto
+  sfx auto's
+> auto'ms
+  spell 0 0 
+  sug auto's
+> auto's
+  spell 1 0 auto
+  ana  st:auto fl:A
+  stem auto
+  stemmorph auto
+> autoa
+  spell 0 0 
+  sug auto
+  sug auto a
+> autoalunno
+  spell 0 0 
+  sug auto alunno
+> autop
+  spell 0 0 
+  sug auto
+> autos
+  spell 0 0 
+  sug auto's
+> autos'
+  spell 0 0 
+  sug auto's
+> autoÃ's
+  spell 0 32 
+  sug auto's
+> bar
+  spell 1 0 
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> barars
+  spell 0 0 
+> barbars
+  spell 1 0 
+  ana  st:barbars
+  stem barbars
+  stemmorph barbars
+> barbars.
+  spell 1 0 
+  sug barbars
+  ana  st:barbars
+  stem barbars
+  stemmorph barbars
+> barbarsvacashun
+  spell 0 0 
+> barfoos
+  spell 0 0 
+> barvinte
+  spell 0 0 
+  sug bar vinte
+> bau
+  spell 0 0 
+> brafoos
+  spell 0 0 
+> e
+  spell 1 0 
+  ana  st:e
+  stem e
+  stemmorph e
+> e-un
+  spell 1 1 
+> e.
+  spell 1 0 
+  sug e
+  ana  st:e
+  stem e
+  stemmorph e
+> f
+  spell 0 0 
+> fantom
+  spell 0 0 
+  sug phantom
+> fantom.
+  spell 0 0 
+  sug phantom
+> fo
+  spell 0 0 
+> fonrm
+  spell 0 0 
+  sug form
+> foo
+  spell 0 0 
+  sug bar
+> foo.
+  spell 0 0 
+  sug bar
+> foobar
+  spell 0 0 
+> foobars
+  spell 0 0 
+> foobats
+  spell 0 0 
+> foofoobars
+  spell 0 0 
+> form
+  spell 1 0 
+  ana  st:form
+  stem form
+  stemmorph form
+> form.
+  spell 1 0 
+  sug form
+  ana  st:form
+  stem form
+  stemmorph form
+> formphorm
+  spell 0 0 
+> formvacashun
+  spell 0 0 
+> formvinte
+  spell 0 0 
+  sug form vinte
+> ftrm
+  spell 0 0 
+> hlot
+  spell 0 0 
+  sug lot
+> lot
+  spell 1 0 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lot-foobars
+  spell 0 0 
+> lot-lot
+  spell 1 1 
+> lot.
+  spell 1 0 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lotb
+  spell 0 0 
+  sug lot
+> lott
+  spell 0 0 
+  sug lot
+> lto
+  spell 0 0 
+  sug lot
+> nu
+  spell 0 0 
+  sug un
+> nun
+  spell 0 0 
+  sug un
+> ofrm
+  spell 0 0 
+  sug form
+> oo
+  spell 0 0 
+> ot
+  spell 0 0 
+> phantoim
+  spell 0 0 
+  sug phantom
+> phantom
+  spell 1 0 
+  ana  st:phantom
+  stem phantom
+  stemmorph phantom
+> phantom-un
+  spell 1 1 
+> phantom.
+  spell 1 0 
+  sug phantom
+  ana  st:phantom
+  stem phantom
+  stemmorph phantom
+> phantoma
+  spell 0 0 
+  sug phantom
+  sug phantom a
+> phantoml
+  spell 0 0 
+  sug phantom
+> phor
+  spell 0 0 
+> phorm
+  spell 0 0 
+  sug form
+> phormu
+  spell 0 0 
+> phorr
+  spell 0 0 
+> phoÃrm
+  spell 0 32 
+> sun
+  spell 0 0 
+  sug un
+> u
+  spell 0 0 
+> u'alunno
+  spell 0 0 
+> un
+  spell 1 0 
+  ana  st:un
+  stem un
+  stemmorph un
+> un'alunno
+  spell 0 0 
+  sug un alunno
+> un'alunno-bar
+  spell 0 0 
+  sug un alunno-bar
+> un'alunno.
+  spell 0 0 
+  sug un alunno
+> un'alunnoun
+  spell 0 0 
+> un'aunno
+  spell 0 0 
+> un-a
+  spell 1 1 
+> un-auto
+  spell 1 1 
+> un-vacation
+  spell 1 1 
+> un.
+  spell 1 0 
+  sug un
+  ana  st:un
+  stem un
+  stemmorph un
+> unbar
+  spell 0 0 
+  sug un bar
+> unbarfoos
+  spell 0 0 
+> unform
+  spell 0 0 
+  sug un form
+> vacaetion
+  spell 0 0 
+  sug vacation
+> vacahtion
+  spell 0 0 
+  sug vacation
+> vacashnus
+  spell 0 0 
+> vacashun
+  spell 0 0 
+  sug vacation
+> vacashun.
+  spell 0 0 
+  sug vacation
+> vacashuns
+  spell 0 0 
+> vacashºns
+  spell 0 0 
+> vacasouns
+  spell 0 0 
+> vacasun
+  spell 0 0 
+> vacatinos
+  spell 0 0 
+  sug vacations
+> vacation
+  spell 1 0 
+  ana  st:vacation
+  stem vacation
+  stemmorph vacation
+> vacation'
+  spell 0 0 
+  sug vacation
+> vacationa
+  spell 0 0 
+  sug vacations
+  sug vacation
+  sug vacation a
+> vacations
+  spell 1 0 
+  sug vacation
+  ana  st:vacations
+  stem vacations
+  stemmorph vacations
+> vacations.
+  spell 1 0 
+  sug vacation
+  sug vacations
+  ana  st:vacations
+  stem vacations
+  stemmorph vacations
+> vifteÃºn
+  spell 0 32 
+> vinte
+  spell 1 0 
+  ana  st:vinte
+  stem vinte
+  stemmorph vinte
+> vinte.
+  spell 1 0 
+  sug vinte
+  ana  st:vinte
+  stem vinte
+  stemmorph vinte
+> vintee
+  spell 0 0 
+  sug vinte
+  sug vinte e
+> vinteun
+  spell 0 0 
+  sug vinte un
+> vinteun'alunno
+  spell 0 0 
+> vinteÃºn
+  spell 0 32 
+> vintre
+  spell 0 0 
+  sug vinte
+> vsinte
+  spell 0 0 
+  sug vinte
+> ºn
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> autos's
+  spell 0 0 
+  sug auto's
+> autosâ€™s
+  spell 0 0 
+> 'autos'
+  spell 0 0 
+> l'autos
+  spell 0 0 
+> autos.
+  spell 0 0 
+  sug auto's
+> autos..
+  spell 0 0 
+  sug auto's
+> .autos
+  spell 0 0 
+> ...
+  spell 1 0 
+> -autos
+  spell 0 0 
+  sug -auto's
+> autos-
+  spell 0 0 
+  sug auto's-
+> autos--lot
+  spell 0 0 
+  sug auto's--lot
+> autos-lot-autos
+  spell 0 0 
+  sug auto's-lot-autos
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> AUTOS
+  spell 0 32 
+  sug AUTO'S
+> AUTOS
+  spell 0 32 
+  sug AUTO'S
+> Autos
+  spell 0 32 
+  sug Auto's
+> autos lot
+  spell 0 0 
+  sug auto's lot
+>  autos
+  spell 0 0 
+  sug auto's
+> autos 
+  spell 0 0 
+> autos	lot
+  spell 0 0 
+> ÿþautos
+  spell 0 0 
+> autosÃ
+  spell 0 32 
+> €autos
+  spell 0 0 
+> ð€autos
+  spell 0 0 
+> Ä°autos
+  spell 0 32 
+> autosÃŸ
+  spell 0 32 
+> autos
+  spell 0 0 
+  sug auto's
+> AUTOSSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>autos</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>autos</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>autosx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>autos</word><word>lot</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>autos</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>autos</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>autos</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;autos&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>autos</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

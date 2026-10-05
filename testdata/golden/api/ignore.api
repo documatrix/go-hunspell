@@ -1,0 +1,556 @@
+# example: xmpl
+> EXAMPLE
+  spell 1 32 
+> EXPRESSION
+  spell 1 32 
+> Example
+  spell 1 32 
+  sug Xmpl
+> Expression
+  spell 1 32 
+  sug Xprssn
+  sug Rxprssn
+> REEXPRESSION
+  spell 1 32 xprssn
+> RXPRSSN
+  spell 1 32 xprssn
+  sug RXPRSSN
+  sug XPRSSN
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> Reexpression
+  spell 1 32 xprssn
+  sug Xprssn
+  sug Rxprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> Rxprssn
+  spell 1 32 xprssn
+  sug Xprssn
+  sug rxprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> XMPL
+  spell 1 32 
+  sug XMPL
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> XPRSSN
+  spell 1 32 
+  sug XPRSSN
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> Xmpl
+  spell 1 32 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> enpression
+  spell 0 0 
+  sug xprssn
+> exammple
+  spell 0 0 
+  sug xmpl
+> exampel
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> example
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> example-expression
+  spell 1 1 
+  sug xprssn
+> example-xprssn
+  spell 1 1 
+  sug xprssn
+> example.
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> examplexprssn
+  spell 0 0 
+  sug xmpl xprssn
+  sug xprssn
+> exanmple
+  spell 0 0 
+  sug xmpl
+> exanple
+  spell 0 0 
+  sug xmpl
+> exapmle
+  spell 0 0 
+  sug xmpl
+> exlpression
+  spell 0 0 
+  sug xprssn
+> exmaple
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> exnpression
+  spell 0 0 
+  sug xprssn
+> experssion
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> expnession
+  spell 0 0 
+  sug xprssn
+> exprelsion
+  spell 0 0 
+  sug xprssn
+> exprerssion
+  spell 0 0 
+  sug xprssn
+  sug rxprssn
+> expresmion
+  spell 0 0 
+  sug xprssn
+> expressin
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> expressino
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> expression
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> expression-reexpression
+  spell 1 1 
+  sug xprssn
+> expression-rxprssn
+  spell 1 1 
+  sug xprssn
+> expression.
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> expressionexample
+  spell 0 0 
+  sug xprssn xmpl
+  sug xprssn
+> expressionexpression
+  spell 0 0 
+  sug xprssn xprssn
+  sug xprssn
+> expressioni
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> expressionx
+  spell 0 0 
+  sug xprssn
+> expressiox
+  spell 0 0 
+  sug xprssn
+> expressxion
+  spell 0 0 
+  sug xprssn
+> exprsesion
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> exprssion
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> lmpl
+  spell 0 0 
+  sug xmpl
+> mxpl
+  spell 0 0 
+  sug xmpl
+> prssn
+  spell 0 0 
+> reexperssion
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> reexpresion
+  spell 0 0 
+  sug rxprssn
+  sug xprssn
+> reexpresison
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> reexpressino
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> reexpression
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> reexpression-example
+  spell 1 1 
+  sug rxprssn
+> reexpression-expression
+  spell 1 1 
+  sug rxprssn
+> reexpression-reexpression
+  spell 1 1 
+> reexpression-xprssn
+  spell 1 1 
+  sug rxprssn
+> reexpression.
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> reexpressionexample
+  spell 0 0 
+  sug rxprssn xmpl
+  sug rxprssn
+> riexpression
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> rleexpression
+  spell 0 0 
+  sug rxprssn
+  sug xprssn
+> rxprsn
+  spell 0 0 
+  sug rxprssn
+  sug xprssn
+> rxprssn
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> rxprssn-expression
+  spell 1 1 
+  sug rxprssn
+> rxprssn-xmpl
+  spell 1 1 
+  sug rxprssn
+> rxprssn.
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> rxprssna
+  spell 1 0 xprssn
+  sug rxprssn
+  sug xprssn
+  ana r st:xprssn fl:A
+  stem xprssn
+  stemmorph xprssn
+> rxprssnexpression
+  spell 0 0 
+  sug rxprssn xprssn
+  sug rxprssn
+  sug xprssn
+> rxprssnxmpl
+  spell 0 0 
+  sug rxprssn xmpl
+  sug rxprssn
+> xexpression
+  spell 0 0 
+  sug xprssn
+> xmapl
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xml
+  spell 0 0 
+  sug xmpl
+> xmlp
+  spell 0 0 
+  sug xmpl
+> xmmpl
+  spell 0 0 
+  sug xmpl
+> xmol
+  spell 0 0 
+  sug xmpl
+> xmp
+  spell 0 0 
+  sug xmpl
+> xmpi
+  spell 0 0 
+  sug xmpl
+> xmpl
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xmpl-expression
+  spell 1 1 
+  sug xprssn
+> xmpl-reexpression
+  spell 1 1 
+  sug xprssn
+> xmpl-rxprssn
+  spell 1 1 
+  sug xprssn
+> xmpl-xmpl
+  spell 1 1 
+> xmpl.
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xmplo
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xmplrxprssn
+  spell 0 0 
+  sug xmpl rxprssn
+  sug xprssn
+> xmplx
+  spell 0 0 
+  sug xmpl
+> xmpn
+  spell 0 0 
+  sug xmpl
+> xpml
+  spell 0 0 
+  sug xmpl
+> xppssn
+  spell 0 0 
+  sug xprssn
+> xprrssn
+  spell 0 0 
+  sug xprssn
+  sug rxprssn
+> xprsn
+  spell 0 0 
+> xprsnsn
+  spell 0 0 
+  sug xprssn
+> xprssn
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> xprssn-example
+  spell 1 1 
+  sug xprssn
+> xprssn-reexpression
+  spell 1 1 
+  sug xprssn
+> xprssn-rxprssn
+  spell 1 1 
+  sug xprssn
+> xprssn.
+  spell 1 0 
+  sug xprssn
+  ana  st:xprssn
+  stem xprssn
+  stemmorph xprssn
+> xprssnexpression
+  spell 0 0 
+  sug xprssn xprssn
+  sug xprssn
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> xmpl's
+  spell 0 0 
+  sug xmpl
+> xmplâ€™s
+  spell 0 0 
+  sug xmpl
+> 'xmpl'
+  spell 0 0 
+  sug xmpl
+> l'xmpl
+  spell 0 0 
+  sug xmpl
+> xmpl.
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xmpl..
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> .xmpl
+  spell 0 0 
+  sug xmpl
+> ...
+  spell 1 0 
+> -xmpl
+  spell 1 1 
+  sug xmpl
+> xmpl-
+  spell 1 1 
+  sug xmpl
+> xmpl--rxprssn
+  spell 1 1 
+> xmpl-rxprssn-xmpl
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> XMPL
+  spell 1 32 
+  sug XMPL
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> XMPL
+  spell 1 32 
+  sug XMPL
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> Xmpl
+  spell 1 32 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xmpl rxprssn
+  spell 0 0 
+  sug xprssn
+>  xmpl
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> xmpl 
+  spell 0 0 
+  sug xmpl
+> xmpl	rxprssn
+  spell 0 0 
+  sug xprssn
+> ÿþxmpl
+  spell 0 0 
+  sug xmpl
+> xmplÃ
+  spell 0 32 
+  sug xmpl
+> €xmpl
+  spell 0 0 
+  sug xmpl
+> ð€xmpl
+  spell 0 0 
+> Ä°xmpl
+  spell 0 32 
+  sug Xmpl
+> xmplÃŸ
+  spell 0 32 
+  sug xmpl
+> xmpl
+  spell 1 0 
+  sug xmpl
+  ana  st:xmpl
+  stem xmpl
+  stemmorph xmpl
+> XMPLSS
+  spell 0 32 
+  sug XMPL
+> <?xml?><query type="analyze"><word>xmpl</word></query>
+  spell 0 0 
+  sug <code><a> st:xmpl</a></code>
+> <?xml?><query type="stem"><word>xmpl</word></query>
+  spell 0 0 
+  sug xmpl
+> <?xml?><query type="suggest"><word>xmplx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>xmpl</word><word>rxprssn</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>xmpl</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>xmpl</word></query>
+  spell 0 0 
+  sug <code><a> st:xmpl</a></code>
+> <?xml?><query type="add"><word>xmpl</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;xmpl&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>xmpl</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

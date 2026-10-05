@@ -1,0 +1,349 @@
+# example: stem
+> PREFIXSTEM
+  spell 0 32 
+> PREFIXSTEMSUFFIX
+  spell 1 32 stem
+  sug PREFIXSTEMSUFFIX
+  ana  fl:P st:stem fl:S
+  stem stem
+  stemmorph stem
+> Prefixstem
+  spell 0 32 
+> Prefixstemsuffix
+  spell 1 32 stem
+  sug prefixstemsuffix
+  ana  fl:P st:stem fl:S
+  stem stem
+  stemmorph stem
+> STEM
+  spell 1 32 
+  sug STEM
+  ana  st:stem
+  stem stem
+  stemmorph stem
+> STEMSUFFIX
+  spell 0 32 
+> Stem
+  spell 1 32 
+  sug stem
+  ana  st:stem
+  stem stem
+  stemmorph stem
+> Stemsuffix
+  spell 0 32 
+> estem
+  spell 0 0 
+  sug stem
+> etemsuffix
+  spell 0 0 
+> perfixstem
+  spell 0 0 
+> pirefixstemsuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> prefistem
+  spell 0 0 
+> prefixptemsuffix
+  spell 0 0 
+> prefixsstem
+  spell 0 0 
+> prefixstem
+  spell 0 0 
+> prefixstem-prefixstem
+  spell 0 0 
+> prefixstem-stem
+  spell 0 0 
+> prefixstem.
+  spell 0 0 
+> prefixstemprefixstem
+  spell 0 0 
+> prefixstemstem
+  spell 0 0 
+> prefixstemsuffix
+  spell 1 0 stem
+  sug prefixstemsuffix
+  ana  fl:P st:stem fl:S
+  stem stem
+  stemmorph stem
+> prefixstemsuffix-prefixstem
+  spell 0 0 
+> prefixstemsuffix-prefixstemsuffix
+  spell 1 1 
+> prefixstemsuffix-stemsuffix
+  spell 0 0 
+> prefixstemsuffix.
+  spell 1 0 stem
+  sug prefixstemsuffix
+  ana  fl:P st:stem fl:S
+  stem stem
+  stemmorph stem
+> prefixstemsuffixi
+  spell 0 0 
+  sug prefixstemsuffix
+> prefixstemsuffixp
+  spell 0 0 
+  sug prefixstemsuffix
+> prefixstemsuffixstemsuffix
+  spell 0 0 
+> prefixstemsuffx
+  spell 0 0 
+> prefixstemsufufix
+  spell 0 0 
+  sug prefixstemsuffix
+> prefixstemsurffix
+  spell 0 0 
+  sug prefixstemsuffix
+> prefixstemsutfix
+  spell 0 0 
+> prefixstemx
+  spell 0 0 
+> prefixstesmuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> prefixstessuffix
+  spell 0 0 
+> prefixstexsuffix
+  spell 0 0 
+> prefixsttemsuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> prefpixstem
+  spell 0 0 
+> preufixstemsuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> prfeixstem
+  spell 0 0 
+> prfeixstemsuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> prfixstemsuffix
+  spell 0 0 
+> prmefixstem
+  spell 0 0 
+> rpefixstemsuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> rprefixstemsuffix
+  spell 0 0 
+  sug prefixstemsuffix
+> sem
+  spell 0 0 
+  sug stem
+> setm
+  spell 0 0 
+  sug stem
+> setmsuffix
+  spell 0 0 
+> smtem
+  spell 0 0 
+  sug stem
+> srem
+  spell 0 0 
+  sug stem
+> srtem
+  spell 0 0 
+  sug stem
+> ste
+  spell 0 0 
+  sug stem
+> steem
+  spell 0 0 
+  sug stem
+> stem
+  spell 1 0 
+  sug stem
+  ana  st:stem
+  stem stem
+  stemmorph stem
+  sfx stemsuffix
+> stem-prefixstem
+  spell 0 0 
+> stem-prefixstemsuffix
+  spell 1 1 
+> stem-stem
+  spell 1 1 
+> stem-stemsuffix
+  spell 0 0 
+> stem.
+  spell 1 0 
+  sug stem
+  ana  st:stem
+  stem stem
+  stemmorph stem
+> stemm
+  spell 0 0 
+  sug stem
+> stemprefixstem
+  spell 0 0 
+> stemprefixstemsuffix
+  spell 0 0 
+  sug stem prefixstemsuffix
+> stemstem
+  spell 0 0 
+  sug stem stem
+  sug stem
+> stemsuffi
+  spell 0 0 
+> stemsuffix
+  spell 0 0 
+> stemsuffix-prefixstem
+  spell 0 0 
+> stemsuffix-prefixstemsuffix
+  spell 0 0 
+> stemsuffix-stem
+  spell 0 0 
+> stemsuffix-stemsuffix
+  spell 0 0 
+> stemsuffix.
+  spell 0 0 
+> stemsuffixprefixstem
+  spell 0 0 
+> stemsuffixprefixstemsuffix
+  spell 0 0 
+> stemsuffixr
+  spell 0 0 
+> stemsuffixstem
+  spell 0 0 
+> stemsuffuix
+  spell 0 0 
+> stemsufifx
+  spell 0 0 
+> stemsufix
+  spell 0 0 
+> stemu
+  spell 0 0 
+  sug stem
+> stemuuffix
+  spell 0 0 
+> stermsuffix
+  spell 0 0 
+> stesmuffix
+  spell 0 0 
+> stet
+  spell 0 0 
+  sug stem
+> stfem
+  spell 0 0 
+  sug stem
+> stme
+  spell 0 0 
+  sug stem
+> stmesuffix
+  spell 0 0 
+> sttem
+  spell 0 0 
+  sug stem
+> stumsuffix
+  spell 0 0 
+> sxem
+  spell 0 0 
+  sug stem
+> sxtem
+  spell 0 0 
+  sug stem
+> tsem
+  spell 0 0 
+  sug stem
+> xtem
+  spell 0 0 
+  sug stem
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+  sug stem
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> stemsuffix's
+  spell 0 0 
+> stemsuffixâ€™s
+  spell 0 0 
+> 'stemsuffix'
+  spell 0 0 
+> l'stemsuffix
+  spell 0 0 
+> stemsuffix.
+  spell 0 0 
+> stemsuffix..
+  spell 0 0 
+> .stemsuffix
+  spell 0 0 
+> ...
+  spell 1 0 
+> -stemsuffix
+  spell 0 0 
+> stemsuffix-
+  spell 0 0 
+> stemsuffix--stem
+  spell 0 0 
+> stemsuffix-stem-stemsuffix
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> STEMSUFFIX
+  spell 0 32 
+> STEMSUFFIX
+  spell 0 32 
+> Stemsuffix
+  spell 0 32 
+> stemsuffix stem
+  spell 0 0 
+>  stemsuffix
+  spell 0 0 
+> stemsuffix 
+  spell 0 0 
+> stemsuffix	stem
+  spell 0 0 
+> ÿþstemsuffix
+  spell 0 0 
+> stemsuffixÃ
+  spell 0 32 
+> €stemsuffix
+  spell 0 0 
+> ð€stemsuffix
+  spell 0 0 
+> Ä°stemsuffix
+  spell 0 32 
+> stemsuffixÃŸ
+  spell 0 32 
+> stemsuffix
+  spell 0 0 
+> STEMSUFFIXSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>stemsuffix</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>stemsuffix</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>stemsuffixx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>stemsuffix</word><word>stem</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>stemsuffix</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>stemsuffix</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>stemsuffix</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;stemsuffix&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>stemsuffix</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

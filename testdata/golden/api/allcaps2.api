@@ -1,0 +1,489 @@
+# example: iPod
+> IOPD
+  spell 0 32 
+  sug IPOD
+> IOPDOS
+  spell 0 32 
+  sug IPODOS
+> IPID
+  spell 0 32 
+  sug IPOD
+> IPOD
+  spell 1 32 
+  sug IPOD
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+> IPOD-iPod
+  spell 1 33 
+  sug Ipodos
+> IPOD-ipodos
+  spell 1 33 
+> IPODD
+  spell 0 32 
+  sug IPOD
+> IPODOS
+  spell 1 32 Ipod
+  sug IPODOS
+  ana  st:ipodos
+  ana  st:Ipod fl:s
+  stem ipodos
+  stem Ipod
+  stemmorph ipodos
+  stemmorph Ipod
+> IPODOS-IPODOS
+  spell 1 33 
+> IPODOS-ipod
+  spell 0 32 
+  sug IPODOS-iPod
+> IPODOS.
+  spell 1 32 Ipod
+  sug IPODOS
+  ana  st:ipodos
+  ana  st:Ipod fl:s
+  stem ipodos
+  stem Ipod
+  stemmorph ipodos
+  stemmorph Ipod
+> IPODOSP
+  spell 0 32 
+  sug IPODOS
+> IPODOSp
+  spell 0 32 
+  sug Ipodos
+  sug IPod
+> IPODOSs
+  spell 0 32 
+  sug Ipodos
+  sug IPod
+> IPODi
+  spell 0 32 
+  sug IPod
+> IPODiPodos
+  spell 0 32 
+  sug Ipodos
+> IPODiS
+  spell 0 32 
+  sug Ipodos
+  sug IPod
+> IPODipod
+  spell 0 32 
+  sug Ipodos
+  sug IPod
+> IPODipodos
+  spell 0 32 
+  sug Ipodos
+> IPODoOS
+  spell 0 32 
+  sug Ipodos
+  sug IPod
+> IPOID
+  spell 0 32 
+  sug IPOD
+> IPOOS
+  spell 0 32 
+  sug IPODOS
+> IPoDOS
+  spell 0 32 
+  sug Ipodos
+> Ipod
+  spell 0 32 
+  sug IPod
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+  sfx Ipodos
+> Ipodos
+  spell 1 32 
+  sug ipodos
+  ana  st:ipodos
+  ana  st:Ipod fl:s
+  stem ipodos
+  stem Ipod
+  stemmorph ipodos
+  stemmorph Ipod
+> OPod
+  spell 0 32 
+  sug IPod
+> OiPod
+  spell 0 32 
+  sug IPod
+  sug Ipodos
+> Piod
+  spell 0 32 
+  sug IPod
+> Piodos
+  spell 0 32 
+  sug Ipodos
+> dipod
+  spell 0 0 
+  sug iPod
+> iIPod
+  spell 0 32 
+  sug iPod
+  sug ipodos
+> iPPodos
+  spell 0 32 
+  sug ipodos
+> iPd
+  spell 0 32 
+  sug iPod
+> iPdo
+  spell 0 32 
+  sug iPod
+> iPoPos
+  spell 0 32 
+  sug ipodos
+> iPoS
+  spell 0 32 
+  sug ipodos
+> iPod
+  spell 1 32 
+  sug iPod
+  ana  st:iPod
+  stem iPod
+  stemmorph iPod
+  sfx iPodos
+> iPod-IPODOS
+  spell 1 33 
+> iPod-iPodos
+  spell 0 32 
+  sug iPod-ipodos
+> iPod-ipodos
+  spell 1 33 
+> iPod.
+  spell 1 32 
+  sug iPod
+  ana  st:iPod
+  stem iPod
+  stemmorph iPod
+> iPodiPod
+  spell 0 32 
+  sug iPod iPod
+  sug ipodos
+  sug iPod
+> iPodiPodos
+  spell 0 32 
+  sug ipodos
+> iPodios
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> iPodo
+  spell 0 32 
+  sug iPod
+  sug ipodos
+> iPodoos
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> iPodops
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> iPodos
+  spell 0 34 
+  sug ipodos
+  ana  st:iPod fl:s
+  stem iPod
+  stemmorph iPod
+> iPodos-iPod
+  spell 0 32 
+  sug ipodos-iPod
+> iPodos-ipodos
+  spell 0 32 
+  sug ipodos-ipodos
+> iPodos.
+  spell 0 34 
+  sug ipodos
+  ana  st:iPod fl:s
+  stem iPod
+  stemmorph iPod
+> iPodosipod
+  spell 0 32 
+  sug ipodos
+> iPodosipodos
+  spell 0 32 
+  sug ipodos ipodos
+> iPods
+  spell 0 32 
+  sug iPod
+  sug ipodos
+> iPoods
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> iPpod
+  spell 0 32 
+  sug iPod
+  sug ipodos
+> iSod
+  spell 0 32 
+  sug ipodos
+> iipodos
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ioPd
+  spell 0 32 
+  sug iPod
+> iopd
+  spell 0 0 
+  sug iPod
+> ipd
+  spell 0 0 
+  sug iPod
+> ipdos
+  spell 0 0 
+  sug ipodos
+> ipo
+  spell 0 0 
+  sug iPod
+> ipoOdos
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> ipod
+  spell 0 0 
+  sug iPod
+> ipod-iPod
+  spell 0 32 
+  sug iPod-iPod
+  sug ipodos
+> ipod-iPodos
+  spell 0 32 
+> ipod.
+  spell 0 0 
+  sug iPod
+> ipodSos
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> ipoddos
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ipodipodos
+  spell 0 0 
+  sug ipodos
+> ipodis
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ipodos
+  spell 1 0 
+  sug ipodos
+  ana  st:ipodos
+  stem ipodos
+  stemmorph ipodos
+> ipodos-IPOD
+  spell 1 33 
+> ipodos-iPod
+  spell 1 33 
+> ipodos-iPodos
+  spell 0 32 
+  sug ipodos-ipodos
+> ipodos-ipod
+  spell 0 0 
+  sug ipodos-iPod
+> ipodos-ipodos
+  spell 1 1 
+> ipodos.
+  spell 1 0 
+  sug ipodos
+  ana  st:ipodos
+  stem ipodos
+  stemmorph ipodos
+> ipodosO
+  spell 0 32 
+  sug ipodos
+  sug iPod
+> ipodosi
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ipodosiPod
+  spell 0 32 
+  sug ipodos iPod
+  sug ipodos
+> ipodosiPodos
+  spell 0 32 
+  sug ipodos Ipodos
+> ipodosipod
+  spell 0 0 
+  sug ipodos
+> ipodoso
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ipodso
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ipodss
+  spell 0 0 
+  sug ipodos
+> ipoods
+  spell 0 0 
+  sug ipodos
+  sug iPod
+> ipopdos
+  spell 0 0 
+  sug ipodos
+> iposos
+  spell 0 0 
+  sug ipodos
+> ippod
+  spell 0 0 
+  sug iPod
+> oIPOD
+  spell 0 32 
+  sug iPod
+> piod
+  spell 0 0 
+  sug iPod
+> ppodos
+  spell 0 0 
+  sug iPodos
+  sug ipodos
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> IPOD's
+  spell 0 32 
+  sug Ipodos
+> IPODâ€™s
+  spell 0 32 
+  sug Ipodos
+> 'IPOD'
+  spell 0 32 
+  sug IPOD
+> l'IPOD
+  spell 0 32 
+  sug iPod
+> IPOD.
+  spell 1 32 
+  sug IPOD
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+> IPOD..
+  spell 1 32 
+  sug IPOD
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+> .IPOD
+  spell 0 32 
+  sug IPOD
+> ...
+  spell 1 0 
+> -IPOD
+  spell 0 32 
+  sug IPOD
+> IPOD-
+  spell 0 32 
+  sug IPOD
+> IPOD--IPODOS
+  spell 0 32 
+> IPOD-IPODOS-IPOD
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> IPOD
+  spell 1 32 
+  sug IPOD
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+> ipod
+  spell 0 0 
+  sug iPod
+> Ipod
+  spell 0 32 
+  sug IPod
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+  sfx Ipodos
+> IPOD IPODOS
+  spell 0 32 
+>  IPOD
+  spell 1 32 
+  sug IPOD
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+> IPOD 
+  spell 0 32 
+  sug IPOD
+> IPOD	IPODOS
+  spell 0 32 
+> ÿþIPOD
+  spell 0 32 
+  sug iPod
+> IPODÃ
+  spell 0 32 
+  sug IPOD
+> €IPOD
+  spell 0 32 
+  sug IPOD
+> ð€IPOD
+  spell 0 32 
+> Ä°IPOD
+  spell 0 32 
+  sug IPOD
+> IPODÃŸ
+  spell 0 32 
+  sug IPOD
+> IPOD
+  spell 1 32 
+  sug IPOD
+  ana  st:Ipod
+  stem Ipod
+  stemmorph Ipod
+> IPODSS
+  spell 0 32 
+  sug IPODOS
+> <?xml?><query type="analyze"><word>IPOD</word></query>
+  spell 0 32 
+  sug <code><a> st:Ipod</a></code>
+> <?xml?><query type="stem"><word>IPOD</word></query>
+  spell 0 32 
+  sug Ipod
+> <?xml?><query type="suggest"><word>IPODx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>IPOD</word><word>IPODOS</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>IPOD</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>IPOD</word></query>
+  spell 0 32 
+  sug <code><a> st:Ipod</a></code>
+> <?xml?><query type="add"><word>IPOD</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;IPOD&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>IPOD</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

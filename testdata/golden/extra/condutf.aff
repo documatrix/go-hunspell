@@ -1,0 +1,9 @@
+# UTF-8 suffix conditions longer than the stem
+SET UTF-8
+
+SFX S Y 2
+SFX S 0 s xé
+SFX S 0 t [éa]b
+
+SFX T Y 1
+SFX T 0 t [é]éb

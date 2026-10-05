@@ -1,0 +1,180 @@
+# example: aaa
+> AAA
+  spell 1 32 
+  sug AAA
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> Aaa
+  spell 1 32 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> aa
+  spell 0 0 
+  sug aaa
+> aaa
+  spell 1 0 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> aaa-aaa
+  spell 1 1 
+  sug aaa
+> aaa.
+  spell 1 0 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> aaaa
+  spell 0 0 
+  sug aaa
+> aaaaaa
+  spell 0 0 
+  sug aaa aaa
+  sug aaa
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> aaa's
+  spell 0 0 
+  sug aaa
+> aaaâ€™s
+  spell 0 0 
+  sug aaa
+> 'aaa'
+  spell 0 0 
+> l'aaa
+  spell 0 0 
+> aaa.
+  spell 1 0 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> aaa..
+  spell 1 0 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> .aaa
+  spell 0 0 
+  sug aaa
+> ...
+  spell 1 0 
+> -aaa
+  spell 1 1 
+  sug aaa
+> aaa-
+  spell 1 1 
+  sug aaa
+> aaa--aaa
+  spell 1 1 
+> aaa-aaa-aaa
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> AAA
+  spell 1 32 
+  sug AAA
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> AAA
+  spell 1 32 
+  sug AAA
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> Aaa
+  spell 1 32 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> aaa aaa
+  spell 0 0 
+  sug aaa
+>  aaa
+  spell 1 0 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> aaa 
+  spell 0 0 
+  sug aaa
+> aaa	aaa
+  spell 0 0 
+  sug aaa
+> ÿþaaa
+  spell 0 0 
+> aaaÃ
+  spell 0 0 
+  sug aaa
+> €aaa
+  spell 0 0 
+  sug aaa
+> ð€aaa
+  spell 0 0 
+> Ä°aaa
+  spell 0 32 
+  sug Aaa
+> aaaÃŸ
+  spell 0 0 
+  sug aaa
+> aaa
+  spell 1 0 
+  sug aaa
+  ana  st:aaa
+  stem aaa
+  stemmorph aaa
+> AAASS
+  spell 0 32 
+  sug AAA
+> <?xml?><query type="analyze"><word>aaa</word></query>
+  spell 0 0 
+  sug <code><a> st:aaa</a></code>
+> <?xml?><query type="stem"><word>aaa</word></query>
+  spell 0 0 
+  sug aaa
+> <?xml?><query type="suggest"><word>aaax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>aaa</word><word>aaa</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>aaa</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>aaa</word></query>
+  spell 0 0 
+  sug <code><a> st:aaa</a></code>
+> <?xml?><query type="add"><word>aaa</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;aaa&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>aaa</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

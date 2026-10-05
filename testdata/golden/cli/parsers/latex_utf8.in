@@ -1,0 +1,4 @@
+kind latex-utf8
+wordchars '
+---
+caf\xc3\xa9 dog\xe2\x80\x99s don't \\emph{na\xc3\xafve} $\xc3\xa9$ ``q''

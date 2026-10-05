@@ -1,0 +1,6 @@
+# capitalization corner cases, IGNORE, surface prefixes and a second
+# dictionary file
+SET UTF-8
+IGNORE é
+SFX A Y 1
+SFX A 0 s . is:s

@@ -1,0 +1,334 @@
+# example: foo
+> BAR
+  spell 1 32 
+  sug BAR
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> BARFOOS
+  spell 1 33 bar
+  sug BAR FOOS
+  sug BARFOOS
+  ana  pa:bar st:bar pa:foos  st:foo fl:A
+  stem barfoo
+  stemmorph barfoo
+> Bar
+  spell 1 32 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> Barfoos
+  spell 1 33 bar
+  sug Bar foos
+  sug barfoos
+  ana  pa:bar st:bar pa:foos  st:foo fl:A
+  stem barfoo
+  stemmorph barfoo
+> FOO
+  spell 0 32 
+> FOOS
+  spell 1 32 foo
+  sug FOOS
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> Foo
+  spell 0 32 
+> Foos
+  spell 1 32 foo
+  sug foos
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> abar
+  spell 0 0 
+  sug bar
+> abr
+  spell 0 0 
+  sug bar
+> afoo
+  spell 0 0 
+> afoos
+  spell 0 0 
+  sug foos
+> aoo
+  spell 0 0 
+> ar
+  spell 0 0 
+  sug bar
+> ba
+  spell 0 0 
+  sug bar
+> baa
+  spell 0 0 
+  sug bar
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bar-foos
+  spell 1 1 
+  sug barfoos
+> bar.
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> barbar
+  spell 1 1 bar
+  sug bar bar
+  sug bar
+  ana  pa:bar st:bar pa:bar
+  stem bar
+  stemmorph bar
+> barbarfoos
+  spell 1 1 bar
+  sug barbarfoos
+  ana  pa:bar st:bar pa:bar st:bar pa:foos  st:foo fl:A
+  stem barbarfoo
+  stemmorph barbarfoo
+> barfaoos
+  spell 0 0 
+  sug barfoos
+> barfobs
+  spell 0 0 
+> barfoo
+  spell 0 0 
+  sug bar
+> barfoor
+  spell 0 0 
+> barfoos
+  spell 1 1 bar
+  sug bar foos
+  sug barfoos
+  ana  pa:bar st:bar pa:foos  st:foo fl:A
+  stem barfoo
+  stemmorph barfoo
+> barfoos.
+  spell 1 1 bar
+  sug bar foos
+  sug barfoos
+  ana  pa:bar st:bar pa:foos  st:foo fl:A
+  stem barfoo
+  stemmorph barfoo
+> barfoosfoo
+  spell 0 0 
+> baro
+  spell 0 0 
+  sug bar
+> barofos
+  spell 0 0 
+  sug barfoos
+> baroos
+  spell 0 0 
+  sug bar
+> barr
+  spell 0 0 
+  sug bar
+> barroos
+  spell 0 0 
+> basfoos
+  spell 0 0 
+  sug foos
+> bbr
+  spell 0 0 
+  sug bar
+> bfoo
+  spell 0 0 
+> br
+  spell 0 0 
+  sug bar
+> fao
+  spell 0 0 
+> faoo
+  spell 0 0 
+> far
+  spell 0 0 
+  sug bar
+> fbar
+  spell 0 0 
+  sug bar
+> fbos
+  spell 0 0 
+  sug foos
+> ffoo
+  spell 0 0 
+> ffoos
+  spell 0 0 
+  sug foos
+> fo
+  spell 0 0 
+> foa
+  spell 0 0 
+> fobo
+  spell 0 0 
+> foo
+  spell 0 0 
+  sfx foos
+> foo-bar
+  spell 0 0 
+> foo-foo
+  spell 0 0 
+> foo.
+  spell 0 0 
+> foob
+  spell 0 0 
+> foobar
+  spell 0 0 
+> foobarfoos
+  spell 0 0 
+> foof
+  spell 0 0 
+> foofoo
+  spell 0 0 
+> foos
+  spell 1 0 foo
+  sug foos
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> foos-bar
+  spell 1 1 
+> foos.
+  spell 1 0 foo
+  sug foos
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> foosbar
+  spell 0 0 
+  sug foos bar
+> foosf
+  spell 0 0 
+  sug foos
+> foosfoos
+  spell 0 0 
+  sug foos foos
+> for
+  spell 0 0 
+> foro
+  spell 0 0 
+> fos
+  spell 0 0 
+  sug foos
+> foso
+  spell 0 0 
+  sug foos
+> obarfoos
+  spell 0 0 
+  sug barfoos
+> ofo
+  spell 0 0 
+> roos
+  spell 0 0 
+  sug foos
+> soo
+  spell 0 0 
+> soos
+  spell 0 0 
+  sug foos
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foo's
+  spell 0 0 
+  sug foos
+> fooâ€™s
+  spell 0 0 
+> 'foo'
+  spell 0 0 
+> l'foo
+  spell 0 0 
+> foo.
+  spell 0 0 
+> foo..
+  spell 0 0 
+> .foo
+  spell 0 0 
+> ...
+  spell 1 0 
+> -foo
+  spell 0 0 
+> foo-
+  spell 0 0 
+> foo--foo
+  spell 0 0 
+> foo-foo-foo
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FOO
+  spell 0 32 
+> FOO
+  spell 0 32 
+> Foo
+  spell 0 32 
+> foo foo
+  spell 0 0 
+>  foo
+  spell 0 0 
+> foo 
+  spell 0 0 
+> foo	foo
+  spell 0 0 
+> ÿþfoo
+  spell 0 0 
+> fooÃ
+  spell 0 32 
+> €foo
+  spell 0 0 
+> ð€foo
+  spell 0 0 
+> Ä°foo
+  spell 0 32 
+> fooÃŸ
+  spell 0 32 
+> foo
+  spell 0 0 
+  sfx foos
+> FOOSS
+  spell 0 32 
+  sug FOOS
+> <?xml?><query type="analyze"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>foox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

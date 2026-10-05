@@ -1,0 +1,17 @@
+word "cat"
+  lookup "cat" -> entry "cat" flags=(none)
+  result correct
+word "own"
+  lookup "own" -> entry "own" flags=Z
+  test needaffix flag=Z in=dic have=Z -> fail, on to the next homonym
+  lookup "own" -> entry "own" flags=(none)
+  result correct
+word "dog"
+  lookup "dog" -> entry "dog" flags=!
+  test forbidden flag=! in=dic have=! -> fail, the word is forbidden
+  result incorrect
+word "xyzzy"
+  lookup "xyzzy" -> miss
+  pfx "xyzzy" candidates=0
+  sfx "xyzzy" candidates=0
+  result incorrect

@@ -1,0 +1,541 @@
+# example: huis
+> DEUR
+  spell 1 32 
+  sug DEUR
+  ana  st:deur po:noun
+  stem deur
+  stemmorph deur
+> Deur
+  spell 1 32 
+  sug deur
+  ana  st:deur po:noun
+  stem deur
+  stemmorph deur
+> HUIS
+  spell 1 32 
+  sug HUIS
+  ana  st:huis po:noun
+  stem huis
+  stemmorph huis
+> HUISDEUR
+  spell 1 33 huis
+  sug HUIS DEUR
+  sug HUIS
+  ana  pa:huis st:huis po:noun pa:deur st:deur po:noun
+  stem huisdeur
+  stemmorph huisdeur
+> HUISSDEUR
+  spell 1 33 huis
+  sug HUISSDEUR
+  sug HUISDEUR
+  ana  pa:huiss pa:deur st:deur po:noun
+  stem huissdeur
+  stemmorph huissdeur
+> HUISSDEUREN
+  spell 1 33 huis
+  sug HUISSDEUREN
+  sug HUISDEUREN
+  ana  pa:huiss pa:deuren  st:deur po:noun fl:P
+  stem huissdeur
+  stemmorph huissdeur
+> HUISSTUINEN
+  spell 1 33 huis
+  sug HUISSTUINEN
+  sug HUISTUINEN
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> HUISTUINEN
+  spell 1 33 huis
+  ana  pa:huis st:huis po:noun pa:tuinen  st:tuin po:noun fl:P
+  stem huistuin
+  stemmorph huistuin
+> Huis
+  spell 1 32 
+  sug huis
+  ana  st:huis po:noun
+  stem huis
+  stemmorph huis
+> Huisdeur
+  spell 1 33 huis
+  sug Huis deur
+  sug Huis
+  ana  pa:huis st:huis po:noun pa:deur st:deur po:noun
+  stem huisdeur
+  stemmorph huisdeur
+> Huisdeuren
+  spell 1 33 huis
+  sug Huis deuren
+  ana  pa:huis st:huis po:noun pa:deuren  st:deur po:noun fl:P
+  stem huisdeur
+  stemmorph huisdeur
+> Huissdeur
+  spell 1 33 huis
+  sug huissdeur
+  sug Huisdeur
+  ana  pa:huiss pa:deur st:deur po:noun
+  stem huissdeur
+  stemmorph huissdeur
+> Huissdeuren
+  spell 1 33 huis
+  sug huissdeuren
+  sug Huisdeuren
+  ana  pa:huiss pa:deuren  st:deur po:noun fl:P
+  stem huissdeur
+  stemmorph huissdeur
+> Huisstuinen
+  spell 1 33 huis
+  sug huisstuinen
+  sug Huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> Huistuinen
+  spell 1 33 huis
+  ana  pa:huis st:huis po:noun pa:tuinen  st:tuin po:noun fl:P
+  stem huistuin
+  stemmorph huistuin
+> TUIN
+  spell 0 32 
+> Tuin
+  spell 0 32 
+> detr
+  spell 0 0 
+  sug deur
+> deur
+  spell 1 0 
+  sug deur
+  ana  st:deur po:noun
+  stem deur
+  stemmorph deur
+  sfx deuren
+> deur-huisdeuren
+  spell 1 1 
+> deur.
+  spell 1 0 
+  sug deur
+  ana  st:deur po:noun
+  stem deur
+  stemmorph deur
+> deurtuin
+  spell 0 0 
+  sug deur
+> deutr
+  spell 0 0 
+  sug deur
+> his
+  spell 0 0 
+  sug huis
+> hnuisdeur
+  spell 0 0 
+  sug huisdeur
+> hrissdeur
+  spell 0 0 
+> hsisstuinen
+  spell 0 0 
+> huds
+  spell 0 0 
+  sug huis
+> hui
+  spell 0 0 
+  sug huis
+> huis
+  spell 1 0 
+  sug huis
+  ana  st:huis po:noun
+  stem huis
+  stemmorph huis
+  sfx huiss
+> huis-huisdeur
+  spell 1 1 
+> huis-huistuinen
+  spell 1 1 
+> huisdedur
+  spell 0 0 
+  sug huisdeur
+> huisdeeur
+  spell 0 0 
+  sug huisdeur
+> huisderuen
+  spell 0 0 
+  sug huisdeuren
+> huisdeu
+  spell 0 0 
+  sug huis
+> huisdeur
+  spell 1 1 huis
+  sug huis deur
+  sug huis
+  ana  pa:huis st:huis po:noun pa:deur st:deur po:noun
+  stem huisdeur
+  stemmorph huisdeur
+> huisdeur-huistuinen
+  spell 1 1 
+> huisdeur.
+  spell 1 1 huis
+  sug huis deur
+  sug huisdeur
+  sug huis
+  ana  pa:huis st:huis po:noun pa:deur st:deur po:noun
+  stem huisdeur
+  stemmorph huisdeur
+> huisdeure
+  spell 0 0 
+  sug huisdeur
+> huisdeuren
+  spell 1 1 huis
+  sug huis deuren
+  ana  pa:huis st:huis po:noun pa:deuren  st:deur po:noun fl:P
+  stem huisdeur
+  stemmorph huisdeur
+> huisdeuren-huis
+  spell 1 1 
+> huisdeuren-huisdeuren
+  spell 1 1 
+> huisdeuren-tuin
+  spell 0 0 
+> huisdeuren.
+  spell 1 1 huis
+  sug huis deuren
+  sug huisdeuren
+  ana  pa:huis st:huis po:noun pa:deuren  st:deur po:noun fl:P
+  stem huisdeur
+  stemmorph huisdeur
+> huisdeurendeur
+  spell 0 0 
+> huisdeurenn
+  spell 0 0 
+  sug huisdeuren
+> huisdeurhuisstuinen
+  spell 0 0 
+  sug huisdeur huisstuinen
+> huisdrur
+  spell 0 0 
+  sug huisdeur
+> huishuisdeuren
+  spell 0 0 
+> huishuissdeuren
+  spell 0 0 
+> huissdeeuren
+  spell 0 0 
+  sug huissdeuren
+> huissdesren
+  spell 0 0 
+> huissdeuen
+  spell 0 0 
+> huissdeur
+  spell 1 1 huis
+  sug huissdeur
+  sug huisdeur
+  ana  pa:huiss pa:deur st:deur po:noun
+  stem huissdeur
+  stemmorph huissdeur
+> huissdeur-huisdeur
+  spell 1 1 
+> huissdeur.
+  spell 1 1 huis
+  sug huissdeur
+  sug huisdeur
+  ana  pa:huiss pa:deur st:deur po:noun
+  stem huissdeur
+  stemmorph huissdeur
+> huissdeuren
+  spell 1 1 huis
+  sug huissdeuren
+  sug huisdeuren
+  ana  pa:huiss pa:deuren  st:deur po:noun fl:P
+  stem huissdeur
+  stemmorph huissdeur
+> huissdeuren-deur
+  spell 1 1 
+> huissdeuren-huisstuinen
+  spell 1 1 
+> huissdeuren.
+  spell 1 1 huis
+  sug huissdeuren
+  sug huisdeuren
+  ana  pa:huiss pa:deuren  st:deur po:noun fl:P
+  stem huissdeur
+  stemmorph huissdeur
+> huissdeurend
+  spell 0 0 
+  sug huissdeuren
+> huissdeurendeur
+  spell 0 0 
+> huissdeurenhuisdeuren
+  spell 0 0 
+  sug huissdeuren huisdeuren
+> huissdeurenhuissdeuren
+  spell 0 0 
+  sug huissdeuren huissdeuren
+> huissdeurenn
+  spell 0 0 
+  sug huissdeuren
+> huissdeurens
+  spell 0 0 
+  sug huissdeuren
+> huissdeurhuis
+  spell 0 0 
+> huissdeurhuisdeur
+  spell 0 0 
+  sug huissdeur huisdeur
+> huissdeusr
+  spell 0 0 
+  sug huissdeur
+> huissdiur
+  spell 0 0 
+> huissedeuren
+  spell 0 0 
+  sug huissdeuren
+> huissedur
+  spell 0 0 
+  sug huissdeur
+> huisseduren
+  spell 0 0 
+  sug huissdeuren
+> huisseuren
+  spell 0 0 
+  sug huisdeuren
+> huissiuinen
+  spell 0 0 
+> huisstiunen
+  spell 0 0 
+  sug huisstuinen
+> huisstuinen
+  spell 1 1 huis
+  sug huisstuinen
+  sug huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> huisstuinen-huissdeuren
+  spell 1 1 
+> huisstuinen-huistuinen
+  spell 1 1 
+> huisstuinen.
+  spell 1 1 huis
+  sug huisstuinen
+  sug huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> huisstuinenhuisdeur
+  spell 0 0 
+  sug huisstuinen huisdeur
+> huisstuinenhuisdeuren
+  spell 0 0 
+  sug huisstuinen huisdeuren
+> huisstunien
+  spell 0 0 
+  sug huisstuinen
+> huissutinen
+  spell 0 0 
+  sug huisstuinen
+> huisteuinen
+  spell 0 0 
+  sug huistuinen
+> huistruinen
+  spell 0 0 
+  sug huistuinen
+> huistuinden
+  spell 0 0 
+  sug huistuinen
+> huistuine
+  spell 0 0 
+  sug huistuin
+> huistuinen
+  spell 1 1 huis
+  ana  pa:huis st:huis po:noun pa:tuinen  st:tuin po:noun fl:P
+  stem huistuin
+  stemmorph huistuin
+> huistuinen-huissdeur
+  spell 1 1 
+> huistuinen-huissdeuren
+  spell 1 1 
+> huistuinendeur
+  spell 0 0 
+> huistuinesn
+  spell 0 0 
+  sug huistuinen
+> huistuinun
+  spell 0 0 
+> husdeuren
+  spell 0 0 
+> hutissdeuren
+  spell 0 0 
+  sug huissdeuren
+> huuis
+  spell 0 0 
+  sug huis
+> ndeur
+  spell 0 0 
+  sug deur
+> tdeur
+  spell 0 0 
+  sug deur
+> tui
+  spell 0 0 
+  sug huis
+> tuin
+  spell 0 0 
+  sfx tuinen
+> tuin-huissdeuren
+  spell 0 0 
+> tuin-huisstuinen
+  spell 0 0 
+> tuin.
+  spell 0 0 
+> tuind
+  spell 0 0 
+> tuinhuis
+  spell 0 0 
+  sug huis
+> tuini
+  spell 0 0 
+> uhis
+  spell 0 0 
+  sug huis
+> uhisdeuren
+  spell 0 0 
+  sug huisdeuren
+> uissdeuren
+  spell 0 0 
+> uistuinen
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> huisstuinen's
+  spell 0 0 
+> huisstuinenâ€™s
+  spell 0 0 
+> 'huisstuinen'
+  spell 0 0 
+> l'huisstuinen
+  spell 0 0 
+> huisstuinen.
+  spell 1 1 huis
+  sug huisstuinen
+  sug huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> huisstuinen..
+  spell 1 1 huis
+  sug huisstuinen
+  sug huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> .huisstuinen
+  spell 0 0 
+  sug huisstuinen
+> ...
+  spell 1 0 
+> -huisstuinen
+  spell 1 1 
+  sug huisstuinen
+> huisstuinen-
+  spell 1 1 
+  sug huisstuinen
+> huisstuinen--huissdeur
+  spell 1 1 
+> huisstuinen-huissdeur-huisstuinen
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> HUISSTUINEN
+  spell 1 33 huis
+  sug HUISSTUINEN
+  sug HUISTUINEN
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> HUISSTUINEN
+  spell 1 33 huis
+  sug HUISSTUINEN
+  sug HUISTUINEN
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> Huisstuinen
+  spell 1 33 huis
+  sug huisstuinen
+  sug Huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> huisstuinen huissdeur
+  spell 0 0 
+>  huisstuinen
+  spell 1 1 huis
+  sug huisstuinen
+  sug huistuinen
+  ana  pa:huiss pa:tuinen  st:tuin po:noun fl:P
+  stem huisstuin
+  stemmorph huisstuin
+> huisstuinen 
+  spell 0 0 
+  sug huisstuinen
+> huisstuinen	huissdeur
+  spell 0 0 
+> ÿşhuisstuinen
+  spell 0 0 
+> huisstuinenÃ
+  spell 0 32 
+  sug huisstuinen
+> €huisstuinen
+  spell 0 0 
+  sug huisstuinen
+> ğ€huisstuinen
+  spell 0 0 
+> Ä°huisstuinen
+  spell 0 32 
+> huisstuinenÃŸ
+  spell 0 32 
+> huiÃŸtuinen
+  spell 0 32 
+> HUISSTUINENSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>huisstuinen</word></query>
+  spell 0 0 
+  sug <code><a> pa:huiss pa:tuinen  st:tuin po:noun fl:P</a></code>
+> <?xml?><query type="stem"><word>huisstuinen</word></query>
+  spell 0 0 
+  sug huisstuin
+> <?xml?><query type="suggest"><word>huisstuinenx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>huisstuinen</word><word>huissdeur</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>huisstuinen</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>huisstuinen</word></query>
+  spell 0 0 
+  sug <code><a> pa:huiss pa:tuinen  st:tuin po:noun fl:P</a></code>
+> <?xml?><query type="add"><word>huisstuinen</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;huisstuinen&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>huisstuinen</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

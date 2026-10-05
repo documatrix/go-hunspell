@@ -1,0 +1,9 @@
+# example: bbb
+# aff: bigoconv.aff.gz
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaax
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 1 0 
+> bbc
+  spell 0 0 
+  sug bbb

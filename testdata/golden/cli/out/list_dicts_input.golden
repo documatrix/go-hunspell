@@ -1,0 +1,27 @@
+exit 0
+stdout 26
+wrold
+tset
+forbidden
+NASA
+stderr 484
+SEARCH PATH:
+.::dict:/usr/local/share/hunspell:/usr/share/hunspell:/usr/share/myspell:/usr/share/myspell/dicts:/Library/Spelling
+AVAILABLE DICTIONARIES (path is not mandatory for -d option):
+dict/apos
+dict/badcount
+dict/badflags
+dict/cwdtest
+dict/enc
+dict/extra
+dict/small
+dict/unkenc
+dict/ver
+LOADED DICTIONARY:
+dict/small.aff
+dict/small.dic
+LOADED DICTIONARY:
+dict/ver.aff
+dict/ver.dic
+error: dict/extra.dic: line 1: missing or bad word count in the dic file
+Hash Manager Error : 4

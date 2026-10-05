@@ -1,0 +1,10 @@
+Hello wrold, this is a tset of the speling checker.
+The quick brown fox jumpss over the lazy dog.
+Numbers like 42 and 3.14 and 1st, 2nd, 3rd are skipped; so are hyphen-ated words.
+MiXeD CaSe words: HELLO Hello hello hELLO NASA Nasa.
+Apostrophes: don't, doesn't, it's, rock'n'roll, 'quoted', dogs' bones, can’t, isn’t.
+Colons: word: Finnish:ssa and a lone : colon.
+Entities: caf&eacute; na&iuml;ve &Agrave;bc &amp; x&yuml;z.
+Mail me at someone@example.com or visit http://www.example.org/pathh/to/pagee.html today.
+Paths: /usr/share/dictt/wordz and C:\Windowz\Systemm and ~/foo/barr ok.
+	Tabbed	line	with	tabz

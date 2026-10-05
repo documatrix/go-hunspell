@@ -1,0 +1,362 @@
+# example: ⲟⲩⲣⲟ
+> ⲉⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲕⲩⲣⲟ
+  spell 0 0 
+> ⲘⲈⲦⲞⲨⲢⲞ
+  spell 1 32 ⲟⲩⲣⲟ
+  ana B:lf ⲟⲩⲣⲟ:ts 
+> ⲘⲈⲦⲦⲈⲔⲞⲨⲢⲞ
+  spell 0 32 
+  sug ⲘⲈⲦⲞⲨⲢⲞ
+> Ⲙⲉⲧⲟⲩⲣⲟ
+  spell 1 32 ⲟⲩⲣⲟ
+  ana B:lf ⲟⲩⲣⲟ:ts 
+> Ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 32 
+  sug Ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲙⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲉⲣⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲙⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲣⲩⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲟ
+  spell 0 0 
+> ⲙⲉⲧⲟⲩⲟⲣ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲣⲟ
+  spell 1 0 ⲟⲩⲣⲟ
+  ana B:lf ⲟⲩⲣⲟ:ts 
+> ⲙⲉⲧⲟⲩⲣⲟ-ⲙⲉⲧⲟⲩⲣⲟ
+  spell 1 1 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲣⲟ-ⲟⲩⲣⲟ
+  spell 1 1 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲣⲟ.
+  spell 1 0 ⲟⲩⲣⲟ
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+  ana B:lf ⲟⲩⲣⲟ:ts 
+> ⲙⲉⲧⲟⲩⲣⲟⲙⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ ⲙⲉⲧⲟⲩⲣⲟ
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲣⲟⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲉⲧⲟⲩⲣⲟⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ ⲟⲩⲣⲟ
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲣⲟⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲟⲩⲣⲧ
+  spell 0 0 
+> ⲙⲉⲧⲣⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲧⲉⲕⲟⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲧⲉⲕⲟⲣⲟ
+  spell 0 0 
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲕⲟ
+  spell 0 0 
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲟ
+  spell 0 0 
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ-ⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲣⲩⲟ-ⲟⲣⲩⲟⲧⲉⲙ
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ.
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟⲙⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲩ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲧⲕⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲩⲟⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲉⲧⲩⲣⲟ
+  spell 0 0 
+> ⲙⲕⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲙⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲙⲉⲧⲟⲩⲣⲟ
+> ⲙⲣⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲧⲟⲩⲣⲟ
+  spell 0 0 
+> ⲙⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲞⲨⲢⲞ
+  spell 1 32 
+  ana ⲟⲩⲣⲟ:ts 
+> Ⲟⲩⲣⲟ
+  spell 1 32 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲣⲩⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+  sfx ⲟⲣⲩⲟⲧⲉⲙ
+> ⲟⲩⲟ
+  spell 0 0 
+> ⲟⲩⲟⲣ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣ
+  spell 0 0 
+> ⲟⲩⲣⲉ
+  spell 0 0 
+> ⲟⲩⲣⲟ
+  spell 1 0 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟ-ⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲣⲩⲟⲧⲉⲙ-ⲟⲣⲩⲟ
+> ⲟⲩⲣⲟ-ⲟⲩⲣⲟ
+  spell 1 1 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟ-ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲟⲩⲣⲟ.
+  spell 1 0 
+  sug ⲟⲩⲣⲟ
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟⲙⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ ⲙⲉⲧⲟⲩⲣⲟ
+> ⲟⲩⲣⲟⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲟⲩⲣⲟⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ ⲟⲩⲣⲟ
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟⲣ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲦⲈⲔⲘⲈⲦⲞⲨⲢⲞ
+  spell 1 32 ⲟⲩⲣⲟ
+  ana A:lf B:lf ⲟⲩⲣⲟ:ts 
+> ⲦⲈⲔⲞⲨⲢⲞ
+  spell 0 32 
+> Ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+  spell 1 32 ⲟⲩⲣⲟ
+  ana A:lf B:lf ⲟⲩⲣⲟ:ts 
+> Ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 32 
+> ⲧⲉⲕⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲙⲉⲧⲕⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲟⲣ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲕⲟ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+  spell 1 0 ⲟⲩⲣⲟ
+  ana A:lf B:lf ⲟⲩⲣⲟ:ts 
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ-ⲟⲩⲣⲟ
+  spell 1 1 
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ-ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ.
+  spell 1 0 ⲟⲩⲣⲟ
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+  ana A:lf B:lf ⲟⲩⲣⲟ:ts 
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟⲟ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ ⲟⲩⲣⲟ
+> ⲧⲉⲕⲙⲉⲧⲟⲩⲩⲟ
+  spell 0 0 
+> ⲧⲉⲕⲙⲕⲧⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲙⲙⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲧⲉⲕⲟⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲉⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲟⲣ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣⲟ.
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣⲟⲙⲉⲧⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣⲟⲟ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣⲟⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲕⲟⲩⲣⲧⲟ
+  spell 0 0 
+> ⲧⲉⲙⲕⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ
+> ⲧⲉⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲉⲧⲟⲩⲣⲟ
+  spell 0 0 
+> ⲧⲟⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲩⲟⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲩⲣⲟ
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> ⲟⲩⲣⲟ's
+  spell 0 0 
+> ⲟⲩⲣⲟ’s
+  spell 0 0 
+> 'ⲟⲩⲣⲟ'
+  spell 0 0 
+> l'ⲟⲩⲣⲟ
+  spell 0 0 
+> ⲟⲩⲣⲟ.
+  spell 1 0 
+  sug ⲟⲩⲣⲟ
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟ..
+  spell 1 0 
+  sug ⲟⲩⲣⲟ
+  ana ⲟⲩⲣⲟ:ts 
+> .ⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ...
+  spell 1 0 
+> -ⲟⲩⲣⲟ
+  spell 1 1 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟ-
+  spell 1 1 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟ--ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ⲟⲩⲣⲟ-ⲧⲉⲕⲟⲩⲣⲟ-ⲟⲩⲣⲟ
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ⲟⲩⲣⲟ
+  spell 1 0 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟ
+  spell 1 0 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟ
+  spell 1 0 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟ ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+>  ⲟⲩⲣⲟ
+  spell 1 0 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟ 
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟ	ⲧⲉⲕⲟⲩⲣⲟ
+  spell 0 0 
+> ��ⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟ�
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> �ⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> 𐐀ⲟⲩⲣⲟ
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> İⲟⲩⲣⲟ
+  spell 0 32 
+  sug Ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟß
+  spell 0 0 
+  sug ⲟⲩⲣⲟ
+> ⲟⲩⲣⲟ
+  spell 1 0 
+  ana ⲟⲩⲣⲟ:ts 
+> ⲟⲩⲣⲟSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>ⲟⲩⲣⲟ</word></query>
+  spell 0 0 
+  sug >edoc/<>a/< st:ⲟⲣⲩⲟ>a<>edoc<
+> <?xml?><query type="stem"><word>ⲟⲩⲣⲟ</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>ⲟⲩⲣⲟx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ⲟⲩⲣⲟ</word><word>ⲧⲉⲕⲟⲩⲣⲟ</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ⲟⲩⲣⲟ</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>ⲟⲩⲣⲟ</word></query>
+  spell 0 0 
+  sug >edoc/<>a/< st:ⲟⲣⲩⲟ>a<>edoc<
+> <?xml?><query type="add"><word>ⲟⲩⲣⲟ</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;ⲟⲩⲣⲟ&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>ⲟⲩⲣⲟ</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

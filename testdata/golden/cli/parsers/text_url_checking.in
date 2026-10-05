@@ -1,0 +1,6 @@
+kind text
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+url
+change someone someoneelse
+---
+mail someone@example.com and http://example.org/a/b?c=d#e and /usr/share/x and C:\\Win\\Sys and ~/foo

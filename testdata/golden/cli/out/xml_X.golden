@@ -1,0 +1,32 @@
+exit 0
+stdout 175
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+
+
+
+*
+& textt 5 13: text, texts, text t, TeX, ext
+*
+*
+*
+*
+*
+*
+
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+*
+
+*
+& notte 1 7: notch
+
+
+stderr 0

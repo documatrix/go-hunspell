@@ -1,0 +1,42 @@
+exit 0
+stdout 307
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& Café 1 0: Can't
+# über 5
+# wrold 10
+# naïve 16
+# tset 24
+# été 29
+# résumé 33
+*
+# xyzzy. 42
+
+& Can’t 1 0: Can't
+& won’t 1 6: won't
+# isn’t 12
+& don’t 1 18: doesn't
+# it’s 24
+& dog’s. 1 29: doesn't
+
+*
+*
+*
+# wrold. 20
+
+stderr 544
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1

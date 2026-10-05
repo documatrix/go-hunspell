@@ -1,0 +1,5 @@
+kind xml-utf8
+wordchars '
+change caf\xc3\xa9 "caf\xc3\xa9"
+---
+<p a="v">caf\xc3\xa9 dog\xe2\x80\x99s it&apos;s &#233;t\xc3\xa9</p>

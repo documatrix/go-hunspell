@@ -1,0 +1,10 @@
+utf8 0
+line [caf\xe9 na\xefve \xfcber \xe2\x80\x99s \xff\xfe]
+token 0 [caf\xe9] word [caf\xe9]
+token 5 [na\xefve] word [na\xefve]
+token 11 [\xfcber] word [\xfcber]
+token 19 [s] word [s]
+prev 0 [caf\xe9 na\xefve \xfcber \xe2\x80\x99s \xff\xfe]
+prev 1 []
+prev 2 []
+prev 3 []

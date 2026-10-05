@@ -1,0 +1,393 @@
+# example: Lima
+> LIM
+  spell 1 32 
+  sug LIM
+  ana  st:Lim
+  stem Lim
+  stemmorph Lim
+> LIMA
+  spell 1 32 
+  sug LIMA
+  ana  st:Lima
+  stem Lima
+  stemmorph Lima
+> LIMU
+  spell 1 32 Lim
+  sug LIMU
+  ana  st:Lim fl:H
+  ana  st:Lima fl:E
+  stem Lim
+  stem Lima
+  stemmorph Lim
+  stemmorph Lima
+> LLM
+  spell 0 32 
+  sug LIM
+> LLiM
+  spell 0 32 
+  sug LiM
+  sug Lima
+> LLmu
+  spell 0 32 
+  sug Limu
+> LM
+  spell 0 32 
+  sug LIM
+> LMi
+  spell 0 32 
+  sug LiM
+> LMiM
+  spell 0 32 
+  sug LiM
+> LaM
+  spell 0 32 
+  sug Lima
+> Li
+  spell 0 32 
+  sug LiM
+> LiLa
+  spell 0 32 
+  sug Lima
+> LiM
+  spell 1 32 
+  sug LiM
+  ana  st:LiM
+  stem LiM
+  stemmorph LiM
+> LiM-Lima
+  spell 1 33 
+  sug Lima
+> LiM-Limu
+  spell 1 33 
+  sug Limu
+> LiM.
+  spell 1 32 
+  sug LiM
+  ana  st:LiM
+  stem LiM
+  stemmorph LiM
+> LiML
+  spell 0 32 
+  sug LiM
+  sug Lima
+> LiMLiM
+  spell 0 32 
+  sug LiM LiM
+  sug Lima
+  sug LiM
+> LiMLima
+  spell 0 32 
+  sug LiM Lima
+  sug Lima
+> LiMi
+  spell 0 32 
+  sug LiM
+  sug Lima
+> LiMu
+  spell 0 32 
+  sug Limu
+  sug LiM
+> Liam
+  spell 0 32 
+  sug Lima
+> Liau
+  spell 0 32 
+  sug Limu
+> Lii
+  spell 0 32 
+  sug LiM
+> Liima
+  spell 0 32 
+  sug Lima
+  sug LiM
+> Lim
+  spell 0 32 
+  sug LiM
+  ana  st:Lim
+  stem Lim
+  stemmorph Lim
+  sfx Limu
+> LimM
+  spell 0 32 
+  sug LiM
+  sug Lima
+> LimMa
+  spell 0 32 
+  sug Lima
+  sug LiM
+> Lima
+  spell 1 32 
+  sug Lima
+  ana  st:Lima
+  stem Lima
+  stemmorph Lima
+> Lima-LiM
+  spell 1 33 
+  sug Lima
+> Lima-Lima
+  spell 1 33 
+> Lima-Limu
+  spell 1 33 
+> Lima.
+  spell 1 32 
+  sug Lima
+  ana  st:Lima
+  stem Lima
+  stemmorph Lima
+> LimaL
+  spell 0 32 
+  sug Lima
+  sug LiM
+> LimaLiM
+  spell 0 32 
+  sug Lima LiM
+  sug Lima
+> LimaLimu
+  spell 0 32 
+  sug Limu
+> LimaM
+  spell 0 32 
+  sug Lima
+  sug LiM
+> Limaa
+  spell 0 32 
+  sug Lima
+  sug LiM
+> Limam
+  spell 0 32 
+  sug Lima
+  sug LiM
+> Limau
+  spell 0 32 
+  sug Lima
+> Limiu
+  spell 0 32 
+  sug Limu
+> Limma
+  spell 0 32 
+  sug Lima
+  sug LiM
+> Limu
+  spell 1 32 Lima
+  sug Limu
+  ana  st:Lim fl:H
+  ana  st:Lima fl:E
+  stem Lim
+  stem Lima
+  stemmorph Lim
+  stemmorph Lima
+> Limu-LiM
+  spell 1 33 
+  sug Lima
+> Limu-Lima
+  spell 1 33 
+> Limu.
+  spell 1 32 Lima
+  sug Limu
+  ana  st:Lim fl:H
+  ana  st:Lima fl:E
+  stem Lim
+  stem Lima
+  stemmorph Lim
+  stemmorph Lima
+> LimuLiM
+  spell 0 32 
+  sug Lima
+> LimuLima
+  spell 0 32 
+  sug Lima
+> LimuLimu
+  spell 0 32 
+  sug Limu
+> Liu
+  spell 0 32 
+  sug Limu
+> Liua
+  spell 0 32 
+  sug Lima
+> Lium
+  spell 0 32 
+  sug LiM
+> Liuma
+  spell 0 32 
+  sug Lima
+> LmM
+  spell 0 32 
+  sug LiM
+> Lma
+  spell 0 32 
+  sug Lima
+> Lmia
+  spell 0 32 
+  sug Lima
+> Lmiu
+  spell 0 32 
+  sug Limu
+> LuM
+  spell 0 32 
+  sug LiM
+> iLM
+  spell 0 32 
+  sug LiM
+> iLiM
+  spell 0 32 
+  sug LiM
+  sug Lima
+> iLmu
+  spell 0 32 
+  sug Limu
+> iM
+  spell 0 32 
+  sug LiM
+> ima
+  spell 0 0 
+  sug LiM
+> mimu
+  spell 0 0 
+> uiM
+  spell 0 32 
+  sug LiM
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> LiM's
+  spell 0 32 
+  sug LiM
+> LiMâ€™s
+  spell 0 32 
+  sug LiM
+> 'LiM'
+  spell 0 32 
+  sug LiM
+> l'LiM
+  spell 0 32 
+  sug LiM
+> LiM.
+  spell 1 32 
+  sug LiM
+  ana  st:LiM
+  stem LiM
+  stemmorph LiM
+> LiM..
+  spell 1 32 
+  sug LiM
+  ana  st:LiM
+  stem LiM
+  stemmorph LiM
+> .LiM
+  spell 0 32 
+  sug LiM
+> ...
+  spell 1 0 
+> -LiM
+  spell 1 33 
+  sug LiM
+> LiM-
+  spell 1 33 
+  sug LiM
+> LiM--Lima
+  spell 1 33 
+> LiM-Lima-LiM
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> LIM
+  spell 1 32 
+  sug LIM
+  ana  st:Lim
+  stem Lim
+  stemmorph Lim
+> lIm
+  spell 0 32 
+  sug LiM
+> Lim
+  spell 0 32 
+  sug LiM
+  ana  st:Lim
+  stem Lim
+  stemmorph Lim
+  sfx Limu
+> LiM Lima
+  spell 0 32 
+  sug Lima
+>  LiM
+  spell 1 32 
+  sug LiM
+  ana  st:LiM
+  stem LiM
+  stemmorph LiM
+> LiM 
+  spell 0 32 
+  sug LiM
+> LiM	Lima
+  spell 0 32 
+  sug Lima
+> ÿþLiM
+  spell 0 0 
+  sug LiM
+> LiMÃ
+  spell 0 32 
+  sug LiM
+> €LiM
+  spell 0 32 
+  sug LiM
+> ð€LiM
+  spell 0 0 
+> Ä°LiM
+  spell 0 32 
+  sug LiM
+  sug Lima
+> LiMÃŸ
+  spell 0 32 
+  sug LiM
+> LiM
+  spell 1 32 
+  sug LiM
+  ana  st:LiM
+  stem LiM
+  stemmorph LiM
+> LIMSS
+  spell 0 32 
+  sug LIM
+> <?xml?><query type="analyze"><word>LiM</word></query>
+  spell 0 32 
+  sug <code><a> st:LiM</a></code>
+> <?xml?><query type="stem"><word>LiM</word></query>
+  spell 0 32 
+  sug LiM
+> <?xml?><query type="suggest"><word>LiMx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>LiM</word><word>Lima</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>LiM</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>LiM</word></query>
+  spell 0 32 
+  sug <code><a> st:LiM</a></code>
+> <?xml?><query type="add"><word>LiM</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;LiM&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>LiM</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

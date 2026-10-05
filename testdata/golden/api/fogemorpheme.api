@@ -1,0 +1,478 @@
+# example: gata
+> GATA
+  spell 1 32 
+  sug GATA
+  ana  st:gata
+  stem gata
+  stemmorph gata
+> GATAKONTORET
+  spell 0 32 
+  sug GATA KONTORET
+  sug KONTORET
+> GATU
+  spell 0 32 
+  sug GATA
+> Gata
+  spell 1 32 
+  sug gata
+  ana  st:gata
+  stem gata
+  stemmorph gata
+> Gatakontoret
+  spell 0 32 
+  sug Gata kontoret
+  sug Kontoret
+> Gatu
+  spell 0 32 
+  sug Gata
+> Gatukontoret
+  spell 1 33 gata
+  sug Kontoret
+  ana  pa:gatu pa:kontoret
+  stem gatu
+  stemmorph gatu
+> KONTORET
+  spell 1 32 
+  sug KONTORET
+  ana  st:kontoret
+  stem kontoret
+  stemmorph kontoret
+> KONTORETGATU
+  spell 0 32 
+  sug KONTORET
+> Kontoret
+  spell 1 32 
+  sug kontoret
+  ana  st:kontoret
+  stem kontoret
+  stemmorph kontoret
+> Kontoretgatu
+  spell 0 32 
+  sug Kontoret
+> agatu
+  spell 0 0 
+  sug gata
+> agta
+  spell 0 0 
+  sug gata
+> agtakontoret
+  spell 0 0 
+  sug kontoret
+> agtu
+  spell 0 0 
+> ata
+  spell 0 0 
+  sug gata
+> egatu
+  spell 0 0 
+  sug gata
+> gaat
+  spell 0 0 
+  sug gata
+> gaata
+  spell 0 0 
+  sug gata
+> gata
+  spell 1 0 
+  sug gata
+  ana  st:gata
+  stem gata
+  stemmorph gata
+> gata-gatakontoret
+  spell 0 0 
+  sug gata-gata kontoret
+  sug gata-kontoret
+> gata-gatukontoret
+  spell 1 1 
+> gata-kontoret
+  spell 1 1 
+> gata-kontoretgatu
+  spell 0 0 
+  sug gata-kontoret
+> gata.
+  spell 1 0 
+  sug gata
+  ana  st:gata
+  stem gata
+  stemmorph gata
+> gatagata
+  spell 0 0 
+  sug gata gata
+  sug gata
+> gatagatakontoret
+  spell 0 0 
+> gatakntoret
+  spell 0 0 
+  sug kontoret
+> gatakontoret
+  spell 0 0 
+  sug gata kontoret
+  sug kontoret
+> gatakontoret-gatakontoret
+  spell 0 0 
+  sug gata kontoret-gatakontoret
+  sug kontoret-gatakontoret
+> gatakontoret-gatu
+  spell 0 0 
+  sug gata kontoret-gatu
+  sug kontoret-gatu
+> gatakontoret.
+  spell 0 0 
+  sug gata kontoret
+  sug kontoret
+> gatakontoretgata
+  spell 0 0 
+> gatakontoretgatu
+  spell 0 0 
+> gatakontoretkontoretgatu
+  spell 0 0 
+> gatakontorret
+  spell 0 0 
+> gatakontortt
+  spell 0 0 
+  sug kontoret
+> gatakontret
+  spell 0 0 
+> gatakotoret
+  spell 0 0 
+  sug kontoret
+> gataktntoret
+  spell 0 0 
+  sug kontoret
+> gate
+  spell 0 0 
+  sug gata
+> gatgu
+  spell 0 0 
+  sug gata
+> gatr
+  spell 0 0 
+  sug gata
+> gatt
+  spell 0 0 
+  sug gata
+> gatta
+  spell 0 0 
+  sug gata
+> gattu
+  spell 0 0 
+  sug gata
+> gatu
+  spell 0 0 
+  sug gata
+> gatu-kontoret
+  spell 0 0 
+  sug gata-kontoret
+  sug gatukontoret
+> gatu-kontoretgatu
+  spell 0 0 
+  sug gata-kontoretgatu
+> gatu.
+  spell 0 0 
+  sug gata
+> gatugata
+  spell 0 0 
+  sug gata
+> gatugatukontoret
+  spell 0 0 
+> gatuk
+  spell 0 0 
+  sug gata
+> gatukonntoret
+  spell 0 0 
+  sug gatukontoret
+> gatukonooret
+  spell 0 0 
+> gatukonotret
+  spell 0 0 
+  sug gatukontoret
+> gatukontoket
+  spell 0 0 
+  sug kontoret
+> gatukontoret
+  spell 1 1 gata
+  sug kontoret
+  ana  pa:gatu pa:kontoret
+  stem gatu
+  stemmorph gatu
+> gatukontoret-gatu
+  spell 0 0 
+  sug gatukontoret-gata
+> gatukontoret-kontoret
+  spell 1 1 
+  sug gatukontoretkontoret
+> gatukontoret.
+  spell 1 1 gata
+  sug gatukontoret
+  ana  pa:gatu pa:kontoret
+  stem gatu
+  stemmorph gatu
+> gatukontoretkontoret
+  spell 1 1 gata
+  ana  pa:gatu pa:kontoret st:kontoret pa:kontoret
+  stem gatukontoret
+  stemmorph gatukontoret
+> gatukontoretkontoretgatu
+  spell 0 0 
+> gatukontret
+  spell 0 0 
+  sug kontoret
+> gatukontroet
+  spell 0 0 
+  sug gatukontoret
+> gau
+  spell 0 0 
+  sug gata
+> gaua
+  spell 0 0 
+  sug gata
+> gauta
+  spell 0 0 
+  sug gata
+> ggtu
+  spell 0 0 
+> gratu
+  spell 0 0 
+> gta
+  spell 0 0 
+  sug gata
+> gtau
+  spell 0 0 
+  sug gata
+> kgata
+  spell 0 0 
+  sug gata
+> kgntoret
+  spell 0 0 
+  sug kontoret
+> knotoret
+  spell 0 0 
+  sug kontoret
+> konotret
+  spell 0 0 
+  sug kontoret
+> konteret
+  spell 0 0 
+  sug kontoret
+> kontoertgatu
+  spell 0 0 
+  sug kontoret
+> kontoet
+  spell 0 0 
+  sug kontoret
+> kontooet
+  spell 0 0 
+  sug kontoret
+> kontooret
+  spell 0 0 
+  sug kontoret
+> kontore
+  spell 0 0 
+  sug kontoret
+> kontoreg
+  spell 0 0 
+  sug kontoret
+> kontoret
+  spell 1 0 
+  sug kontoret
+  ana  st:kontoret
+  stem kontoret
+  stemmorph kontoret
+> kontoret-kontoret
+  spell 1 1 
+  sug kontoretkontoret
+> kontoret.
+  spell 1 0 
+  sug kontoret
+  ana  st:kontoret
+  stem kontoret
+  stemmorph kontoret
+> kontoretgata
+  spell 0 0 
+  sug kontoret gata
+  sug kontoret
+> kontoretgatakontoret
+  spell 0 0 
+> kontoretgatu
+  spell 0 0 
+  sug kontoret
+> kontoretgatu-kontoret
+  spell 0 0 
+  sug kontoret-kontoret
+> kontoretgatu-kontoretgatu
+  spell 0 0 
+  sug kontoret-kontoretgatu
+> kontoretgatu.
+  spell 0 0 
+  sug kontoret
+> kontoretgatugata
+  spell 0 0 
+> kontoretgatugatakontoret
+  spell 0 0 
+> kontoretkontoret
+  spell 1 1 kontoret
+  sug kontoret kontoret
+  ana  pa:kontoret st:kontoret pa:kontoret
+  stem kontoret
+  stemmorph kontoret
+> kontoretkontoretgatu
+  spell 0 0 
+> kontoretn
+  spell 0 0 
+  sug kontoret
+> kontorgt
+  spell 0 0 
+  sug kontoret
+> kontorket
+  spell 0 0 
+  sug kontoret
+> kontortegatu
+  spell 0 0 
+  sug kontoret
+> kontouet
+  spell 0 0 
+  sug kontoret
+> kontret
+  spell 0 0 
+  sug kontoret
+> koontoret
+  spell 0 0 
+  sug kontoret
+> kootoret
+  spell 0 0 
+  sug kontoret
+> kotnoret
+  spell 0 0 
+  sug kontoret
+> kotntoret
+  spell 0 0 
+  sug kontoret
+> kotoret
+  spell 0 0 
+  sug kontoret
+> kottoret
+  spell 0 0 
+  sug kontoret
+> krontoretgatu
+  spell 0 0 
+> rgatukontoret
+  spell 0 0 
+  sug gatukontoret
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> gatu's
+  spell 0 0 
+  sug gata
+> gatuâ€™s
+  spell 0 0 
+> 'gatu'
+  spell 0 0 
+> l'gatu
+  spell 0 0 
+> gatu.
+  spell 0 0 
+  sug gata
+> gatu..
+  spell 0 0 
+  sug gata
+> .gatu
+  spell 0 0 
+  sug gata
+> ...
+  spell 1 0 
+> -gatu
+  spell 0 0 
+  sug -gata
+  sug gata
+> gatu-
+  spell 0 0 
+  sug gata-
+  sug gata
+> gatu--gata
+  spell 0 0 
+  sug gata--gata
+> gatu-gata-gatu
+  spell 0 0 
+  sug gata-gata-gatu
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> GATU
+  spell 0 32 
+  sug GATA
+> GATU
+  spell 0 32 
+  sug GATA
+> Gatu
+  spell 0 32 
+  sug Gata
+> gatu gata
+  spell 0 0 
+>  gatu
+  spell 0 0 
+  sug gata
+> gatu 
+  spell 0 0 
+  sug gata
+> gatu	gata
+  spell 0 0 
+> ÿşgatu
+  spell 0 0 
+> gatuÃ
+  spell 0 32 
+  sug gata
+> €gatu
+  spell 0 0 
+  sug gata
+> ğ€gatu
+  spell 0 0 
+> Ä°gatu
+  spell 0 32 
+> gatuÃŸ
+  spell 0 32 
+  sug gata
+> gatu
+  spell 0 0 
+  sug gata
+> GATUSS
+  spell 0 32 
+  sug GATA
+> <?xml?><query type="analyze"><word>gatu</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>gatu</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>gatux</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>gatu</word><word>gata</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>gatu</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>gatu</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>gatu</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;gatu&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>gatu</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

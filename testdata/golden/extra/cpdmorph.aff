@@ -1,0 +1,25 @@
+# analyses of compounds with affixes that have COMPOUNDEND, COMPOUNDMIDDLE
+# or COMPOUNDFORBIDFLAG: a prefix left from an earlier split point, twofold
+# suffixes, forbidden stems
+SET UTF-8
+COMPOUNDFLAG C
+COMPOUNDEND E
+COMPOUNDMIDDLE M
+COMPOUNDFORBIDFLAG F
+FORBIDDENWORD X
+COMPOUNDPERMITFLAG P
+
+PFX R Y 1
+PFX R 0 re/E .
+
+PFX S Y 1
+PFX S 0 se/M .
+
+PFX T Y 1
+PFX T 0 te/F .
+
+SFX A Y 1
+SFX A 0 s/BP .
+
+SFX B Y 1
+SFX B 0 0 .

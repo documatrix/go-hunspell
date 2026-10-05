@@ -1,0 +1,30 @@
+exit 0
+stdout 609
+Hello world, this is a stet of the spieling checker.
+The quick brown fox jumps over the lazy dog.
+Numbers like 42 and 3.14 and 1st, 2nd, 3rd are skipped; so are hyphen-ate words.
+Mix Ed Case words: HELLO Hello hello hell O NASA NASA.
+Apostrophes: don't, does't, it's, rock'n'roll, 'quoted', dogs' bones, can’t, sin’t.
+Colons: word: Finnish:SSA and a lone : colon.
+Entities: cad&acute; na&iuml;ve engraver &amp; x&yuml;z.
+Mail me at someone@example.com or visit http://www.example.org/pathh/to/pagee.html today.
+Paths: /usr/share/dictt/wordz and C:\Windowz\Systemm and ~/foo/barr OK.
+	Tabbed	line	with	tab
+stderr 378
+Line 1: wrold -> world
+Line 1: tset -> stet
+Line 1: speling -> spieling
+Line 2: jumpss -> jumps
+Line 3: ated -> ate
+Line 4: MiXeD -> Mix Ed
+Line 4: CaSe -> Case
+Line 4: hELLO -> hell O
+Line 4: Nasa -> NASA
+Line 5: doesn -> does
+Line 5: isn -> sin
+Line 6: ssa -> SSA
+Line 7: caf -> cad
+Line 7: eacute -> acute
+Line 7: &Agrave;bc -> engraver
+Line 9: ok -> OK
+Line 10: tabz -> tab

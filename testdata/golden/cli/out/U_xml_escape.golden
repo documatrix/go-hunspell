@@ -1,0 +1,20 @@
+exit 0
+stdout 320
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- coment wrods -->
+<root attr="atribute value">
+  <para>Some text in XML with &amp; entities &apos; can&apos;t &#x41;BC.</para>
+  <para lang='en'>Text doesn&apos;t convey can&apos;t rock&apos;n&apos;roll.</para>
+  <![cdata[ skippd ]]>
+  <note>Multi
+  like rotten</note>
+</root>
+stderr 177
+Line 4: textt -> text
+Line 4: and -> can't
+Line 5: The -> Text
+Line 5: dog's -> doesn't
+Line 5: bone -> convey
+Line 5: and -> can't
+Line 8: line -> like
+Line 8: notte -> rotten

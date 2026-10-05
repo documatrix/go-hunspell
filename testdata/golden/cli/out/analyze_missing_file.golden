@@ -1,0 +1,4 @@
+exit 1
+stdout 0
+stderr 37
+Error - could not open file to check

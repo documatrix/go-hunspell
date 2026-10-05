@@ -1,0 +1,67 @@
+# compounds with twofold suffixes, affix continuation flags, COMPOUNDROOT,
+# FORCEUCASE and CHECKCOMPOUNDPATTERN conditions
+TRY abfmoeprsqu
+COMPOUNDFLAG X
+COMPOUNDBEGIN B
+COMPOUNDMIDDLE M
+COMPOUNDEND E
+COMPOUNDFORBIDFLAG F
+COMPOUNDPERMITFLAG P
+COMPOUNDROOT R
+COMPOUNDMORESUFFIXES
+COMPOUNDWORDMAX 3
+FORCEUCASE U
+FORBIDDENWORD !
+NEEDAFFIX N
+ONLYINCOMPOUND O
+NOSUGGEST G
+CHECKCOMPOUNDREP
+REP 2
+REP qq q
+REP oo o
+CHECKCOMPOUNDPATTERN 3
+CHECKCOMPOUNDPATTERN o/X b/Y
+CHECKCOMPOUNDPATTERN o/X b/Y z
+CHECKCOMPOUNDPATTERN 0/C 0/D
+
+SFX a Y 1
+SFX a 0 a/b . is:a
+
+SFX b Y 1
+SFX b 0 b . is:b
+
+SFX f Y 1
+SFX f 0 f/F . is:f
+
+SFX e Y 1
+SFX e 0 e/E . is:e
+
+SFX m Y 1
+SFX m 0 m/M . is:m
+
+SFX s Y 1
+SFX s 0 s . is:s
+
+SFX y Y 1
+SFX y 0 y/Y . is:y
+
+SFX d Y 1
+SFX d 0 d/D . is:d
+
+PFX p Y 1
+PFX p 0 p/F . ip:p
+
+PFX q Y 1
+PFX q 0 q/E . ip:q
+
+PFX r Y 1
+PFX r 0 r/M . ip:r
+
+PFX t Y 1
+PFX t 0 t . ip:t
+
+SFX g Y 1
+SFX g 0 g/FP . is:g
+
+SFX h Y 1
+SFX h 0 h/EP . is:h

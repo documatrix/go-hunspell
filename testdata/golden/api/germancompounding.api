@@ -1,0 +1,688 @@
+# example: Arbeit
+> -
+  spell 1 0 
+  sug -
+  ana  st:-
+  stem -
+  stemmorph -
+> -o
+  spell 0 0 
+  sug -
+> ARBEITS
+  spell 0 32 
+  sug ARBEIT
+> ARBEITS-
+  spell 1 33 Arbeit
+  sug ARBEITS-
+  sug ARBEIT
+  ana  pa:Arbeits pa:-
+  stem Arbeits
+  stemmorph Arbeits
+> ARBEITSCOMPUTER
+  spell 1 33 Arbeit
+  sug ARBEITSCOMPUTER
+  ana  pa:Arbeits
+> ARBEITSNEHMER
+  spell 0 34 
+> Abeit
+  spell 0 32 
+  sug Arbeit
+> Abeitsnehmer
+  spell 0 32 
+> Acbeitsarbeitsarbeit
+  spell 0 32 
+> Aibeitcomputer
+  spell 0 32 
+> Arbeit
+  spell 1 32 
+  sug Arbeit
+  ana  st:Arbeit
+  stem Arbeit
+  stemmorph Arbeit
+  sfx Arbeit
+  sfx Arbeits
+  sfx Arbeits
+> Arbeitcomputer
+  spell 0 32 
+> Arbeitcomputer-Computerarbeitsarbeit
+  spell 0 32 
+> Arbeitcomputern
+  spell 0 32 
+> Arbeitcomputre
+  spell 0 32 
+> Arbeitcomuptern
+  spell 0 32 
+> Arbeits
+  spell 0 32 
+  sug Arbeit
+> Arbeits-
+  spell 1 33 Arbeit
+  sug Arbeits-
+  ana  pa:Arbeits pa:-
+  stem Arbeits
+  stemmorph Arbeits
+> Arbeits-computernArbeit
+  spell 0 32 
+> ArbeitsCompiuter
+  spell 0 32 
+  sug Arbeitscomputer
+> ArbeitsComputer
+  spell 0 32 
+  sug Arbeitscomputer
+> ArbeitsComputerComputerArbeits
+  spell 0 32 
+  sug Arbeitscomputercomputerarbeit
+> ArbeitsComputern
+  spell 0 32 
+  sug Arbeitscomputern
+  sug Arbeitscomputer
+> Arbeitsarbeitsarbeit
+  spell 1 33 Arbeit
+  sug Arbeitsarbeitsarbeit
+  ana  pa:Arbeits pa:arbeits
+  stem Arbeits
+  stemmorph Arbeits
+> Arbeitsarbeitsarbeit-Computerarbeitscomputer
+  spell 1 33 
+  sug Arbeitsarbeitsarbeit -Computerarbeitscomputer
+> Arbeitscomputer
+  spell 1 33 Arbeit
+  sug Arbeitscomputer
+  ana  pa:Arbeits
+> Arbeitscomputer.
+  spell 1 33 Arbeit
+  sug Arbeitscomputer
+  ana  pa:Arbeits
+> Arbeitscomputerarbeit
+  spell 1 33 Arbeit
+  sug Arbeitscomputerarbeit
+  ana  pa:Arbeits pa:computer
+  stem Arbeits
+  stemmorph Arbeits
+> Arbeitscomputerarbeit.
+  spell 1 33 Arbeit
+  sug Arbeitscomputerarbeit
+  ana  pa:Arbeits pa:computer
+  stem Arbeits
+  stemmorph Arbeits
+> Arbeitscomputerarbeits
+  spell 0 32 
+  sug Arbeitscomputerarbeit
+> ArbeitscomputerarbeitsArbeitscomputerarbeit
+  spell 0 32 
+  sug Arbeitscomputerarbeitsarbeitscomputerarbeit
+> Arbeitscomputercomputer
+  spell 1 33 Arbeit
+  sug Arbeitscomputercomputer
+  ana  pa:Arbeits pa:computer
+  stem Arbeits
+  stemmorph Arbeits
+> Arbeitscomputercomputer.
+  spell 1 33 Arbeit
+  sug Arbeitscomputercomputer
+  ana  pa:Arbeits pa:computer
+  stem Arbeits
+  stemmorph Arbeits
+> Arbeitscomputern
+  spell 1 33 Arbeit
+  sug Arbeitscomputer
+  sug Arbeitscomputern
+  ana  pa:Arbeits pa:computern  fl:D st:Computer fl:C
+  stem ArbeitsComputer
+  stemmorph ArbeitsComputer
+> Arbeitscomputern.
+  spell 1 33 Arbeit
+  sug Arbeitscomputer
+  sug Arbeitscomputern
+  ana  pa:Arbeits pa:computern  fl:D st:Computer fl:C
+  stem ArbeitsComputer
+  stemmorph ArbeitsComputer
+> Arbeitscomputernarbeits
+  spell 0 32 
+> Arbeitscomputernarbeits-computernArbeit
+  spell 0 32 
+> ArbeitscomputernarbeitsComputercomputer
+  spell 0 32 
+  sug Arbeitscomputerarbeitscomputercomputer
+> Arbeitscopmuternarbeits
+  spell 0 32 
+> Arbeitsnehmer
+  spell 0 34 
+> Arbeitsnehmer-ComputerArbeitcomputer
+  spell 0 32 
+> Arbeitsnehmera
+  spell 0 32 
+> Arbiets
+  spell 0 32 
+  sug Arbeit
+> Arbit
+  spell 0 32 
+  sug Arbeit
+> Arebitcomputer
+  spell 0 32 
+> Areitsnehmer
+  spell 0 32 
+> COMPUTERARBEIT
+  spell 1 33 Computer
+  sug COMPUTERARBEIT
+  ana  pa:Computer
+> COMPUTERARBEITCOMPUTER
+  spell 0 32 
+> COMPUTERARBEITS
+  spell 0 32 
+  sug COMPUTERARBEIT
+> COMPUTERARBEITS-
+  spell 1 33 Computer
+  sug COMPUTERARBEITS-
+  ana  pa:Computer pa:arbeits pa:-
+  stem Computerarbeits
+  stemmorph Computerarbeits
+> COMPUTERARBEITS-COMPUTER
+  spell 0 32 
+  sug COMPUTERARBEITSCOMPUTER
+> COMPUTERARBEITS-COMPUTERN
+  spell 0 32 
+  sug COMPUTERARBEITSCOMPUTERN
+> COMPUTERARBEITSCOMPUTER
+  spell 1 33 Computer
+  sug COMPUTERARBEITSCOMPUTER
+  ana  pa:Computer pa:arbeits
+  stem Computer
+  stemmorph Computer
+> COMPUTERARBEITSCOMPUTERN
+  spell 1 33 Computer
+  sug COMPUTERARBEITSCOMPUTERN
+  sug COMPUTERARBEITSCOMPUTER
+  ana  pa:Computer pa:arbeits pa:computern  fl:D st:Computer fl:C
+  stem ComputerarbeitsComputer
+  stemmorph ComputerarbeitsComputer
+> COMPUTERCOMPUTERN
+  spell 1 33 Computer
+  sug COMPUTERCOMPUTERN
+  sug COMPUTERCOMPUTER
+  ana  pa:Computer pa:computern  fl:D st:Computer fl:C
+  stem ComputerComputer
+  stemmorph ComputerComputer
+> COMPUTERNARBEIT
+  spell 0 32 
+  sug COMPUTERARBEIT
+> CcmputerArbeit
+  spell 0 32 
+> ComCputerarbeitcomputer
+  spell 0 32 
+> CompcuterArbeitcomputer
+  spell 0 32 
+> Compterarbeits-computer
+  spell 0 32 
+> Compuer
+  spell 0 32 
+  sug Computer
+> ComputArnarbeit
+  spell 0 32 
+> Computecomputer
+  spell 0 32 
+> Computenarbeits-computer
+  spell 0 32 
+> ComputenrArbeit
+  spell 0 32 
+  sug Computerarbeit
+> Computenrarbeits-
+  spell 0 32 
+  sug Computerarbeits-
+> Computer
+  spell 1 32 
+  sug Computer
+  ana  st:Computer
+  stem Computer
+  stemmorph Computer
+  sfx Computer
+  sfx Computer
+  sfx Computern
+> Computer-Arbeit
+  spell 1 33 Computer
+  sug Computer -Arbeit
+  sug Computer-Arbeit
+  sug Computerarbeit
+  ana  pa:Computer pa:-Arbeit - st:Arbeit fl:-
+  stem ComputerArbeit
+  stemmorph ComputerArbeit
+> ComputerArbeiscomputer
+  spell 0 32 
+> ComputerArbeit
+  spell 0 32 
+  sug Computerarbeit
+  sug Computer Arbeit
+> ComputerArbeit.
+  spell 0 32 
+  sug Computerarbeit
+  sug Computer Arbeit
+> ComputerArbeitcomputer
+  spell 0 32 
+> ComputerArbeitcomputern
+  spell 0 32 
+> ComputerArbeitcomputerncomputerarbeitcomputer
+  spell 0 32 
+> ComputerArbeits
+  spell 0 32 
+  sug Computerarbeit
+> ComputerArbeits.
+  spell 0 32 
+  sug Computerarbeit
+> ComputerArbeitscomputer
+  spell 0 32 
+  sug Computerarbeitscomputer
+> ComputerArbeitscomputer.
+  spell 0 32 
+  sug Computerarbeitscomputer
+> ComputerArbeitscomputern
+  spell 0 32 
+  sug Computerarbeitscomputern
+  sug Computerarbeitscomputer
+> ComputerArbpit
+  spell 0 32 
+> Computerabreitcomputern
+  spell 0 32 
+> ComputerarbeCtcomputern
+  spell 0 32 
+> Computerarbeicomputer
+  spell 0 32 
+> Computerarbeistcomputern
+  spell 0 32 
+  sug Computerarbeitscomputern
+> Computerarbeit
+  spell 1 33 Computer
+  sug Computerarbeit
+  ana  pa:Computer
+> Computerarbeitb-
+  spell 0 32 
+  sug Computerarbeit-
+> Computerarbeitcomputer
+  spell 0 32 
+> Computerarbeitcomputern
+  spell 0 32 
+> Computerarbeitcomputern-Arbeit
+  spell 0 32 
+> Computerarbeitocmputer
+  spell 0 32 
+> Computerarbeits-
+  spell 1 33 Computer
+  sug Computerarbeits-
+  ana  pa:Computer pa:arbeits pa:-
+  stem Computerarbeits
+  stemmorph Computerarbeits
+> Computerarbeits-Computer
+  spell 1 33 Computer
+  sug Computerarbeits-Computer
+  sug Computerarbeitscomputer
+  ana  pa:Computer pa:arbeits pa:-Computer - st:Computer fl:-
+  stem ComputerarbeitsComputer
+  stemmorph ComputerarbeitsComputer
+> Computerarbeits-Computern
+  spell 1 33 Computer
+  sug Computerarbeits-Computer
+  sug Computerarbeits-Computern
+  sug Computerarbeitscomputern
+  ana  pa:Computer pa:arbeits pa:-Computern  fl:- st:Computer fl:C
+  stem ComputerarbeitsComputer
+  stemmorph ComputerarbeitsComputer
+> Computerarbeits-Computern-arbeits
+  spell 0 32 
+> Computerarbeits-Computernarbeitcomputer
+  spell 0 32 
+> Computerarbeits-Computerncomputern
+  spell 0 32 
+  sug Computerarbeits-Computercomputern
+> Computerarbeits-computer
+  spell 0 32 
+  sug Computerarbeits-Computer
+  sug Computerarbeitscomputer
+> Computerarbeits-computer-Computerarbeitscomputer
+  spell 0 32 
+  sug Computerarbeits-Computer-Computerarbeitscomputer
+  sug Computerarbeitscomputer-Computerarbeitscomputer
+> Computerarbeits-computerComputerarbeit
+  spell 0 32 
+  sug Computerarbeits-Computercomputerarbeit
+  sug Computerarbeitscomputercomputerarbeit
+> Computerarbeitsarbeit
+  spell 1 33 Computer
+  sug Computerarbeitsarbeit
+  ana  pa:Computer pa:arbeits
+  stem Computer
+  stemmorph Computer
+> Computerarbeitscomputer
+  spell 1 33 Computer
+  sug Computerarbeitscomputer
+  ana  pa:Computer pa:arbeits
+  stem Computer
+  stemmorph Computer
+> Computerarbeitscomputern
+  spell 1 33 Computer
+  sug Computerarbeitscomputer
+  sug Computerarbeitscomputern
+  ana  pa:Computer pa:arbeits pa:computern  fl:D st:Computer fl:C
+  stem ComputerarbeitsComputer
+  stemmorph ComputerarbeitsComputer
+> Computerarteits-Computern
+  spell 0 32 
+> Computercomputer
+  spell 1 33 Computer
+  sug Computercomputer
+  ana  pa:Computer
+> Computercomputer-computerarbeits-Computern
+  spell 0 32 
+  sug Computercomputer-Computerarbeits-Computern
+  sug Computercomputercomputerarbeits-Computern
+> Computercomputerarbeit
+  spell 1 33 Computer
+  sug Computercomputerarbeit
+  ana  pa:Computer pa:computer
+  stem Computer
+  stemmorph Computer
+> Computercomputerarbeit-
+  spell 1 33 
+  sug Computercomputerarbeit
+> Computercomputern
+  spell 1 33 Computer
+  sug Computercomputer
+  sug Computercomputern
+  ana  pa:Computer pa:computern  fl:D st:Computer fl:C
+  stem ComputerComputer
+  stemmorph ComputerComputer
+> Computercomputerncomputerarbeits-Computer
+  spell 0 32 
+  sug Computercomputercomputerarbeits-Computer
+> Computern
+  spell 1 32 Computer
+  sug Computer
+  sug Computern
+  ana  st:Computer fl:C
+  stem Computer
+  stemmorph Computer
+> ComputernArbeit
+  spell 0 32 
+  sug Computern Arbeit
+  sug Computerarbeit
+> Computernarbeit
+  spell 0 32 
+  sug Computerarbeit
+> Computernarbeit-ComputerArbeit
+  spell 0 32 
+> Copmuterarbeitsarbeit
+  spell 0 32 
+  sug Computerarbeitsarbeit
+> Copmutern
+  spell 0 32 
+  sug Computern
+  sug Computer
+> ambeitscomputern
+  spell 0 0 
+> arbeAit
+  spell 0 32 
+  sug Arbeit
+> arbeit
+  spell 0 0 
+  sug Arbeit
+> arbeit-Computerarbeitcomputern
+  spell 0 32 
+> arbeitcomputer
+  spell 0 0 
+> arbeitcomputer.
+  spell 0 0 
+> arbeits
+  spell 0 0 
+> arbeits-
+  spell 0 0 
+  sug Arbeits-
+> arbeits-Arbeitscomputerarbeits
+  spell 0 32 
+> arbeitsComputer
+  spell 0 32 
+  sug Arbeitscomputer
+> arbeitsComputerComputerarbeitsarbeit
+  spell 0 32 
+  sug Arbeitscomputercomputerarbeitsarbeit
+> arbeitscmputern
+  spell 0 0 
+> arbeitscomputearbeit
+  spell 0 0 
+> arbeitscomputer
+  spell 0 0 
+  sug Arbeitscomputer
+> arbeitscomputer-Computercomputerarbeit
+  spell 0 32 
+  sug Arbeitscomputer-Computercomputerarbeit
+> arbeitscomputerarbeit
+  spell 0 0 
+  sug Arbeitscomputerarbeit
+> arbeitscomputerarbeits
+  spell 0 0 
+> arbeitscomputerarbeitsComputerarbeitcomputern
+  spell 0 32 
+> arbeitscomputern
+  spell 0 0 
+  sug Arbeitscomputern
+> arbeitscomputern-Computernarbeit
+  spell 0 32 
+> arbeitscomutern
+  spell 0 0 
+> arbeitscoputerarbeits
+  spell 0 0 
+> arbeitsnehmer
+  spell 0 0 
+> arbeitsnehmer.
+  spell 0 0 
+> comeuternarbeit
+  spell 0 0 
+> compnutern
+  spell 0 0 
+> compterarbeitscomputers
+  spell 0 0 
+> compuetrArbeit
+  spell 0 32 
+> computer
+  spell 0 0 
+  sug Computer
+> computerArbeit
+  spell 0 32 
+  sug Computerarbeit
+> computerArbeit-ComputerArbeitscomputer
+  spell 0 32 
+> computerArbeit-Computernarbeit
+  spell 0 32 
+> computerArbeitcomputer
+  spell 0 32 
+> computerArbeitcomputer.
+  spell 0 32 
+> computerArbeits
+  spell 0 32 
+> computerArbeitsarbeits
+  spell 0 32 
+> computerArbeitscomputer
+  spell 0 32 
+  sug Computerarbeitscomputer
+> computerArbeitscomputer-computernarbeit
+  spell 0 32 
+> computerArbeitscomputer.
+  spell 0 32 
+  sug Computerarbeitscomputer
+> computerarbeit
+  spell 0 0 
+  sug Computerarbeit
+> computerarbeit-computerarbeit
+  spell 0 0 
+  sug Computerarbeit-computerarbeit
+> computerarbeitcomputer
+  spell 0 0 
+> computerarbeits-
+  spell 0 0 
+  sug Computerarbeits-
+> computerarbeits-Arbeitscomputerarbeits
+  spell 0 32 
+> computerarbeits-Compuern
+  spell 0 32 
+> computerarbeits-Computer
+  spell 0 32 
+  sug Computerarbeits-Computer
+> computerarbeits-Computern
+  spell 0 32 
+  sug Computerarbeits-Computern
+> computerarbeits-ComputerncomputerArbeits
+  spell 0 32 
+> computerarbeits-ComputerncomputerArbeitscomputer
+  spell 0 32 
+> computerarbeits-computer
+  spell 0 0 
+> computerarbeitscoCmputers
+  spell 0 32 
+> computerarbeitscompuetrn
+  spell 0 0 
+> computerarbeitscomputer
+  spell 0 0 
+  sug Computerarbeitscomputer
+> computerarbeitscomputern
+  spell 0 0 
+  sug Computerarbeitscomputern
+> computerarbeitscomputern.
+  spell 0 0 
+  sug Computerarbeitscomputern
+> computerarbeitscomputers
+  spell 0 0 
+> computerarbits-Computern
+  spell 0 32 
+> computercomputers
+  spell 0 0 
+> computern
+  spell 0 0 
+  sug Computern
+> computern-arbeitsComputer
+  spell 0 32 
+> computernArbeit
+  spell 0 32 
+> computernArbeit.
+  spell 0 32 
+> computernArbeitComputerArbeits
+  spell 0 32 
+> computernarbeit
+  spell 0 0 
+> computernarbeit.
+  spell 0 0 
+> computernarbesit
+  spell 0 0 
+> computerrAbeit
+  spell 0 32 
+> computers
+  spell 0 0 
+> computers-Arbeitcomputer
+  spell 0 32 
+> comruternArbeit
+  spell 0 32 
+> coomputerarbeitscomputer
+  spell 0 0 
+> cooputerarbeits-Computern
+  spell 0 32 
+> coumputers
+  spell 0 0 
+> omputern
+  spell 0 0 
+> srbeitscomputer
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+  sug -
+> arbeitcomputer's
+  spell 0 0 
+> arbeitcomputerâ€™s
+  spell 0 0 
+> 'arbeitcomputer'
+  spell 0 0 
+> l'arbeitcomputer
+  spell 0 0 
+> arbeitcomputer.
+  spell 0 0 
+> arbeitcomputer..
+  spell 0 0 
+> .arbeitcomputer
+  spell 0 0 
+> ...
+  spell 1 0 
+> -arbeitcomputer
+  spell 0 0 
+> arbeitcomputer-
+  spell 0 0 
+> arbeitcomputer--ComputerArbeitcomputer
+  spell 0 32 
+> arbeitcomputer-ComputerArbeitcomputer-arbeitcomputer
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> ARBEITCOMPUTER
+  spell 0 32 
+> ARBEITCOMPUTER
+  spell 0 32 
+> Arbeitcomputer
+  spell 0 32 
+> arbeitcomputer ComputerArbeitcomputer
+  spell 0 32 
+>  arbeitcomputer
+  spell 0 0 
+> arbeitcomputer 
+  spell 0 0 
+> arbeitcomputer	ComputerArbeitcomputer
+  spell 0 32 
+> ÿþarbeitcomputer
+  spell 0 0 
+> arbeitcomputerÃ
+  spell 0 32 
+> €arbeitcomputer
+  spell 0 0 
+> ð€arbeitcomputer
+  spell 0 0 
+> Ä°arbeitcomputer
+  spell 0 32 
+> arbeitcomputerÃŸ
+  spell 0 32 
+> arbeitcomputer
+  spell 0 0 
+> ARBEITCOMPUTERSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>arbeitcomputer</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>arbeitcomputer</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>arbeitcomputerx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>arbeitcomputer</word><word>ComputerArbeitcomputer</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>arbeitcomputer</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>arbeitcomputer</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>arbeitcomputer</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;arbeitcomputer&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>arbeitcomputer</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

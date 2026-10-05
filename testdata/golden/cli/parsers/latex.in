@@ -1,0 +1,25 @@
+kind latex
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change mistaek mistake
+change wrd word''s
+---
+% comment wrongg
+\\documentclass[12pt]{article}
+\\usepackage[utf8]{inputenc}
+\\begin{document}
+\\section{Introdution} text $x+yy$ and \\[ \\alpha \\] and \\(inl\\) after
+$$ eqn $$ and \\begin{equation} ekw \\end{equation} done mistaek here
+\\begin{verbatim}
+verbatimm
+\\end{verbatim}
+\\verb|codde| \\verb+p+ \\verb#h# \\verb*s* x
+\\cite{knuth} \\ref{sec:a} \\label{l} \\cite[p.~3]{opt} after
+\\$ dollar \\% percent \\\\ break wrd
+``qoted'' it's don''t
+\\setlength{\\parindent}{0pt} after \\newcommand{\\foo}[1]{bar #1} x
+\\definecolor{c}{rgb}{0.1,0.2,0.3} y \\textbf{bold} \\Gls{G} \\cref{a} \\Cref{b}
+\\\\[2mm] skip \\pagebreak[4] pb \\begin{tabular}{lcr} t
+50\\% pct % trailing
+\\cite{multi
+line} after \\cite{a\\}b} c \\cite{x}} y
+\\end{document}

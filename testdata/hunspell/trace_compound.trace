@@ -1,0 +1,30 @@
+word "foobar"
+  lookup "foobar" -> miss
+  pfx "foobar" candidates=0
+  sfx "foobar" candidates=0
+  compound words=2
+    split at=3 left="foo" right="bar"
+      first "foo" -> entry "foo" flags=C
+      second "bar" -> entry "bar" flags=C
+      test cpdpattern left="o"/(any) right="t"/(any) first="foo"/C second="bar"/C -> pass, the text after the join does not start with "t"
+      test wordpair -> pass, no space splits this into a known word pair
+  result correct
+word "footin"
+  lookup "footin" -> miss
+  pfx "footin" candidates=0
+  sfx "footin" candidates=0
+  compound words=2
+    split at=3 left="foo" right="tin"
+      first "foo" -> entry "foo" flags=C
+      second "tin" -> entry "tin" flags=C
+      test cpdpattern left="o"/(any) right="t"/(any) first="foo"/C second="tin"/C -> fail, this pair is forbidden at the join
+      pfx "tin" candidates=0
+      sfx "tin" candidates=0
+  compound words=3+
+    split at=3 left="foo" right="tin"
+      first "foo" -> entry "foo" flags=C
+      second "tin" -> entry "tin" flags=C
+      test cpdpattern left="o"/(any) right="t"/(any) first="foo"/C second="tin"/C -> fail, this pair is forbidden at the join
+      pfx "tin" candidates=0
+      sfx "tin" candidates=0
+  result incorrect

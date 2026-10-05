@@ -1,0 +1,623 @@
+# example: andare
+> ANDARE
+  spell 1 32 
+  sug ANDARE
+  ana  st:andare
+  stem andare
+  stemmorph andare
+> ANDIAMO
+  spell 1 32 andare
+  sug ANDIAMO
+  ana  st:andare # noi andiamo (we go)
+  stem andare
+  stemmorph andare
+> Andare
+  spell 1 32 
+  sug andare
+  ana  st:andare
+  stem andare
+  stemmorph andare
+> RIANDARE
+  spell 1 32 
+  sug RIANDARE
+  ana  st:riandare
+  stem riandare
+  stemmorph riandare
+> RIANDIAMO
+  spell 1 32 riandare
+  sug RIANDIAMO
+  ana  st:riandare # noi andiamo (we go)
+  stem riandare
+  stemmorph riandare
+> RIVA
+  spell 1 32 riandare
+  sug RIVA
+  ana  st:riandare # tu vai (you go)
+  stem riandare
+  stemmorph riandare
+> RIVADO
+  spell 1 32 riandare
+  sug RIVADO
+  ana  st:riandare # io vado (I go)
+  stem riandare
+  stemmorph riandare
+> Riandare
+  spell 1 32 
+  sug riandare
+  ana  st:riandare
+  stem riandare
+  stemmorph riandare
+> Riandiamo
+  spell 1 32 riandare
+  sug riandiamo
+  ana  st:riandare # noi andiamo (we go)
+  stem riandare
+  stemmorph riandare
+> Riva
+  spell 1 32 riandare
+  sug riva
+  ana  st:riandare # tu vai (you go)
+  stem riandare
+  stemmorph riandare
+> Rivado
+  spell 1 32 riandare
+  sug rivado
+  ana  st:riandare # io vado (I go)
+  stem riandare
+  stemmorph riandare
+> VA
+  spell 1 32 andare
+  sug VA
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> VADO
+  spell 1 32 andare
+  sug VADO
+  ana  st:andare # io vado (I go)
+  stem andare
+  stemmorph andare
+> Va
+  spell 1 32 andare
+  sug va
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> Vado
+  spell 1 32 andare
+  sug vado
+  ana  st:andare # io vado (I go)
+  stem andare
+  stemmorph andare
+> anadre
+  spell 0 0 
+  sug andare
+> andaer
+  spell 0 0 
+  sug andare
+> andaore
+  spell 0 0 
+  sug andare
+> andar
+  spell 0 0 
+  sug andare
+> andare
+  spell 1 0 
+  sug andare
+  ana  st:andare
+  stem andare
+  stemmorph andare
+> andare-riandiamo
+  spell 1 1 
+> andare-va
+  spell 1 1 
+  sug andare
+> andare.
+  spell 1 0 
+  sug andare
+  ana  st:andare
+  stem andare
+  stemmorph andare
+> andareandiamo
+  spell 0 0 
+  sug andare andiamo
+  sug andare-andiamo
+> andareriandare
+  spell 0 0 
+  sug andare riandare
+  sug andare-riandare
+> andareriandiamo
+  spell 0 0 
+  sug andare riandiamo
+  sug andare-riandiamo
+> andarerivado
+  spell 0 0 
+  sug andare rivado
+  sug andare-rivado
+  sug riandare
+> andarr
+  spell 0 0 
+  sug andare
+> andiamo
+  spell 1 0 andare
+  sug andiamo
+  ana  st:andare # noi andiamo (we go)
+  stem andare
+  stemmorph andare
+> andiamo-andiamo
+  spell 1 1 
+> andiamo-riandiamo
+  spell 1 1 
+> andiamoa
+  spell 0 0 
+  sug andiamo
+  sug andare
+> andiamoandare
+  spell 0 0 
+  sug andiamo andare
+  sug andiamo-andare
+> andiamoandiamo
+  spell 0 0 
+  sug andiamo andiamo
+  sug andiamo-andiamo
+> andiamoriandare
+  spell 0 0 
+  sug andiamo riandare
+  sug andiamo-riandare
+> andiao
+  spell 0 0 
+  sug andiamo
+  sug andare
+> andimo
+  spell 0 0 
+  sug andiamo
+  sug andare
+> av
+  spell 0 0 
+  sug va
+> iandare
+  spell 0 0 
+  sug andare
+  sug riandare
+> irvado
+  spell 0 0 
+  sug rivado
+> oriandare
+  spell 0 0 
+  sug riandare
+  sug andare
+> ovado
+  spell 0 0 
+  sug vado
+> rdva
+  spell 0 0 
+  sug riva
+> reiandiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> riaadiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> riadare
+  spell 0 0 
+  sug riandare
+  sug andare
+> riadiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> riadnare
+  spell 0 0 
+  sug riandare
+> rianare
+  spell 0 0 
+  sug riandare
+  sug andare
+> riandaer
+  spell 0 0 
+  sug riandare
+  sug andare
+> riandaire
+  spell 0 0 
+  sug riandare
+> riandamre
+  spell 0 0 
+  sug riandare
+  sug andare
+> riandare
+  spell 1 0 
+  sug riandare
+  ana  st:riandare
+  stem riandare
+  stemmorph riandare
+> riandare-andare
+  spell 1 1 
+> riandare-riandare
+  spell 1 1 
+> riandare-riandiamo
+  spell 1 1 
+> riandare-vado
+  spell 1 1 
+> riandare.
+  spell 1 0 
+  sug riandare
+  ana  st:riandare
+  stem riandare
+  stemmorph riandare
+> riandareva
+  spell 0 0 
+  sug riandare va
+  sug riandare-va
+  sug riandare
+> riandarevado
+  spell 0 0 
+  sug riandare vado
+  sug riandare-vado
+  sug riandare
+> riandari
+  spell 0 0 
+  sug riandare
+  sug andare
+> riandarre
+  spell 0 0 
+  sug riandare
+  sug andare
+> riandarve
+  spell 0 0 
+  sug riandare
+  sug andare
+> riandiammo
+  spell 0 0 
+  sug riandiamo
+  sug riandare
+> riandiamo
+  spell 1 0 riandare
+  sug riandiamo
+  ana  st:riandare # noi andiamo (we go)
+  stem riandare
+  stemmorph riandare
+> riandiamo-rivado
+  spell 1 1 
+> riandiamo.
+  spell 1 0 riandare
+  sug riandiamo
+  ana  st:riandare # noi andiamo (we go)
+  stem riandare
+  stemmorph riandare
+> riandiamoandare
+  spell 0 0 
+  sug riandiamo andare
+  sug riandiamo-andare
+> riandiamorivado
+  spell 0 0 
+  sug riandiamo rivado
+  sug riandiamo-rivado
+> riandiamvo
+  spell 0 0 
+  sug riandiamo
+  sug riandare
+> riandioamo
+  spell 0 0 
+  sug riandiamo
+  sug riandare
+> riandrae
+  spell 0 0 
+  sug riandare
+> riandre
+  spell 0 0 
+  sug riandare
+  sug andare
+> rianvare
+  spell 0 0 
+  sug riandare
+> riav
+  spell 0 0 
+  sug riva
+  sug riandare
+> riavdare
+  spell 0 0 
+  sug riandare
+  sug andare
+> ridndiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> rinadare
+  spell 0 0 
+  sug riandare
+  sug andare
+> riova
+  spell 0 0 
+  sug riva
+> riva
+  spell 1 0 riandare
+  sug riva
+  ana  st:riandare # tu vai (you go)
+  stem riandare
+  stemmorph riandare
+> riva-andare
+  spell 1 1 
+  sug riandare
+> riva.
+  spell 1 0 riandare
+  sug riva
+  ana  st:riandare # tu vai (you go)
+  stem riandare
+  stemmorph riandare
+> rivaandare
+  spell 0 0 
+  sug riva andare
+  sug riva-andare
+  sug riandare
+> rivado
+  spell 1 0 riandare
+  sug rivado
+  ana  st:riandare # io vado (I go)
+  stem riandare
+  stemmorph riandare
+> rivado.
+  spell 1 0 riandare
+  sug rivado
+  ana  st:riandare # io vado (I go)
+  stem riandare
+  stemmorph riandare
+> rivadoa
+  spell 0 0 
+  sug rivado
+> rivadoandare
+  spell 0 0 
+  sug rivado andare
+  sug rivado-andare
+  sug riandare
+> rivadoriandare
+  spell 0 0 
+  sug rivado riandare
+  sug rivado-riandare
+> rivadoriandiamo
+  spell 0 0 
+  sug rivado riandiamo
+  sug rivado-riandiamo
+> rivadv
+  spell 0 0 
+  sug rivado
+> rivamdo
+  spell 0 0 
+  sug rivado
+> rivavado
+  spell 0 0 
+  sug rivado
+  sug riva vado
+  sug riva-vado
+> rivda
+  spell 0 0 
+  sug riva
+  sug riandare
+> rivdao
+  spell 0 0 
+  sug rivado
+  sug riandare
+> roiandiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> rvado
+  spell 0 0 
+  sug vado
+  sug rivado
+> rviandiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> v
+  spell 0 0 
+  sug va
+> va
+  spell 1 0 andare
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> va.
+  spell 1 0 andare
+  sug va
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> vaado
+  spell 0 0 
+  sug vado
+> vadao
+  spell 0 0 
+  sug vado
+> vado
+  spell 1 0 andare
+  ana  st:andare # io vado (I go)
+  stem andare
+  stemmorph andare
+> vado-andare
+  spell 1 1 
+  sug riandare
+> vado.
+  spell 1 0 andare
+  sug vado
+  ana  st:andare # io vado (I go)
+  stem andare
+  stemmorph andare
+> vadoandiamo
+  spell 0 0 
+  sug vado andiamo
+  sug vado-andiamo
+  sug riandiamo
+> vador
+  spell 0 0 
+  sug vado
+> vadoriandare
+  spell 0 0 
+  sug vado riandare
+  sug vado-riandare
+  sug riandare
+> vadova
+  spell 0 0 
+  sug vado va
+  sug vado-va
+> vaedo
+  spell 0 0 
+  sug vado
+> vao
+  spell 0 0 
+  sug va
+  sug vado
+> varivado
+  spell 0 0 
+  sug va rivado
+  sug va-rivado
+  sug rivado
+> vdao
+  spell 0 0 
+  sug vado
+> vea
+  spell 0 0 
+  sug va
+> viandiamo
+  spell 0 0 
+  sug riandiamo
+  sug andiamo
+> vna
+  spell 0 0 
+  sug va
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> va's
+  spell 0 0 
+> vaâ€™s
+  spell 0 0 
+> 'va'
+  spell 0 0 
+> l'va
+  spell 0 0 
+> va.
+  spell 1 0 andare
+  sug va
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> va..
+  spell 1 0 andare
+  sug va
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> .va
+  spell 0 0 
+  sug va
+> ...
+  spell 1 0 
+> -va
+  spell 1 1 
+  sug va
+> va-
+  spell 1 1 
+  sug va
+> va--riva
+  spell 1 1 
+> va-riva-va
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> VA
+  spell 1 32 andare
+  sug VA
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> VA
+  spell 1 32 andare
+  sug VA
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> Va
+  spell 1 32 andare
+  sug va
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> va riva
+  spell 0 0 
+  sug riva
+>  va
+  spell 1 0 andare
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> va 
+  spell 0 0 
+  sug va
+> va	riva
+  spell 0 0 
+  sug riva
+> ÿşva
+  spell 0 0 
+> vaÃ
+  spell 0 32 
+  sug va
+> €va
+  spell 0 0 
+  sug va
+> ğ€va
+  spell 0 0 
+> Ä°va
+  spell 0 32 
+> vaÃŸ
+  spell 0 32 
+> va
+  spell 1 0 andare
+  ana  st:andare # tu vai (you go)
+  stem andare
+  stemmorph andare
+> VASS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>va</word></query>
+  spell 0 0 
+  sug <code><a> st:andare # tu vai (you go)</a></code>
+> <?xml?><query type="stem"><word>va</word></query>
+  spell 0 0 
+  sug andare
+> <?xml?><query type="suggest"><word>vax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>va</word><word>riva</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>va</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>va</word></query>
+  spell 0 0 
+  sug <code><a> st:andare # tu vai (you go)</a></code>
+> <?xml?><query type="add"><word>va</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;va&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>va</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

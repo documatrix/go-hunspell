@@ -1,0 +1,47 @@
+exit 0
+stdout 1128
+% A comment with mispelled wordz that are skipped
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\begin{document}
+\section{Introduction to \emph{spelling}}
+Some text with a mistake and math $x + yy = zzz$ inline.
+Display math \[ \alpha + \betaa \] and \(inlin\) math.
+$$ eqn wrng $$ and \begin{equation} ekwation \end{equation} done.
+\begin{verbatim}
+verbatimm textt
+\end{verbatim}
+A \verb|codde| span, \verb+plusss+ and \verb#hashh# and \verb*starr*.
+Cite \cite{knuthh} and \ref{secc:intro} and \label{lbll} here.
+Escaped \$ dollar and \% percent and \\ line break weds.
+Quotes ``quoted'' and it's and don''t.
+\setlength{\parindentt}{0ptt} after settlement.
+\newcommand{\foo}[1]{barr #1} after command.
+\textbf{bold words} \textit{italic} \url{http://exampl.com}
+\definecolor{mycolr}{rgb}{0.1,0.2,0.3} color defined.
+\begin{tabular}{lcr} tab \end{tabular}
+Options \\[2mm] skip and \pagebreak[4] pageboy.
+\gls{glosary} \Gls{Glosary} \cref{fig:aa} \Cref{fig:bb}
+Command \commandd{argue} and \relax\ next wed.
+Text with 50\% percent % trailing comment wrongg
+\begin{lstlisting}
+listingg
+\end{lstlisting}
+\end{document}
+stderr 424
+Line 5: Introdution -> Introduction
+Line 6: mistaek -> mistake
+Line 14: linebreak -> line break
+Line 14: wrds -> weds
+Line 15: qoted -> quoted
+Line 16: setlenght -> settlement
+Line 17: newcomand -> command
+Line 18: wordd -> words
+Line 18: italik -> italic
+Line 19: colour -> color
+Line 20: tabl -> tab
+Line 21: skipp -> skip
+Line 21: pagebrek -> pageboy
+Line 23: argg -> argue
+Line 23: wrd -> wed
+Line 24: percnt -> percent

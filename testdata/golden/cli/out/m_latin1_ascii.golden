@@ -1,0 +1,53 @@
+exit 0
+stdout 318
+Hello  st:hello
+
+wrold
+
+caf
+
+na
+
+r
+
+
+
+The
+
+sawyer  st:sawyer
+
+said  st:said
+
+hello  st:hello
+
+to
+
+NASA.  st:NASA
+
+Created  st:created
+Created  st:create fl:D
+
+uncreated un st:created fl:U
+
+recreate re st:create fl:A
+
+decreate
+
+FAQ  st:FAQ
+FAQ  st:Faq
+
+FAQs  st:FAQ fl:S
+
+can't  st:can't
+
+can
+
+t
+
+doesn't.  st:doesn't
+
+stderr 172
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968

@@ -1,0 +1,486 @@
+# example: sUrya
+> DAYAM
+  spell 1 32 
+  sug DAYAM
+  ana  st:Dayam
+  stem Dayam
+  stemmorph Dayam
+> Dayam
+  spell 0 32 
+  sug DayaM
+  ana  st:Dayam
+  stem Dayam
+  stemmorph Dayam
+> KALA
+  spell 1 32 
+  sug KALA
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> KALODAYAM
+  spell 0 32 
+  sug DAYAM
+> Kala
+  spell 1 32 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> Kalodayam
+  spell 0 32 
+  sug DayaM
+> PSURYODAYAM
+  spell 0 32 
+> Psuryodayam
+  spell 0 32 
+> SURYA
+  spell 1 32 
+  sug SURYA
+  ana  st:Surya
+  stem Surya
+  stemmorph Surya
+> SURYODAYAM
+  spell 0 32 
+> Surya
+  spell 0 32 
+  sug SUrya
+  ana  st:Surya
+  stem Surya
+  stemmorph Surya
+> Suryodayam
+  spell 0 32 
+> adyaM
+  spell 0 32 
+  sug dayaM
+> aklOdayaM
+  spell 0 32 
+  sug dayaM
+> ala
+  spell 0 0 
+  sug kala
+> ayaM
+  spell 0 32 
+  sug dayaM
+> daayM
+  spell 0 32 
+  sug dayaM
+> dakaM
+  spell 0 32 
+  sug dayaM
+> daryaM
+  spell 0 32 
+  sug dayaM
+> dasyaM
+  spell 0 32 
+  sug dayaM
+> dayM
+  spell 0 32 
+  sug dayaM
+> dayMa
+  spell 0 32 
+  sug dayaM
+> daya
+  spell 0 0 
+  sug dayaM
+> dayaM
+  spell 1 32 
+  sug dayaM
+  ana  st:dayaM
+  stem dayaM
+  stemmorph dayaM
+> dayaM-kala
+  spell 1 33 
+  sug dayaMkala
+> dayaM.
+  spell 1 32 
+  sug dayaM
+  ana  st:dayaM
+  stem dayaM
+  stemmorph dayaM
+> dayaMkala
+  spell 1 33 dayaM
+  sug dayaM kala
+  sug dayaMkala
+  sug dayaM
+  ana  pa:dayaM st:dayaM pa:kala
+  stem dayaM
+  stemmorph dayaM
+> dayaMl
+  spell 0 32 
+  sug dayaM
+> dayaMs
+  spell 0 32 
+  sug dayaM
+> dayaMsUryOdayaM
+  spell 0 32 
+> dayaUM
+  spell 0 32 
+  sug dayaM
+> dayas
+  spell 0 0 
+  sug dayaM
+> ddayaM
+  spell 0 32 
+  sug dayaM
+> dpsUryOdayaM
+  spell 0 32 
+  sug psUryOdayaM
+> dyaaM
+  spell 0 32 
+  sug dayaM
+> kOla
+  spell 0 32 
+  sug kala
+> kUala
+  spell 0 32 
+  sug kala
+> kaOldayaM
+  spell 0 32 
+  sug dayaM
+> kal
+  spell 0 0 
+  sug kala
+> kalOadyaM
+  spell 0 32 
+> kalOdaMaM
+  spell 0 32 
+> kalOdapyaM
+  spell 0 32 
+> kalOdayaM
+  spell 0 32 
+  sug dayaM
+> kalOdayaM-dayaM
+  spell 0 32 
+  sug dayaM-dayaM
+> kalOdayaM-sUryOdayaM
+  spell 0 32 
+> kalOdayaM-sUrya
+  spell 0 32 
+  sug dayaM-sUrya
+> kalOdayaM.
+  spell 0 32 
+  sug dayaM
+> kalOdayaMkala
+  spell 0 32 
+> kalOdayaMsUrya
+  spell 0 32 
+> kalOdayapM
+  spell 0 32 
+> kalOydayaM
+  spell 0 32 
+> kala
+  spell 1 0 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> kala.
+  spell 1 0 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> kalad
+  spell 0 0 
+  sug kala
+> kaladayaM
+  spell 1 33 kala
+  sug kala dayaM
+  sug kaladayaM
+  sug dayaM
+  ana  pa:kala st:kala pa:dayaM
+  stem kala
+  stemmorph kala
+> kalakala
+  spell 1 1 kala
+  sug kala kala
+  sug kala
+  ana  pa:kala st:kala pa:kala
+  stem kala
+  stemmorph kala
+> kalasUrya
+  spell 1 33 kala
+  sug kala sUrya
+  sug kalasUrya
+  sug sUrya
+  ana  pa:kala st:kala pa:sUrya
+  stem kala
+  stemmorph kala
+> kalya
+  spell 0 0 
+  sug kala
+> karla
+  spell 0 0 
+  sug kala
+> kklOdayaM
+  spell 0 32 
+  sug dayaM
+> kllOdayaM
+  spell 0 32 
+> pUsryOdayaM
+  spell 0 32 
+  sug psUryOdayaM
+> pkala
+  spell 0 0 
+  sug kala
+> psUMryOdayaM
+  spell 0 32 
+  sug psUryOdayaM
+> psUUryOdayaM
+  spell 0 32 
+  sug psUryOdayaM
+> psUrOdayaM
+  spell 0 32 
+> psUryOdaayM
+  spell 0 32 
+  sug psUryOdayaM
+> psUryOdayaM
+  spell 1 33 sUrya
+> psUryOdayaM-dayaM
+  spell 1 33 
+> psUryOdayaM-sUryOdayaM
+  spell 0 32 
+> psUryOdayaM-sUrya
+  spell 1 33 
+> psUryOdayaM.
+  spell 1 33 sUrya
+> psUryOdayaMdayaM
+  spell 0 32 
+> psUryOdayaMkalOdayaM
+  spell 0 32 
+> psUryOdayaMkala
+  spell 0 32 
+> psUryOdayaMs
+  spell 0 32 
+  sug psUryOdayaM
+> psUryOdayaMsUryOdayaM
+  spell 0 32 
+> psUryOdayaU
+  spell 0 32 
+> psUryOdyaM
+  spell 0 32 
+> psUryOpayaM
+  spell 0 32 
+> sUrUya
+  spell 0 32 
+  sug sUrya
+> sUra
+  spell 0 32 
+  sug sUrya
+> sUrsa
+  spell 0 32 
+  sug sUrya
+> sUryOadyaM
+  spell 0 32 
+> sUryOdaayaM
+  spell 0 32 
+> sUryOdayMa
+  spell 0 32 
+> sUryOdayaM
+  spell 0 32 
+> sUryOdayaMd
+  spell 0 32 
+> sUryOdayaMkalOdayaM
+  spell 0 32 
+> sUryOdayaMkala
+  spell 0 32 
+> sUryOdayaMpsUryOdayaM
+  spell 0 32 
+> sUryOdayad
+  spell 0 32 
+> sUryOdyayaM
+  spell 0 32 
+> sUrya
+  spell 1 32 
+  sug sUrya
+  ana  st:sUrya
+  stem sUrya
+  stemmorph sUrya
+> sUrya-psUryOdayaM
+  spell 1 33 
+  sug sUryapsUryOdayaM
+> sUrya-sUrya
+  spell 1 33 
+  sug sUryasUrya
+> sUrya.
+  spell 1 32 
+  sug sUrya
+  ana  st:sUrya
+  stem sUrya
+  stemmorph sUrya
+> sUryadayaM
+  spell 1 33 sUrya
+  sug sUrya dayaM
+  ana  pa:sUrya st:sUrya pa:dayaM
+  stem sUrya
+  stemmorph sUrya
+> sUryakalOdayaM
+  spell 0 32 
+> sUryakala
+  spell 1 33 sUrya
+  sug sUrya kala
+  sug sUryakala
+  sug sUrya
+  ana  pa:sUrya st:sUrya pa:kala
+  stem sUrya
+  stemmorph sUrya
+> sUrydayaM
+  spell 0 32 
+  sug dayaM
+> spUryOdayaM
+  spell 0 32 
+  sug psUryOdayaM
+> srUyOdayaM
+  spell 0 32 
+> ssUrya
+  spell 0 32 
+  sug sUrya
+> yala
+  spell 0 0 
+  sug kala
+> ykala
+  spell 0 0 
+  sug kala
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> kala's
+  spell 0 0 
+  sug kala
+> kalaâ€™s
+  spell 0 0 
+  sug kala
+> 'kala'
+  spell 0 0 
+  sug kala
+> l'kala
+  spell 0 0 
+  sug kala
+> kala.
+  spell 1 0 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> kala..
+  spell 1 0 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> .kala
+  spell 0 0 
+  sug kala
+> ...
+  spell 1 0 
+> -kala
+  spell 1 1 
+  sug kala
+> kala-
+  spell 1 1 
+  sug kala
+> kala--sUryOdayaM
+  spell 0 32 
+> kala-sUryOdayaM-kala
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> KALA
+  spell 1 32 
+  sug KALA
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> KALA
+  spell 1 32 
+  sug KALA
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> Kala
+  spell 1 32 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> kala sUryOdayaM
+  spell 0 32 
+>  kala
+  spell 1 0 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> kala 
+  spell 0 0 
+  sug kala
+> kala	sUryOdayaM
+  spell 0 32 
+> ÿþkala
+  spell 0 0 
+  sug kala
+> kalaÃ
+  spell 0 32 
+  sug kala
+> €kala
+  spell 0 0 
+  sug kala
+> ð€kala
+  spell 0 0 
+> Ä°kala
+  spell 0 32 
+  sug Kala
+> kalaÃŸ
+  spell 0 32 
+  sug kala
+> kala
+  spell 1 0 
+  sug kala
+  ana  st:kala
+  stem kala
+  stemmorph kala
+> KALASS
+  spell 0 32 
+  sug KALA
+> <?xml?><query type="analyze"><word>kala</word></query>
+  spell 0 0 
+  sug <code><a> st:kala</a></code>
+> <?xml?><query type="stem"><word>kala</word></query>
+  spell 0 0 
+  sug kala
+> <?xml?><query type="suggest"><word>kalax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>kala</word><word>sUryOdayaM</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>kala</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>kala</word></query>
+  spell 0 0 
+  sug <code><a> st:kala</a></code>
+> <?xml?><query type="add"><word>kala</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;kala&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>kala</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

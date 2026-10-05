@@ -1,0 +1,717 @@
+# example: óőó
+> 7pre10óőó
+  spell 0 0 
+  sug pre10óőó
+> 9őó
+  spell 0 0 
+  sug óőó
+> PRE11ÓŐÓ
+  spell 0 32 
+  sug PRE1ÓŐÓ
+> PRE17ÓŐÓ
+  spell 0 32 
+  sug PRE1ÓŐÓ
+  sug PRE7ÓŐÓ
+> PRE18ÓŐÓ
+  spell 0 32 
+  sug PRE1ÓŐÓ
+> PRE1ÓŐÓ
+  spell 1 32 óőó
+  sug PRE1ÓŐÓ
+  ana pre1 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> Pre10óőó
+  spell 1 32 óőó
+  sug Pre1óőó
+  ana pre10 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> Pre13óőó
+  spell 1 32 óőó
+  sug Pre1óőó
+  sug Pre3óőó
+  ana pre13 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> Pre3óőó
+  spell 1 32 óőó
+  sug pre3óőó
+  ana pre3 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> Pre7óőó
+  spell 1 32 óőó
+  sug pre7óőó
+  ana pre7 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> Pre9óőó
+  spell 0 32 
+> pe5óőó
+  spell 0 0 
+> per2óőó
+  spell 0 0 
+  sug pre2óőó
+> per6óőó
+  spell 0 0 
+  sug pre6óőó
+> pr4eóőó
+  spell 0 0 
+> pr5eóőó
+  spell 0 0 
+> pre10óőó
+  spell 1 0 óőó
+  sug pre1óőó
+  ana pre10 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre10óőó-pre12óőó
+  spell 0 0 
+  sug pre10óőó-pre1óőó
+  sug pre10óőó-pre2óőó
+> pre11óőó
+  spell 0 0 
+  sug pre1óőó
+> pre11óőó-óőósuf16
+  spell 0 0 
+  sug pre1óőó-óőósuf16
+> pre12óőó
+  spell 0 0 
+  sug pre1óőó
+  sug pre2óőó
+> pre12óőó-óőósuf14
+  spell 0 0 
+  sug pre1óőó-óőósuf14
+  sug pre2óőó-óőósuf14
+> pre12óőó-óőósuf7
+  spell 0 0 
+  sug pre1óőó-óőósuf7
+  sug pre2óőó-óőósuf7
+> pre12óőó.
+  spell 0 0 
+  sug pre1óőó
+  sug pre2óőó
+> pre12óőóóőósuf17
+  spell 0 0 
+> pre13óőó
+  spell 1 0 óőó
+  sug pre1óőó
+  sug pre3óőó
+  ana pre13 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre13óőó-pre11óőó
+  spell 0 0 
+  sug pre13óőó-pre1óőó
+> pre13óőó-óőósuf17
+  spell 0 0 
+  sug pre13óőó-óőósuf1
+  sug pre13óőó-óőósuf7
+> pre13óőó-óőósuf7
+  spell 1 1 
+> pre14óőó
+  spell 1 0 óőó
+  sug pre1óőó
+  ana pre14 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre14óőó-pre16óőó
+  spell 1 1 
+> pre14óőó.
+  spell 1 0 óőó
+  sug pre1óőó
+  sug pre14óőó
+  ana pre14 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre15óőó
+  spell 0 0 
+  sug pre1óőó
+> pre15óőóóőósuf2
+  spell 0 0 
+> pre16óőó
+  spell 1 0 óőó
+  sug pre1óőó
+  sug pre6óőó
+  ana pre16 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre16óőó.
+  spell 1 0 óőó
+  sug pre1óőó
+  sug pre6óőó
+  sug pre16óőó
+  ana pre16 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre16óőópre18óőó
+  spell 0 0 
+> pre17óó
+  spell 0 0 
+  sug pre1óőó
+> pre17óőó
+  spell 0 0 
+  sug pre1óőó
+  sug pre7óőó
+> pre17óőó.
+  spell 0 0 
+  sug pre1óőó
+  sug pre7óőó
+> pre18óőó
+  spell 0 0 
+  sug pre1óőó
+> pre18óőóóőó
+  spell 0 0 
+> pre1órőó
+  spell 0 0 
+  sug pre1óőó
+> pre1óó
+  spell 0 0 
+  sug pre1óőó
+> pre1óőó
+  spell 1 0 óőó
+  sug pre1óőó
+  ana pre1 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre1óőó.
+  spell 1 0 óőó
+  sug pre1óőó
+  ana pre1 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre2óó
+  spell 0 0 
+  sug pre2óőó
+> pre2óőó
+  spell 1 0 óőó
+  sug pre2óőó
+  ana pre2 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre2óőó.
+  spell 1 0 óőó
+  sug pre2óőó
+  ana pre2 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre3főó
+  spell 0 0 
+  sug pre3óőó
+> pre3óőó
+  spell 1 0 óőó
+  sug pre3óőó
+  ana pre3 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre3óőó.
+  spell 1 0 óőó
+  sug pre3óőó
+  ana pre3 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre3óőóp
+  spell 0 0 
+  sug pre3óőó
+> pre3óőópre15óőó
+  spell 0 0 
+> pre4óőó
+  spell 0 0 
+> pre5óőó
+  spell 0 0 
+> pre66őó
+  spell 0 0 
+  sug pre6óőó
+> pre6óőfó
+  spell 0 0 
+  sug pre6óőó
+> pre6óőó
+  spell 1 0 óőó
+  sug pre6óőó
+  ana pre6 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre6őóó
+  spell 0 0 
+  sug pre6óőó
+> pre7óőó
+  spell 1 0 óőó
+  sug pre7óőó
+  ana pre7 st:óőó fl:P
+  stem óőó
+  stemmorph óőó
+> pre7óőóp
+  spell 0 0 
+  sug pre7óőó
+> pre7őó
+  spell 0 0 
+  sug pre7óőó
+> pre8ó7őó
+  spell 0 0 
+> pre8óőó
+  spell 0 0 
+> pre9óős
+  spell 0 0 
+> pre9óőó
+  spell 0 0 
+> pre9óőó.
+  spell 0 0 
+> preeóőó
+  spell 0 0 
+> preó3őó
+  spell 0 0 
+  sug pre3óőó
+> preó6őó
+  spell 0 0 
+  sug pre6óőó
+> preóőó
+  spell 0 0 
+> pue16óőó
+  spell 0 0 
+> póőósuf4
+  spell 0 0 
+> rpe12óőó
+  spell 0 0 
+> ÓŐÓSUF10
+  spell 1 32 óőó
+  sug ÓŐÓSUF1
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> ÓŐÓSUF12
+  spell 0 32 
+  sug ÓŐÓSUF1
+  sug ÓŐÓSUF2
+> ÓŐÓSUF13
+  spell 1 32 óőó
+  sug ÓŐÓSUF1
+  sug ÓŐÓSUF3
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> ÓŐÓSUF14
+  spell 1 32 óőó
+  sug ÓŐÓSUF1
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> ÓŐÓSUF17
+  spell 0 32 
+  sug ÓŐÓSUF1
+  sug ÓŐÓSUF7
+> ÓŐÓSUF2
+  spell 1 32 óőó
+  sug ÓŐÓSUF2
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> ÓŐÓSUF4
+  spell 0 32 
+> ÓŐÓSUF5
+  spell 0 32 
+> ÓŐÓSUF6
+  spell 1 32 óőó
+  sug ÓŐÓSUF6
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> Óőósuf13
+  spell 1 32 óőó
+  sug Óőósuf1
+  sug Óőósuf3
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> Óőósuf17
+  spell 0 32 
+  sug Óőósuf1
+  sug Óőósuf7
+> Óőósuf18
+  spell 0 32 
+  sug Óőósuf1
+> Óőósuf5
+  spell 0 32 
+> Óőósuf6
+  spell 1 32 óőó
+  sug óőósuf6
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> ó3őósuf4
+  spell 0 0 
+> ó4ósuf7
+  spell 0 0 
+  sug óőósuf7
+> óóő
+  spell 0 0 
+  sug óőó
+> óő
+  spell 0 0 
+  sug óőó
+> óő1suf5
+  spell 0 0 
+> óőfsuf15
+  spell 0 0 
+> óősuf3
+  spell 0 0 
+  sug óőósuf3
+> óősuf5
+  spell 0 0 
+> óősóuf13
+  spell 0 0 
+  sug óőósuf13
+> óősóuf6
+  spell 0 0 
+  sug óőósuf6
+> óőó
+  spell 1 0 
+  sug óőó
+  ana  st:óőó
+  stem óőó
+  stemmorph óőó
+  sfx óőósuf10
+  sfx óőósuf1
+  sfx óőósuf2
+  sfx óőósuf13
+  sfx óőósuf3
+  sfx óőósuf14
+  sfx óőósuf16
+  sfx óőósuf6
+  sfx óőósuf7
+> óőó1uf13
+  spell 0 0 
+> óőó2suf2
+  spell 0 0 
+  sug óőósuf2
+> óőópre3óőó
+  spell 0 0 
+  sug óőó pre3óőó
+> óőós8uf17
+  spell 0 0 
+> óőósf11
+  spell 0 0 
+> óőósuf1
+  spell 1 0 óőó
+  sug óőósuf1
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf1-óőósuf16
+  spell 1 1 
+> óőósuf10
+  spell 1 0 óőó
+  sug óőósuf1
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf10.
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf10
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf10ó
+  spell 0 0 
+  sug óőósuf10
+> óőósuf10óőósuf15
+  spell 0 0 
+> óőósuf11
+  spell 0 0 
+  sug óőósuf1
+> óőósuf11pre9óőó
+  spell 0 0 
+> óőósuf12
+  spell 0 0 
+  sug óőósuf1
+  sug óőósuf2
+> óőósuf12.
+  spell 0 0 
+  sug óőósuf1
+  sug óőósuf2
+> óőósuf13
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf3
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf13-pre9óőó
+  spell 0 0 
+> óőósuf13pre8óőó
+  spell 0 0 
+> óőósuf14
+  spell 1 0 óőó
+  sug óőósuf1
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf14-óőósuf15
+  spell 0 0 
+  sug óőósuf14-óőósuf1
+> óőósuf14.
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf14
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf15
+  spell 0 0 
+  sug óőósuf1
+> óőósuf15.
+  spell 0 0 
+  sug óőósuf1
+> óőósuf16
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf6
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf16óőósuf5
+  spell 0 0 
+> óőósuf17
+  spell 0 0 
+  sug óőósuf1
+  sug óőósuf7
+> óőósuf18
+  spell 0 0 
+  sug óőósuf1
+> óőósuf18-óőósuf3
+  spell 0 0 
+  sug óőósuf1-óőósuf3
+> óőósuf1ó
+  spell 0 0 
+  sug óőósuf1
+> óőósuf2
+  spell 1 0 óőó
+  sug óőósuf2
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf2-pre17óőó
+  spell 0 0 
+  sug óőósuf2-pre1óőó
+  sug óőósuf2-pre7óőó
+> óőósuf2-pre5óőó
+  spell 0 0 
+> óőósuf2-óőósuf3
+  spell 1 1 
+> óőósuf2.
+  spell 1 0 óőó
+  sug óőósuf2
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf2pre4óőó
+  spell 0 0 
+> óőósuf3
+  spell 1 0 óőó
+  sug óőósuf3
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf3-pre7óőó
+  spell 1 1 
+> óőósuf3-óőósuf2
+  spell 1 1 
+> óőósuf3pre13óőó
+  spell 0 0 
+  sug óőósuf3 pre13óőó
+> óőósuf3óőósuf13
+  spell 0 0 
+  sug óőósuf3 óőósuf13
+> óőósuf4
+  spell 0 0 
+> óőósuf4pre10óőó
+  spell 0 0 
+> óőósuf5
+  spell 0 0 
+> óőósuf5.
+  spell 0 0 
+> óőósuf5pre12óőó
+  spell 0 0 
+> óőósuf6
+  spell 1 0 óőó
+  sug óőósuf6
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf6pre2óőó
+  spell 0 0 
+  sug óőósuf6 pre2óőó
+> óőósuf7
+  spell 1 0 óőó
+  sug óőósuf7
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf7-pre3óőó
+  spell 1 1 
+> óőósuf8
+  spell 0 0 
+> óőósuf8.
+  spell 0 0 
+> óőósuf9
+  spell 0 0 
+> óőósuf9-óőósuf1
+  spell 0 0 
+> óőósuf9.
+  spell 0 0 
+> óőósuf9f
+  spell 0 0 
+> óőóuf10
+  spell 0 0 
+> óőóusf13
+  spell 0 0 
+  sug óőósuf13
+> óőóusf15
+  spell 0 0 
+> őósuf9
+  spell 0 0 
+> őóósuf15
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> óőósuf16's
+  spell 0 0 
+> óőósuf16’s
+  spell 0 0 
+> 'óőósuf16'
+  spell 0 0 
+> l'óőósuf16
+  spell 0 0 
+> óőósuf16.
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf6
+  sug óőósuf16
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf16..
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf6
+  sug óőósuf16
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> .óőósuf16
+  spell 0 0 
+  sug óőósuf16
+> ...
+  spell 1 0 
+> -óőósuf16
+  spell 1 1 
+  sug óőósuf16
+> óőósuf16-
+  spell 1 1 
+  sug óőósuf16
+> óőósuf16--pre6óőó
+  spell 1 1 
+> óőósuf16-pre6óőó-óőósuf16
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> óőóSUF16
+  spell 0 32 
+  sug óőósuf16
+  sug óőósuf1
+  sug óőósuf6
+> óőóSUF16
+  spell 0 32 
+  sug óőósuf16
+  sug óőósuf1
+  sug óőósuf6
+> óőóSuf16
+  spell 0 32 
+  sug óőósuf16
+  sug óőósuf1
+  sug óőósuf6
+> óőósuf16 pre6óőó
+  spell 0 0 
+>  óőósuf16
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf6
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőósuf16 
+  spell 0 0 
+  sug óőósuf16
+> óőósuf16	pre6óőó
+  spell 0 0 
+> ��óőósuf16
+  spell 0 0 
+  sug óőósuf16
+> óőósuf16�
+  spell 0 0 
+  sug óőósuf16
+> �óőósuf16
+  spell 0 0 
+  sug óőósuf16
+> 𐐀óőósuf16
+  spell 0 0 
+  sug óőósuf16
+> İóőósuf16
+  spell 0 32 
+  sug Óőósuf16
+> óőósuf16ß
+  spell 0 0 
+  sug óőósuf16
+> óőósuf16
+  spell 1 0 óőó
+  sug óőósuf1
+  sug óőósuf6
+  ana  st:óőó fl:S
+  stem óőó
+  stemmorph óőó
+> óőóSUF16SS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>óőósuf16</word></query>
+  spell 0 0 
+  sug <code><a> st:óőó fl:S</a></code>
+> <?xml?><query type="stem"><word>óőósuf16</word></query>
+  spell 0 0 
+  sug óőó
+> <?xml?><query type="suggest"><word>óőósuf16x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>óőósuf16</word><word>pre6óőó</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>óőósuf16</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>óőósuf16</word></query>
+  spell 0 0 
+  sug <code><a> st:óőó fl:S</a></code>
+> <?xml?><query type="add"><word>óőósuf16</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;óőósuf16&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>óőósuf16</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,29 @@
+# example: nagy
+@trace nagyobb
+  trace 0 word "nagyobb"
+  trace 1 lookup "nagyobb" -> miss
+  trace 1 pfx "nagyobb" candidates=0
+  trace 1 sfx flag=C strip="" add="obb" cont=O cond="." at=aff:9 xprod=Y hdr=aff:8
+  trace 2 test circumfix flag=X pfx-cont=(none) sfx-cont=O -> pass, neither affix is half of a circumfix
+  trace 2 test onlyincompound flag=O in=sfx-cont have=O -> fail, this suffix is only allowed inside a compound
+  trace 1 result incorrect
+  spell 0
+@trace legnagyebb
+  trace 0 word "legnagyebb"
+  trace 1 lookup "legnagyebb" -> miss
+  trace 1 pfx flag=A strip="" add="leg" cont=X cond="." at=aff:6 xprod=Y hdr=aff:5
+  trace 2 stem "nagyebb"
+  trace 2 test condition cond="." on "nagyebb" -> pass
+  trace 2 lookup "nagyebb" -> miss
+  trace 2 sfx flag=C strip="" add="ebb" cont=O,X cond="." at=aff:10 xprod=Y hdr=aff:8
+  trace 3 test circumfix flag=X pfx-cont=X sfx-cont=O,X -> pass, both halves carry the flag
+  trace 3 test onlyincompound flag=O in=sfx-cont have=O,X -> fail, this suffix is only allowed inside a compound
+  trace 1 sfx flag=C strip="" add="ebb" cont=O,X cond="." at=aff:10 xprod=Y hdr=aff:8
+  trace 2 test circumfix flag=X pfx-cont=(none) sfx-cont=O,X -> fail, this circumfix suffix needs its prefix
+  trace 1 result incorrect
+  spell 0
+> nagyobb
+  spell 0 0 
+  sug nagy
+> legnagyebb
+  spell 0 0 

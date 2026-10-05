@@ -1,0 +1,671 @@
+# example: foo
+> BAR
+  spell 1 32 
+  sug BAR
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> BARFOO
+  spell 1 33 bar
+  sug BAR FOO
+  sug BARFOO
+  sug BAR
+  ana  pa:bar st:bar pa:foo
+  stem bar
+  stemmorph bar
+> Bar
+  spell 1 32 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> FOOBAR
+  spell 1 33 foo
+  sug FOO BAR
+  sug FOOBAR
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foobar
+  spell 1 33 foo
+  sug Foo bar
+  sug foobar
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> Foobarfoo
+  spell 1 33 foo
+  sug foobarfoo
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> Fooxybar
+  spell 0 32 
+> FÓÓ
+  spell 1 32 
+  sug FÓÓ
+  ana  st:fóó
+  stem fóó
+  stemmorph fóó
+> FÓÓÁÁR
+  spell 1 33 fóó
+  sug FÓÓ ÁÁR
+  sug FÓÓÁÁR
+  ana  pa:fóó st:fóó pa:áár
+  stem fóó
+  stemmorph fóó
+> FÓÓÉÉ
+  spell 0 32 
+  sug FÓÓ ÉÉ
+  sug FÓÓ
+> XY
+  spell 1 32 
+  sug XY
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> XYFOO
+  spell 0 32 
+  sug XY FOO
+> XYYZ
+  spell 0 32 
+  sug XY YZ
+  sug XY
+> Xy
+  spell 1 32 
+  sug xy
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> YZ
+  spell 1 32 
+  sug YZ
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> Yz
+  spell 1 32 
+  sug yz
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> ba
+  spell 0 0 
+  sug bar
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bar-fóó
+  spell 1 1 
+  sug barfóó
+> bar.
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> barfoo
+  spell 1 1 bar
+  sug bar foo
+  sug barfoo
+  ana  pa:bar st:bar pa:foo
+  stem bar
+  stemmorph bar
+> barfoo.
+  spell 1 1 bar
+  sug bar foo
+  sug barfoo
+  sug bar
+  ana  pa:bar st:bar pa:foo
+  stem bar
+  stemmorph bar
+> barr
+  spell 0 0 
+  sug bar
+> baór
+  spell 0 0 
+  sug bar
+> bőrfoo
+  spell 0 0 
+> bőő
+  spell 0 0 
+  sug őő
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foobar
+  spell 1 1 foo
+  sug foo bar
+  sug foobar
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> foobar-fooxybar
+  spell 0 0 
+> foobar-őőáár
+  spell 0 0 
+  sug foobar-őő áár
+> foobar.
+  spell 1 1 foo
+  sug foo bar
+  sug foobar
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> foobarfoo
+  spell 1 1 foo
+  sug foobarfoo
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> foobarfoo-barfoo
+  spell 1 1 
+  sug foobarfoobarfoo
+> foobarfoo.
+  spell 1 1 foo
+  sug foobarfoo
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> foobarfoofoobar
+  spell 1 1 foo
+  sug foobarfoofoobar
+  sug foobar foofoobar
+  sug foobarfoo foobar
+  ana  pa:foo st:foo pa:bar st:bar pa:foo st:foo pa:foo st:foo pa:bar
+  stem foobarfoofoo
+  stemmorph foobarfoofoo
+> foobarfooxy
+  spell 0 0 
+> foobarxy
+  spell 0 0 
+> foobarőoo
+  spell 0 0 
+> foooxybar
+  spell 0 0 
+> foorxy
+  spell 0 0 
+> fooxobar
+  spell 0 0 
+> fooxy
+  spell 0 0 
+  sug foo xy
+  sug foo
+> fooxy-foobarfoo
+  spell 0 0 
+  sug foo xy-foobarfoo
+  sug foo-foobarfoo
+> fooxy.
+  spell 0 0 
+  sug foo xy
+  sug foo
+> fooxybar
+  spell 0 0 
+> fooxybar-xyyz
+  spell 0 0 
+> fooxybar.
+  spell 0 0 
+> fooxybarxy
+  spell 0 0 
+> fooxyxyyz
+  spell 0 0 
+> fooxzy
+  spell 0 0 
+> fooyz
+  spell 0 0 
+  sug foo yz
+  sug foo
+> fooééőő
+  spell 0 0 
+> fooőő
+  spell 0 0 
+  sug foo őő
+  sug foo
+> foxo
+  spell 0 0 
+  sug foo
+> fó
+  spell 0 0 
+  sug fóó
+> fóó
+  spell 1 0 
+  sug fóó
+  ana  st:fóó
+  stem fóó
+  stemmorph fóó
+> fóófooxy
+  spell 0 0 
+> fóófooxybar
+  spell 0 0 
+> fóóz
+  spell 0 0 
+  sug fóó
+> fóóárár
+  spell 0 0 
+  sug fóóáár
+> fóóáár
+  spell 1 1 fóó
+  sug fóó áár
+  sug fóóáár
+  ana  pa:fóó st:fóó pa:áár
+  stem fóó
+  stemmorph fóó
+> fóóáár-foobarfoo
+  spell 1 1 
+  sug fóóáárfoobarfoo
+> fóóáár.
+  spell 1 1 fóó
+  sug fóó áár
+  sug fóóáár
+  ana  pa:fóó st:fóó pa:áár
+  stem fóó
+  stemmorph fóó
+> fóóéy
+  spell 0 0 
+  sug fóó
+> fóóéé
+  spell 0 0 
+  sug fóó éé
+  sug fóó
+> fóóééfóóéé
+  spell 0 0 
+> ofobar
+  spell 0 0 
+  sug foobar
+> x
+  spell 0 0 
+  sug xy
+> xa
+  spell 0 0 
+  sug xy
+> xy
+  spell 1 0 
+  sug xy
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> xy-barfoo
+  spell 1 1 
+> xy-xyfoo
+  spell 0 0 
+  sug xy-xy foo
+> xy.
+  spell 1 0 
+  sug xy
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> xyfoo
+  spell 0 0 
+  sug xy foo
+> xyfoo.
+  spell 0 0 
+  sug xy foo
+> xyfooxyyz
+  spell 0 0 
+> xyfooá
+  spell 0 0 
+> xyfoy
+  spell 0 0 
+> xyfxoo
+  spell 0 0 
+> xyofo
+  spell 0 0 
+> xyyr
+  spell 0 0 
+  sug xy
+> xyyz
+  spell 0 0 
+  sug xy yz
+  sug xy
+> xyyz-foobar
+  spell 0 0 
+  sug xy yz-foobar
+  sug xy-foobar
+> xyyz-áárfóó
+  spell 0 0 
+  sug xy yz-áárfóó
+  sug xy-áárfóó
+> xyyz-ééőő
+  spell 0 0 
+  sug xy yz-ééőő
+  sug xy-ééőő
+> xyyz.
+  spell 0 0 
+  sug xy yz
+  sug xy
+> xyyzfooxybar
+  spell 0 0 
+> xőő
+  spell 0 0 
+  sug őő
+> y
+  spell 0 0 
+  sug yz
+> yb
+  spell 0 0 
+  sug yz
+> yyz
+  spell 0 0 
+  sug yz
+> yz
+  spell 1 0 
+  sug yz
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> yz-fooxybar
+  spell 0 0 
+> yz-xyyz
+  spell 0 0 
+  sug yz-xy yz
+  sug yz-xy
+> yz.
+  spell 1 0 
+  sug yz
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> yóóáár
+  spell 0 0 
+> ÁÁRFÓÓ
+  spell 1 33 áár
+  sug ÁÁR FÓÓ
+  sug ÁÁRFÓÓ
+  ana  pa:áár st:áár pa:fóó
+  stem áár
+  stemmorph áár
+> Áár
+  spell 1 32 
+  sug áár
+  ana  st:áár
+  stem áár
+  stemmorph áár
+> Áárfóó
+  spell 1 33 áár
+  sug Áár fóó
+  sug áárfóó
+  ana  pa:áár st:áár pa:fóó
+  stem áár
+  stemmorph áár
+> ÉÉŐŐ
+  spell 0 32 
+  sug ÉÉ ŐŐ
+  sug ÉÉ
+> Ééőő
+  spell 0 32 
+  sug Éé őő
+  sug Éé
+> ár
+  spell 0 0 
+  sug áár
+> árfóó
+  spell 0 0 
+> áxyyz
+  spell 0 0 
+> áár
+  spell 1 0 
+  sug áár
+  ana  st:áár
+  stem áár
+  stemmorph áár
+> áárfxóó
+  spell 0 0 
+  sug áárfóó
+> áárfóó
+  spell 1 1 áár
+  sug áár fóó
+  sug áárfóó
+  ana  pa:áár st:áár pa:fóó
+  stem áár
+  stemmorph áár
+> áárfóó-foobarfoo
+  spell 1 1 
+  sug áárfóófoobarfoo
+> áárxyfoo
+  spell 0 0 
+> ááryz
+  spell 0 0 
+  sug áár yz
+  sug áár
+> ááréfóó
+  spell 0 0 
+  sug áárfóó
+> éfóó
+  spell 0 0 
+  sug fóó
+> éxé
+  spell 0 0 
+  sug éé
+> éé
+  spell 1 0 
+  sug éé
+  ana  st:éé
+  stem éé
+  stemmorph éé
+> éé.
+  spell 1 0 
+  sug éé
+  ana  st:éé
+  stem éé
+  stemmorph éé
+> ééőé
+  spell 0 0 
+  sug éé
+> ééőő
+  spell 0 0 
+  sug éé őő
+  sug éé
+> ééőő.
+  spell 0 0 
+  sug éé őő
+  sug éé
+> ófóéé
+  spell 0 0 
+> ŐŐ
+  spell 1 32 
+  sug ŐŐ
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> ŐŐÁÁR
+  spell 0 32 
+  sug ŐŐ ÁÁR
+> Őő
+  spell 1 32 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> ő
+  spell 0 0 
+  sug őő
+> őoőáár
+  spell 0 0 
+> őő
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őő-xyfoo
+  spell 0 0 
+  sug őő-xy foo
+> őő.
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őőbarfoo
+  spell 0 0 
+> őőáár
+  spell 0 0 
+  sug őő áár
+> őőáár.
+  spell 0 0 
+  sug őő áár
+> őőáárf
+  spell 0 0 
+> őőáárőő
+  spell 0 0 
+> őőó
+  spell 0 0 
+  sug őő
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> őő's
+  spell 0 0 
+  sug őő
+> őő’s
+  spell 0 0 
+  sug őő
+> 'őő'
+  spell 0 0 
+> l'őő
+  spell 0 0 
+> őő.
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őő..
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> .őő
+  spell 0 0 
+  sug őő
+> ...
+  spell 1 0 
+> -őő
+  spell 1 1 
+  sug őő
+> őő-
+  spell 1 1 
+  sug őő
+> őő--őőáár
+  spell 0 0 
+  sug őő--őő áár
+> őő-őőáár-őő
+  spell 0 0 
+  sug őő-őő áár-őő
+> őő
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őő
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őő
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őő őőáár
+  spell 0 0 
+>  őő
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őő 
+  spell 0 0 
+  sug őő
+> őő	őőáár
+  spell 0 0 
+> ��őő
+  spell 0 0 
+  sug őő
+> őő�
+  spell 0 0 
+  sug őő
+> �őő
+  spell 0 0 
+  sug őő
+> 𐐀őő
+  spell 0 0 
+> İőő
+  spell 0 32 
+  sug Őő
+> őőß
+  spell 0 0 
+  sug őő
+> őő
+  spell 1 0 
+  sug őő
+  ana  st:őő
+  stem őő
+  stemmorph őő
+> őőSS
+  spell 0 32 
+  sug őő
+> <?xml?><query type="analyze"><word>őő</word></query>
+  spell 0 0 
+  sug <code><a> st:őő</a></code>
+> <?xml?><query type="stem"><word>őő</word></query>
+  spell 0 0 
+  sug őő
+> <?xml?><query type="suggest"><word>őőx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>őő</word><word>őőáár</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>őő</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>őő</word></query>
+  spell 0 0 
+  sug <code><a> st:őő</a></code>
+> <?xml?><query type="add"><word>őő</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;őő&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>őő</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,11 @@
+utf8 1
+line [<p>caf\xc3\xa9 dog\xe2\x80\x99s it&apos;s rock&apos;n</p> <img alt="\xc3\xa9t\xc3\xa9">]
+token 3 [caf\xc3\xa9] word [caf\xc3\xa9]
+token 9 [dog\xe2\x80\x99s] word [dog\xe2\x80\x99s]
+token 17 [it&apos;s] word [it&apos;s]
+token 27 [rock&apos;n] word [rock&apos;n]
+token 53 [\xc3\xa9t\xc3\xa9] word [\xc3\xa9t\xc3\xa9]
+prev 0 [<p>caf\xc3\xa9 dog\xe2\x80\x99s it&apos;s rock&apos;n</p> <img alt="\xc3\xa9t\xc3\xa9">]
+prev 1 []
+prev 2 []
+prev 3 []

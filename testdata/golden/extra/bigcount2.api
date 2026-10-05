@@ -1,0 +1,21 @@
+# example: 
+# aff: longline.aff
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+  sfx bars
+> bars
+  spell 1 0 bar
+  sug bar
+  ana  st:bar fl:A
+  stem bar
+  stemmorph bar

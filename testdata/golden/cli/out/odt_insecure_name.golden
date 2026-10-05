@@ -1,0 +1,6 @@
+exit 1
+stdout 39
+in/words.txt: wrold
+in/words.txt: tset
+stderr 28
+Can't open in/doc+copy.odt.

@@ -1,0 +1,537 @@
+# example: ինչ
+> ԻՆՉ
+  spell 1 32 
+  sug ԻՆՉ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> Ի՞ՆՉ
+  spell 1 32 
+  sug ԻՆՉ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> Ի՞նչ
+  spell 1 32 
+  sug Ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> Ինչ
+  spell 1 32 
+  sug ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> ՄՆԱՍ
+  spell 1 32 
+  sug ՄՆԱՍ
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> ՄՆԱ՜Ս
+  spell 1 32 
+  sug ՄՆԱՍ
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> Մնա՜ս
+  spell 1 32 
+  sug Մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> Մնաս
+  spell 1 32 
+  sug մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> ՈՐՏԵՂ
+  spell 1 32 
+  sug ՈՐՏԵՂ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> ՈՐՏԵ՞Ղ
+  spell 1 32 
+  sug ՈՐՏԵՂ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> Որտեղ
+  spell 1 32 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> ՜որտեղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> ՞նչ
+  spell 0 0 
+  sug ինչ
+> ՞որտեղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> երտեղ
+  spell 0 0 
+  sug որտեղ
+> ի՞ն՜
+  spell 0 0 
+  sug ինչ
+> ի՞նչ
+  spell 1 0 
+  sug ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> ի՞նչ-որտե՞ղ
+  spell 1 1 
+  sug որտեղ
+> ի՞նչ.
+  spell 1 0 
+  sug ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> ի՞նչինչ
+  spell 0 0 
+  sug ինչ ինչ
+  sug ինչ
+> ի՞նչմնաս
+  spell 0 0 
+  sug ինչ մնաս
+  sug մնաս
+> իեչ
+  spell 0 0 
+  sug ինչ
+> իինչ
+  spell 0 0 
+  sug ինչ
+> ին
+  spell 0 0 
+  sug ինչ
+> ին՞չ
+  spell 1 0 
+  sug ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> ինչ
+  spell 1 0 
+  sug ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> ինչ-ի՞նչ
+  spell 1 1 
+  sug ինչ
+> ինչ-ինչ
+  spell 1 1 
+  sug ինչ
+> ինչ-մնաս
+  spell 1 1 
+> ինչ.
+  spell 1 0 
+  sug ինչ
+  ana  st:ինչ
+  stem ինչ
+  stemmorph ինչ
+> ինչի
+  spell 0 0 
+  sug ինչ
+> ինչինչ
+  spell 0 0 
+  sug ինչ ինչ
+  sug ինչ
+> ինչմ
+  spell 0 0 
+  sug ինչ
+> ինչորտե՞ղ
+  spell 0 0 
+  sug ինչ որտեղ
+  sug որտեղ
+> իոնչ
+  spell 0 0 
+  sug ինչ
+> իչ
+  spell 0 0 
+  sug ինչ
+> իչնչ
+  spell 0 0 
+  sug ինչ
+> ղմնա՜ս
+  spell 0 0 
+  sug մնաս
+> մաս
+  spell 0 0 
+  sug մնաս
+> մղա՜ս
+  spell 0 0 
+  sug մնաս
+> մղաս
+  spell 0 0 
+  sug մնաս
+> մնա
+  spell 0 0 
+  sug մնաս
+> մնա՜ոս
+  spell 0 0 
+  sug մնաս
+> մնա՜ս
+  spell 1 0 
+  sug մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> մնա՜ս-ինչ
+  spell 1 1 
+  sug մնաս
+> մնա՜ս.
+  spell 1 0 
+  sug մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> մնա՜սմնաս
+  spell 0 0 
+  sug մնաս մնաս
+  sug մնաս
+> մնա՜սորտեղ
+  spell 0 0 
+  sug մնաս որտեղ
+  sug որտեղ
+> մնաղս
+  spell 0 0 
+  sug մնաս
+> մնամս
+  spell 0 0 
+  sug մնաս
+> մնաս
+  spell 1 0 
+  sug մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> մնաս.
+  spell 1 0 
+  sug մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> մնաս՜
+  spell 1 0 
+  sug մնաս
+  ana  st:մնաս
+  stem մնաս
+  stemmorph մնաս
+> մնասինչ
+  spell 0 0 
+  sug մնաս ինչ
+  sug մնաս
+> մնասմնա՜ս
+  spell 0 0 
+  sug մնաս մնաս
+  sug մնաս
+> մնասորտեղ
+  spell 0 0 
+  sug մնաս որտեղ
+  sug որտեղ
+> մնղս
+  spell 0 0 
+  sug մնաս
+> մննս
+  spell 0 0 
+  sug մնաս
+> մոաս
+  spell 0 0 
+  sug մնաս
+> մչա՜ս
+  spell 0 0 
+  sug մնաս
+> մչաս
+  spell 0 0 
+  sug մնաս
+> մսնաս
+  spell 0 0 
+  sug մնաս
+> նա՜ս
+  spell 0 0 
+  sug մնաս
+> նաս
+  spell 0 0 
+  sug մնաս
+> նմաս
+  spell 0 0 
+  sug մնաս
+> ոերտեղ
+  spell 0 0 
+  sug որտեղ
+> ոորտեղ
+  spell 0 0 
+  sug որտեղ
+> ոտտեղ
+  spell 0 0 
+  sug որտեղ
+> ոտրեղ
+  spell 0 0 
+  sug որտեղ
+> որետ՞ղ
+  spell 0 0 
+  sug որտեղ
+> որչեղ
+  spell 0 0 
+  sug որտեղ
+> որտ՞եղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե
+  spell 0 0 
+  sug որտեղ
+> որտե՞ղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղ-ինչ
+  spell 1 1 
+  sug որտեղ
+> որտե՞ղ-մնաս
+  spell 1 1 
+> որտե՞ղ-որտե՞ղ
+  spell 1 1 
+> որտե՞ղ-որտեղ
+  spell 1 1 
+> որտե՞ղ.
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղմնաս
+  spell 0 0 
+  sug որտեղ մնաս
+  sug որտեղ
+> որտե՞ղորտե՞ղ
+  spell 0 0 
+  sug որտեղ որտեղ
+> որտե՞ղորտեղ
+  spell 0 0 
+  sug որտեղ որտեղ
+> որտեիղ
+  spell 0 0 
+  sug որտեղ
+> որտեղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտեղ-ինչ
+  spell 1 1 
+  sug որտեղ
+> որտեղ-մնա՜ս
+  spell 1 1 
+> որտեղ-որտեղ
+  spell 1 1 
+> որտեղ.
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտեղի
+  spell 0 0 
+  sug որտեղ
+> որտեղի՞նչ
+  spell 0 0 
+  sug որտեղ ինչ
+  sug որտեղ
+> որտեղինչ
+  spell 0 0 
+  sug որտեղ ինչ
+  sug որտեղ
+> որտեղմ
+  spell 0 0 
+  sug որտեղ
+> որտեղմնաս
+  spell 0 0 
+  sug որտեղ մնաս
+  sug որտեղ
+> որտեղորտե՞ղ
+  spell 0 0 
+  sug որտեղ որտեղ
+> որտենղ
+  spell 0 0 
+  sug որտեղ
+> որտղ
+  spell 0 0 
+  sug որտեղ
+> որտղե
+  spell 0 0 
+  sug որտեղ
+> որտսղ
+  spell 0 0 
+  sug որտեղ
+> որրտեղ
+  spell 0 0 
+  sug որտեղ
+> սորտե՞ղ
+  spell 0 0 
+  sug որտեղ
+> րտե՞ղ
+  spell 0 0 
+  sug որտեղ
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> որտե՞ղ's
+  spell 0 0 
+  sug որտեղ
+> որտե՞ղ’s
+  spell 0 0 
+  sug որտեղ
+> 'որտե՞ղ'
+  spell 0 0 
+  sug որտեղ
+> l'որտե՞ղ
+  spell 0 0 
+  sug որտեղ
+> որտե՞ղ.
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղ..
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> .որտե՞ղ
+  spell 0 0 
+  sug որտեղ
+> ...
+  spell 1 0 
+> -որտե՞ղ
+  spell 1 1 
+  sug որտեղ
+> որտե՞ղ-
+  spell 1 1 
+  sug որտեղ
+> որտե՞ղ--մնաս
+  spell 1 1 
+> որտե՞ղ-մնաս-որտե՞ղ
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> որտե՞ղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղ մնաս
+  spell 0 0 
+>  որտե՞ղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղ 
+  spell 0 0 
+  sug որտեղ
+> որտե՞ղ	մնաս
+  spell 0 0 
+> ��որտե՞ղ
+  spell 0 0 
+> որտե՞ղ�
+  spell 0 0 
+  sug որտեղ
+> �որտե՞ղ
+  spell 0 0 
+  sug որտեղ
+> 𐐀որտե՞ղ
+  spell 0 0 
+> İորտե՞ղ
+  spell 0 32 
+  sug Որտեղ
+> որտե՞ղß
+  spell 0 0 
+  sug որտեղ
+> որտե՞ղ
+  spell 1 0 
+  sug որտեղ
+  ana  st:որտեղ
+  stem որտեղ
+  stemmorph որտեղ
+> որտե՞ղSS
+  spell 0 32 
+  sug որտեղ
+> <?xml?><query type="analyze"><word>որտե՞ղ</word></query>
+  spell 0 0 
+  sug <code><a> st:որտեղ</a></code>
+> <?xml?><query type="stem"><word>որտե՞ղ</word></query>
+  spell 0 0 
+  sug որտեղ
+> <?xml?><query type="suggest"><word>որտե՞ղx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>որտե՞ղ</word><word>մնաս</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>որտե՞ղ</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>որտե՞ղ</word></query>
+  spell 0 0 
+  sug <code><a> st:որտեղ</a></code>
+> <?xml?><query type="add"><word>որտե՞ղ</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;որտե՞ղ&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>որտե՞ղ</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

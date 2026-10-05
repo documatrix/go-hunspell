@@ -1,0 +1,671 @@
+# Golden cases of the command line tools, run in this folder.
+#
+# case NAME     starts a case; out/NAME.golden holds what the C++ tool printed
+# tool T        hunspell (default), analyze or chmorph
+# args ...      the arguments; '...' quotes, @HOME@ is the home folder
+# stdin FILE    the standard input (empty by default)
+# env K=V ...   the whole environment (default LC_ALL=C), "env -" for none
+# home H        HOME is a fresh copy of homes/H ("-" for an empty one)
+# file F        the file F of HOME is compared after the run
+# nostderr      stderr is not compared (it is unzip's)
+# diclist       the -D listing is sorted, without the system folders
+
+# ---- help and version
+case help
+args -h
+case help_long
+args --help -d dict/nonexistent
+case version
+args -v
+case version_long
+args --version
+case version_vv
+args -vv -h
+
+# ---- error paths and exit codes
+case missing_dict
+args -l -d dict/nonexistent
+stdin in/words.txt
+case missing_dict_env
+env LC_ALL=C DICTIONARY=nonexistent_XX
+args -l
+stdin in/words.txt
+case missing_dict_comma
+args -l -d dict/nonexistent,dict/small
+stdin in/words.txt
+case missing_aff
+args -l -d dict/extra
+stdin in/words.txt
+case missing_file
+args -l -d dict/small in/nonexistent.txt
+case missing_second_file
+args -l -d dict/small in/words.txt in/nonexistent.txt
+case options_after_file
+args -l in/words.txt -d dict/small
+case unknown_options
+args -l -x --bogus -q -d dict/small
+stdin in/words.txt
+case empty_argument
+args -l '' -d dict/small
+stdin in/words.txt
+case interactive
+args -d dict/small in/words.txt
+case dangling_d
+args -l -d dict/small -d
+stdin in/words.txt
+
+# ---- dictionaries
+case multi_dict
+args -l -d dict/small,../../hunspell/base
+stdin in/plain.txt
+case multi_dict_pipe
+args -a -d ../../hunspell/base,dict/small
+stdin in/plain.txt
+case multi_dict_add_dic
+args -a -d dict/small,dict/extra
+stdin in/plain.txt
+case multi_dict_bad_dic
+args -l -d dict/small,dict/badcount
+stdin in/words.txt
+case multi_dict_missing
+args -l -d dict/small,dict/nonexistent,../../hunspell/base
+stdin in/words.txt
+case dict_limit
+args -l -d dict/small,dict/small,dict/small,dict/small,dict/small,dict/small,dict/small,dict/small,dict/small,dict/small,dict/small
+stdin in/words.txt
+case dict_errors
+args -l -d dict/badflags
+stdin in/words.txt
+case encrypted
+args -P s3cret -a -d dict/enc
+stdin in/words.txt
+case encrypted_wrong_key
+args -P wrong -l -d dict/enc
+stdin in/words.txt
+case encrypted_no_key
+args -l -d dict/enc
+stdin in/words.txt
+
+# ---- dictionary search path (-D) and default dictionary
+case list_dicts
+env LC_ALL=C DICPATH=dict
+args -D
+diclist
+case list_dicts_env
+env LC_ALL=C HOME=/nonexistent/home DICPATH=dict::/nonexistent XDG_DATA_HOME=relative XDG_DATA_DIRS=rel:/abs/data
+args -D -d small
+diclist
+case list_dicts_xdg
+env LC_ALL=C XDG_DATA_HOME=/xdg/home XDG_DATA_DIRS=/xdg/a:/xdg/b:/xdg/a
+args -D -d dict/small
+diclist
+case list_dicts_input
+env LC_ALL=C DICPATH=dict
+args -D -l -d small,ver,nonexistent,extra in/words.txt
+diclist
+case list_dicts_missing
+env LC_ALL=C DICPATH=dict
+args -D -l -d nonexistent
+diclist
+case list_dicts_hz
+env LC_ALL=C DICPATH=dict
+args -D -P s3cret -d enc
+diclist
+case default_dictionary_env
+env LC_ALL=C DICTIONARY=dict/small
+args -l
+stdin in/words.txt
+case default_dicpath
+env LC_ALL=C DICPATH=/nonexistent:dict DICTIONARY=small
+args -l
+stdin in/words.txt
+case default_lc_messages
+env LC_CTYPE=C LC_MESSAGES=small.ISO-8859-1@euro DICPATH=dict
+args -l
+stdin in/words.txt
+case default_lang
+env LC_CTYPE=C LANG=small@x DICPATH=dict
+args -l
+stdin in/words.txt
+case default_c_locale
+env LC_ALL=C DICPATH=../../en_US
+args -l
+stdin in/words.txt
+case default_posix
+env LC_ALL=POSIX DICPATH=../../en_US
+args -l
+stdin in/words.txt
+case default_no_locale
+env DICPATH=../../en_US
+args -l
+stdin in/words.txt
+case default_c_utf8
+env LANG=C.UTF-8 DICPATH=../../en_US
+args -a
+stdin in/utf8.txt
+
+# ---- personal dictionaries
+case home_privdic
+home h1
+args -a -d ../../en_US/en_US
+stdin in/plain.txt
+case home_privdic_utf8
+env LC_ALL=C.UTF-8
+home h1
+args -a -d ../../en_US/en_US
+stdin in/plain.txt
+case home_p
+home h1
+args -l -d ../../en_US/en_US -p pers
+stdin in/latex.tex
+case home_p_nodefault
+home h1
+args -l -d ../../en_US/en_US -p pers --no-default-personal
+stdin in/plain.txt
+case home_nodefault
+home h1
+args -l --no-default-personal -d ../../en_US/en_US
+stdin in/plain.txt
+case wordlist_env
+env LC_ALL=C WORDLIST=pers
+home h1
+args -l -d ../../en_US/en_US
+stdin in/latex.tex
+case p_without_home
+args -l -d ../../en_US/en_US -p in/pers.dic
+stdin in/latex.tex
+case p_missing
+home -
+args -l -d ../../en_US/en_US -p in/nonexistent.dic
+stdin in/latex.tex
+case p_latin1
+args -l -i ISO8859-1 -d ../../hunspell/base -p in/pers_latin1.dic
+stdin in/latin1.txt
+case p_latin1_utf8_dict
+env LC_ALL=C.UTF-8
+args -l -i ISO8859-1 -d ../../en_US/en_US -p in/pers_latin1.dic
+stdin in/latin1.txt
+case cwd_privdic
+home -
+args -l -d dict/cwdtest
+stdin in/words.txt
+case cwd_privdic_nohome
+args -l -d dict/cwdtest
+stdin in/words.txt
+case small_home
+home h1
+args -l -d dict/small
+stdin in/words.txt
+
+# ---- the pipe interface (-a)
+case pipe_commands
+args -a -d ../../en_US/en_US
+stdin in/pipe.txt
+case pipe_save
+home -
+args -a -d ../../en_US/en_US
+stdin in/pipe.txt
+file .hunspell_en_US
+case pipe_save_p
+home h2
+args -a -d ../../en_US/en_US -p existing
+stdin in/pipe.txt
+file existing
+case pipe_save_p_nodir
+home -
+args -a -d ../../en_US/en_US -p nodir/pers
+stdin in/pipe.txt
+file nodir/pers
+case pipe_save_nodefault
+home -
+args -a --no-default-personal -d ../../en_US/en_US
+stdin in/pipe.txt
+file .hunspell_en_US
+case pipe_save_nohome
+args -a -d ../../en_US/en_US
+stdin in/pipe_nohome.txt
+case pipe_save_latin1
+home -
+args -a -i ISO8859-1 -d ../../hunspell/base
+stdin in/pipe_latin1.txt
+file .hunspell_base
+case pipe_save_latin1_utf8
+env LC_ALL=C.UTF-8
+home -
+args -a -i ISO8859-1 -d ../../hunspell/base
+stdin in/pipe_latin1.txt
+file .hunspell_base
+case pipe_utf8
+args -a -i UTF-8 -d ../../en_US/en_US
+stdin in/utf8.txt
+case pipe_utf8_lowercase
+args -a -i utf-8 -d ../../en_US/en_US
+stdin in/utf8.txt
+case pipe_utf8_locale
+env LC_ALL=C.UTF-8
+args -a -d ../../en_US/en_US
+stdin in/utf8.txt
+case pipe_utf8_files
+env LC_ALL=C.UTF-8
+args -a -d ../../en_US/en_US in/utf8.txt in/utf8.txt
+case pipe_ascii_locale
+args -a -d ../../en_US/en_US
+stdin in/utf8.txt
+case pipe_html
+args -a -H -d ../../en_US/en_US
+stdin in/pipe_html.txt
+case pipe_html_url
+args -a -H --check-url -d ../../en_US/en_US
+stdin in/pipe_html.txt
+case pipe_keeps_mode
+args -a -m -s -S -w -L -u -U -u2 -u3 -d ../../en_US/en_US
+stdin in/plain.txt
+case pipe_then_l
+args -a -l -d ../../en_US/en_US
+stdin in/plain.txt
+case l_then_pipe
+args -l -a -d ../../en_US/en_US
+stdin in/plain.txt
+case pipe_files
+args -a -d ../../en_US/en_US in/plain.txt in/words.txt
+case pipe_trace
+args -a --trace -d dict/small
+stdin in/words.txt
+case pipe_warn
+args -a -d ../../hunspell/warn
+stdin in/warn.txt
+case pipe_warn_r
+args -a -r -d ../../hunspell/warn
+stdin in/warn.txt
+case pipe_compound
+args -a -d dict/ver
+stdin in/compound.txt
+case pipe_long_line
+args -a -d ../../en_US/en_US
+stdin in/long.txt
+case pipe_nul
+args -a -d ../../en_US/en_US
+stdin in/nulbyte.txt
+case pipe_latex_file
+args -a -d ../../en_US/en_US in/latex.tex
+
+# ---- normal mode (no option, standard input)
+case normal
+args -d ../../en_US/en_US
+stdin in/plain.txt
+case normal_version
+args -d dict/ver
+stdin in/compound.txt
+case normal_utf8
+env LC_ALL=C.UTF-8
+args -d ../../en_US/en_US
+stdin in/utf8.txt
+case normal_latin1_dict
+env LC_ALL=C.UTF-8
+args -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+case normal_latin1_ascii_locale
+args -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+
+# ---- word and line filters
+case l_stdin
+args -l -d ../../en_US/en_US
+stdin in/plain.txt
+case l_files
+args -l -d ../../en_US/en_US in/plain.txt in/words.txt
+case G_alone
+args -G -d ../../en_US/en_US
+stdin in/plain.txt
+case l_G
+args -l -G -d ../../en_US/en_US in/plain.txt in/words.txt
+case L_lines
+args -L -d ../../en_US/en_US
+stdin in/plain.txt
+case upperL_G
+args -L -G -d ../../en_US/en_US
+stdin in/plain.txt
+case w_words
+args -w -d ../../en_US/en_US
+stdin in/words.txt
+case w_G
+args -w -G -d ../../en_US/en_US in/words.txt
+case l_long_line
+args -l -d ../../en_US/en_US
+stdin in/long.txt
+case l_nul
+args -l -d ../../en_US/en_US
+stdin in/nulbyte.txt
+case check_url
+args -l --check-url -d ../../en_US/en_US
+stdin in/plain.txt
+case check_apostrophe
+args -l --check-apostrophe -i UTF-8 -d ../../en_US/en_US
+stdin in/apos.txt
+case check_apostrophe_latin1_dict
+args -a --check-apostrophe -i UTF-8 -d ../../hunspell/base
+stdin in/apos.txt
+case apostrophe_latin1_dict
+args -a -i UTF-8 -d ../../hunspell/base
+stdin in/apos.txt
+case apostrophe_utf8
+args -a -i UTF-8 -d ../../en_US/en_US
+stdin in/apos.txt
+case warn_l
+args -l -d ../../hunspell/warn
+stdin in/warn.txt
+case warn_l_r
+args -l -r -d ../../hunspell/warn
+stdin in/warn.txt
+
+# ---- automatic corrections
+case u_stdin
+args -u -d ../../en_US/en_US
+stdin in/plain.txt
+case upperU_stdin
+args -U -d ../../en_US/en_US
+stdin in/plain.txt
+case u2_stdin
+args -u2 -d ../../en_US/en_US
+stdin in/plain.txt
+case u3_stdin
+args -u3 -d ../../en_US/en_US
+stdin in/plain.txt
+case u3_files
+args -u3 -d ../../en_US/en_US in/plain.txt in/words.txt
+case U_latex
+args -U -t -d ../../en_US/en_US
+stdin in/latex.tex
+case U_html
+args -U -d ../../en_US/en_US in/page.html
+case U_xml_escape
+args -U -X -d ../../hunspell/base
+stdin in/doc.xml
+case U_odt
+args -U -d ../../en_US/en_US in/doc.odt
+case u_latin1
+args -u -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+case u3_latin1_utf8
+env LC_ALL=C.UTF-8
+args -u3 -i ISO8859-1 -d ../../hunspell/base in/latin1.txt
+case u_no_suggestion
+args -u3 -d dict/small
+stdin in/plain.txt
+
+# ---- stemming, analysis, suffixes, trace
+case s_stem
+args -s -d ../../en_US/en_US
+stdin in/stem.txt
+case m_analyze
+args -m -d ../../hunspell/morph
+stdin in/morphwords.txt
+case m_analyze_dot
+args -m -d ../../hunspell/morph
+stdin in/stem.txt
+case s_latin1
+env LC_ALL=C.UTF-8
+args -s -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+case m_latin1_ascii
+args -m -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+case S_suffix
+args -S -d dict/small
+stdin in/suffix.txt
+case S_suffix_morph
+args -S -d ../../hunspell/morph
+stdin in/morphwords.txt
+case trace
+args --trace -d dict/small
+stdin in/trace.txt
+case trace_l
+args --trace -l -d dict/small
+stdin in/trace.txt
+case trace_multi
+args --trace -l -d dict/small,../../hunspell/base
+stdin in/trace.txt
+case trace_latin1
+env LC_ALL=C.UTF-8
+args --trace -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+
+# ---- input formats
+case text_utf8
+env LC_ALL=C.UTF-8
+args -a -d ../../en_US/en_US
+stdin in/plain.txt
+case latex_t
+args -a -t -d ../../en_US/en_US
+stdin in/latex.tex
+case latex_t_utf8
+env LC_ALL=C.UTF-8
+args -l -t -d ../../en_US/en_US
+stdin in/latex.tex
+case latex_ext
+args -l -d ../../en_US/en_US in/latex.tex
+case latex_ext_8bit
+args -l -i ISO8859-1 -d ../../hunspell/base in/latex.tex
+case html_H
+args -a -H -d ../../en_US/en_US
+stdin in/page.html
+case html_H_utf8
+env LC_ALL=C.UTF-8
+args -l -H -d ../../en_US/en_US
+stdin in/page.html
+case html_ext
+args -l -i ISO8859-1 -d ../../hunspell/base in/page.html
+case xml_X
+args -a -X -d ../../en_US/en_US
+stdin in/doc.xml
+case xml_ext_utf8
+env LC_ALL=C.UTF-8
+args -l -d ../../en_US/en_US in/doc.xml
+case xml_ext_8bit
+args -l -i ISO8859-1 -d ../../hunspell/base in/doc.xml
+case man_n
+args -a -n -d ../../en_US/en_US
+stdin in/page.1
+case man_ext_utf8
+env LC_ALL=C.UTF-8
+args -l -d ../../en_US/en_US in/page.1
+case man_ext_8bit
+args -l -i ISO8859-1 -d ../../hunspell/base in/page.1
+case first_1
+args -a -1 -d ../../en_US/en_US
+stdin in/first.tsv
+case first_1_utf8
+env LC_ALL=C.UTF-8
+args -l -1 -d ../../en_US/en_US
+stdin in/first.tsv
+case odt
+args -l -d ../../en_US/en_US in/doc.odt
+case odt_pipe_utf8
+env LC_ALL=C.UTF-8
+args -a -d ../../en_US/en_US in/doc.odt
+case odt_8bit
+args -l -i ISO8859-1 -d ../../hunspell/base in/doc.odt
+case odt_insecure_name
+args -l -d ../../en_US/en_US in/words.txt in/doc+copy.odt
+case odt_not_zip
+args -l -d ../../en_US/en_US in/broken.odt in/words.txt
+nostderr
+case odt_no_content
+args -l -d ../../en_US/en_US in/nocontent.odt
+nostderr
+case odt_forced_on_xml
+args -l -O -d ../../en_US/en_US in/doc.xml
+nostderr
+case fodt_ext
+args -a -d ../../en_US/en_US in/flat.fodt
+case fodt_ext_8bit
+args -l -i ISO8859-1 -d ../../hunspell/base in/flat.fodt
+case odf_O_stdin
+env LC_ALL=C.UTF-8
+args -a -O -d ../../en_US/en_US
+stdin in/flat.fodt
+case odf_O_stdin_8bit
+args -l -O -i ISO8859-1 -d ../../hunspell/base
+stdin in/flat.fodt
+
+# ---- encodings
+case latin1_base
+args -a -i ISO8859-1 -d ../../hunspell/base
+stdin in/latin1.txt
+case latin1_alias
+args -l -i latin1 -d ../../hunspell/base
+stdin in/latin1.txt
+case latin1_no_i
+args -a -d ../../hunspell/base
+stdin in/latin1.txt
+case latin1_utf8_dict
+args -a -i ISO8859-1 -d ../../en_US/en_US
+stdin in/latin1.txt
+case utf8_latin1_dict
+args -a -i UTF-8 -d ../../hunspell/base
+stdin in/utf8.txt
+case utf8_latin1_dict_l
+env LC_ALL=C.UTF-8
+args -l -d ../../hunspell/base
+stdin in/utf8.txt
+case unknown_encoding
+args -l -i FOO-42 -d dict/small
+stdin in/plain.txt
+case unknown_encoding_latin1_dict
+args -a -i FOO-42 -d ../../hunspell/base
+stdin in/latin1.txt
+case latin2_input
+args -l -i ISO8859-2 -d ../../en_US/en_US
+stdin in/latin1.txt
+
+# ---- analyze
+case analyze_morph
+tool analyze
+args ../../hunspell/morph.aff ../../hunspell/morph.dic in/morphwords.txt
+case analyze_en_us
+tool analyze
+args ../../en_US/en_US.aff ../../en_US/en_US.dic in/words.txt
+case analyze_errors
+tool analyze
+args dict/badflags.aff dict/badflags.dic in/words.txt
+case analyze_usage
+tool analyze
+case analyze_one_arg
+tool analyze
+args ../../hunspell/morph.aff
+case analyze_two_args
+tool analyze
+args ../../hunspell/morph.aff ../../hunspell/morph.dic
+case analyze_missing_file
+tool analyze
+args ../../hunspell/morph.aff ../../hunspell/morph.dic in/nonexistent.txt
+
+# ---- chmorph
+case chmorph_past
+tool chmorph
+args ../../hunspell/morph.aff ../../hunspell/morph.dic in/chmorph.txt is:sg_3 is:past_2
+case chmorph_nomatch
+tool chmorph
+args ../../hunspell/morph.aff ../../hunspell/morph.dic in/chmorph.txt is:nothing is:past_2
+case chmorph_long
+tool chmorph
+args ../../hunspell/morph.aff ../../hunspell/morph.dic in/long.txt po:noun po:verb
+case chmorph_usage
+tool chmorph
+args a b c d
+case chmorph_missing_file
+tool chmorph
+args ../../hunspell/morph.aff ../../hunspell/morph.dic in/nonexistent.txt a b
+
+# ---- more corners
+case pipe_save_abs
+home h2
+args -a -d ../../en_US/en_US -p @HOME@/existing
+stdin in/pipe.txt
+file existing
+case apostrophe_utf8_dict
+args -a -i UTF-8 -d ../../hunspell/base_utf
+stdin in/apos.txt
+case unknown_dict_encoding
+env LC_ALL=C.UTF-8
+args -a -d dict/unkenc
+stdin in/words.txt
+case unknown_dict_encoding_8bit
+args -l -d dict/unkenc
+stdin in/words.txt
+case man_n_utf8
+env LC_ALL=C.UTF-8
+args -a -n -d ../../en_US/en_US
+stdin in/page.1
+case xml_X_utf8
+env LC_ALL=C.UTF-8
+args -a -X -d ../../en_US/en_US
+stdin in/doc.xml
+case html_ext_utf8
+env LC_ALL=C.UTF-8
+args -a -d ../../en_US/en_US in/page.html
+case latex_ext_utf8
+env LC_ALL=C.UTF-8
+args -a -d ../../en_US/en_US in/latex.tex
+case default_dicpath_home
+env LC_ALL=C DICPATH=dict
+home h1
+args -l -d small
+stdin in/words.txt
+case no_extension
+args -l -d ../../en_US/en_US in/noext
+case odt_bad_crc
+args -l -d ../../en_US/en_US in/badcrc.odt
+nostderr
+case odt_bad_method
+args -l -d ../../en_US/en_US in/badmethod.odt in/words.txt
+nostderr
+case colons
+args -a -d ../../hunspell/colons_in_words
+stdin in/plain.txt
+case bad_utf8
+args -a -i UTF-8 -d ../../en_US/en_US
+stdin in/badutf8.txt
+case bad_utf8_latin1_dict
+args -a -i UTF-8 -d ../../hunspell/base
+stdin in/badutf8.txt
+case bad_utf8_l
+env LC_ALL=C.UTF-8
+args -l -t -d ../../en_US/en_US
+stdin in/badutf8.txt
+
+# ---- locales (made with localedef, see golden_test.go)
+case locale_latin1
+env LC_ALL=de_DE.ISO-8859-1
+args -a -d ../../hunspell/base
+stdin in/latin1.txt
+case locale_latin1_default_dict
+env LC_ALL=de_DE.ISO-8859-1 DICPATH=dict
+args -l
+stdin in/latin1.txt
+case locale_without_codeset
+env LC_ALL=de_DE
+args -u -d ../../en_US/en_US
+stdin in/latin1.txt
+case locale_modifier
+env LC_ALL=sr_RS.UTF-8@latin
+args -a -d ../../en_US/en_US
+stdin in/utf8.txt
+case locale_modifier_default_dict
+env LC_ALL=sr_RS.UTF-8@latin DICPATH=dict
+args -l
+stdin in/utf8.txt
+case locale_koi8
+env LC_ALL=ru_RU.KOI8-R
+args -a -d ../../en_US/en_US
+stdin in/utf8.txt
+case locale_lc_ctype
+env LC_CTYPE=de_DE.ISO-8859-1 LANG=C
+args -a -d ../../hunspell/base
+stdin in/latin1.txt
+case apostrophe_ascii_utf8_dict
+args -a -i UTF-8 -d dict/apos
+stdin in/apos.txt
+case apostrophe_ascii_utf8_dict_r
+args -l -r -i UTF-8 -d dict/apos,../../hunspell/warn
+stdin in/apos.txt

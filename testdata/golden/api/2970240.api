@@ -1,0 +1,475 @@
+# example: first
+> FIRST
+  spell 1 32 
+  sug FIRST
+  ana  st:first
+  stem first
+  stemmorph first
+> FIRSTMIDDLELAST
+  spell 1 33 first
+  sug FIRSTMIDDLELAST
+  ana  pa:first st:first pa:middle st:middle pa:last
+  stem firstmiddle
+  stemmorph firstmiddle
+> First
+  spell 1 32 
+  sug first
+  ana  st:first
+  stem first
+  stemmorph first
+> Firstmiddlelast
+  spell 1 33 first
+  sug firstmiddlelast
+  ana  pa:first st:first pa:middle st:middle pa:last
+  stem firstmiddle
+  stemmorph firstmiddle
+> LAST
+  spell 1 32 
+  sug LAST
+  ana  st:last
+  stem last
+  stemmorph last
+> LASTMIDDLEFIRST
+  spell 0 32 
+> Last
+  spell 1 32 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> Lastmiddlefirst
+  spell 0 32 
+> MIDDLE
+  spell 1 32 
+  sug MIDDLE
+  ana  st:middle
+  stem middle
+  stemmorph middle
+> Middle
+  spell 1 32 
+  sug middle
+  ana  st:middle
+  stem middle
+  stemmorph middle
+> alst
+  spell 0 0 
+  sug last
+> dast
+  spell 0 0 
+  sug last
+> eiddle
+  spell 0 0 
+  sug middle
+> fairst
+  spell 0 0 
+  sug first
+> feirst
+  spell 0 0 
+  sug first
+> fidrst
+  spell 0 0 
+  sug first
+> firs
+  spell 0 0 
+  sug first
+> firslt
+  spell 0 0 
+  sug first
+> firsstmiddlelast
+  spell 0 0 
+  sug firstmiddlelast
+> first
+  spell 1 0 
+  sug first
+  ana  st:first
+  stem first
+  stemmorph first
+> first-last
+  spell 1 1 
+  sug firstlast
+> first.
+  spell 1 0 
+  sug first
+  ana  st:first
+  stem first
+  stemmorph first
+> firsta
+  spell 0 0 
+  sug first
+> firstfirst
+  spell 1 1 first
+  sug first first
+  ana  pa:first st:first pa:first
+  stem first
+  stemmorph first
+> firstfirstmiddlelast
+  spell 1 1 first
+  sug firstfirst middlelast
+  ana  pa:first st:first pa:first st:first pa:middle st:middle pa:last
+  stem firstfirstmiddle
+  stemmorph firstfirstmiddle
+> firstlastmiddlefirst
+  spell 0 0 
+> firstmiddellast
+  spell 0 0 
+  sug firstmiddlelast
+> firstmiddle
+  spell 1 1 first
+  sug first middle
+  sug firstmiddle
+  ana  pa:first st:first pa:middle
+  stem first
+  stemmorph first
+> firstmiddledast
+  spell 0 0 
+> firstmiddlelas
+  spell 0 0 
+> firstmiddlelast
+  spell 1 1 first
+  sug firstmiddlelast
+  ana  pa:first st:first pa:middle st:middle pa:last
+  stem firstmiddle
+  stemmorph firstmiddle
+> firstmiddlelast-first
+  spell 1 1 
+  sug firstmiddlelastfirst
+> firstmiddlelast-middle
+  spell 1 1 
+  sug firstmiddlelastmiddle
+> firstmiddlelast.
+  spell 1 1 first
+  sug firstmiddlelast
+  ana  pa:first st:first pa:middle st:middle pa:last
+  stem firstmiddle
+  stemmorph firstmiddle
+> firstmiddlelastfirst
+  spell 1 1 first
+  sug firstmiddle lastfirst
+  ana  pa:first st:first pa:middle st:middle pa:last st:last pa:first
+  stem firstmiddlelast
+  stemmorph firstmiddlelast
+> firstmiddlelastlast
+  spell 1 1 first
+  sug firstmiddle lastlast
+  ana  pa:first st:first pa:middle st:middle pa:last st:last pa:last
+  stem firstmiddlelast
+  stemmorph firstmiddlelast
+> firstmiddlelastlastmiddlefirst
+  spell 0 0 
+> firstmiddlelastmiddle
+  spell 1 1 first
+  sug firstmiddle lastmiddle
+  ana  pa:first st:first pa:middle st:middle pa:last st:last pa:middle
+  stem firstmiddlelast
+  stemmorph firstmiddlelast
+> firstmiddlelastr
+  spell 0 0 
+  sug firstmiddlelast
+> firstmiddlelist
+  spell 0 0 
+> firstmiddlellast
+  spell 0 0 
+  sug firstmiddlelast
+> firstmiddselast
+  spell 0 0 
+> firstr
+  spell 0 0 
+  sug first
+> firt
+  spell 0 0 
+  sug first
+> frist
+  spell 0 0 
+  sug first
+> ifrst
+  spell 0 0 
+  sug first
+> ladt
+  spell 0 0 
+  sug last
+> las
+  spell 0 0 
+  sug last
+> lasmiddlefirst
+  spell 0 0 
+> lasst
+  spell 0 0 
+  sug last
+> last
+  spell 1 0 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> last-first
+  spell 1 1 
+  sug lastfirst
+> last-last
+  spell 1 1 
+  sug lastlast
+> last-lastmiddlefirst
+  spell 0 0 
+> last-middle
+  spell 1 1 
+  sug lastmiddle
+> last.
+  spell 1 0 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> lastfirst
+  spell 1 1 last
+  sug last first
+  sug first
+  ana  pa:last st:last pa:first
+  stem last
+  stemmorph last
+> lastimiddlefirst
+  spell 0 0 
+> lastlastmiddlefirst
+  spell 0 0 
+> lastmiddle
+  spell 1 1 last
+  sug last middle
+  sug lastmiddle
+  ana  pa:last st:last pa:middle
+  stem last
+  stemmorph last
+> lastmiddledirst
+  spell 0 0 
+> lastmiddlefirst
+  spell 0 0 
+> lastmiddlefirst-first
+  spell 0 0 
+> lastmiddlefirst-lastmiddlefirst
+  spell 0 0 
+> lastmiddlefirst.
+  spell 0 0 
+> lastmiddlefirstfirstmiddlelast
+  spell 0 0 
+  sug lastmiddle firstfirstmiddlelast
+> lastmiddlefirstlast
+  spell 0 0 
+  sug lastmiddle firstlast
+> lastmiddlefirstmiddle
+  spell 0 0 
+  sug lastmiddle firstmiddle
+> lastmiddlefirts
+  spell 0 0 
+> lastmiddlefisrt
+  spell 0 0 
+> lastmiddlefist
+  spell 0 0 
+> lastmiddlelfirst
+  spell 0 0 
+> lastmirdlefirst
+  spell 0 0 
+> latsmiddlefirst
+  spell 0 0 
+> lrastmiddlefirst
+  spell 0 0 
+> lsat
+  spell 0 0 
+  sug last
+> lst
+  spell 0 0 
+  sug last
+> meddle
+  spell 0 0 
+  sug middle
+> midde
+  spell 0 0 
+  sug middle
+> middl
+  spell 0 0 
+  sug middle
+> middld
+  spell 0 0 
+  sug middle
+> middle
+  spell 1 0 
+  sug middle
+  ana  st:middle
+  stem middle
+  stemmorph middle
+> middle-first
+  spell 1 1 
+> middle-last
+  spell 1 1 
+  sug middlelast
+> middle.
+  spell 1 0 
+  sug middle
+  ana  st:middle
+  stem middle
+  stemmorph middle
+> middlee
+  spell 0 0 
+  sug middle
+> middlelastmiddlefirst
+  spell 0 0 
+> middlemiddle
+  spell 1 1 middle
+  sug middle middle
+  sug middlemiddle
+  ana  pa:middle st:middle pa:middle
+  stem middle
+  stemmorph middle
+> middlet
+  spell 0 0 
+  sug middle
+> midsdle
+  spell 0 0 
+  sug middle
+> rast
+  spell 0 0 
+  sug last
+> rirstmiddlelast
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+  sug last
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> last's
+  spell 0 0 
+  sug last
+> lastâ€™s
+  spell 0 0 
+  sug last
+> 'last'
+  spell 0 0 
+  sug last
+> l'last
+  spell 0 0 
+  sug last
+> last.
+  spell 1 0 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> last..
+  spell 1 0 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> .last
+  spell 0 0 
+  sug last
+> ...
+  spell 1 0 
+> -last
+  spell 1 1 
+  sug last
+> last-
+  spell 1 1 
+  sug last
+> last--first
+  spell 1 1 
+> last-first-last
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> LAST
+  spell 1 32 
+  sug LAST
+  ana  st:last
+  stem last
+  stemmorph last
+> LAST
+  spell 1 32 
+  sug LAST
+  ana  st:last
+  stem last
+  stemmorph last
+> Last
+  spell 1 32 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> last first
+  spell 0 0 
+  sug lastfirst
+>  last
+  spell 1 0 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> last 
+  spell 0 0 
+  sug last
+> last	first
+  spell 0 0 
+  sug lastfirst
+> ÿþlast
+  spell 0 0 
+  sug last
+> lastÃ
+  spell 0 32 
+  sug last
+> €last
+  spell 0 0 
+  sug last
+> ð€last
+  spell 0 0 
+> Ä°last
+  spell 0 32 
+  sug Last
+> lastÃŸ
+  spell 0 32 
+  sug last
+> last
+  spell 1 0 
+  sug last
+  ana  st:last
+  stem last
+  stemmorph last
+> LASTSS
+  spell 0 32 
+  sug LAST
+> <?xml?><query type="analyze"><word>last</word></query>
+  spell 0 0 
+  sug <code><a> st:last</a></code>
+> <?xml?><query type="stem"><word>last</word></query>
+  spell 0 0 
+  sug last
+> <?xml?><query type="suggest"><word>lastx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>last</word><word>first</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>last</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>last</word></query>
+  spell 0 0 
+  sug <code><a> st:last</a></code>
+> <?xml?><query type="add"><word>last</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;last&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>last</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

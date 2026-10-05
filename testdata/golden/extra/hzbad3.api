@@ -1,0 +1,8 @@
+# example: 
+# aff: longline.aff
+# dic: hz/bad3.dic
+! Hash Manager Error : 2
+! error: empty dic file hz/bad3.dic
+! error: hz/bad3.dic.hz: not in hzip format
+> foo
+  spell 0 0 

@@ -1,0 +1,50 @@
+# Hungarian (LANG hu_HU) special cases: syllables, moving rule, dashes
+SET UTF-8
+LANG hu_HU
+TRY aálmzkrtehsbnvoóöőiíuúüűéEO-
+WORDCHARS -.%0123456789
+COMPOUNDFLAG X
+COMPOUNDBEGIN B
+COMPOUNDEND E
+COMPOUNDWORDMAX 2
+COMPOUNDSYLLABLE 4 aáeéiíoóöőuúüű
+SYLLABLENUM cJI
+COMPOUNDROOT R
+COMPOUNDPERMITFLAG W
+FORBIDDENWORD !
+ONLYINCOMPOUND O
+CHECKCOMPOUNDREP
+REP 1
+REP x ksz
+ICONV 4
+ICONV 0__ 0
+ICONV 1__ 1
+ICONV .__ .
+ICONV e__ e
+
+PFX P Y 1
+PFX P 0 ele/W .
+
+PFX Q Y 1
+PFX Q 0 be .
+
+SFX c Y 1
+SFX c 0 nak .
+
+SFX J Y 1
+SFX J 0 ban .
+
+SFX I Y 1
+SFX I 0 val .
+
+SFX K Y 1
+SFX K 0 ni/Z .
+
+SFX Z Y 1
+SFX Z 0 s .
+
+SFX x Y 1
+SFX x 0 ó/X .
+
+SFX L Y 1
+SFX L 0 hoz .

@@ -1,0 +1,15 @@
+kind html
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change wrold world
+change titel title"<&>'
+---
+<html><head><title>Titel</title><style>colr</style><script>var x;</script></head>
+<!-- coment
+still comment --> after
+<p>Hello wrold &amp; caf&eacute; na&iuml;ve &Agrave;lle d&apos;Arc it&apos;s</p>
+<img src="p.png" alt="a picturre" title="titel txt"> <IMG ALT='Upper casse'>
+<a href="x" title="link titel">link</a> <a title="t">no</a>
+<pre>pre</pre> <code>c</code> <kbd>k</kbd> <var>v</var> <samp>s</samp> <address>a</address> <listing>l</listing>
+<![CDATA[ cdata ]]> <x a="b&amp;c d"> &ent &nbsp;sp &lt;t&gt;
+unterminated &entity
+continues; here

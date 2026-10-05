@@ -1,0 +1,13 @@
+utf8 0
+line [hello\x09world]
+token 5 [hello] word [hello]
+change [hellohihello\x09world]
+skip 1 [hellohihello]
+line [wrold\x09foo\x09bar]
+token 5 [wrold] word [wrold]
+line [no tab here]
+line [\x09leading]
+prev 0 [\x09leading]
+prev 1 [no tab here]
+prev 2 [wrold\x09foo\x09bar]
+prev 3 [hellohihello\x09world]

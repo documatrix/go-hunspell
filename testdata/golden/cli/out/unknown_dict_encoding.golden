@@ -1,0 +1,26 @@
+exit 0
+stdout 127
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+# hello 0
+
+# wrold 0
+
+# tset 0
+
+# forbidden 0
+
+
+# NASA 0
+
+stderr 462
+error - iconv_open: X-UNKNOWN-42 -> UTF-8
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42
+error - iconv_open: UTF-8 -> X-UNKNOWN-42

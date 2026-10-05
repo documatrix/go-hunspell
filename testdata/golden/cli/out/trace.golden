@@ -1,0 +1,48 @@
+exit 0
+stdout 1360
+word "hello"
+  lookup "hello" -> entry "hello" flags=S
+  result correct
+word "worlds"
+  lookup "worlds" -> miss
+  pfx "worlds" candidates=0
+  sfx flag=S strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+    stem "world"
+    test condition cond="." on "world" -> pass
+    lookup "world" -> entry "world" flags=S
+    test sfx-aflag flag=S in=dic have=S -> pass
+    accept
+  form "worlds" = "world" + sfx(S:"s")
+  result correct
+word "wrold"
+  lookup "wrold" -> miss
+  pfx "wrold" candidates=0
+  sfx "wrold" candidates=0
+  result incorrect
+word "HELLO"
+  lookup "HELLO" -> miss
+  pfx "HELLO" candidates=0
+  sfx "HELLO" candidates=0
+  lookup "Hello" -> miss
+  pfx "Hello" candidates=0
+  sfx "Hello" candidates=0
+  lookup "hello" -> entry "hello" flags=S
+  result correct
+word "Tests"
+  lookup "Tests" -> miss
+  pfx "Tests" candidates=0
+  sfx flag=S strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+    stem "Test"
+    test condition cond="." on "Test" -> pass
+    lookup "Test" -> miss
+  lookup "tests" -> miss
+  pfx "tests" candidates=0
+  sfx flag=S strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+    stem "test"
+    test condition cond="." on "test" -> pass
+    lookup "test" -> entry "test" flags=S
+    test sfx-aflag flag=S in=dic have=S -> pass
+    accept
+  form "tests" = "test" + sfx(S:"s")
+  result correct
+stderr 0

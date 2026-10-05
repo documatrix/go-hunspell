@@ -1,0 +1,10 @@
+exit 0
+stdout 129
+Line 1: caf -> can't
+Line 2: The -> Text
+Line 2: to -> text
+Line 3: decreate. -> recreate
+Line 4: can -> can't
+Line 4: t -> text
+stderr 43
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968

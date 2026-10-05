@@ -1,0 +1,889 @@
+# example: 0
+> %
+  spell 1 0 
+  sug %
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> %-.
+  spell 1 1 
+  sug %
+> %.
+  spell 1 0 
+  sug %
+  sug .
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> %10
+  spell 0 0 
+  sug 10
+> %8
+  spell 0 0 
+  sug %
+  sug 8
+  sug 8%
+> %‰
+  spell 0 0 
+  sug %
+  sug ‰
+  sug % ‰
+> .
+  spell 1 0 
+  ana  st:. po:sign_dot
+  stem .
+  stemmorph .
+> .-3
+  spell 1 1 
+> ..
+  spell 1 0 
+> ..25
+  spell 0 0 
+> .0000
+  spell 0 0 
+  sug 0.000
+  sug 00.00
+  sug 000.0
+> .10
+  spell 0 0 
+  sug 10
+> .25
+  spell 0 0 
+  sug 25
+> .25.
+  spell 0 0 
+  sug 25
+> .3
+  spell 0 0 
+  sug .
+  sug 3
+> .6
+  spell 0 0 
+  sug .
+  sug 6
+> .9
+  spell 0 0 
+  sug .
+  sug 9
+> 0
+  spell 1 0 
+  sug 0
+  ana  st:0 po:num
+  stem 0
+  stemmorph 0
+> 0.
+  spell 1 0 
+  sug 0
+  sug .
+  ana  st:0 po:num
+  stem 0
+  stemmorph 0
+> 0.2%
+  spell 1 1 0
+  sug 0.2%
+  sug 2.0%
+  sug 0.2
+  sug 02%
+  ana  pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:% st:% po:sign_percent
+  stem 0.2%
+  stemmorph 0.2%
+> 0.2%.
+  spell 1 1 0
+  sug 0.2%
+  sug 2.0%
+  sug 0.2
+  sug 02%
+  ana  pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:% st:% po:sign_percent
+  stem 0.2%
+  stemmorph 0.2%
+> 0.2%0.2%
+  spell 0 0 
+  sug 0.2% 0.2%
+> 0.2%2
+  spell 0 0 
+  sug 0.22%
+  sug 02.2%
+  sug 0.2%
+  sug 0.22
+> 0.20%
+  spell 1 1 0
+  sug 0.20%
+  sug 02.0%
+  sug 0.02%
+  ana  pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 0.20%
+  stemmorph 0.20%
+> 0.20%.
+  spell 1 1 0
+  sug 0.20%
+  sug 02.0%
+  sug 0.02%
+  ana  pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 0.20%
+  stemmorph 0.20%
+> 0000
+  spell 1 0 
+  sug 00 00
+  ana  pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num
+  stem 0000
+  stemmorph 0000
+> 0000.
+  spell 1 0 
+  sug 00 00
+  sug 000.0
+  sug 0.000
+  sug 00.00
+  ana  pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num
+  stem 0000
+  stemmorph 0000
+> 01.25
+  spell 1 0 
+  sug 01.25
+  sug 10.25
+  sug 0.125
+  sug 012.5
+  sug 01.52
+  sug 10.52
+  sug 0.152
+  ana  pa:0 st:0 po:num pa:1 st:1 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:5 st:5 po:num
+  stem 01.25
+  stemmorph 01.25
+> 020%
+  spell 1 1 0
+  sug 02 0%
+  ana  pa:0 st:0 po:num pa:2 st:2 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 020%
+  stemmorph 020%
+> 04
+  spell 1 0 
+  sug 0
+  sug 4
+  sug 04
+  sug 40
+  ana  pa:0 st:0 po:num pa:4 st:4 po:num
+  stem 04
+  stemmorph 04
+> 06
+  spell 1 0 
+  sug 0
+  sug 6
+  sug 06
+  sug 60
+  ana  pa:0 st:0 po:num pa:6 st:6 po:num
+  stem 06
+  stemmorph 06
+> 0‰
+  spell 1 1 0
+  sug 0
+  sug ‰
+  sug 0 ‰
+  sug 0‰
+  ana  pa:0 st:0 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 0‰
+  stemmorph 0‰
+> 1
+  spell 1 0 
+  sug 1
+  ana  st:1 po:num
+  stem 1
+  stemmorph 1
+> 1%
+  spell 1 1 1
+  sug 1
+  sug %
+  sug 1%
+  ana  pa:1 st:1 po:num pa:% st:% po:sign_percent
+  stem 1%
+  stemmorph 1%
+> 1%0
+  spell 0 0 
+  sug 1%
+  sug 10
+> 1-10
+  spell 1 0 
+  sug 110
+> 1.
+  spell 1 0 
+  sug 1
+  sug .
+  ana  st:1 po:num
+  stem 1
+  stemmorph 1
+> 10
+  spell 1 0 
+  sug 1
+  sug 0
+  sug 10
+  sug 01
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num
+  stem 10
+  stemmorph 10
+> 10%
+  spell 1 1 1
+  sug 10
+  sug 1%
+  sug 0%
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 10%
+  stemmorph 10%
+> 10%-0000
+  spell 1 1 
+> 10%.
+  spell 1 1 1
+  sug 10
+  sug 1%
+  sug 0%
+  sug 10%
+  sug 1.0%
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 10%
+  stemmorph 10%
+> 10%4
+  spell 0 0 
+  sug 104%
+  sug 014%
+  sug 10%
+  sug 104
+> 10-.
+  spell 1 1 
+  sug 10
+> 10-10%
+  spell 1 1 
+  sug 1010%
+> 10.2
+  spell 1 0 
+  sug 10.2
+  sug 01.2
+  sug 1.02
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num
+  stem 10.2
+  stemmorph 10.2
+> 10.25
+  spell 1 0 
+  sug 10.25
+  sug 01.25
+  sug 1.025
+  sug 102.5
+  sug 10.52
+  sug 01.52
+  sug 1.052
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:5 st:5 po:num
+  stem 10.25
+  stemmorph 10.25
+> 10.25.
+  spell 1 0 
+  sug 10.25
+  sug 01.25
+  sug 1.025
+  sug 102.5
+  sug 10.52
+  sug 01.52
+  sug 1.052
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:5 st:5 po:num
+  stem 10.25
+  stemmorph 10.25
+> 10.250.20%
+  spell 0 0 
+  sug 10.25020%
+  sug 10250.20%
+  sug 10.2 50.20%
+  sug 10.25 0.20%
+> 10.285
+  spell 1 0 
+  sug 10.285
+  sug 01.285
+  sug 1.0285
+  sug 102.85
+  sug 10.825
+  sug 10.258
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:8 st:8 po:num pa:5 st:5 po:num
+  stem 10.285
+  stemmorph 10.285
+> 100.2%
+  spell 1 1 1
+  sug 100.2%
+  sug 010.2%
+  sug 10.02%
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:% st:% po:sign_percent
+  stem 100.2%
+  stemmorph 100.2%
+> 102
+  spell 1 0 
+  sug 10
+  sug 12
+  sug 02
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:2 st:2 po:num
+  stem 102
+  stemmorph 102
+> 102.25
+  spell 1 0 
+  sug 102.25
+  sug 012.25
+  sug 120.25
+  sug 10.225
+  sug 1022.5
+  sug 102.52
+  ana  pa:1 st:1 po:num pa:0 st:0 po:num pa:2 st:2 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:5 st:5 po:num
+  stem 102.25
+  stemmorph 102.25
+> 123.4261‰
+  spell 1 1 1
+  sug 123.4261‰
+  sug 213.4261‰
+  sug 132.4261‰
+  sug 12.34261‰
+  sug 1234.261‰
+  sug 123.2461‰
+  sug 123.4621‰
+  sug 123.4216‰
+  ana  pa:1 st:1 po:num pa:2 st:2 po:num pa:3 st:3 po:num pa:. st:. po:sign_dot pa:4 st:4 po:num pa:2 st:2 po:num pa:6 st:6 po:num pa:1 st:1 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 123.4261‰
+  stemmorph 123.4261‰
+> 123.4561‰
+  spell 1 1 1
+  sug 123.4561‰
+  sug 213.4561‰
+  sug 132.4561‰
+  sug 12.34561‰
+  sug 1234.561‰
+  sug 123.5461‰
+  sug 123.4651‰
+  sug 123.4516‰
+  ana  pa:1 st:1 po:num pa:2 st:2 po:num pa:3 st:3 po:num pa:. st:. po:sign_dot pa:4 st:4 po:num pa:5 st:5 po:num pa:6 st:6 po:num pa:1 st:1 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 123.4561‰
+  stemmorph 123.4561‰
+> 123.4561‰-1
+  spell 1 1 
+> 123.4561‰-10
+  spell 1 1 
+> 123.4561‰.
+  spell 1 1 1
+  sug 123.4561‰
+  sug 213.4561‰
+  sug 132.4561‰
+  sug 12.34561‰
+  sug 1234.561‰
+  sug 123.5461‰
+  sug 123.4651‰
+  sug 123.4516‰
+  ana  pa:1 st:1 po:num pa:2 st:2 po:num pa:3 st:3 po:num pa:. st:. po:sign_dot pa:4 st:4 po:num pa:5 st:5 po:num pa:6 st:6 po:num pa:1 st:1 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 123.4561‰
+  stemmorph 123.4561‰
+> 123.4651‰
+  spell 1 1 1
+  sug 123.4651‰
+  sug 213.4651‰
+  sug 132.4651‰
+  sug 12.34651‰
+  sug 1234.651‰
+  sug 123.6451‰
+  sug 123.4561‰
+  sug 123.4615‰
+  ana  pa:1 st:1 po:num pa:2 st:2 po:num pa:3 st:3 po:num pa:. st:. po:sign_dot pa:4 st:4 po:num pa:6 st:6 po:num pa:5 st:5 po:num pa:1 st:1 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 123.4651‰
+  stemmorph 123.4651‰
+> 150%
+  spell 1 1 1
+  sug 15 0%
+  ana  pa:1 st:1 po:num pa:5 st:5 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 150%
+  stemmorph 150%
+> 19
+  spell 1 0 
+  sug 1
+  sug 9
+  sug 19
+  sug 91
+  ana  pa:1 st:1 po:num pa:9 st:9 po:num
+  stem 19
+  stemmorph 19
+> 1‰
+  spell 1 1 1
+  sug 1
+  sug ‰
+  sug 1 ‰
+  sug 1‰
+  ana  pa:1 st:1 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 1‰
+  stemmorph 1‰
+> 2
+  spell 1 0 
+  sug 2
+  ana  st:2 po:num
+  stem 2
+  stemmorph 2
+> 2-0.2%
+  spell 1 1 
+  sug 20.2%
+> 2-4
+  spell 1 0 
+  sug 24
+> 2.
+  spell 1 0 
+  sug 2
+  sug .
+  ana  st:2 po:num
+  stem 2
+  stemmorph 2
+> 20.20%
+  spell 1 1 2
+  sug 20.20%
+  sug 02.20%
+  sug 2.020%
+  sug 202.0%
+  sug 20.02%
+  ana  pa:2 st:2 po:num pa:0 st:0 po:num pa:. st:. po:sign_dot pa:2 st:2 po:num pa:0 st:0 po:num pa:% st:% po:sign_percent
+  stem 20.20%
+  stemmorph 20.20%
+> 20000
+  spell 1 0 
+  sug 20000
+  sug 02000
+  sug 00200
+  sug 00020
+  sug 00002
+  ana  pa:2 st:2 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num
+  stem 20000
+  stemmorph 20000
+> 27
+  spell 1 0 
+  sug 2
+  sug 7
+  sug 27
+  sug 72
+  ana  pa:2 st:2 po:num pa:7 st:7 po:num
+  stem 27
+  stemmorph 27
+> 2‰
+  spell 1 1 2
+  sug 2
+  sug ‰
+  sug 2 ‰
+  sug 2‰
+  ana  pa:2 st:2 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 2‰
+  stemmorph 2‰
+> 3
+  spell 1 0 
+  sug 3
+  ana  st:3 po:num
+  stem 3
+  stemmorph 3
+> 3-1
+  spell 1 0 
+  sug 31
+> 3-7
+  spell 1 0 
+  sug 37
+> 3.
+  spell 1 0 
+  sug 3
+  sug .
+  ana  st:3 po:num
+  stem 3
+  stemmorph 3
+> 30000
+  spell 1 0 
+  sug 30000
+  sug 03000
+  sug 00300
+  sug 00030
+  sug 00003
+  ana  pa:3 st:3 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num
+  stem 30000
+  stemmorph 30000
+> 32
+  spell 1 0 
+  sug 3
+  sug 2
+  sug 32
+  sug 23
+  ana  pa:3 st:3 po:num pa:2 st:2 po:num
+  stem 32
+  stemmorph 32
+> 39
+  spell 1 0 
+  sug 3
+  sug 9
+  sug 39
+  sug 93
+  ana  pa:3 st:3 po:num pa:9 st:9 po:num
+  stem 39
+  stemmorph 39
+> 4
+  spell 1 0 
+  sug 4
+  ana  st:4 po:num
+  stem 4
+  stemmorph 4
+> 4-.
+  spell 1 1 
+  sug 4
+> 4-6
+  spell 1 0 
+  sug 46
+> 4.
+  spell 1 0 
+  sug 4
+  sug .
+  ana  st:4 po:num
+  stem 4
+  stemmorph 4
+> 43
+  spell 1 0 
+  sug 4
+  sug 3
+  sug 43
+  sug 34
+  ana  pa:4 st:4 po:num pa:3 st:3 po:num
+  stem 43
+  stemmorph 43
+> 48
+  spell 1 0 
+  sug 4
+  sug 8
+  sug 48
+  sug 84
+  ana  pa:4 st:4 po:num pa:8 st:8 po:num
+  stem 48
+  stemmorph 48
+> 49
+  spell 1 0 
+  sug 4
+  sug 9
+  sug 49
+  sug 94
+  ana  pa:4 st:4 po:num pa:9 st:9 po:num
+  stem 49
+  stemmorph 49
+> 5
+  spell 1 0 
+  sug 5
+  ana  st:5 po:num
+  stem 5
+  stemmorph 5
+> 5-‰
+  spell 1 1 
+  sug 5‰
+> 58
+  spell 1 0 
+  sug 5
+  sug 8
+  sug 58
+  sug 85
+  ana  pa:5 st:5 po:num pa:8 st:8 po:num
+  stem 58
+  stemmorph 58
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6 po:num
+  stem 6
+  stemmorph 6
+> 6-3
+  spell 1 0 
+  sug 63
+> 6.
+  spell 1 0 
+  sug 6
+  sug .
+  ana  st:6 po:num
+  stem 6
+  stemmorph 6
+> 60
+  spell 1 0 
+  sug 6
+  sug 0
+  sug 60
+  sug 06
+  ana  pa:6 st:6 po:num pa:0 st:0 po:num
+  stem 60
+  stemmorph 60
+> 7
+  spell 1 0 
+  sug 7
+  ana  st:7 po:num
+  stem 7
+  stemmorph 7
+> 7-.25
+  spell 0 0 
+  sug 7-25
+  sug 7.25
+> 7000
+  spell 1 0 
+  sug 70 00
+  ana  pa:7 st:7 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num
+  stem 7000
+  stemmorph 7000
+> 70000
+  spell 1 0 
+  sug 70000
+  sug 07000
+  sug 00700
+  sug 00070
+  sug 00007
+  ana  pa:7 st:7 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num pa:0 st:0 po:num
+  stem 70000
+  stemmorph 70000
+> 71
+  spell 1 0 
+  sug 7
+  sug 1
+  sug 71
+  sug 17
+  ana  pa:7 st:7 po:num pa:1 st:1 po:num
+  stem 71
+  stemmorph 71
+> 74
+  spell 1 0 
+  sug 7
+  sug 4
+  sug 74
+  sug 47
+  ana  pa:7 st:7 po:num pa:4 st:4 po:num
+  stem 74
+  stemmorph 74
+> 8
+  spell 1 0 
+  sug 8
+  ana  st:8 po:num
+  stem 8
+  stemmorph 8
+> 81
+  spell 1 0 
+  sug 8
+  sug 1
+  sug 81
+  sug 18
+  ana  pa:8 st:8 po:num pa:1 st:1 po:num
+  stem 81
+  stemmorph 81
+> 8‰
+  spell 1 1 8
+  sug 8
+  sug ‰
+  sug 8 ‰
+  sug 8‰
+  ana  pa:8 st:8 po:num pa:‰ st:‰ po:sign_per_mille
+  stem 8‰
+  stemmorph 8‰
+> 9
+  spell 1 0 
+  sug 9
+  ana  st:9 po:num
+  stem 9
+  stemmorph 9
+> 9-10.25
+  spell 1 0 
+  sug 910.25
+> 9.
+  spell 1 0 
+  sug 9
+  sug .
+  ana  st:9 po:num
+  stem 9
+  stemmorph 9
+> 94
+  spell 1 0 
+  sug 9
+  sug 4
+  sug 94
+  sug 49
+  ana  pa:9 st:9 po:num pa:4 st:4 po:num
+  stem 94
+  stemmorph 94
+> ‰
+  spell 1 0 
+  sug ‰
+  ana  st:‰ po:sign_per_mille
+  stem ‰
+  stemmorph ‰
+> ‰-7
+  spell 1 1 
+> ‰.
+  spell 1 0 
+  sug ‰
+  sug .
+  sug ‰ .
+  ana  st:‰ po:sign_per_mille
+  stem ‰
+  stemmorph ‰
+> ‰10.25
+  spell 0 0 
+  sug 10.25
+> ‰3
+  spell 0 0 
+  sug ‰
+  sug 3
+  sug ‰ 3
+  sug 3‰
+> ‰7
+  spell 0 0 
+  sug ‰
+  sug 7
+  sug ‰ 7
+  sug 7‰
+> ‰8
+  spell 0 0 
+  sug ‰
+  sug 8
+  sug ‰ 8
+  sug 8‰
+> ‰9
+  spell 0 0 
+  sug ‰
+  sug 9
+  sug ‰ 9
+  sug 9‰
+> 1
+  spell 1 0 
+  sug 1
+  ana  st:1 po:num
+  stem 1
+  stemmorph 1
+> 123
+  spell 1 0 
+  sug 12
+  sug 13
+  sug 23
+  ana  pa:1 st:1 po:num pa:2 st:2 po:num pa:3 st:3 po:num
+  stem 123
+  stemmorph 123
+> 1,000
+  spell 1 0 
+  sug 1000
+> 1.5
+  spell 1 0 
+  sug 15
+  ana  pa:1 st:1 po:num pa:. st:. po:sign_dot pa:5 st:5 po:num
+  stem 1.5
+  stemmorph 1.5
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+  sug 1
+> %'s
+  spell 0 0 
+> %’s
+  spell 0 0 
+> '%'
+  spell 0 0 
+> l'%
+  spell 0 0 
+> %.
+  spell 1 0 
+  sug %
+  sug .
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> %..
+  spell 1 0 
+  sug %
+  sug .
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> .%
+  spell 0 0 
+  sug .
+  sug %
+> ...
+  spell 1 0 
+> -%
+  spell 1 1 
+  sug %
+> %-
+  spell 1 1 
+  sug %
+> %--10%
+  spell 1 1 
+> %-10%-%
+  spell 1 1 
+> %
+  spell 1 0 
+  sug %
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> %
+  spell 1 0 
+  sug %
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> %
+  spell 1 0 
+  sug %
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> % 10%
+  spell 0 0 
+>  %
+  spell 1 0 
+  sug %
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> % 
+  spell 0 0 
+  sug %
+> %	10%
+  spell 0 0 
+> ��%
+  spell 0 0 
+> %�
+  spell 0 0 
+  sug %
+> �%
+  spell 0 0 
+  sug %
+> 𐐀%
+  spell 0 0 
+> İ%
+  spell 0 32 
+  sug %
+> %ß
+  spell 0 0 
+  sug %
+> %
+  spell 1 0 
+  sug %
+  ana  st:% po:sign_percent
+  stem %
+  stemmorph %
+> %SS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>%</word></query>
+  spell 0 0 
+  sug <code><a> st:% po:sign_percent</a></code>
+> <?xml?><query type="stem"><word>%</word></query>
+  spell 0 0 
+  sug %
+> <?xml?><query type="suggest"><word>%x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>%</word><word>10%</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>%</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>%</word></query>
+  spell 0 0 
+  sug <code><a> st:% po:sign_percent</a></code>
+> <?xml?><query type="add"><word>%</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;%&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>%</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

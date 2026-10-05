@@ -1,0 +1,436 @@
+# example: 0
+> -9ährig
+  spell 0 0 
+> -JÄHRIG
+  spell 0 32 
+> -jhrig
+  spell 0 0 
+> -jähirg
+  spell 0 0 
+> -jähr9ig
+  spell 0 0 
+> -jährig
+  spell 0 0 
+> -jährig-0
+  spell 0 0 
+> -jährig-2
+  spell 0 0 
+> -jährig-5
+  spell 0 0 
+> -jährig-9
+  spell 0 0 
+> -jährig.
+  spell 0 0 
+> -jährig1
+  spell 0 0 
+> -jährig7
+  spell 0 0 
+> -ährig
+  spell 0 0 
+> 0
+  spell 1 0 
+  sug 0
+  ana  st:0
+  stem 0
+  stemmorph 0
+> 0-4
+  spell 1 0 
+> 0.
+  spell 1 0 
+  sug 0
+  ana  st:0
+  stem 0
+  stemmorph 0
+> 00
+  spell 1 0 
+  sug 0
+> 02
+  spell 1 0 
+  sug 0
+  sug 2
+> 08
+  spell 1 0 
+  sug 0
+  sug 8
+> 0j
+  spell 0 0 
+  sug 0
+> 1
+  spell 1 0 
+  sug 1
+  ana  st:1
+  stem 1
+  stemmorph 1
+> 1-
+  spell 1 1 
+  sug 1
+> 10
+  spell 1 0 
+  sug 1
+  sug 0
+> 12
+  spell 1 0 
+  sug 1
+  sug 2
+> 13
+  spell 1 0 
+  sug 1
+  sug 3
+> 2
+  spell 1 0 
+  sug 2
+  ana  st:2
+  stem 2
+  stemmorph 2
+> 2-4
+  spell 1 0 
+> 2-8
+  spell 1 0 
+> 2.
+  spell 1 0 
+  sug 2
+  ana  st:2
+  stem 2
+  stemmorph 2
+> 21
+  spell 1 0 
+  sug 2
+  sug 1
+> 25
+  spell 1 0 
+  sug 2
+  sug 5
+> 26
+  spell 1 0 
+  sug 2
+  sug 6
+> 2ä
+  spell 0 0 
+  sug 2
+> 3
+  spell 1 0 
+  sug 3
+  ana  st:3
+  stem 3
+  stemmorph 3
+> 3-8
+  spell 1 0 
+> 32
+  spell 1 0 
+  sug 3
+  sug 2
+> 33
+  spell 1 0 
+  sug 3
+> 34
+  spell 1 0 
+  sug 3
+  sug 4
+> 4
+  spell 1 0 
+  sug 4
+  ana  st:4
+  stem 4
+  stemmorph 4
+> 4-9
+  spell 1 0 
+> 4.
+  spell 1 0 
+  sug 4
+  ana  st:4
+  stem 4
+  stemmorph 4
+> 40
+  spell 1 0 
+  sug 4
+  sug 0
+> 46
+  spell 1 0 
+  sug 4
+  sug 6
+> 5
+  spell 1 0 
+  sug 5
+  ana  st:5
+  stem 5
+  stemmorph 5
+> 5-jährig
+  spell 1 1 5
+  ana  pa:5 st:5 pa:-jährig st:-jährig
+  stem 5-jährig
+  stemmorph 5-jährig
+> 5.
+  spell 1 0 
+  sug 5
+  ana  st:5
+  stem 5
+  stemmorph 5
+> 50
+  spell 1 0 
+  sug 5
+  sug 0
+> 53
+  spell 1 0 
+  sug 5
+  sug 3
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6-0
+  spell 1 0 
+> 6-4
+  spell 1 0 
+> 6.
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 61
+  spell 1 0 
+  sug 6
+  sug 1
+> 63
+  spell 1 0 
+  sug 6
+  sug 3
+> 66
+  spell 1 0 
+  sug 6
+> 6i
+  spell 0 0 
+  sug 6
+> 7
+  spell 1 0 
+  sug 7
+  ana  st:7
+  stem 7
+  stemmorph 7
+> 7--jährig
+  spell 0 0 
+  sug 7-jährig
+> 7-jährig
+  spell 1 1 7
+  ana  pa:7 st:7 pa:-jährig st:-jährig
+  stem 7-jährig
+  stemmorph 7-jährig
+> 7.
+  spell 1 0 
+  sug 7
+  ana  st:7
+  stem 7
+  stemmorph 7
+> 72
+  spell 1 0 
+  sug 7
+  sug 2
+> 74
+  spell 1 0 
+  sug 7
+  sug 4
+> 8
+  spell 1 0 
+  sug 8
+  ana  st:8
+  stem 8
+  stemmorph 8
+> 8-6
+  spell 1 0 
+> 8.
+  spell 1 0 
+  sug 8
+  ana  st:8
+  stem 8
+  stemmorph 8
+> 82
+  spell 1 0 
+  sug 8
+  sug 2
+> 9
+  spell 1 0 
+  sug 9
+  ana  st:9
+  stem 9
+  stemmorph 9
+> 9-1
+  spell 1 0 
+> 9-3
+  spell 1 0 
+> 9-8
+  spell 1 0 
+> 9.
+  spell 1 0 
+  sug 9
+  ana  st:9
+  stem 9
+  stemmorph 9
+> 90
+  spell 1 0 
+  sug 9
+  sug 0
+> 91
+  spell 1 0 
+  sug 9
+  sug 1
+> 93
+  spell 1 0 
+  sug 9
+  sug 3
+> 98
+  spell 1 0 
+  sug 9
+  sug 8
+> g7
+  spell 0 0 
+  sug 7
+> h
+  spell 0 0 
+> r
+  spell 0 0 
+> r2
+  spell 0 0 
+  sug 2
+> ä8
+  spell 0 0 
+  sug 8
+> 1
+  spell 1 0 
+  sug 1
+  ana  st:1
+  stem 1
+  stemmorph 1
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+  sug 1
+> 6's
+  spell 0 0 
+> 6’s
+  spell 0 0 
+> '6'
+  spell 0 0 
+> l'6
+  spell 0 0 
+> 6.
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6..
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> .6
+  spell 0 0 
+  sug 6
+> ...
+  spell 1 0 
+> -6
+  spell 1 1 
+  sug 6
+> 6-
+  spell 1 1 
+  sug 6
+> 6--2
+  spell 1 1 
+> 6-2-6
+  spell 1 0 
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6 2
+  spell 0 0 
+>  6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6 
+  spell 0 0 
+  sug 6
+> 6	2
+  spell 0 0 
+> ��6
+  spell 0 0 
+> 6�
+  spell 0 0 
+  sug 6
+> �6
+  spell 0 0 
+  sug 6
+> 𐐀6
+  spell 0 0 
+> İ6
+  spell 0 32 
+  sug 6
+> 6ß
+  spell 0 0 
+  sug 6
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6SS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>6</word></query>
+  spell 0 0 
+  sug <code><a> st:6</a></code>
+> <?xml?><query type="stem"><word>6</word></query>
+  spell 0 0 
+  sug 6
+> <?xml?><query type="suggest"><word>6x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>6</word><word>2</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>6</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>6</word></query>
+  spell 0 0 
+  sug <code><a> st:6</a></code>
+> <?xml?><query type="add"><word>6</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;6&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>6</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,469 @@
+# example: nagy
+> LEGESLEGNAGY
+  spell 0 32 
+> LEGESLEGNAGYOBB
+  spell 1 32 nagy
+  sug LEGESLEGNAGYOBB
+  ana  fl:B st:nagy po:adj is:SUPERSUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> LEGNAGY
+  spell 0 32 
+  sug NAGY
+> LEGNAGYOBB
+  spell 1 32 nagy
+  sug LEGNAGYOBB
+  ana  fl:A st:nagy po:adj is:SUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> Legeslegnagy
+  spell 0 32 
+> Legeslegnagyobb
+  spell 1 32 nagy
+  sug legeslegnagyobb
+  ana  fl:B st:nagy po:adj is:SUPERSUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> Legnagy
+  spell 0 32 
+  sug Nagy
+> NAGY
+  spell 1 32 
+  sug NAGY
+  ana  st:nagy po:adj
+  stem nagy
+  stemmorph nagy
+> NAGYOBB
+  spell 1 32 nagy
+  sug NAGYOBB
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> Nagy
+  spell 1 32 
+  sug nagy
+  ana  st:nagy po:adj
+  stem nagy
+  stemmorph nagy
+> Nagyobb
+  spell 1 32 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> aagyobb
+  spell 0 0 
+  sug nagyobb
+> agy
+  spell 0 0 
+  sug nagy
+> elegeslegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> elgeslegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> gagyobb
+  spell 0 0 
+  sug nagyobb
+> laegnagyobb
+  spell 0 0 
+  sug legnagyobb
+> lagy
+  spell 0 0 
+  sug nagy
+> leegnagy
+  spell 0 0 
+> legangyobb
+  spell 0 0 
+  sug legnagyobb
+> legelegnagyobb
+  spell 0 0 
+> legelsegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> legeoslegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> legesegnagy
+  spell 0 0 
+> legesleegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> legeslegnag
+  spell 0 0 
+> legeslegnagy
+  spell 0 0 
+> legeslegnagy-nagy
+  spell 0 0 
+> legeslegnagy.
+  spell 0 0 
+> legeslegnagylegeslegnagy
+  spell 0 0 
+> legeslegnagylegnagyobb
+  spell 0 0 
+> legeslegnagyobb
+  spell 1 0 nagy
+  sug legeslegnagyobb
+  ana  fl:B st:nagy po:adj is:SUPERSUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> legeslegnagyobb-legeslegnagyobb
+  spell 1 1 
+> legeslegnagyobb-nagy
+  spell 1 1 
+> legeslegnagyobb.
+  spell 1 0 nagy
+  sug legeslegnagyobb
+  ana  fl:B st:nagy po:adj is:SUPERSUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> legeslegnagyobba
+  spell 0 0 
+  sug legeslegnagyobb
+> legeslegnagyobbnagyobb
+  spell 0 0 
+  sug legeslegnagyobb nagyobb
+> legeslegnagyobl
+  spell 0 0 
+> legeslegngy
+  spell 0 0 
+> leglnagyobb
+  spell 0 0 
+  sug legnagyobb
+> legnagay
+  spell 0 0 
+> legnago
+  spell 0 0 
+> legnagy
+  spell 0 0 
+  sug nagy
+> legnagy-nagy
+  spell 0 0 
+  sug nagy-nagy
+> legnagy-nagyobb
+  spell 0 0 
+  sug nagy-nagyobb
+> legnagynagy
+  spell 0 0 
+> legnagyob
+  spell 0 0 
+> legnagyobb
+  spell 1 0 nagy
+  sug legnagyobb
+  ana  fl:A st:nagy po:adj is:SUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> legnagyobb-legnagy
+  spell 0 0 
+  sug legnagyobb-nagy
+> legnagyobb-legnagyobb
+  spell 1 1 
+> legnagyobb-nagy
+  spell 1 1 
+> legnagyobb.
+  spell 1 0 nagy
+  sug legnagyobb
+  ana  fl:A st:nagy po:adj is:SUPERLATIVE
+  stem nagy
+  stemmorph nagy
+> legnagyobbnagy
+  spell 0 0 
+  sug legnagyobb nagy
+> legnagyolbb
+  spell 0 0 
+  sug legnagyobb
+> legnayg
+  spell 0 0 
+> legnggyobb
+  spell 0 0 
+> legselegnagy
+  spell 0 0 
+> leseslegnagyobb
+  spell 0 0 
+> lgeeslegnagy
+  spell 0 0 
+> lgenagy
+  spell 0 0 
+  sug nagy
+> lgenagyobb
+  spell 0 0 
+  sug legnagyobb
+> lgnagy
+  spell 0 0 
+  sug nagy
+> lnagy
+  spell 0 0 
+  sug nagy
+> lsegeslegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> lsgnagy
+  spell 0 0 
+  sug nagy
+> lygeslegnagy
+  spell 0 0 
+> lygeslegnagyobb
+  spell 0 0 
+> naagy
+  spell 0 0 
+  sug nagy
+> nagnyobb
+  spell 0 0 
+  sug nagyobb
+> nagoybb
+  spell 0 0 
+  sug nagyobb
+> nagsy
+  spell 0 0 
+  sug nagy
+> nagsyobb
+  spell 0 0 
+  sug nagyobb
+> nagy
+  spell 1 0 
+  sug nagy
+  ana  st:nagy po:adj
+  stem nagy
+  stemmorph nagy
+  sfx nagyobb
+  sfx nagyobb
+  sfx nagyobb
+> nagy-legnagy
+  spell 0 0 
+  sug nagy-nagy
+> nagy-legnagyobb
+  spell 1 1 
+> nagy-nagyobb
+  spell 1 1 
+> nagy.
+  spell 1 0 
+  sug nagy
+  ana  st:nagy po:adj
+  stem nagy
+  stemmorph nagy
+> nagya
+  spell 0 0 
+  sug nagy
+> nagybob
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagylegeslegnagy
+  spell 0 0 
+> nagylegeslegnagyobb
+  spell 0 0 
+  sug nagy legeslegnagyobb
+> nagynagy
+  spell 0 0 
+  sug nagy nagy
+  sug nagy
+> nagynagyobb
+  spell 0 0 
+  sug nagy nagyobb
+> nagynobb
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyo
+  spell 0 0 
+  sug nagy
+> nagyobab
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyobb
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> nagyobb.
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> nagyobbb
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyobblegeslegnagy
+  spell 0 0 
+> nagyobblegeslegnagyobb
+  spell 0 0 
+  sug nagyobb legeslegnagyobb
+> nagyobblegnagyobb
+  spell 0 0 
+  sug nagyobb legnagyobb
+> nagyobbn
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyobbnagy
+  spell 0 0 
+  sug nagyobb nagy
+> nagyyobb
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nasgy
+  spell 0 0 
+  sug nagy
+> ngay
+  spell 0 0 
+  sug nagy
+> nggy
+  spell 0 0 
+  sug nagy
+> ngy
+  spell 0 0 
+  sug nagy
+> nnagy
+  spell 0 0 
+  sug nagy
+> sagy
+  spell 0 0 
+  sug nagy
+> ylegeslegnagyobb
+  spell 0 0 
+  sug legeslegnagyobb
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> nagyobb's
+  spell 0 0 
+> nagyobbâ€™s
+  spell 0 0 
+> 'nagyobb'
+  spell 0 0 
+> l'nagyobb
+  spell 0 0 
+> nagyobb.
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> nagyobb..
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> .nagyobb
+  spell 0 0 
+  sug nagyobb
+> ...
+  spell 1 0 
+> -nagyobb
+  spell 1 1 
+  sug nagyobb
+> nagyobb-
+  spell 1 1 
+  sug nagyobb
+  sug nagy
+> nagyobb--legnagyobb
+  spell 1 1 
+> nagyobb-legnagyobb-nagyobb
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> NAGYOBB
+  spell 1 32 nagy
+  sug NAGYOBB
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> NAGYOBB
+  spell 1 32 nagy
+  sug NAGYOBB
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> Nagyobb
+  spell 1 32 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> nagyobb legnagyobb
+  spell 0 0 
+>  nagyobb
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> nagyobb 
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyobb	legnagyobb
+  spell 0 0 
+> ÿþnagyobb
+  spell 0 0 
+> nagyobbÃ
+  spell 0 32 
+  sug nagyobb
+  sug nagy
+> €nagyobb
+  spell 0 0 
+  sug nagyobb
+> ð€nagyobb
+  spell 0 0 
+> Ä°nagyobb
+  spell 0 32 
+> nagyobbÃŸ
+  spell 0 32 
+> nagyobb
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy po:adj is:COMPARATIVE
+  stem nagy
+  stemmorph nagy
+> NAGYOBBSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>nagyobb</word></query>
+  spell 0 0 
+  sug <code><a> st:nagy po:adj is:COMPARATIVE</a></code>
+> <?xml?><query type="stem"><word>nagyobb</word></query>
+  spell 0 0 
+  sug nagy
+> <?xml?><query type="suggest"><word>nagyobbx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>nagyobb</word><word>legnagyobb</word></query>
+  spell 0 0 
+  sug nagyobb
+> <?xml?><query type="generate"><word>nagyobb</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>nagyobb</word></query>
+  spell 0 0 
+  sug <code><a> st:nagy po:adj is:COMPARATIVE</a></code>
+> <?xml?><query type="add"><word>nagyobb</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;nagyobb&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>nagyobb</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

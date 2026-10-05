@@ -1,0 +1,516 @@
+# example: hello
+> HELLO
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> Hello
+  spell 1 32 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> REWORKED
+  spell 1 32 work
+  sug REWORKED
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> Rework
+  spell 1 32 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> Reworked
+  spell 1 32 work
+  sug reworked
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> TRIED
+  spell 1 32 try
+  sug TRIED
+  ana  st:try fl:B
+  stem try
+  stemmorph try
+> TRY
+  spell 1 32 
+  sug TRY
+  ana  st:try
+  stem try
+  stemmorph try
+> Tried
+  spell 1 32 try
+  sug tried
+  ana  st:try fl:B
+  stem try
+  stemmorph try
+> Try
+  spell 1 32 
+  sug try
+  ana  st:try
+  stem try
+  stemmorph try
+> WORK
+  spell 1 32 
+  sug WORK
+  ana  st:work
+  stem work
+  stemmorph work
+> Work
+  spell 1 32 
+  sug work
+  ana  st:work
+  stem work
+  stemmorph work
+> dtry
+  spell 0 0 
+  sug try
+> ehllo
+  spell 0 0 
+  sug hello
+> eried
+  spell 0 0 
+  sug tried
+> hell
+  spell 0 0 
+  sug hello
+> helle
+  spell 0 0 
+  sug hello
+> hellko
+  spell 0 0 
+  sug hello
+> hello
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello-reworked
+  spell 1 1 
+> hello.
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> helloe
+  spell 0 0 
+  sug hello
+> helloh
+  spell 0 0 
+  sug hello
+> hellohello
+  spell 0 0 
+  sug hello hello
+> hellotry
+  spell 0 0 
+  sug hello try
+  sug hello
+> hellowork
+  spell 0 0 
+  sug hello work
+  sug hello
+> helo
+  spell 0 0 
+  sug hello
+> helol
+  spell 0 0 
+  sug hello
+> hhello
+  spell 0 0 
+  sug hello
+> hkllo
+  spell 0 0 
+  sug hello
+> hlelo
+  spell 0 0 
+  sug hello
+> hlllo
+  spell 0 0 
+  sug hello
+> hoello
+  spell 0 0 
+  sug hello
+> htry
+  spell 0 0 
+  sug try
+> ork
+  spell 0 0 
+  sug work
+> owrk
+  spell 0 0 
+  sug work
+> reiworked
+  spell 0 0 
+  sug reworked
+> reork
+  spell 0 0 
+  sug rework
+> reowrk
+  spell 0 0 
+  sug rework
+> rewirk
+  spell 0 0 
+  sug rework
+> rewodk
+  spell 0 0 
+  sug rework
+> rework
+  spell 1 0 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> rework.
+  spell 1 0 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> reworkde
+  spell 0 0 
+  sug reworked
+  sug rework
+> reworked
+  spell 1 0 work
+  sug reworked
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> reworked-hello
+  spell 1 1 
+> reworked-reworked
+  spell 1 1 
+> reworked.
+  spell 1 0 work
+  sug reworked
+  ana  fl:A st:work fl:B
+  stem work
+  stemmorph work
+> reworkedhello
+  spell 0 0 
+  sug reworked hello
+> reworkedworked
+  spell 0 0 
+  sug reworked worked
+> reworkhed
+  spell 0 0 
+  sug reworked
+> reworkwork
+  spell 0 0 
+  sug rework work
+> rty
+  spell 0 0 
+  sug try
+> rweorked
+  spell 0 0 
+  sug reworked
+  sug worked
+> tr
+  spell 0 0 
+  sug try
+> trh
+  spell 0 0 
+  sug try
+> tried
+  spell 1 0 try
+  sug tried
+  ana  st:try fl:B
+  stem try
+  stemmorph try
+> tried-tried
+  spell 1 1 
+> tried-work
+  spell 1 1 
+> tried.
+  spell 1 0 try
+  sug tried
+  ana  st:try fl:B
+  stem try
+  stemmorph try
+> triedworked
+  spell 0 0 
+  sug tried worked
+> triehd
+  spell 0 0 
+  sug tried
+> trield
+  spell 0 0 
+  sug tried
+> trihed
+  spell 0 0 
+  sug tried
+> trred
+  spell 0 0 
+> try
+  spell 1 0 
+  sug try
+  ana  st:try
+  stem try
+  stemmorph try
+> try-hello
+  spell 1 1 
+  sug hello
+> try-rework
+  spell 1 1 
+> try-work
+  spell 1 1 
+> try.
+  spell 1 0 
+  sug try
+  ana  st:try
+  stem try
+  stemmorph try
+> tryreworked
+  spell 0 0 
+  sug try reworked
+> trytry
+  spell 0 0 
+  sug try try
+  sug try
+> tryworked
+  spell 0 0 
+  sug try worked
+> ttry
+  spell 0 0 
+  sug try
+> tyied
+  spell 0 0 
+  sug tried
+> whrk
+  spell 0 0 
+  sug work
+> worekd
+  spell 0 0 
+  sug worked
+  sug work
+> worik
+  spell 0 0 
+  sug work
+> work
+  spell 1 0 
+  sug work
+  ana  st:work
+  stem work
+  stemmorph work
+  sfx worked
+> work-try
+  spell 1 1 
+  sug work
+> work.
+  spell 1 0 
+  sug work
+  ana  st:work
+  stem work
+  stemmorph work
+> worked
+  spell 1 0 work
+  sug worked
+  ana  st:work fl:B
+  stem work
+  stemmorph work
+> worked-rework
+  spell 1 1 
+> worked-try
+  spell 1 1 
+> worked.
+  spell 1 0 work
+  sug worked
+  ana  st:work fl:B
+  stem work
+  stemmorph work
+> workedwork
+  spell 0 0 
+  sug worked work
+> workeid
+  spell 0 0 
+  sug worked
+  sug work
+> workeld
+  spell 0 0 
+  sug worked
+  sug work
+> workid
+  spell 0 0 
+  sug work
+> workked
+  spell 0 0 
+  sug worked
+  sug work
+> workred
+  spell 0 0 
+  sug worked
+  sug work
+> workreworked
+  spell 0 0 
+  sug work reworked
+> worktry
+  spell 0 0 
+  sug work try
+  sug work
+> workwed
+  spell 0 0 
+  sug worked
+  sug work
+> workwork
+  spell 0 0 
+  sug work work
+  sug work
+> wrk
+  spell 0 0 
+  sug work
+> wroked
+  spell 0 0 
+  sug worked
+> wwrk
+  spell 0 0 
+  sug work
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-try
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> rework's
+  spell 0 0 
+  sug rework
+> reworkâ€™s
+  spell 0 0 
+> 'rework'
+  spell 0 0 
+> l'rework
+  spell 0 0 
+> rework.
+  spell 1 0 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> rework..
+  spell 1 0 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> .rework
+  spell 0 0 
+  sug rework
+  sug work
+> ...
+  spell 1 0 
+> -rework
+  spell 1 1 
+  sug rework
+  sug work
+> rework-
+  spell 1 1 
+  sug rework
+  sug work
+> rework--tried
+  spell 1 1 
+> rework-tried-rework
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> REWORK
+  spell 1 32 work
+  sug REWORK
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> REWORK
+  spell 1 32 work
+  sug REWORK
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> Rework
+  spell 1 32 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> rework tried
+  spell 0 0 
+>  rework
+  spell 1 0 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> rework 
+  spell 0 0 
+  sug rework
+  sug work
+> rework	tried
+  spell 0 0 
+> ÿþrework
+  spell 0 0 
+> reworkÃ
+  spell 0 32 
+  sug rework
+  sug work
+> €rework
+  spell 0 0 
+  sug rework
+  sug work
+> ð€rework
+  spell 0 0 
+> Ä°rework
+  spell 0 32 
+> reworkÃŸ
+  spell 0 32 
+  sug rework
+> rework
+  spell 1 0 work
+  sug rework
+  ana re st:work fl:A
+  stem work
+  stemmorph work
+> REWORKSS
+  spell 0 32 
+  sug REWORK
+> <?xml?><query type="analyze"><word>rework</word></query>
+  spell 0 0 
+  sug <code><a>re st:work fl:A</a></code>
+> <?xml?><query type="stem"><word>rework</word></query>
+  spell 0 0 
+  sug work
+> <?xml?><query type="suggest"><word>reworkx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>rework</word><word>tried</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>rework</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>rework</word></query>
+  spell 0 0 
+  sug <code><a>re st:work fl:A</a></code>
+> <?xml?><query type="add"><word>rework</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;rework&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>rework</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

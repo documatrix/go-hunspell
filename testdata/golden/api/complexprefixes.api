@@ -1,0 +1,321 @@
+# example: ouro
+> METOURO
+  spell 1 32 ouro
+  sug METOURO
+  ana B:lf ouro:ts 
+> METTEKOURO
+  spell 0 32 
+> Metouro
+  spell 1 32 ouro
+  sug metouro
+  ana B:lf ouro:ts 
+> Mettekouro
+  spell 0 32 
+> OURO
+  spell 1 32 
+  sug OURO
+  ana ouro:ts 
+> Ouro
+  spell 1 32 
+  sug ouro
+  ana ouro:ts 
+> TEKMETOURO
+  spell 1 32 ouro
+  ana A:lf B:lf ouro:ts 
+> TEKOURO
+  spell 0 32 
+> Tekmetouro
+  spell 1 32 ouro
+  ana A:lf B:lf ouro:ts 
+> meoturo
+  spell 0 0 
+  sug metouro
+> metoouro
+  spell 0 0 
+  sug metouro
+> metouo
+  spell 0 0 
+  sug metouro
+> metouor
+  spell 0 0 
+  sug metouro
+> metourko
+  spell 0 0 
+  sug metouro
+> metouro
+  spell 1 0 ouro
+  sug metouro
+  ana B:lf ouro:ts 
+> metouro.
+  spell 1 0 ouro
+  sug metouro
+  ana B:lf ouro:ts 
+> metourok
+  spell 0 0 
+  sug metouro
+> metouroouro
+  spell 0 0 
+  sug metouro ouro
+> metourotekouro
+  spell 0 0 
+> mettekeuro
+  spell 0 0 
+> mettekour
+  spell 0 0 
+> mettekouro
+  spell 0 0 
+> mettekouro.
+  spell 0 0 
+> mettekourometouro
+  spell 0 0 
+> mettekouroouro
+  spell 0 0 
+> mettekourot
+  spell 0 0 
+> metteokuro
+  spell 0 0 
+> metteouro
+  spell 0 0 
+> mettkouro
+  spell 0 0 
+> metttekouro
+  spell 0 0 
+> muro
+  spell 0 0 
+  sug ouro
+> oetouro
+  spell 0 0 
+  sug ouro
+> oro
+  spell 0 0 
+  sug ouro
+> oruro
+  spell 0 0 
+  sug ouro
+> ouero
+  spell 0 0 
+  sug ouro
+> oumo
+  spell 0 0 
+  sug ouro
+> ouo
+  spell 0 0 
+  sug ouro
+> ouoo
+  spell 0 0 
+  sug ouro
+> ouor
+  spell 0 0 
+  sug ouro
+> our
+  spell 0 0 
+  sug ouro
+> ouro
+  spell 1 0 
+  sug ouro
+  ana ouro:ts 
+> ouro-mettekouro
+  spell 0 0 
+> ouro-ouro
+  spell 1 1 
+> ouro-tekouro
+  spell 0 0 
+> ouro.
+  spell 1 0 
+  sug ouro
+  ana ouro:ts 
+> ouroe
+  spell 0 0 
+  sug ouro
+> ourok
+  spell 0 0 
+  sug ouro
+> ourometouro
+  spell 0 0 
+  sug ouro metouro
+> ourot
+  spell 0 0 
+  sug ouro
+> ourotekmetouro
+  spell 0 0 
+  sug ouro tekmetouro
+> ouru
+  spell 0 0 
+  sug ouro
+> outro
+  spell 0 0 
+  sug ouro
+> tekmekouro
+  spell 0 0 
+> tekmeteuro
+  spell 0 0 
+> tekmetkouro
+  spell 0 0 
+  sug tekmetouro
+> tekmetouo
+  spell 0 0 
+> tekmetouro
+  spell 1 0 ouro
+  ana A:lf B:lf ouro:ts 
+> tekmetouro-mettekouro
+  spell 0 0 
+> tekmetouro-ouro
+  spell 1 1 
+> tekmetouro.
+  spell 1 0 ouro
+  sug tekmetouro
+  ana A:lf B:lf ouro:ts 
+> tekmetouroouro
+  spell 0 0 
+  sug tekmetouro ouro
+> tekmetourot
+  spell 0 0 
+  sug tekmetouro
+> tekmetourotekouro
+  spell 0 0 
+> tekmetouuro
+  spell 0 0 
+  sug tekmetouro
+> tekmeturo
+  spell 0 0 
+> tekmtouro
+  spell 0 0 
+> tekouro
+  spell 0 0 
+> tekouro-metouro
+  spell 0 0 
+> tekouro-tekmetouro
+  spell 0 0 
+> tekouro-tekouro
+  spell 0 0 
+> tekouro.
+  spell 0 0 
+> tekouromettekouro
+  spell 0 0 
+> tekouroouro
+  spell 0 0 
+> tekouror
+  spell 0 0 
+> tekourotekmetouro
+  spell 0 0 
+> tekouto
+  spell 0 0 
+> tekuro
+  spell 0 0 
+> temetouro
+  spell 0 0 
+> temketouro
+  spell 0 0 
+  sug tekmetouro
+> teokuro
+  spell 0 0 
+> tetkouro
+  spell 0 0 
+> tmkmetouro
+  spell 0 0 
+> uoro
+  spell 0 0 
+  sug ouro
+> uro
+  spell 0 0 
+  sug ouro
+> utekouro
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> tekouro's
+  spell 0 0 
+> tekouroâ€™s
+  spell 0 0 
+> 'tekouro'
+  spell 0 0 
+> l'tekouro
+  spell 0 0 
+> tekouro.
+  spell 0 0 
+> tekouro..
+  spell 0 0 
+> .tekouro
+  spell 0 0 
+> ...
+  spell 1 0 
+> -tekouro
+  spell 0 0 
+> tekouro-
+  spell 0 0 
+> tekouro--ouro
+  spell 0 0 
+> tekouro-ouro-tekouro
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> TEKOURO
+  spell 0 32 
+> TEKOURO
+  spell 0 32 
+> Tekouro
+  spell 0 32 
+> tekouro ouro
+  spell 0 0 
+>  tekouro
+  spell 0 0 
+> tekouro 
+  spell 0 0 
+> tekouro	ouro
+  spell 0 0 
+> ÿþtekouro
+  spell 0 0 
+> tekouroÃ
+  spell 0 32 
+> €tekouro
+  spell 0 0 
+> ð€tekouro
+  spell 0 0 
+> Ä°tekouro
+  spell 0 32 
+> tekouroÃŸ
+  spell 0 32 
+> tekouro
+  spell 0 0 
+> TEKOUROSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>tekouro</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>tekouro</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>tekourox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>tekouro</word><word>ouro</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>tekouro</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>tekouro</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>tekouro</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;tekouro&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>tekouro</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

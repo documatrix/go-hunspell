@@ -1,0 +1,479 @@
+# example: word
+> COMPOUND
+  spell 1 32 
+  sug COMPOUND
+  ana  st:compound
+  stem compound
+  stemmorph compound
+> COMPOUNDWORD
+  spell 0 32 
+  sug COMPOUND WORD
+  ana  pa:compound st:compound pa:word
+  stem compound
+  stemmorph compound
+> Compound
+  spell 1 32 
+  sug compound
+  ana  st:compound
+  stem compound
+  stemmorph compound
+> Compoundword
+  spell 0 32 
+  sug Compound word
+  ana  pa:compound st:compound pa:word
+  stem compound
+  stemmorph compound
+> WORD
+  spell 1 32 
+  sug WORD
+  ana  st:word
+  stem word
+  stemmorph word
+> WORDCOMPOUND
+  spell 1 33 word
+  sug WORD COMPOUND
+  sug COMPOUND WORD
+  sug COMPOUND
+  ana  pa:word st:word pa:compound
+  stem word
+  stemmorph word
+> Word
+  spell 1 32 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> Wordcompound
+  spell 1 33 word
+  sug Word compound
+  sug Compound word
+  sug Compound
+  ana  pa:word st:word pa:compound
+  stem word
+  stemmorph word
+> cmopound
+  spell 0 0 
+  sug compound
+> cocmpound
+  spell 0 0 
+  sug compound
+> codmpound
+  spell 0 0 
+  sug compound
+> comcpound
+  spell 0 0 
+  sug compound
+> commpoundword
+  spell 0 0 
+  sug compound word
+> comound
+  spell 0 0 
+  sug compound
+> compcund
+  spell 0 0 
+  sug compound
+> compond
+  spell 0 0 
+  sug compound
+> compornd
+  spell 0 0 
+  sug compound
+> compoud
+  spell 0 0 
+  sug compound
+> compoudd
+  spell 0 0 
+  sug compound
+> compoudn
+  spell 0 0 
+  sug compound
+> compoumnd
+  spell 0 0 
+  sug compound
+> compoun
+  spell 0 0 
+  sug compound
+> compound
+  spell 1 0 
+  sug compound
+  ana  st:compound
+  stem compound
+  stemmorph compound
+> compound-compound
+  spell 1 1 
+  sug compoundcompound
+> compound-compoundword
+  spell 0 0 
+  sug compound-compound word
+> compound-word
+  spell 1 1 
+  sug compound word
+> compound-wordcompound
+  spell 1 1 
+> compound.
+  spell 1 0 
+  sug compound
+  ana  st:compound
+  stem compound
+  stemmorph compound
+> compoundcompound
+  spell 1 1 compound
+  sug compound compound
+  sug compound word
+  ana  pa:compound st:compound pa:compound
+  stem compound
+  stemmorph compound
+> compoundcompoundword
+  spell 0 0 
+  ana  pa:compound st:compound pa:compound st:compound pa:word
+  stem compoundcompound
+  stemmorph compoundcompound
+> compoundd
+  spell 0 0 
+  sug compound
+> compoundword
+  spell 0 0 
+  sug compound word
+  ana  pa:compound st:compound pa:word
+  stem compound
+  stemmorph compound
+> compoundword-word
+  spell 0 0 
+  sug compound word-word
+  sug compound word
+> compoundwordcompound
+  spell 0 0 
+  ana  pa:compound st:compound pa:word st:word pa:compound
+  stem compoundword
+  stemmorph compoundword
+> compoundwordcompoundword
+  spell 0 0 
+  ana  pa:compound st:compound pa:word st:word pa:compound st:compound pa:word
+  stem compoundwordcompound
+  stemmorph compoundwordcompound
+> compoundwordword
+  spell 0 0 
+  sug compound word
+  ana  pa:compound st:compound pa:word st:word pa:word
+  stem compoundword
+  stemmorph compoundword
+> compoundworw
+  spell 0 0 
+  sug compound word
+> compounnd
+  spell 0 0 
+  sug compound
+> compounr
+  spell 0 0 
+  sug compound
+> compounuword
+  spell 0 0 
+  sug compound word
+> compouod
+  spell 0 0 
+  sug compound
+> compouond
+  spell 0 0 
+  sug compound
+> compuond
+  spell 0 0 
+  sug compound
+> compuondword
+  spell 0 0 
+  sug compound word
+> copmound
+  spell 0 0 
+  sug compound
+> copound
+  spell 0 0 
+  sug compound
+> cpmpound
+  spell 0 0 
+  sug compound
+> cwmpound
+  spell 0 0 
+  sug compound
+> nword
+  spell 0 0 
+  sug word
+> ompound
+  spell 0 0 
+  sug compound
+> ord
+  spell 0 0 
+  sug word
+> owrd
+  spell 0 0 
+  sug word
+> rompound
+  spell 0 0 
+  sug compound
+> uompoundword
+  spell 0 0 
+  sug compound word
+> wcompound
+  spell 0 0 
+  sug compound
+> wdord
+  spell 0 0 
+  sug word
+> wod
+  spell 0 0 
+  sug word
+> wodr
+  spell 0 0 
+  sug word
+> word
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> word-compound
+  spell 1 1 
+  sug wordcompound
+> word-word
+  spell 1 1 
+  sug wordword
+> word-wordcompound
+  spell 1 1 
+  sug wordwordcompound
+  sug compound word
+> word.
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> wordcompoudn
+  spell 0 0 
+  sug wordcompound
+> wordcompound
+  spell 1 1 word
+  sug word compound
+  sug compound word
+  sug compound
+  ana  pa:word st:word pa:compound
+  stem word
+  stemmorph word
+> wordcompound-compound
+  spell 1 1 
+  sug wordcompoundcompound
+> wordcompound-wordcompound
+  spell 1 1 
+> wordcompound.
+  spell 1 1 word
+  sug word compound
+  sug wordcompound
+  sug compound word
+  sug compound
+  ana  pa:word st:word pa:compound
+  stem word
+  stemmorph word
+> wordcompoundword
+  spell 0 0 
+  sug compound word
+  ana  pa:word st:word pa:compound st:compound pa:word
+  stem wordcompound
+  stemmorph wordcompound
+> wordcopmound
+  spell 0 0 
+  sug wordcompound
+> wordn
+  spell 0 0 
+  sug word
+> wordo
+  spell 0 0 
+  sug word
+> wordompound
+  spell 0 0 
+  sug compound word
+> wordu
+  spell 0 0 
+  sug word
+> wordword
+  spell 1 1 word
+  sug word word
+  sug word
+  ana  pa:word st:word pa:word
+  stem word
+  stemmorph word
+> wordwordcompound
+  spell 1 1 word
+  sug compound word
+  ana  pa:word st:word pa:word st:word pa:compound
+  stem wordword
+  stemmorph wordword
+> worncompound
+  spell 0 0 
+  sug compound word
+  sug compound
+> woro
+  spell 0 0 
+  sug word
+> worrd
+  spell 0 0 
+  sug word
+> wourd
+  spell 0 0 
+  sug word
+> wpord
+  spell 0 0 
+  sug word
+> wrod
+  spell 0 0 
+  sug word
+> wrord
+  spell 0 0 
+  sug word
+> wurdcompound
+  spell 0 0 
+  sug compound word
+  sug compound
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+  sug word
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> word's
+  spell 0 0 
+  sug word
+> wordâ€™s
+  spell 0 0 
+  sug word
+> 'word'
+  spell 0 0 
+  sug word
+> l'word
+  spell 0 0 
+  sug word
+> word.
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> word..
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> .word
+  spell 0 0 
+  sug word
+> ...
+  spell 1 0 
+> -word
+  spell 1 1 
+  sug word
+> word-
+  spell 1 1 
+  sug word
+> word--compound
+  spell 1 1 
+  sug compound word
+> word-compound-word
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> WORD
+  spell 1 32 
+  sug WORD
+  ana  st:word
+  stem word
+  stemmorph word
+> WORD
+  spell 1 32 
+  sug WORD
+  ana  st:word
+  stem word
+  stemmorph word
+> Word
+  spell 1 32 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> word compound
+  spell 0 0 
+  sug wordcompound
+>  word
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> word 
+  spell 0 0 
+  sug word
+> word	compound
+  spell 0 0 
+  sug wordcompound
+> ÿþword
+  spell 0 0 
+  sug word
+> wordÃ
+  spell 0 32 
+  sug word
+> €word
+  spell 0 0 
+  sug word
+> ð€word
+  spell 0 0 
+> Ä°word
+  spell 0 32 
+  sug Word
+> wordÃŸ
+  spell 0 32 
+  sug word
+> word
+  spell 1 0 
+  sug word
+  ana  st:word
+  stem word
+  stemmorph word
+> WORDSS
+  spell 0 32 
+  sug WORD
+> <?xml?><query type="analyze"><word>word</word></query>
+  spell 0 0 
+  sug <code><a> st:word</a></code>
+> <?xml?><query type="stem"><word>word</word></query>
+  spell 0 0 
+  sug word
+> <?xml?><query type="suggest"><word>wordx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>word</word><word>compound</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>word</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>word</word></query>
+  spell 0 0 
+  sug <code><a> st:word</a></code>
+> <?xml?><query type="add"><word>word</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;word&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>word</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

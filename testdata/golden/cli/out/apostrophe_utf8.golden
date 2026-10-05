@@ -1,0 +1,16 @@
+exit 0
+stdout 210
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+*
+*
+& rock'n'roll 1 17: rollicking
+
+*
+*
+*
+& isn 9 17: sin, ins, ism, is, in, inn, ion, isl, is n
+& apos 4 21: apps, capos, apes, appose
+*
+
+stderr 0

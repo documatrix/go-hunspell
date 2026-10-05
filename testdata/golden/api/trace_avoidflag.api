@@ -1,0 +1,409 @@
+# example: MacLeod
+> MACLEOD
+  spell 1 32 
+  sug MACLEOD
+  ana  st:Macleod
+  stem Macleod
+  stemmorph Macleod
+> MACLEODS
+  spell 1 32 Macleod
+  sug MACLEODS
+  ana  st:Macleod fl:S
+  stem Macleod
+  stemmorph Macleod
+> MMcLeod
+  spell 0 32 
+  sug MacLeod
+> MaLceod
+  spell 0 32 
+  sug MacLeod
+> MaLeods
+  spell 0 32 
+  sug MacLeods
+> MaMLeod
+  spell 0 32 
+  sug MacLeod
+> MaMcLeods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLeads
+  spell 0 32 
+  sug MacLeods
+> MacLecods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLed
+  spell 0 32 
+  sug MacLeod
+> MacLedods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLedos
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLeds
+  spell 0 32 
+  sug MacLeods
+> MacLeo
+  spell 0 32 
+  sug MacLeod
+> MacLeoL
+  spell 0 32 
+  sug MacLeod
+> MacLeod
+  spell 1 32 
+  sug MacLeod
+  ana  st:MacLeod
+  stem MacLeod
+  stemmorph MacLeod
+  sfx MacLeods
+> MacLeod-MacLeod
+  spell 1 33 
+> MacLeod-MacLeods
+  spell 1 33 
+> MacLeod-Macleods
+  spell 0 32 
+  sug MacLeod-MacLeods
+> MacLeod.
+  spell 1 32 
+  sug MacLeod
+  ana  st:MacLeod
+  stem MacLeod
+  stemmorph MacLeod
+> MacLeodMacLeod
+  spell 0 32 
+  sug MacLeod MacLeod
+> MacLeodMacLeods
+  spell 0 32 
+  sug MacLeod MacLeods
+> MacLeodMacleods
+  spell 0 32 
+> MacLeoda
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLeodl
+  spell 0 32 
+  sug MacLeod
+> MacLeodo
+  spell 0 32 
+  sug MacLeod
+> MacLeods
+  spell 1 32 MacLeod
+  sug MacLeod
+  sug MacLeods
+  ana  st:MacLeod fl:S
+  stem MacLeod
+  stemmorph MacLeod
+> MacLeods-MacLeod
+  spell 1 33 
+> MacLeods-MacLeods
+  spell 1 33 
+> MacLeods-Macleods
+  spell 0 32 
+  sug MacLeods-MacLeods
+> MacLeods.
+  spell 1 32 MacLeod
+  sug MacLeod
+  sug MacLeods
+  ana  st:MacLeod fl:S
+  stem MacLeod
+  stemmorph MacLeod
+> MacLeodsMacLeods
+  spell 0 32 
+  sug MacLeods MacLeods
+> MacLeodsMacleods
+  spell 0 32 
+> MacLeodso
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLeos
+  spell 0 32 
+  sug MacLeod
+> MacLods
+  spell 0 32 
+  sug MacLeods
+> MacLoed
+  spell 0 32 
+  sug MacLeod
+> MacLsod
+  spell 0 32 
+  sug MacLeod
+> MacMLeods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacMeods
+  spell 0 32 
+  sug MacLeods
+> MacMleods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MaceLods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> Macelods
+  spell 0 32 
+  sug MacLeods
+> Maceod
+  spell 0 32 
+  sug MacLeod
+> Maceods
+  spell 0 32 
+  sug MacLeods
+> Maclceods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacleLods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> Macledos
+  spell 0 32 
+  sug MacLeods
+> Macleds
+  spell 0 32 
+  sug MacLeods
+> MacleoLds
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> Macleod
+  spell 0 32 
+  sug MacLeod
+  ana  st:Macleod
+  stem Macleod
+  stemmorph Macleod
+  sfx Macleods
+> Macleodc
+  spell 0 32 
+  sug MacLeod
+> Macleods
+  spell 0 32 
+  sug MacLeods
+  ana  st:Macleod fl:S
+  stem Macleod
+  stemmorph Macleod
+> Macleods-MacLeods
+  spell 0 32 
+  sug MacLeods-MacLeods
+> Macleods-Macleods
+  spell 0 32 
+> Macleods.
+  spell 0 32 
+  sug MacLeods
+  ana  st:Macleod fl:S
+  stem Macleod
+  stemmorph Macleod
+> MacleodsMacLeod
+  spell 0 32 
+> MacleodsMacLeods
+  spell 0 32 
+> MacleodsMacleods
+  spell 0 32 
+> Macleos
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> Macleosd
+  spell 0 32 
+  sug MacLeod
+> Maclleods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> Macoleods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> Maleods
+  spell 0 32 
+  sug MacLeods
+> McLeod
+  spell 0 32 
+  sug MacLeod
+> McLeods
+  spell 0 32 
+  sug MacLeods
+> McaLeod
+  spell 0 32 
+  sug MacLeod
+> McaLeods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MoacLeod
+  spell 0 32 
+  sug MacLeod
+> MsacLeods
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> acLeod
+  spell 0 32 
+  sug MacLeod
+> acleods
+  spell 0 0 
+  sug MacLeods
+  sug MacLeod
+> dacleods
+  spell 0 0 
+  sug MacLeods
+> lacLeod
+  spell 0 32 
+  sug MacLeod
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> MacLeod's
+  spell 0 32 
+  sug MacLeods
+  sug MacLeod
+> MacLeodâ€™s
+  spell 0 32 
+  sug MacLeods
+> 'MacLeod'
+  spell 0 32 
+  sug MacLeod
+> l'MacLeod
+  spell 0 32 
+  sug MacLeod
+> MacLeod.
+  spell 1 32 
+  sug MacLeod
+  ana  st:MacLeod
+  stem MacLeod
+  stemmorph MacLeod
+> MacLeod..
+  spell 1 32 
+  sug MacLeod
+  ana  st:MacLeod
+  stem MacLeod
+  stemmorph MacLeod
+> .MacLeod
+  spell 0 32 
+  sug MacLeod
+> ...
+  spell 1 0 
+> -MacLeod
+  spell 1 33 
+  sug MacLeod
+> MacLeod-
+  spell 1 33 
+  sug MacLeod
+> MacLeod--Macleods
+  spell 0 32 
+  sug MacLeod--MacLeods
+> MacLeod-Macleods-MacLeod
+  spell 0 32 
+  sug MacLeod-MacLeods-MacLeod
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> MACLEOD
+  spell 1 32 
+  sug MACLEOD
+  ana  st:Macleod
+  stem Macleod
+  stemmorph Macleod
+> mAClEOD
+  spell 0 32 
+  sug MacLeod
+> Macleod
+  spell 0 32 
+  sug MacLeod
+  ana  st:Macleod
+  stem Macleod
+  stemmorph Macleod
+  sfx Macleods
+> MacLeod Macleods
+  spell 0 32 
+>  MacLeod
+  spell 1 32 
+  sug MacLeod
+  ana  st:MacLeod
+  stem MacLeod
+  stemmorph MacLeod
+> MacLeod 
+  spell 0 32 
+  sug MacLeod
+> MacLeod	Macleods
+  spell 0 32 
+> ÿþMacLeod
+  spell 0 32 
+  sug MacLeod
+> MacLeodÃ
+  spell 0 32 
+  sug MacLeod
+> €MacLeod
+  spell 0 32 
+  sug MacLeod
+> ð€MacLeod
+  spell 0 32 
+  sug MacLeod
+> Ä°MacLeod
+  spell 0 32 
+  sug MacLeod
+> MacLeodÃŸ
+  spell 0 32 
+  sug MacLeod
+> MacLeod
+  spell 1 32 
+  sug MacLeod
+  ana  st:MacLeod
+  stem MacLeod
+  stemmorph MacLeod
+  sfx MacLeods
+> MACLEODSS
+  spell 0 32 
+  sug MACLEODS
+  sug MACLEOD
+> <?xml?><query type="analyze"><word>MacLeod</word></query>
+  spell 0 32 
+  sug <code><a> st:MacLeod</a></code>
+> <?xml?><query type="stem"><word>MacLeod</word></query>
+  spell 0 32 
+  sug MacLeod
+> <?xml?><query type="suggest"><word>MacLeodx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>MacLeod</word><word>Macleods</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>MacLeod</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>MacLeod</word></query>
+  spell 0 32 
+  sug <code><a> st:MacLeod</a></code>
+> <?xml?><query type="add"><word>MacLeod</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;MacLeod&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>MacLeod</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

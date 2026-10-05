@@ -1,0 +1,11 @@
+exit 0
+stdout 150
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wrold 2 6: world, wold
+
+*
+& nul 1 6: noel
+& linne 3 10: linen, line, linnet
+
+stderr 0

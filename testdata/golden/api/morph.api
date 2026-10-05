@@ -1,0 +1,809 @@
+# example: drink
+> DRANK
+  spell 1 32 
+  sug DRANK
+  ana  po:verb	st:drink	is:past_1
+  stem drink
+  stemmorph drink
+  gen DRINK
+  genmorph DRINK
+> DRINK
+  spell 1 32 
+  sug DRUNK
+  sug DRINK
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen DRINK
+  genmorph DRINK
+  genmorph DRINK
+> DRINKS
+  spell 1 32 drink
+  sug DRINK
+  sug DRINKS
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+  ana  st:drink po:noun is:plur
+  stem drink
+  stemmorph drink
+  gen DRINK
+  genmorph DRINK
+  genmorph DRINK
+> DRUNK
+  spell 1 32 
+  sug DRINK
+  sug DRUNK
+  ana  po:verb	st:drink	is:past_2
+  stem drink
+  stemmorph drink
+  gen DRINK
+  genmorph DRINK
+> Drank
+  spell 1 32 
+  sug drank
+  ana  po:verb	st:drink	is:past_1
+  stem drink
+  stemmorph drink
+  gen Drink
+  genmorph Drink
+> Drinkable
+  spell 1 32 drink
+  sug drinkable
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  gen Drink
+  genmorph Drinkable
+  genmorph Drink
+> Drinkables
+  spell 1 32 drink
+  sug Drinkable
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  gen Drink
+  genmorph Drinkable
+  genmorph Drink
+> Drinks
+  spell 1 32 drink
+  sug Drink
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+  ana  st:drink po:noun is:plur
+  stem drink
+  stemmorph drink
+  gen Drink
+  genmorph Drink
+  genmorph Drink
+> Drunk
+  spell 1 32 
+  sug Drink
+  sug drunk
+  ana  po:verb	st:drink	is:past_2
+  stem drink
+  stemmorph drink
+  gen Drink
+  genmorph Drink
+> EATEN
+  spell 1 32 
+  sug EATEN
+  ana  po:verb	st:eat	is:past_2
+  stem eat
+  stemmorph eat
+  gen EAT
+  genmorph EAT
+> EATS
+  spell 1 32 eat
+  sug EAT
+  sug EATS
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present is:sg_3
+  stem eat
+  stemmorph eat
+  gen EAT
+  genmorph EAT
+> Eat
+  spell 1 32 
+  sug Ate
+  sug eat
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present
+  stem eat
+  stemmorph eat
+  gen Eat
+  genmorph Eat
+> Eats
+  spell 1 32 eat
+  sug Eat
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present is:sg_3
+  stem eat
+  stemmorph eat
+  gen Eat
+  genmorph Eat
+> PHENOMENON
+  spell 1 32 
+  sug PHENOMENON
+  ana  st:phenomenon po:noun	al:phenomena
+  stem phenomenon
+  stemmorph phenomenon
+> Phenomena
+  spell 1 32 
+  sug phenomena
+  ana  po:noun st:phenomenon	is:plur
+  stem phenomenon
+  stemmorph phenomenon
+> Phenomenon
+  spell 1 32 
+  sug phenomenon
+  ana  st:phenomenon po:noun	al:phenomena
+  stem phenomenon
+  stemmorph phenomenon
+> Undrinkables
+  spell 1 32 drink
+  sug Undrinkable
+  ana dp:pfx_un sp:un  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+  stem undrinkable
+  stemmorph undrinkable
+  gen Undrinkable
+  genmorph Undrinkable
+> atde
+  spell 0 0 
+  sug ate
+> ate
+  spell 1 0 
+  sug eat
+  sug ate
+  ana  po:verb	st:eat	is:past_1
+  stem eat
+  stemmorph eat
+  gen eat
+  genmorph eat
+> ate-drinkables
+  spell 1 1 
+> ate.
+  spell 1 0 
+  sug eat
+  sug ate
+  ana  po:verb	st:eat	is:past_1
+  stem eat
+  stemmorph eat
+  gen eat
+  genmorph eat
+> ateeats
+  spell 0 0 
+  sug ate eats
+  sug eats
+> ati
+  spell 0 0 
+  sug ate
+> atl
+  spell 0 0 
+  sug ate
+> atoe
+  spell 0 0 
+  sug ate
+> bate
+  spell 0 0 
+  sug ate
+> ddink
+  spell 0 0 
+  sug drink
+> dirnk
+  spell 0 0 
+  sug drink
+> doink
+  spell 0 0 
+  sug drink
+> drank
+  spell 1 0 
+  sug drank
+  ana  po:verb	st:drink	is:past_1
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+> drank-drinks
+  spell 1 1 
+> dranke
+  spell 0 0 
+  sug drank
+  sug drunk
+> drbnk
+  spell 0 0 
+  sug drank
+> drikn
+  spell 0 0 
+  sug drink
+> drin
+  spell 0 0 
+  sug drink
+> drinh
+  spell 0 0 
+  sug drink
+> drink
+  spell 1 0 
+  sug drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  sfx drinks
+  gen drink
+  genmorph drink
+  genmorph drink
+> drink-ate
+  spell 1 1 
+  sug drink
+> drink-drank
+  spell 1 1 
+> drink-drink
+  spell 1 1 
+> drink-eats
+  spell 1 1 
+> drink.
+  spell 1 0 
+  sug drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+  genmorph drink
+> drinkable
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  gen drink
+  genmorph drinkable
+  genmorph drink
+> drinkable-drinks
+  spell 1 1 
+> drinkables
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  gen drink
+  genmorph drinkable
+  genmorph drink
+> drinkables-eat
+  spell 1 1 
+> drinkablesundrinkables
+  spell 0 0 
+  sug drinkables undrinkables
+> drinkate
+  spell 0 0 
+  sug drink ate
+  sug drink
+> drinkdrink
+  spell 0 0 
+  sug drink drink
+> drinkdrinks
+  spell 0 0 
+  sug drink drinks
+> drinkns
+  spell 0 0 
+  sug drinks
+  sug drink
+> drinkphenomena
+  spell 0 0 
+  sug drink phenomena
+  sug phenomenon
+> drinks
+  spell 1 0 drink
+  sug drink
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+  ana  st:drink po:noun is:plur
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+  genmorph drink
+> drinks-drank
+  spell 1 1 
+> drinks-eatable
+  spell 1 1 
+> drinks.
+  spell 1 0 drink
+  sug drink
+  sug drinks
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+  ana  st:drink po:noun is:plur
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+  genmorph drink
+> drinksdrinkables
+  spell 0 0 
+  sug drinks drinkables
+> drinkseat
+  spell 0 0 
+  sug drinks eat
+  sug drink
+> drinu
+  spell 0 0 
+  sug drink
+> drirnks
+  spell 0 0 
+  sug drinks
+  sug drink
+> drkink
+  spell 0 0 
+  sug drink
+  sug drank
+> drmink
+  spell 0 0 
+  sug drink
+  sug drank
+> drnak
+  spell 0 0 
+  sug drank
+> drnik
+  spell 0 0 
+  sug drink
+> drniks
+  spell 0 0 
+  sug drinks
+> drnk
+  spell 0 0 
+  sug drank
+> droink
+  spell 0 0 
+  sug drink
+  sug drank
+> drsunk
+  spell 0 0 
+  sug drunk
+  sug drank
+> drtnkables
+  spell 0 0 
+> drunk
+  spell 1 0 
+  sug drink
+  sug drunk
+  ana  po:verb	st:drink	is:past_2
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+> drunk.
+  spell 1 0 
+  sug drink
+  sug drunk
+  ana  po:verb	st:drink	is:past_2
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+> drunr
+  spell 0 0 
+  sug drunk
+> eaat
+  spell 0 0 
+  sug eat
+> eat
+  spell 1 0 
+  sug ate
+  sug eat
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present
+  stem eat
+  stemmorph eat
+  sfx eatable
+  sfx eats
+  gen eat
+  genmorph eat
+> eat-drank
+  spell 1 1 
+  sug drank
+> eat.
+  spell 1 0 
+  sug ate
+  sug eat
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present
+  stem eat
+  stemmorph eat
+  gen eat
+  genmorph eat
+> eatable
+  spell 1 0 eat
+  sug eatable
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present ds:der_able
+  stem eatable
+  stemmorph eatable
+  gen eatable
+  gen eat
+  genmorph eatable
+  genmorph eat
+> eatable-eat
+  spell 1 1 
+> eatable.
+  spell 1 0 eat
+  sug eatable
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present ds:der_able
+  stem eatable
+  stemmorph eatable
+  gen eatable
+  gen eat
+  genmorph eatable
+  genmorph eat
+> eatableeatable
+  spell 0 0 
+  sug eatable eatable
+> eatables
+  spell 1 0 eat
+  sug eatable
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present ds:der_able is:plur
+  stem eatable
+  stemmorph eatable
+  gen eatable
+  gen eat
+  genmorph eatable
+  genmorph eat
+> eatables-drinks
+  spell 1 1 
+> eatablesdrink
+  spell 0 0 
+  sug eatables drink
+> eatatbles
+  spell 0 0 
+  sug eatables
+> eaten
+  spell 1 0 
+  sug eaten
+  ana  po:verb	st:eat	is:past_2
+  stem eat
+  stemmorph eat
+  gen eat
+  genmorph eat
+> eaten-drinks
+  spell 1 1 
+> eateneat
+  spell 0 0 
+  sug eaten eat
+  sug eaten
+> eateneats
+  spell 0 0 
+  sug eaten eats
+  sug eaten
+> eatent
+  spell 0 0 
+  sug eaten
+  sug eat
+> eatrs
+  spell 0 0 
+  sug eats
+> eats
+  spell 1 0 eat
+  sug eat
+  ana  st:eat po:verb	al:ate	al:eaten	ts:present is:sg_3
+  stem eat
+  stemmorph eat
+  gen eat
+  genmorph eat
+> eatsm
+  spell 0 0 
+  sug eats
+  sug eat
+> eiatables
+  spell 0 0 
+  sug eatables
+> ematen
+  spell 0 0 
+  sug eaten
+> eoat
+  spell 0 0 
+  sug eat
+> ets
+  spell 0 0 
+  sug eats
+> henomena
+  spell 0 0 
+  sug phenomena
+  sug phenomenon
+> hpenomena
+  spell 0 0 
+  sug phenomena
+  sug phenomenon
+> nundrinkables
+  spell 0 0 
+  sug undrinkables
+> pat
+  spell 0 0 
+  sug eat
+> penomena
+  spell 0 0 
+  sug phenomena
+> pheiomena
+  spell 0 0 
+  sug phenomena
+> phenomean
+  spell 0 0 
+  sug phenomena
+  sug phenomenon
+> phenomena
+  spell 1 0 
+  sug phenomena
+  ana  po:noun st:phenomenon	is:plur
+  stem phenomenon
+  stemmorph phenomenon
+> phenomena-eatable
+  spell 1 1 
+> phenomena-phenomenon
+  spell 1 1 
+> phenomenadrinks
+  spell 0 0 
+  sug phenomena drinks
+> phenomenae
+  spell 0 0 
+  sug phenomena
+  sug phenomenon
+> phenomenno
+  spell 0 0 
+  sug phenomenon
+  sug phenomena
+> phenomenon
+  spell 1 0 
+  sug phenomenon
+  ana  st:phenomenon po:noun	al:phenomena
+  stem phenomenon
+  stemmorph phenomenon
+> phenomenon.
+  spell 1 0 
+  sug phenomenon
+  ana  st:phenomenon po:noun	al:phenomena
+  stem phenomenon
+  stemmorph phenomenon
+> phenomenondrinks
+  spell 0 0 
+  sug phenomenon drinks
+> phenoumena
+  spell 0 0 
+  sug phenomena
+  sug phenomenon
+> rdink
+  spell 0 0 
+  sug drink
+> rink
+  spell 0 0 
+  sug drink
+> rinks
+  spell 0 0 
+  sug drinks
+> runk
+  spell 0 0 
+  sug drunk
+> tte
+  spell 0 0 
+  sug ate
+> uate
+  spell 0 0 
+  sug ate
+> undrinkable
+  spell 1 0 drink
+  ana dp:pfx_un sp:un  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able
+  stem undrinkable
+  stemmorph undrinkable
+  gen undrinkable
+  genmorph undrinkable
+> undrinkabledrink
+  spell 0 0 
+  sug undrinkable drink
+> undrinkables
+  spell 1 0 drink
+  sug undrinkable
+  ana dp:pfx_un sp:un  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+  stem undrinkable
+  stemmorph undrinkable
+  gen undrinkable
+  genmorph undrinkable
+> undrinkables.
+  spell 1 0 drink
+  sug undrinkable
+  sug undrinkables
+  ana dp:pfx_un sp:un  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+  stem undrinkable
+  stemmorph undrinkable
+  gen undrinkable
+  genmorph undrinkable
+> unrinkables
+  spell 0 0 
+> uphenomenon
+  spell 0 0 
+  sug phenomenon
+  sug phenomena
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> drink's
+  spell 0 0 
+  sug drinks
+  sug drink
+> drinkâ€™s
+  spell 0 0 
+  sug drinks
+> 'drink'
+  spell 0 0 
+  sug drink
+> l'drink
+  spell 0 0 
+  sug drink
+> drink.
+  spell 1 0 
+  sug drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+  genmorph drink
+> drink..
+  spell 1 0 
+  sug drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+  genmorph drink
+> .drink
+  spell 0 0 
+  sug drink
+> ...
+  spell 1 0 
+> -drink
+  spell 1 1 
+  sug drink
+> drink-
+  spell 1 1 
+  sug drink
+  sug drank
+> drink--ate
+  spell 1 1 
+> drink-ate-drink
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> DRINK
+  spell 1 32 
+  sug DRUNK
+  sug DRINK
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen DRINK
+  genmorph DRINK
+  genmorph DRINK
+> DRINK
+  spell 1 32 
+  sug DRUNK
+  sug DRINK
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen DRINK
+  genmorph DRINK
+  genmorph DRINK
+> Drink
+  spell 1 32 
+  sug Drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen Drink
+  genmorph Drink
+  genmorph Drink
+> drink ate
+  spell 0 0 
+  sug drink
+>  drink
+  spell 1 0 
+  sug drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  gen drink
+  genmorph drink
+  genmorph drink
+> drink 
+  spell 0 0 
+  sug drink
+  sug drank
+> drink	ate
+  spell 0 0 
+  sug drink
+> ÿşdrink
+  spell 0 0 
+  sug drink
+> drinkÃ
+  spell 0 32 
+  sug drink
+  sug drank
+> €drink
+  spell 0 0 
+  sug drink
+> ğ€drink
+  spell 0 0 
+  sug drink
+> Ä°drink
+  spell 0 32 
+  sug Drink
+> drinkÃŸ
+  spell 0 32 
+  sug drink
+> drink
+  spell 1 0 
+  sug drunk
+  sug drink
+  ana  st:drink po:noun
+  ana  st:drink po:verb	al:drank	al:drunk	ts:present
+  stem drink
+  stemmorph drink
+  sfx drinks
+  gen drink
+  genmorph drink
+  genmorph drink
+> DRINKSS
+  spell 0 32 
+  sug DRINKS
+  sug DRINK
+> <?xml?><query type="analyze"><word>drink</word></query>
+  spell 0 0 
+  sug <code><a> st:drink po:noun</a><a> st:drink po:verb al:drank al:drunk ts:present</a></code>
+> <?xml?><query type="stem"><word>drink</word></query>
+  spell 0 0 
+  sug drink
+> <?xml?><query type="suggest"><word>drinkx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>drink</word><word>ate</word></query>
+  spell 0 0 
+  sug drank
+> <?xml?><query type="generate"><word>drink</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>drink</word></query>
+  spell 0 0 
+  sug <code><a> st:drink po:noun</a><a> st:drink po:verb al:drank al:drunk ts:present</a></code>
+> <?xml?><query type="add"><word>drink</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;drink&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>drink</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

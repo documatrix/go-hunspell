@@ -1,0 +1,9 @@
+utf8 1
+line [dog\xe2\x80\x99s it\xe2\x80\x99 don't]
+token 0 [dog\xe2\x80\x99s] word [dog\xe2\x80\x99s]
+token 8 [it] word [it]
+token 14 [don't] word [don't]
+prev 0 [dog\xe2\x80\x99s it\xe2\x80\x99 don't]
+prev 1 []
+prev 2 []
+prev 3 []

@@ -1,0 +1,103 @@
+exit 0
+stdout 1028
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wrold 1 6: world
+# this 13
+# is 18
+# a 21
+& tset 1 23: test
+# of 28
+& the 1 31: test
+# speling 35
+# checker 43
+
+& The 1 0: Test
+# quick 4
+# brown 10
+# fox 16
+# jumpss 20
+# over 27
+& the 1 32: test
+# lazy 36
+# dog 41
+
+# Numbers 0
+# like 8
+# and 16
+# and 25
+& st 1 30: test
+# nd 35
+& rd 1 40: word
+# are 43
+# skipped 47
+# so 56
+# are 59
+# hyphen-ated 63
+*
+
+# MiXeD 0
+& CaSe 1 6: Secret
+*
+*
+*
+*
+& hELLO 2 36: hello, hellos
+# NASA 42
+# Nasa 47
+
+# Apostrophes 0
+# don 13
+& t 1 17: test
+& doesn 1 20: document
+& t 1 26: test
+# it 29
+# s 32
+# rock 35
+# n 40
+# roll 42
+# quoted 49
+# dogs 58
+# bones 64
+# can 71
+& t 1 77: test
+# isn 80
+& t 1 86: test
+
+# Colons 0
+*
+# Finnish 14
+# ssa 22
+# and 26
+# a 30
+& lone 1 32: hello
+# colon 39
+
+# Entities 0
+# caf 10
+# eacute 14
+# na&iuml;ve 22
+# &Agrave;bc 33
+# amp 45
+# x&yuml;z 50
+
+# Mail 0
+# me 5
+# at 8
+& or 1 31: word
+# visit 34
+# today 83
+
+# Paths 0
+# and 30
+# and 53
+# ok 68
+
+# Tabbed 1
+# line 8
+# with 13
+# tabz 18
+
+stderr 98
+error: ./dict/extra.dic: line 1: missing or bad word count in the dic file
+Hash Manager Error : 4

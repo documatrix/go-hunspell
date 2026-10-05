@@ -1,0 +1,33 @@
+# example: foó
+! error: bad morph. alias index: 0
+! error: bad morph. alias index: 0
+> foó
+  spell 1 0 
+  sug foó
+  ana po:noun foó:ts 
+> éfoó
+  spell 1 0 foó
+  sug foó
+  ana po:verb ip:é foó:ts po:noun
+> őfoó
+  spell 1 0 foó
+  sug foó
+  ana Q:lf foó:ts po:noun
+> bár
+  spell 1 0 
+  sug bár
+  ana bár:ts 
+> ébár
+  spell 1 0 bár
+  sug bár
+  ana po:verb ip:é bár:ts 
+> őbaz
+  spell 1 0 baz
+  sug baz
+  ana Q:lf baz:ts 
+@info
+  enc UTF-8
+  wordchars 
+  wordchars16
+  version 
+  langnum 0

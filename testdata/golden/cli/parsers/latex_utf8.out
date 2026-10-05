@@ -1,0 +1,11 @@
+utf8 1
+line [caf\xc3\xa9 dog\xe2\x80\x99s don't \\emph{na\xc3\xafve} $\xc3\xa9$ ``q'']
+token 0 [caf\xc3\xa9] word [caf\xc3\xa9]
+token 6 [dog\xe2\x80\x99s] word [dog\xe2\x80\x99s]
+token 14 [don't] word [don't]
+token 26 [na\xc3\xafve] word [na\xc3\xafve]
+token 41 [q''] word [q'']
+prev 0 [caf\xc3\xa9 dog\xe2\x80\x99s don't \\emph{na\xc3\xafve} $\xc3\xa9$ ``q'']
+prev 1 []
+prev 2 []
+prev 3 []

@@ -1,0 +1,317 @@
+# example: 𐏑
+> 𐏑
+  spell 1 0 
+  sug 𐏑
+  ana  st:𐏑
+  stem 𐏑
+  stemmorph 𐏑
+> 𐏑-𐏒𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+> 𐏑-𐏒𐏒
+  spell 1 1 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏑.
+  spell 1 0 
+  sug 𐏑
+  ana  st:𐏑
+  stem 𐏑
+  stemmorph 𐏑
+> 𐏑𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏑
+> 𐏑𐏑𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏑𐏑𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+> 𐏑𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+  sug 𐏒
+> 𐏑𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏑𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏑𐏒𐏒-𐏑𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑-𐏑𐏒𐏒
+  sug 𐏒𐏒-𐏑𐏒𐏒
+  sug 𐏒𐏑
+> 𐏑𐏒𐏒-𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑-𐏒𐏑
+  sug 𐏒𐏒-𐏒𐏑
+  sug 𐏒𐏑
+> 𐏑𐏒𐏒-𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑-𐏒𐏒
+  sug 𐏒𐏒-𐏒𐏒
+  sug 𐏒𐏑
+> 𐏑𐏒𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+> 𐏑𐏒𐏒𐏑𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+> 𐏑𐏒𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒
+  spell 1 0 
+  sug 𐏒
+  ana  st:𐏒
+  stem 𐏒
+  stemmorph 𐏒
+> 𐏒-𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒-𐏒𐏒
+  spell 1 1 
+  sug 𐏒𐏒
+  sug 𐏒𐏑
+> 𐏒.
+  spell 1 0 
+  sug 𐏒
+  ana  st:𐏒
+  stem 𐏒
+  stemmorph 𐏒
+> 𐏒𐏑
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑-𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+> 𐏒𐏑-𐏒
+  spell 1 1 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑.
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑𐏑𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+> 𐏒𐏑𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+> 𐏒𐏑𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏒
+  spell 1 0 
+  sug 𐏒𐏒
+  ana  st:𐏒𐏒
+  stem 𐏒𐏒
+  stemmorph 𐏒𐏒
+> 𐏒𐏒-𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏒-𐏒𐏒
+  spell 1 1 
+  sug 𐏒𐏒
+> 𐏒𐏒.
+  spell 1 0 
+  sug 𐏒𐏒
+  ana  st:𐏒𐏒
+  stem 𐏒𐏒
+  stemmorph 𐏒𐏒
+> 𐏒𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏒
+  sug 𐏒𐏑
+> 𐏒𐏒𐏒𐏒
+  spell 0 0 
+  sug 𐏒𐏒
+  sug 𐏒𐏑
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> 𐏒𐏑's
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑’s
+  spell 0 0 
+  sug 𐏒𐏑
+> '𐏒𐏑'
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> l'𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑.
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑..
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> .𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> ...
+  spell 1 0 
+> -𐏒𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑-
+  spell 1 1 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑--𐏒𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+> 𐏒𐏑-𐏒𐏑-𐏒𐏑
+  spell 1 1 
+  sug 𐏒𐏑
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> 𐏒𐏑
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑 𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+>  𐏒𐏑
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑 
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑	𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+> ��𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑�
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> �𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐐀𐏒𐏑
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> İ𐏒𐏑
+  spell 0 32 
+> 𐏒𐏑ß
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> 𐏒𐏑
+  spell 1 0 
+  sug 𐏒𐏑
+  ana  st:𐏒𐏑
+  stem 𐏒𐏑
+  stemmorph 𐏒𐏑
+> 𐏒𐏑SS
+  spell 0 0 
+  sug 𐏒𐏑
+  sug 𐏒𐏒
+> <?xml?><query type="analyze"><word>𐏒𐏑</word></query>
+  spell 0 0 
+  sug <code><a> st:𐏒𐏑</a></code>
+> <?xml?><query type="stem"><word>𐏒𐏑</word></query>
+  spell 0 0 
+  sug 𐏒𐏑
+> <?xml?><query type="suggest"><word>𐏒𐏑x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>𐏒𐏑</word><word>𐏒𐏑</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>𐏒𐏑</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>𐏒𐏑</word></query>
+  spell 0 0 
+  sug <code><a> st:𐏒𐏑</a></code>
+> <?xml?><query type="add"><word>𐏒𐏑</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;𐏒𐏑&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>𐏒𐏑</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,404 @@
+# example: человек
+> ВРЕМЯЧКО
+  spell 0 32 
+> Времячко
+  spell 0 32 
+> ЧЕЛОВЕК
+  spell 1 32 
+  sug ЧЕЛОВЕК
+  ana  st:человек
+  stem человек
+  stemmorph человек
+> ЧЕЛОВЕКО
+  spell 0 32 
+  sug ЧЕЛОВЕК
+> Человек
+  spell 1 32 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+> Человеко
+  spell 0 32 
+  sug Человек
+> веловек
+  spell 0 0 
+  sug человек
+> вермячко
+  spell 0 0 
+> времвчко
+  spell 0 0 
+> времяко
+  spell 0 0 
+> времячко
+  spell 0 0 
+> времячко-времячко
+  spell 0 0 
+> времячко-человек
+  spell 0 0 
+> времячко-человеко
+  spell 0 0 
+> времячко.
+  spell 0 0 
+> времячкочеловек
+  spell 0 0 
+> времячмо
+  spell 0 0 
+> времячо
+  spell 0 0 
+> вромячко
+  spell 0 0 
+> ееловек
+  spell 0 0 
+  sug человек
+> еловек
+  spell 0 0 
+  sug человек
+> очеловек
+  spell 0 0 
+  sug человек
+> чевовеко
+  spell 0 0 
+  sug человек
+> челвек
+  spell 0 0 
+  sug человек
+> челвоек
+  spell 0 0 
+  sug человек
+> челмовек
+  spell 0 0 
+  sug человек
+> человвек
+  spell 0 0 
+  sug человек
+> человвеко
+  spell 0 0 
+  sug человек
+> человев
+  spell 0 0 
+  sug человек
+> человевк
+  spell 0 0 
+  sug человек
+> человево
+  spell 0 0 
+  sug человек
+> человее
+  spell 0 0 
+  sug человеке
+  sug человек
+> человеек
+  spell 0 0 
+  sug человеке
+  sug человек
+> человек
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+  sfx человеку
+  sfx человеках
+  sfx человека
+  sfx человеке
+  sfx человеками
+  sfx человекам
+  sfx человеком
+> человек-времячко
+  spell 0 0 
+> человек-человек
+  spell 1 1 
+> человек-человеко
+  spell 0 0 
+  sug человек-человек
+> человек.
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+> человеквремячко
+  spell 0 0 
+> человеко
+  spell 0 0 
+  sug человек
+> человеко-человек
+  spell 0 0 
+  sug человек-человек
+> человеко.
+  spell 0 0 
+  sug человек
+> человекочеловеко
+  spell 0 0 
+> человекчеловек
+  spell 0 0 
+  sug человек человек
+> человекчеловеко
+  spell 0 0 
+> человекя
+  spell 0 0 
+  sug человек
+> человекяо
+  spell 0 0 
+  sug человек
+> человео
+  spell 0 0 
+  sug человек
+> человеок
+  spell 0 0 
+  sug человек
+> человер
+  spell 0 0 
+  sug человек
+> человк
+  spell 0 0 
+  sug человек
+> человке
+  spell 0 0 
+  sug человек
+> человкео
+  spell 0 0 
+  sug человек
+> человко
+  spell 0 0 
+  sug человек
+> человлко
+  spell 0 0 
+  sug человек
+> челоевек
+  spell 0 0 
+  sug человек
+  sug человеке
+> челоевк
+  spell 0 0 
+  sug человек
+> челоек
+  spell 0 0 
+  sug человек
+> челоеко
+  spell 0 0 
+  sug человек
+> челолвек
+  spell 0 0 
+  sug человек
+> челомвек
+  spell 0 0 
+  sug человек
+> челочвек
+  spell 0 0 
+  sug человек
+> чемловеко
+  spell 0 0 
+  sug человек
+> чемовек
+  spell 0 0 
+  sug человек
+> чемовеко
+  spell 0 0 
+  sug человек
+> чеовек
+  spell 0 0 
+  sug человек
+> чеоловек
+  spell 0 0 
+  sug человек
+> черловек
+  spell 0 0 
+  sug человек
+> чеяовек
+  spell 0 0 
+  sug человек
+> чкеловеко
+  spell 0 0 
+  sug человек
+> чкловек
+  spell 0 0 
+  sug человек
+> члеовек
+  spell 0 0 
+  sug человек
+> чловек
+  spell 0 0 
+  sug человек
+> чрловек
+  spell 0 0 
+  sug человек
+> ччловеко
+  spell 0 0 
+  sug человек
+> яеловек
+  spell 0 0 
+  sug человек
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> человек's
+  spell 0 0 
+  sug человек
+> человек’s
+  spell 0 0 
+  sug человек
+> 'человек'
+  spell 0 0 
+  sug человек
+> l'человек
+  spell 0 0 
+  sug человек
+> человек.
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+> человек..
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+> .человек
+  spell 0 0 
+  sug человек
+> ...
+  spell 1 0 
+> -человек
+  spell 1 1 
+  sug человек
+> человек-
+  spell 1 1 
+  sug человек
+> человек--человек
+  spell 1 1 
+> человек-человек-человек
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> человек
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+  sfx человеку
+  sfx человеках
+  sfx человека
+  sfx человеке
+  sfx человеками
+  sfx человекам
+  sfx человеком
+> человек
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+  sfx человеку
+  sfx человеках
+  sfx человека
+  sfx человеке
+  sfx человеками
+  sfx человекам
+  sfx человеком
+> человек
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+  sfx человеку
+  sfx человеках
+  sfx человека
+  sfx человеке
+  sfx человеками
+  sfx человекам
+  sfx человеком
+> человек человек
+  spell 0 0 
+>  человек
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+> человек 
+  spell 0 0 
+  sug человек
+> человек	человек
+  spell 0 0 
+> ��человек
+  spell 0 0 
+  sug человек
+> человек�
+  spell 0 0 
+  sug человек
+> �человек
+  spell 0 0 
+  sug человек
+> 𐐀человек
+  spell 0 0 
+  sug человек
+> İчеловек
+  spell 0 32 
+  sug Человек
+> человекß
+  spell 0 0 
+  sug человек
+> человек
+  spell 1 0 
+  sug человек
+  ana  st:человек
+  stem человек
+  stemmorph человек
+  sfx человеку
+  sfx человеках
+  sfx человека
+  sfx человеке
+  sfx человеками
+  sfx человекам
+  sfx человеком
+> человекSS
+  spell 0 32 
+  sug человек
+> <?xml?><query type="analyze"><word>человек</word></query>
+  spell 0 0 
+  sug <code><a> st:человек</a></code>
+> <?xml?><query type="stem"><word>человек</word></query>
+  spell 0 0 
+  sug человек
+> <?xml?><query type="suggest"><word>человекx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>человек</word><word>человек</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>человек</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>человек</word></query>
+  spell 0 0 
+  sug <code><a> st:человек</a></code>
+> <?xml?><query type="add"><word>человек</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;человек&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>человек</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

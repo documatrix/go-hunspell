@@ -1,0 +1,501 @@
+# example: szer
+> KOCSI
+  spell 1 32 
+  sug KOCSI
+  ana  st:kocsi
+  stem kocsi
+  stemmorph kocsi
+> KOCSISZERV√≠Z
+  spell 0 32 
+> Kocsi
+  spell 1 32 
+  sug kocsi
+  ana  st:kocsi
+  stem kocsi
+  stemmorph kocsi
+> SZERKOCSI
+  spell 1 33 szer
+  sug SZER KOCSI
+  sug SZERVIZ
+  ana  pa:szer st:szer pa:kocsi
+  stem szer
+  stemmorph szer
+> SZERVIZ
+  spell 1 32 
+  sug SZERVIZ
+  ana  st:szerviz
+  stem szerviz
+  stemmorph szerviz
+> SZERV√≠Z
+  spell 0 32 
+  sug SZERVIZ
+> SZERV√≠ZKOCSI
+  spell 0 32 
+> Szer
+  spell 1 32 
+  sug szer
+  ana  st:szer
+  stem szer
+  stemmorph szer
+> Szerviz
+  spell 1 32 
+  sug szerviz
+  ana  st:szerviz
+  stem szerviz
+  stemmorph szerviz
+> Szerv„≠z
+  spell 0 32 
+  sug Szerviz
+> Szerv„≠zkocsi
+  spell 0 32 
+> V√≠ZSZER
+  spell 0 32 
+  sug SZERVIZ
+> VÕZ
+  spell 1 32 
+  sug VÕZ
+  ana  st:vÌz
+  stem vÌz
+  stemmorph vÌz
+> V„≠zszer
+  spell 0 32 
+  sug Szerviz
+> VÌz
+  spell 1 32 
+  sug vÌz
+  ana  st:vÌz
+  stem vÌz
+  stemmorph vÌz
+> kcosi
+  spell 0 0 
+  sug kocsi
+> kcsi
+  spell 0 0 
+  sug kocsi
+> kocsi
+  spell 1 0 
+  sug kocsi
+  ana  st:kocsi
+  stem kocsi
+  stemmorph kocsi
+> kocsi.
+  spell 1 0 
+  sug kocsi
+  ana  st:kocsi
+  stem kocsi
+  stemmorph kocsi
+> kocsiiszerv√≠z
+  spell 0 32 
+> kocsikocsiszerv√≠z
+  spell 0 32 
+> kocsiszervc√≠z
+  spell 0 32 
+> kocsiszerv√≠o
+  spell 0 32 
+> kocsiszerv√≠z
+  spell 0 32 
+> kocsiszerv√≠z-kocsi
+  spell 0 32 
+> kocsiszerv√≠z-kocsiszerv√≠z
+  spell 0 32 
+> kocsiszerv√≠z-szerv√≠zkocsi
+  spell 0 32 
+> kocsiszerv√≠z.
+  spell 0 32 
+> kocsiszerv√≠zkocsiszerv√≠z
+  spell 0 32 
+> kocsiszer√≠z
+  spell 0 32 
+> kocsiv√≠zszer
+  spell 0 32 
+> kocsÌiszerv√≠z
+  spell 0 32 
+> koc√iszerv√≠z
+  spell 0 32 
+> koosi
+  spell 0 0 
+  sug kocsi
+> ozerkocsi
+  spell 0 0 
+  sug kocsi
+> rszerviz
+  spell 0 0 
+  sug szerviz
+> serv√≠zkocsi
+  spell 0 32 
+> sezerv√≠z
+  spell 0 32 
+  sug szerviz
+> sezr
+  spell 0 0 
+  sug szer
+> sezrviz
+  spell 0 0 
+  sug szerviz
+> sezrv√≠zkocsi
+  spell 0 32 
+> szekrocsi
+  spell 0 0 
+  sug szerkocsi
+> szer
+  spell 1 0 
+  sug szer
+  ana  st:szer
+  stem szer
+  stemmorph szer
+> szer-kocsi
+  spell 1 1 
+  sug szerkocsi
+> szer-szer
+  spell 1 1 
+  sug szerszer
+> szer-szerv√≠z
+  spell 0 32 
+  sug szer-szerviz
+> szer-szerv√≠zkocsi
+  spell 0 32 
+> szer.
+  spell 1 0 
+  sug szer
+  ana  st:szer
+  stem szer
+  stemmorph szer
+> szerivz
+  spell 0 0 
+  sug szerviz
+> szeriz
+  spell 0 0 
+  sug szerviz
+  sug szer
+> szerk
+  spell 0 0 
+  sug szer
+> szerkocesi
+  spell 0 0 
+  sug szerkocsi
+> szerkoci
+  spell 0 0 
+  sug szerviz
+> szerkocis
+  spell 0 0 
+  sug szerkocsi
+> szerkocsi
+  spell 1 1 szer
+  sug szer kocsi
+  sug szerviz
+  ana  pa:szer st:szer pa:kocsi
+  stem szer
+  stemmorph szer
+> szerkocsi-kocsiszerv√≠z
+  spell 0 32 
+> szerkocsi-szerv√≠z
+  spell 0 32 
+  sug szerkocsi-szerviz
+> szerkocsi.
+  spell 1 1 szer
+  sug szer kocsi
+  sug szerkocsi
+  sug szerviz
+  ana  pa:szer st:szer pa:kocsi
+  stem szer
+  stemmorph szer
+> szerkocsis
+  spell 0 0 
+  sug szerkocsi
+> szerkocsiszerkocsi
+  spell 1 1 szer
+  sug szerkocsi szerkocsi
+  ana  pa:szer st:szer pa:kocsi st:kocsi pa:szer st:szer pa:kocsi
+  stem szerkocsiszer
+  stemmorph szerkocsiszer
+> szerkocsiszerv√≠zkocsi
+  spell 0 32 
+> szerkocsivÌz
+  spell 1 1 szer
+  ana  pa:szer st:szer pa:kocsi st:kocsi pa:vÌz
+  stem szerkocsi
+  stemmorph szerkocsi
+> szerszerviz
+  spell 0 0 
+  sug szer szerviz
+  sug szerviz
+> szerviz
+  spell 1 0 
+  sug szerviz
+  ana  st:szerviz
+  stem szerviz
+  stemmorph szerviz
+> szerviz-kocsiszerv√≠z
+  spell 0 32 
+> szerviz-szerv√≠zkocsi
+  spell 0 32 
+> szerviz.
+  spell 1 0 
+  sug szerviz
+  ana  st:szerviz
+  stem szerviz
+  stemmorph szerviz
+> szervize
+  spell 0 0 
+  sug szerviz
+  sug szer
+> szervizszerviz
+  spell 0 0 
+  sug szerviz szerviz
+> szervizszerv√≠zkocsi
+  spell 0 32 
+> szervizv√≠zszer
+  spell 0 32 
+> szervz
+  spell 0 0 
+  sug szerviz
+  sug szer
+> szervzi
+  spell 0 0 
+  sug szerviz
+  sug szer
+> szerv√oz
+  spell 0 32 
+  sug szerviz
+> szerv√zkocsi
+  spell 0 32 
+> szerv√z≠z
+  spell 0 32 
+  sug szerviz
+> szerv√≠
+  spell 0 32 
+  sug szerviz
+> szerv√≠e
+  spell 0 32 
+  sug szerviz
+> szerv√≠z
+  spell 0 32 
+  sug szerviz
+> szerv√≠z.
+  spell 0 32 
+  sug szerviz
+> szerv√≠zkocsi
+  spell 0 32 
+> szerv√≠zkocsi-szer
+  spell 0 32 
+> szerv√≠zkocsi.
+  spell 0 32 
+> szerv√≠zkocsiszer
+  spell 0 32 
+> szerv√≠zkocsiszerkocsi
+  spell 0 32 
+> szerv√≠zkocsiszerv√≠z
+  spell 0 32 
+> szerv√≠zkocsiszerv√≠zkocsi
+  spell 0 32 
+> szerv√≠z√kocsi
+  spell 0 32 
+> szer≠iz
+  spell 0 0 
+  sug szerviz
+> szer√v√≠z
+  spell 0 32 
+  sug szerviz
+> szesrviz
+  spell 0 0 
+  sug szerviz
+> szeviz
+  spell 0 0 
+  sug szerviz
+> szevr√≠z
+  spell 0 32 
+  sug szerviz
+> szr
+  spell 0 0 
+  sug szer
+> szreviz
+  spell 0 0 
+  sug szerviz
+> szrv√≠zkocsi
+  spell 0 32 
+> szzr
+  spell 0 0 
+  sug szer
+> sz√rviz
+  spell 0 32 
+  sug szerviz
+> vc√≠zszer
+  spell 0 32 
+> vz
+  spell 0 0 
+  sug vÌz
+> v≠z
+  spell 0 0 
+  sug vÌz
+> v√≠zsver
+  spell 0 32 
+> v√≠zszer
+  spell 0 32 
+  sug szerviz
+> v√≠zszer-szerviz
+  spell 0 32 
+  sug szerviz-szerviz
+> v√≠zszer-vÌz
+  spell 0 32 
+  sug szerviz-vÌz
+> v√≠zszer.
+  spell 0 32 
+  sug szerviz
+> v√≠zszerszerv√≠z
+  spell 0 32 
+> v√≠zszerv√≠zszer
+  spell 0 32 
+> vÌ
+  spell 0 0 
+  sug vÌz
+> vÌoz
+  spell 0 0 
+  sug vÌz
+> vÌz
+  spell 1 0 
+  sug vÌz
+  ana  st:vÌz
+  stem vÌz
+  stemmorph vÌz
+> vÌz-kocsiszerv√≠z
+  spell 0 32 
+> vÌz.
+  spell 1 0 
+  sug vÌz
+  ana  st:vÌz
+  stem vÌz
+  stemmorph vÌz
+> vÌzk
+  spell 0 0 
+  sug vÌz
+> vÌzkocsiszerv√≠z
+  spell 0 32 
+> vÌzszer
+  spell 1 1 vÌz
+  sug vÌz szer
+  sug szerviz
+  ana  pa:vÌz st:vÌz pa:szer
+  stem vÌz
+  stemmorph vÌz
+> vÌzszerv√≠zkocsi
+  spell 0 32 
+> vÌzv
+  spell 0 0 
+  sug vÌz
+> vÌzvÌz
+  spell 1 1 vÌz
+  sug vÌz vÌz
+  sug vÌz
+  ana  pa:vÌz st:vÌz pa:vÌz
+  stem vÌz
+  stemmorph vÌz
+> vÌz≠
+  spell 0 0 
+  sug vÌz
+> zerviz
+  spell 0 0 
+  sug szerviz
+> zocsi
+  spell 0 0 
+  sug kocsi
+> √≠zszer
+  spell 0 32 
+  sug Szerviz
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> szerv√≠zkocsi's
+  spell 0 32 
+> szerv√≠zkocsi‚Äôs
+  spell 0 32 
+> 'szerv√≠zkocsi'
+  spell 0 32 
+> l'szerv√≠zkocsi
+  spell 0 32 
+> szerv√≠zkocsi.
+  spell 0 32 
+> szerv√≠zkocsi..
+  spell 0 32 
+> .szerv√≠zkocsi
+  spell 0 32 
+> ...
+  spell 1 0 
+> -szerv√≠zkocsi
+  spell 0 32 
+> szerv√≠zkocsi-
+  spell 0 32 
+> szerv√≠zkocsi--szerv√≠z
+  spell 0 32 
+> szerv√≠zkocsi-szerv√≠z-szerv√≠zkocsi
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> SZERV√≠ZKOCSI
+  spell 0 32 
+> SZERV√≠ZKOCSI
+  spell 0 32 
+> Szerv√≠Zkocsi
+  spell 0 32 
+> szerv√≠zkocsi szerv√≠z
+  spell 0 32 
+>  szerv√≠zkocsi
+  spell 0 32 
+> szerv√≠zkocsi 
+  spell 0 32 
+> szerv√≠zkocsi	szerv√≠z
+  spell 0 32 
+> ˇ˛szerv√≠zkocsi
+  spell 0 32 
+> szerv√≠zkocsi√
+  spell 0 32 
+> Äszerv√≠zkocsi
+  spell 0 32 
+> êêÄszerv√≠zkocsi
+  spell 0 32 
+> ƒ∞szerv√≠zkocsi
+  spell 0 32 
+> szerv√≠zkocsi√ü
+  spell 0 32 
+> szerv√≠zkocsi
+  spell 0 32 
+> SZERV√≠ZKOCSISS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>szerv√≠zkocsi</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>szerv√≠zkocsi</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>szerv√≠zkocsix</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>szerv√≠zkocsi</word><word>szerv√≠z</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>szerv√≠zkocsi</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>szerv√≠zkocsi</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>szerv√≠zkocsi</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;szerv√≠zkocsi&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>szerv√≠zkocsi</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

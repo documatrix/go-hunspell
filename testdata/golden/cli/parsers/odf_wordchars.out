@@ -1,0 +1,11 @@
+utf8 0
+line [exam<text:span x]
+token 0 [exam<text:span] word [exam<text:span]
+token 15 [x] word [x]
+line [mis<text:span>t</text:span>ake <b>]
+token 0 [mis<text:span>t<] word [mist<]
+token 17 [text:span>ake] word [text:span>ake]
+prev 0 [mis<text:span>t</text:span>ake <b>]
+prev 1 [exam<text:span x]
+prev 2 []
+prev 3 []

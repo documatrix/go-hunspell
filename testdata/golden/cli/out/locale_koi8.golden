@@ -1,0 +1,51 @@
+exit 0
+stdout 1868
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& Caf√ 2 0: Cafe, Caff
+& √ 15 6: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& ber 15 8: brr, bee, bet, be, er, beer, bier, bear, berg, berm, berk, bar, bed, bur, beg
+& wrold 2 12: world, wold
+& na√ 7 18: nae, nag, nap, nah, nab, nay, naan
+& ve 15 22: be, v, e, eve, vie, ave, vet, veg, Eve, Ave, vs, vi, re, me, he
+& ‚ 15 25: E, S, I, A, N, R, T, O, L, C, D, U, G, M, P
+& tset 5 29: stet, test, set, sett, t set
+& √ 15 34: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& t√ 8 36: t, ts, ti, ta, tn, tr, to, tb
+& r√ 6 40: r, re, rs, rt, rd, rm
+& sum√ 4 43: sum, sums, sumo, sump
+& ≈ 15 49: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& xyzzy 1 52: muzzy
+
+& Can‚ 4 0: Can, Cane, Cans, Cant
+*
+& won‚ 3 8: won, wont, wonk
+*
+& isn‚ 1 16: isn't
+*
+& don‚ 5 24: don, done, dons, dona, dong
+*
+& it‚ 3 32: it, its, It
+*
+& dog‚ 3 39: dog, doge, dogs
+*
+
+& ‰ 15 0: E, S, I, A, N, R, T, O, L, C, D, U, G, M, P
+& Ê 15 3: E, S, I, A, N, R, T, O, L, C, D, U, G, M, P
+& — 15 7: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& — 15 9: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& — 15 11: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& — 15 13: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& – 15 15: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& – 15 17: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& – 15 19: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 22: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 24: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 26: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 28: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 30: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 32: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 34: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& Œ 15 36: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& wrold 2 39: world, wold
+
+stderr 0

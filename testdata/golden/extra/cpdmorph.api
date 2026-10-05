@@ -1,0 +1,109 @@
+# example: foo
+> refoobar
+  spell 1 1 foo
+  sug refoo bar
+  sug refoob ar
+  sug refoobar
+  ana  pa:refoo re st:foo fl:R pa:bar
+  stem refoo
+  stemmorph refoo
+> sefoobar
+  spell 1 1 foo
+  sug sefoo bar
+  sug sefoob ar
+  sug sefoobar
+  ana  pa:sefoo se st:foo fl:S pa:bar
+  stem sefoo
+  stemmorph sefoo
+> tefoobar
+  spell 0 0 
+  sug tefoo bar
+  sug refoobar
+  ana  pa:tefoo te st:foo fl:T pa:bar
+  stem tefoo
+  stemmorph tefoo
+> requxbar
+  spell 0 0 
+> fooéba
+  spell 1 1 foo
+  sug foo éba
+  sug fooé ba
+  sug fooéba
+  ana  pa:foo st:foo pa:éba
+  stem foo
+  stemmorph foo
+> fooéfoo
+  spell 1 1 fooé
+  sug fooé foo
+  sug fooéfoo
+  sug foofoo
+  sug foofooé
+  ana  pa:fooé st:fooé pa:foo
+  stem fooé
+  stemmorph fooé
+> barbar
+  spell 1 1 bar
+  sug bar bar
+  sug barr
+  sug bars
+  sug bar
+  ana  pa:bar st:bar pa:bar
+  stem bar
+  stemmorph bar
+> tefoosbar
+  spell 0 0 
+  sug tefoos bar
+  sug refoosbar
+> refoosbar
+  spell 1 1 foo
+  sug refoos bar
+  sug refoosb ar
+  sug refoosbar
+  sug refoobar
+  sug refoobars
+  ana  pa:refoos (  fl:R st:foo fl:A |  fl:R fl:R st:foo fl:A fl:B )  pa:bar
+  stem refoos
+  stemmorph refoos
+> sefoosbar
+  spell 1 1 foo
+  sug sefoos bar
+  sug sefoosb ar
+  sug sefoosbar
+  sug sefoobar
+  sug sefoobars
+  ana  pa:sefoos (  fl:S st:foo fl:A |  fl:S fl:S st:foo fl:A fl:B )  pa:bar
+  stem sefoos
+  stemmorph sefoos
+> barrefoo
+  spell 0 0 
+  sug bar refoo
+  sug barrfoo
+  ana  pa:bar st:bar pa:refoo re st:foo fl:R
+  stem barfoo
+  stemmorph barfoo
+> barsefoo
+  spell 0 0 
+  sug bar sefoo
+  sug barsfoo
+  ana  pa:bar st:bar pa:sefoo se st:foo fl:S
+  stem barfoo
+  stemmorph barfoo
+> fooébá
+  spell 0 0 
+  sug fooé
+> barrefoos
+  spell 1 1 bar
+  sug bar refoos
+  sug barrefoos
+  sug barrfoos
+  ana  pa:bar st:bar pa:refoos  (  fl:R st:foo fl:A |  fl:R fl:R st:foo fl:A fl:B ) 
+  stem barfoo
+  stemmorph barfoo
+> barsefoos
+  spell 1 1 bar
+  sug bar sefoos
+  sug barsefoos
+  sug barsfoos
+  ana  pa:bar st:bar pa:sefoos  (  fl:S st:foo fl:A |  fl:S fl:S st:foo fl:A fl:B ) 
+  stem barfoo
+  stemmorph barfoo

@@ -1,0 +1,532 @@
+# example: test
+> SUIKER
+  spell 1 32 
+  sug SUIKER
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> Suiker
+  spell 1 32 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> TEST
+  spell 1 32 
+  sug TEST
+  ana  st:test
+  ana  st:test fl:CB
+  ana  st:test fl:CA
+  stem test
+  stemmorph test
+> Test
+  spell 1 32 
+  sug test
+  ana  st:test
+  ana  st:test fl:CB
+  ana  st:test fl:CA
+  stem test
+  stemmorph test
+> ZOUT
+  spell 1 32 
+  sug ZOUT
+  ana  st:zout
+  ana  st:zout fl:CB
+  ana  st:zout fl:CA
+  stem zout
+  stemmorph zout
+> ZOUT-SUIKERTEST
+  spell 1 33 zout
+> ZOUTSUIKERTEST
+  spell 0 32 
+> Zout
+  spell 1 32 
+  sug zout
+  ana  st:zout
+  ana  st:zout fl:CB
+  ana  st:zout fl:CA
+  stem zout
+  stemmorph zout
+> Zout-suikertest
+  spell 1 33 zout
+> Zoutsuikertest
+  spell 0 32 
+> etst
+  spell 0 0 
+  sug test
+> isuiker
+  spell 0 0 
+  sug suiker
+> ktest
+  spell 0 0 
+  sug test
+> out
+  spell 0 0 
+  sug zout
+> outsuikertest
+  spell 0 0 
+> ozutsuikertest
+  spell 0 0 
+> skiker
+  spell 0 0 
+  sug suiker
+> sout
+  spell 0 0 
+  sug zout
+> suier
+  spell 0 0 
+  sug suiker
+> suiker
+  spell 1 0 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+  sfx suiker
+  sfx suiker
+  sfx suiker-
+  sfx suiker-
+> suiker-test
+  spell 1 1 suiker
+  sug suikertest
+  sug suikertest-
+  ana  pa:suiker- st:suiker fl:CA pa:test
+  ana  pa:suiker- st:suiker fl:CA pa:test  (  st:test fl:CB |  st:test fl:CA ) 
+  stem suiker-
+  stem suiker-test
+  stemmorph suiker-
+  stemmorph suiker-test
+> suiker-zoutsuikertest
+  spell 0 0 
+> suiker.
+  spell 1 0 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> suikersuiker
+  spell 0 0 
+> suikertest
+  spell 1 1 suiker
+  sug suiker
+> suikerzout
+  spell 0 0 
+  sug suiker
+> suikerzoutsuikertest
+  spell 0 0 
+> suikezr
+  spell 0 0 
+  sug suiker
+> suker
+  spell 0 0 
+  sug suiker
+> t-est
+  spell 0 0 
+  sug test
+  sug test-
+> teest
+  spell 0 0 
+  sug test
+> teet
+  spell 0 0 
+  sug test
+> terst
+  spell 0 0 
+  sug test
+> teskt
+  spell 0 0 
+  sug test
+> test
+  spell 1 0 
+  sug test
+  ana  st:test
+  ana  st:test fl:CB
+  ana  st:test fl:CA
+  stem test
+  stemmorph test
+  sfx test
+  sfx test
+  sfx test-
+  sfx test-
+> test-test
+  spell 1 1 test
+  sug testtest
+  sug testtest-
+  ana  pa:test- st:test fl:CA pa:test
+  ana  pa:test- st:test fl:CA pa:test  (  st:test fl:CB |  st:test fl:CA ) 
+  stem test-
+  stem test-test
+  stemmorph test-
+  stemmorph test-test
+> test-zoutsuikertest
+  spell 0 0 
+  sug testzout-suikertest
+> test.
+  spell 1 0 
+  sug test
+  ana  st:test
+  ana  st:test fl:CB
+  ana  st:test fl:CA
+  stem test
+  stemmorph test
+> testo
+  spell 0 0 
+  sug test
+> testsuiker
+  spell 0 0 
+  sug suiker
+> testtest
+  spell 1 1 test
+  sug testtest
+  ana  pa:test st:test fl:CA pa:test
+  ana  pa:test st:test fl:CA pa:test  (  st:test fl:CB |  st:test fl:CA ) 
+  stem test
+  stem testtest
+  stemmorph test
+  stemmorph testtest
+> testzout-suikertest
+  spell 1 1 test
+  sug test-suikertest
+> tets
+  spell 0 0 
+  sug test
+> tkest
+  spell 0 0 
+  sug test
+> tost
+  spell 0 0 
+  sug test
+> tst
+  spell 0 0 
+  sug test
+> ttest
+  spell 0 0 
+  sug test
+> utest
+  spell 0 0 
+  sug test
+> zkout-suikertest
+  spell 0 0 
+  sug zout-suikertest
+> zotu-suikertest
+  spell 0 0 
+  sug zout-suikertest
+> zou-tsuikertest
+  spell 0 0 
+  sug zout-suikertest
+> zour
+  spell 0 0 
+  sug zout
+> zout
+  spell 1 0 
+  sug zout
+  ana  st:zout
+  ana  st:zout fl:CB
+  ana  st:zout fl:CA
+  stem zout
+  stemmorph zout
+  sfx zout
+  sfx zout
+  sfx zout-
+  sfx zout-
+> zout-suikeertest
+  spell 0 0 
+  sug zout-suikertest
+> zout-suikerteskt
+  spell 0 0 
+  sug zout-suikertest
+> zout-suikertest
+  spell 1 1 zout
+> zout-suikertest-test
+  spell 1 1 zout
+  sug zout-suikertesttest
+  sug zout-suikertesttest-
+  sug zout-suiker-testtest
+> zout-suikertest.
+  spell 1 1 zout
+  sug zout-suikertest
+> zout-suikertestsuiker
+  spell 0 0 
+> zout-suikertestzout
+  spell 0 0 
+> zout-suikertestzoutsuikertest
+  spell 0 0 
+> zout-suikertset
+  spell 0 0 
+  sug zout-suikertest
+> zout-suikertust
+  spell 0 0 
+  sug zout-suiker
+> zout-suikezrtest
+  spell 0 0 
+  sug zout-suikertest
+> zout-suiokertest
+  spell 0 0 
+  sug zout-suikertest
+> zout-suitkertest
+  spell 0 0 
+  sug zout-suikertest
+> zout-suizertest
+  spell 0 0 
+> zout-test
+  spell 1 1 zout
+  sug zouttest
+  sug zouttest-
+  ana  pa:zout- st:zout fl:CA pa:test
+  ana  pa:zout- st:zout fl:CA pa:test  (  st:test fl:CB |  st:test fl:CA ) 
+  stem zout-
+  stem zout-test
+  stemmorph zout-
+  stemmorph zout-test
+> zout-uikertest
+  spell 0 0 
+  sug zout-suiker
+> zout.
+  spell 1 0 
+  sug zout
+  ana  st:zout
+  ana  st:zout fl:CB
+  ana  st:zout fl:CA
+  stem zout
+  stemmorph zout
+> zouto
+  spell 0 0 
+  sug zout
+> zoutr
+  spell 0 0 
+  sug zout
+> zoutsuiekrtest
+  spell 0 0 
+> zoutsuikeirtest
+  spell 0 0 
+> zoutsuikeortest
+  spell 0 0 
+> zoutsuiker-test
+  spell 0 0 
+  sug suiker-test
+> zoutsuikerterst
+  spell 0 0 
+> zoutsuikertes
+  spell 0 0 
+> zoutsuikertest
+  spell 0 0 
+> zoutsuikertest-test
+  spell 0 0 
+> zoutsuikertest-zout-suikertest
+  spell 0 0 
+> zoutsuikertest.
+  spell 0 0 
+> zoutsuikertestsuiker
+  spell 0 0 
+> zoutsuikertesttest
+  spell 0 0 
+> zoutsuikertestzout
+  spell 0 0 
+> zoutsuikertestzoutsuikertest
+  spell 0 0 
+> zoutsuikertst
+  spell 0 0 
+> zoutsuikretest
+  spell 0 0 
+> zoutsuikrtest
+  spell 0 0 
+> zoutuikertest
+  spell 0 0 
+> zoutusuikertest
+  spell 0 0 
+> zoutzout-suikertest
+  spell 0 0 
+  sug zout-suikertest
+> zoutzoutsuikertest
+  spell 0 0 
+> zouut
+  spell 0 0 
+  sug zout
+> zuot
+  spell 0 0 
+  sug zout
+> zuout
+  spell 0 0 
+  sug zout
+> zut
+  spell 0 0 
+  sug zout
+> zzout
+  spell 0 0 
+  sug zout
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-test
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+  sug test
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> suiker's
+  spell 0 0 
+  sug suiker
+> suikerâ€™s
+  spell 0 0 
+  sug suiker
+> 'suiker'
+  spell 0 0 
+  sug suiker
+> l'suiker
+  spell 0 0 
+  sug suiker
+> suiker.
+  spell 1 0 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> suiker..
+  spell 1 0 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> .suiker
+  spell 0 0 
+  sug suiker
+> ...
+  spell 1 0 
+> -suiker
+  spell 1 1 
+  sug suiker
+> suiker-
+  spell 1 0 suiker
+  sug suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> suiker--zout
+  spell 1 1 
+> suiker-zout-suiker
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> SUIKER
+  spell 1 32 
+  sug SUIKER
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> SUIKER
+  spell 1 32 
+  sug SUIKER
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> Suiker
+  spell 1 32 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> suiker zout
+  spell 0 0 
+>  suiker
+  spell 1 0 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+> suiker 
+  spell 0 0 
+  sug suiker
+> suiker	zout
+  spell 0 0 
+> ÿşsuiker
+  spell 0 0 
+  sug suiker
+> suikerÃ
+  spell 0 32 
+  sug suiker
+> €suiker
+  spell 0 0 
+  sug suiker
+> ğ€suiker
+  spell 0 0 
+  sug suiker
+> Ä°suiker
+  spell 0 32 
+  sug Suiker
+> suikerÃŸ
+  spell 0 32 
+  sug suiker
+> suiker
+  spell 1 0 
+  sug suiker
+  ana  st:suiker
+  ana  st:suiker fl:CB
+  ana  st:suiker fl:CA
+  stem suiker
+  stemmorph suiker
+  sfx suiker
+  sfx suiker
+  sfx suiker-
+  sfx suiker-
+> SUIKERSS
+  spell 0 32 
+  sug SUIKER
+> <?xml?><query type="analyze"><word>suiker</word></query>
+  spell 0 0 
+  sug <code><a> st:suiker</a><a> st:suiker fl:CB</a><a> st:suiker fl:CA</a></code>
+> <?xml?><query type="stem"><word>suiker</word></query>
+  spell 0 0 
+  sug suiker
+> <?xml?><query type="suggest"><word>suikerx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>suiker</word><word>zout</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>suiker</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>suiker</word></query>
+  spell 0 0 
+  sug <code><a> st:suiker</a><a> st:suiker fl:CB</a><a> st:suiker fl:CA</a></code>
+> <?xml?><query type="add"><word>suiker</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;suiker&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>suiker</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

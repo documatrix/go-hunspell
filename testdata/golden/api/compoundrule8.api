@@ -1,0 +1,871 @@
+# example: 0
+> 0
+  spell 1 0 
+  sug 0
+  ana  st:0
+  stem 0
+  stemmorph 0
+> 0-0th
+  spell 1 1 
+  sug 00th
+> 0-4
+  spell 1 0 
+> 00th
+  spell 1 1 0
+  sug 0th
+  sug 0 0th
+  sug 00th
+  ana  pa:0 st:0 pa:0th st:0th
+  stem 00th
+  stemmorph 00th
+> 02
+  spell 1 0 
+  sug 0
+  sug 2
+> 0t
+  spell 0 0 
+  sug 0
+> 0th
+  spell 1 0 
+  sug 0th
+  ana  st:0th
+  stem 0th
+  stemmorph 0th
+> 0th-1th
+  spell 0 0 
+  sug 0th-0th
+  sug 0th
+> 1
+  spell 1 0 
+  sug 1
+  ana  st:1
+  stem 1
+  stemmorph 1
+> 10001ST
+  spell 1 33 1
+  sug 01001ST
+  sug 10001ST
+  sug 00101ST
+  sug 1001ST
+  sug 0001ST
+  ana  pa:1 st:1 pa:0 st:0 pa:0 st:0 pa:0 st:0 pa:1st st:1st
+  ana  pa:1 st:1 pa:0 st:0 pa:0 st:0 pa:0 st:0 pa:1st st:1st
+  stem 10001st
+  stemmorph 10001st
+> 10001h
+  spell 0 0 
+> 10001st
+  spell 1 1 1
+  sug 01001st
+  sug 10001st
+  sug 00101st
+  ana  pa:1 st:1 pa:0 st:0 pa:0 st:0 pa:0 st:0 pa:1st st:1st
+  stem 10001st
+  stemmorph 10001st
+> 10001th
+  spell 0 0 
+  sug 10010th
+  sug 00011th
+  sug 11000th
+  sug 10100th
+> 10001th.
+  spell 0 0 
+  sug 10010th
+  sug 00011th
+  sug 11000th
+  sug 10100th
+> 1000th
+  spell 1 1 1
+  sug 0100th
+  sug 1000th
+  sug 0010th
+  ana  pa:1 st:1 pa:0 st:0 pa:0 st:0 pa:0th st:0th
+  stem 1000th
+  stemmorph 1000th
+> 10011ST
+  spell 0 32 
+  sug 10101ST
+  sug 11001ST
+  sug 1001ST
+> 10011st
+  spell 0 0 
+  sug 10101st
+  sug 11001st
+  sug 1001st
+> 10011st.
+  spell 0 0 
+  sug 10101st
+  sug 11001st
+  sug 1001st
+> 10011th
+  spell 1 1 1
+  sug 01011th
+  sug 10011th
+  sug 00111th
+  sug 11010th
+  sug 10110th
+  ana  pa:1 st:1 pa:0 st:0 pa:0 st:0 pa:1 st:1 pa:1th st:1th
+  stem 10011th
+  stemmorph 10011th
+> 10011th.
+  spell 1 1 1
+  sug 01011th
+  sug 10011th
+  sug 00111th
+  sug 11010th
+  sug 10110th
+  ana  pa:1 st:1 pa:0 st:0 pa:0 st:0 pa:1 st:1 pa:1th st:1th
+  stem 10011th
+  stemmorph 10011th
+> 10011th17th
+  spell 0 0 
+  sug 10011th 17th
+> 100th
+  spell 1 1 1
+  sug 10th
+  sug 00th
+  ana  pa:1 st:1 pa:0 st:0 pa:0th st:0th
+  stem 100th
+  stemmorph 100th
+> 100th.
+  spell 1 1 1
+  sug 10th
+  sug 00th
+  sug 100th
+  sug 0th
+  ana  pa:1 st:1 pa:0 st:0 pa:0th st:0th
+  stem 100th
+  stemmorph 100th
+> 10th
+  spell 1 1 1
+  sug 0th
+  sug 1 0th
+  ana  pa:1 st:1 pa:0th st:0th
+  stem 10th
+  stemmorph 10th
+> 10th2nd
+  spell 0 0 
+> 11th
+  spell 1 1 1
+  sug 11th
+  ana  pa:1 st:1 pa:1th st:1th
+  stem 11th
+  stemmorph 11th
+> 11th-3th
+  spell 0 0 
+  sug 11th-0th
+> 11th.
+  spell 1 1 1
+  sug 11th
+  ana  pa:1 st:1 pa:1th st:1th
+  stem 11th
+  stemmorph 11th
+> 11tr
+  spell 0 0 
+> 12t7h
+  spell 0 0 
+  sug 12th
+> 12th
+  spell 1 1 1
+  ana  pa:1 st:1 pa:2th st:2th
+  stem 12th
+  stemmorph 12th
+> 12th-20th
+  spell 1 1 
+> 12th9th
+  spell 0 0 
+> 13TH
+  spell 1 33 1
+  ana  pa:1 st:1 pa:3th st:3th
+  ana  pa:1 st:1 pa:3th st:3th
+  stem 13th
+  stemmorph 13th
+> 13t9
+  spell 0 0 
+> 13th
+  spell 1 1 1
+  ana  pa:1 st:1 pa:3th st:3th
+  stem 13th
+  stemmorph 13th
+> 14TH
+  spell 1 33 1
+  sug 4TH
+  sug 1 4TH
+  ana  pa:1 st:1 pa:4th st:4th
+  ana  pa:1 st:1 pa:4th st:4th
+  stem 14th
+  stemmorph 14th
+> 14th
+  spell 1 1 1
+  sug 4th
+  sug 1 4th
+  ana  pa:1 st:1 pa:4th st:4th
+  stem 14th
+  stemmorph 14th
+> 14th6
+  spell 0 0 
+  sug 14th
+> 14tth
+  spell 0 0 
+  sug 14th
+> 15th
+  spell 1 1 1
+  sug 5th
+  sug 1 5th
+  ana  pa:1 st:1 pa:5th st:5th
+  stem 15th
+  stemmorph 15th
+> 16TH
+  spell 1 33 1
+  sug 6TH
+  sug 1 6TH
+  ana  pa:1 st:1 pa:6th st:6th
+  ana  pa:1 st:1 pa:6th st:6th
+  stem 16th
+  stemmorph 16th
+> 16th
+  spell 1 1 1
+  sug 6th
+  sug 1 6th
+  ana  pa:1 st:1 pa:6th st:6th
+  stem 16th
+  stemmorph 16th
+> 17th
+  spell 1 1 1
+  sug 7th
+  sug 1 7th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> 18TH
+  spell 1 33 1
+  sug 8TH
+  sug 1 8TH
+  ana  pa:1 st:1 pa:8th st:8th
+  ana  pa:1 st:1 pa:8th st:8th
+  stem 18th
+  stemmorph 18th
+> 18td
+  spell 0 0 
+> 18th
+  spell 1 1 1
+  sug 8th
+  sug 1 8th
+  ana  pa:1 st:1 pa:8th st:8th
+  stem 18th
+  stemmorph 18th
+> 19th
+  spell 1 1 1
+  sug 9th
+  sug 1 9th
+  ana  pa:1 st:1 pa:9th st:9th
+  stem 19th
+  stemmorph 19th
+> 19th.
+  spell 1 1 1
+  sug 9th
+  sug 1 9th
+  sug 19th
+  ana  pa:1 st:1 pa:9th st:9th
+  stem 19th
+  stemmorph 19th
+> 1TH
+  spell 0 32 
+  sug 0TH
+> 1s0th
+  spell 0 0 
+  sug 10th
+> 1st
+  spell 1 0 
+  sug 1st
+  ana  st:1st
+  stem 1st
+  stemmorph 1st
+> 1st-8
+  spell 1 1 
+  sug 1st
+> 1st.
+  spell 1 0 
+  sug 1st
+  ana  st:1st
+  stem 1st
+  stemmorph 1st
+> 1stn
+  spell 0 0 
+  sug 1st
+> 1t
+  spell 0 0 
+  sug 1
+> 1t6
+  spell 0 0 
+  sug 1st
+> 1th
+  spell 0 0 
+  sug 0th
+> 1th.
+  spell 0 0 
+  sug 0th
+> 1th10011th
+  spell 0 0 
+> 1th5th
+  spell 0 0 
+> 2
+  spell 1 0 
+  sug 2
+  ana  st:2
+  stem 2
+  stemmorph 2
+> 2.
+  spell 1 0 
+  sug 2
+  ana  st:2
+  stem 2
+  stemmorph 2
+> 20TH
+  spell 1 33 2
+  sug 0TH
+  sug 2 0TH
+  ana  pa:2 st:2 pa:0th st:0th
+  ana  pa:2 st:2 pa:0th st:0th
+  stem 20th
+  stemmorph 20th
+> 20th
+  spell 1 1 2
+  sug 0th
+  sug 2 0th
+  ana  pa:2 st:2 pa:0th st:0th
+  stem 20th
+  stemmorph 20th
+> 21st
+  spell 1 1 2
+  sug 1st
+  sug 2 1st
+  ana  pa:2 st:2 pa:1st st:1st
+  stem 21st
+  stemmorph 21st
+> 21st18th
+  spell 0 0 
+  sug 21st 18th
+> 22ND
+  spell 1 33 2
+  sug 2ND
+  sug 2 2ND
+  sug 22ND
+  ana  pa:2 st:2 pa:2nd st:2nd
+  ana  pa:2 st:2 pa:2nd st:2nd
+  stem 22nd
+  stemmorph 22nd
+> 22nd
+  spell 1 1 2
+  sug 2nd
+  sug 2 2nd
+  sug 22nd
+  ana  pa:2 st:2 pa:2nd st:2nd
+  stem 22nd
+  stemmorph 22nd
+> 22nd7th
+  spell 0 0 
+> 23rd
+  spell 1 1 2
+  sug 3rd
+  sug 2 3rd
+  ana  pa:2 st:2 pa:3rd st:3rd
+  stem 23rd
+  stemmorph 23rd
+> 24TH
+  spell 1 33 2
+  sug 4TH
+  sug 2 4TH
+  ana  pa:2 st:2 pa:4th st:4th
+  ana  pa:2 st:2 pa:4th st:4th
+  stem 24th
+  stemmorph 24th
+> 24th
+  spell 1 1 2
+  sug 4th
+  sug 2 4th
+  ana  pa:2 st:2 pa:4th st:4th
+  stem 24th
+  stemmorph 24th
+> 257h
+  spell 0 0 
+> 25th
+  spell 1 1 2
+  sug 5th
+  sug 2 5th
+  ana  pa:2 st:2 pa:5th st:5th
+  stem 25th
+  stemmorph 25th
+> 25th-6th
+  spell 1 1 
+> 28
+  spell 1 0 
+  sug 2
+  sug 8
+> 29
+  spell 1 0 
+  sug 2
+  sug 9
+> 2TH
+  spell 0 32 
+  sug 0TH
+> 2nd
+  spell 1 0 
+  sug 2nd
+  ana  st:2nd
+  stem 2nd
+  stemmorph 2nd
+> 2nd.
+  spell 1 0 
+  sug 2nd
+  ana  st:2nd
+  stem 2nd
+  stemmorph 2nd
+> 2nd1
+  spell 0 0 
+  sug 2nd
+  sug 2nd 1
+> 2nd22nd
+  spell 0 0 
+  sug 2nd
+> 2th
+  spell 0 0 
+  sug 0th
+> 2th.
+  spell 0 0 
+  sug 0th
+> 3
+  spell 1 0 
+  sug 3
+  ana  st:3
+  stem 3
+  stemmorph 3
+> 32rd
+  spell 0 0 
+  sug 3rd
+  sug 23rd
+> 3RD
+  spell 1 32 
+  sug 3RD
+  ana  st:3rd
+  ana  st:3rd
+  stem 3rd
+  stemmorph 3rd
+> 3TH
+  spell 0 32 
+  sug 0TH
+> 3d
+  spell 0 0 
+  sug 3
+> 3dr
+  spell 0 0 
+  sug 3rd
+> 3rd
+  spell 1 0 
+  sug 3rd
+  ana  st:3rd
+  stem 3rd
+  stemmorph 3rd
+> 3rd-7th
+  spell 1 1 
+> 3rd.
+  spell 1 0 
+  sug 3rd
+  ana  st:3rd
+  stem 3rd
+  stemmorph 3rd
+> 3rd13th
+  spell 0 0 
+> 3rd6th
+  spell 0 0 
+  sug 3rd 6th
+  sug 3rd
+> 3th
+  spell 0 0 
+  sug 0th
+> 3th-22nd
+  spell 0 0 
+  sug 0th-22nd
+> 3th-2nd
+  spell 0 0 
+  sug 0th-2nd
+> 3th-4
+  spell 0 0 
+  sug 0th-4
+> 3th-6
+  spell 0 0 
+  sug 0th-6
+> 3th.
+  spell 0 0 
+  sug 0th
+> 3thd
+  spell 0 0 
+> 3tr
+  spell 0 0 
+  sug 3rd
+> 4
+  spell 1 0 
+  sug 4
+  ana  st:4
+  stem 4
+  stemmorph 4
+> 41th
+  spell 0 0 
+  sug 4th
+  sug 14th
+> 4TH
+  spell 1 32 
+  sug 4TH
+  ana  st:4th
+  ana  st:4th
+  stem 4th
+  stemmorph 4th
+> 4rh
+  spell 0 0 
+  sug 4th
+> 4th
+  spell 1 0 
+  sug 4th
+  ana  st:4th
+  stem 4th
+  stemmorph 4th
+> 5
+  spell 1 0 
+  sug 5
+  ana  st:5
+  stem 5
+  stemmorph 5
+> 53
+  spell 1 0 
+  sug 5
+  sug 3
+> 5ht
+  spell 0 0 
+  sug 5th
+> 5th
+  spell 1 0 
+  sug 5th
+  ana  st:5th
+  stem 5th
+  stemmorph 5th
+> 5th-12th
+  spell 1 1 
+> 5th.
+  spell 1 0 
+  sug 5th
+  ana  st:5th
+  stem 5th
+  stemmorph 5th
+> 6
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6.
+  spell 1 0 
+  sug 6
+  ana  st:6
+  stem 6
+  stemmorph 6
+> 6TH
+  spell 1 32 
+  sug 6TH
+  ana  st:6th
+  ana  st:6th
+  stem 6th
+  stemmorph 6th
+> 6t0
+  spell 0 0 
+  sug 6th
+> 6th
+  spell 1 0 
+  sug 6th
+  ana  st:6th
+  stem 6th
+  stemmorph 6th
+> 6th-10001st
+  spell 1 1 
+> 6th16th
+  spell 0 0 
+  sug 6th
+> 7
+  spell 1 0 
+  sug 7
+  ana  st:7
+  stem 7
+  stemmorph 7
+> 7.
+  spell 1 0 
+  sug 7
+  ana  st:7
+  stem 7
+  stemmorph 7
+> 7100th
+  spell 1 1 7
+  sug 1700th
+  sug 7010th
+  sug 7100th
+  ana  pa:7 st:7 pa:1 st:1 pa:0 st:0 pa:0th st:0th
+  stem 7100th
+  stemmorph 7100th
+> 7t
+  spell 0 0 
+  sug 7
+> 7th
+  spell 1 0 
+  sug 7th
+  ana  st:7th
+  stem 7th
+  stemmorph 7th
+> 8
+  spell 1 0 
+  sug 8
+  ana  st:8
+  stem 8
+  stemmorph 8
+> 81th
+  spell 0 0 
+  sug 8th
+  sug 18th
+> 83th
+  spell 0 0 
+  sug 8th
+  sug 38th
+> 85th
+  spell 1 1 8
+  sug 8th
+  sug 5th
+  sug 8 5th
+  sug 58th
+  ana  pa:8 st:8 pa:5th st:5th
+  stem 85th
+  stemmorph 85th
+> 8th
+  spell 1 0 
+  sug 8th
+  ana  st:8th
+  stem 8th
+  stemmorph 8th
+> 8th.
+  spell 1 0 
+  sug 8th
+  ana  st:8th
+  stem 8th
+  stemmorph 8th
+> 9
+  spell 1 0 
+  sug 9
+  ana  st:9
+  stem 9
+  stemmorph 9
+> 94th
+  spell 1 1 9
+  sug 9th
+  sug 4th
+  sug 9 4th
+  sug 49th
+  ana  pa:9 st:9 pa:4th st:4th
+  stem 94th
+  stemmorph 94th
+> 9t1h
+  spell 0 0 
+  sug 9th
+  sug 19th
+> 9th
+  spell 1 0 
+  sug 9th
+  ana  st:9th
+  stem 9th
+  stemmorph 9th
+> 9th.
+  spell 1 0 
+  sug 9th
+  ana  st:9th
+  stem 9th
+  stemmorph 9th
+> 9th4th
+  spell 0 0 
+  sug 9th 4th
+  sug 9th
+> 9th6th
+  spell 0 0 
+  sug 9th 6th
+  sug 9th
+> d
+  spell 0 0 
+  sug 2nd
+> h
+  spell 0 0 
+  sug 0th
+> n2d
+  spell 0 0 
+  sug 2nd
+> r9
+  spell 0 0 
+  sug 9
+> s1t
+  spell 0 0 
+  sug 1st
+> 1
+  spell 1 0 
+  sug 1
+  ana  st:1
+  stem 1
+  stemmorph 1
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-0th
+  sug 12th
+> 3rd
+  spell 1 0 
+  sug 3rd
+  ana  st:3rd
+  stem 3rd
+  stemmorph 3rd
+> 1st.
+  spell 1 0 
+  sug 1st
+  ana  st:1st
+  stem 1st
+  stemmorph 1st
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+  sug 1
+> 17th's
+  spell 0 0 
+> 17thâ€™s
+  spell 0 0 
+> '17th'
+  spell 0 0 
+> l'17th
+  spell 0 0 
+> 17th.
+  spell 1 1 1
+  sug 7th
+  sug 1 7th
+  sug 17th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> 17th..
+  spell 1 1 1
+  sug 7th
+  sug 1 7th
+  sug 17th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> .17th
+  spell 0 0 
+  sug 17th
+> ...
+  spell 1 0 
+> -17th
+  spell 1 1 
+  sug 17th
+> 17th-
+  spell 1 1 
+  sug 17th
+> 17th--3th
+  spell 0 0 
+  sug 17th--0th
+> 17th-3th-17th
+  spell 0 0 
+  sug 17th-0th-17th
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> 17TH
+  spell 1 33 1
+  sug 7TH
+  sug 1 7TH
+  ana  pa:1 st:1 pa:7th st:7th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> 17TH
+  spell 1 33 1
+  sug 7TH
+  sug 1 7TH
+  ana  pa:1 st:1 pa:7th st:7th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> 17Th
+  spell 0 32 
+  sug 1 7th
+  sug 17th
+  sug 7th
+> 17th 3th
+  spell 0 0 
+>  17th
+  spell 1 1 1
+  sug 7th
+  sug 1 7th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> 17th 
+  spell 0 0 
+  sug 17th
+> 17th	3th
+  spell 0 0 
+> ÿþ17th
+  spell 0 0 
+> 17thÃ
+  spell 0 32 
+  sug 17th
+  sug 7th
+> €17th
+  spell 0 0 
+  sug 17th
+> ð€17th
+  spell 0 0 
+> Ä°17th
+  spell 0 32 
+> 17thÃŸ
+  spell 0 32 
+> 17th
+  spell 1 1 1
+  sug 7th
+  sug 1 7th
+  ana  pa:1 st:1 pa:7th st:7th
+  stem 17th
+  stemmorph 17th
+> 17THSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>17th</word></query>
+  spell 0 0 
+  sug <code><a> pa:1 st:1 pa:7th st:7th</a></code>
+> <?xml?><query type="stem"><word>17th</word></query>
+  spell 0 0 
+  sug 17th
+> <?xml?><query type="suggest"><word>17thx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>17th</word><word>3th</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>17th</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>17th</word></query>
+  spell 0 0 
+  sug <code><a> pa:1 st:1 pa:7th st:7th</a></code>
+> <?xml?><query type="add"><word>17th</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;17th&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>17th</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

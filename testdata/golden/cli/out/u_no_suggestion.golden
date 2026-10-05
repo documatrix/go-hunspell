@@ -1,0 +1,83 @@
+exit 0
+stdout 2051
+(null):1: Locate: wrold | Try: world
+(null):1: Locate: this
+(null):1: Locate: is
+(null):1: Locate: a
+(null):1: Locate: tset | Try: test
+(null):1: Locate: of
+(null):1: Locate: the | Try: test
+(null):1: Locate: speling
+(null):1: Locate: checker
+(null):2: Locate: The | Try: Test
+(null):2: Locate: quick
+(null):2: Locate: brown
+(null):2: Locate: fox
+(null):2: Locate: jumpss
+(null):2: Locate: over
+(null):2: Locate: the | Try: test
+(null):2: Locate: lazy
+(null):2: Locate: dog
+(null):3: Locate: Numbers
+(null):3: Locate: like
+(null):3: Locate: and
+(null):3: Locate: and
+(null):3: Locate: st | Try: test
+(null):3: Locate: nd
+(null):3: Locate: rd | Try: word
+(null):3: Locate: are
+(null):3: Locate: skipped
+(null):3: Locate: so
+(null):3: Locate: are
+(null):3: Locate: hyphen-ated
+(null):4: Locate: MiXeD
+(null):4: Locate: CaSe | Try: Secret
+(null):4: Locate: hELLO | Try: hello
+(null):4: Locate: NASA
+(null):4: Locate: Nasa
+(null):5: Locate: Apostrophes
+(null):5: Locate: don
+(null):5: Locate: t | Try: test
+(null):5: Locate: doesn | Try: document
+(null):5: Locate: t | Try: test
+(null):5: Locate: it
+(null):5: Locate: s
+(null):5: Locate: rock
+(null):5: Locate: n
+(null):5: Locate: roll
+(null):5: Locate: quoted
+(null):5: Locate: dogs
+(null):5: Locate: bones
+(null):5: Locate: can
+(null):5: Locate: t | Try: test
+(null):5: Locate: isn
+(null):5: Locate: t | Try: test
+(null):6: Locate: Colons
+(null):6: Locate: Finnish
+(null):6: Locate: ssa
+(null):6: Locate: and
+(null):6: Locate: a
+(null):6: Locate: lone | Try: hello
+(null):6: Locate: colon
+(null):7: Locate: Entities
+(null):7: Locate: caf
+(null):7: Locate: eacute
+(null):7: Locate: na&iuml;ve
+(null):7: Locate: &Agrave;bc
+(null):7: Locate: amp
+(null):7: Locate: x&yuml;z
+(null):8: Locate: Mail
+(null):8: Locate: me
+(null):8: Locate: at
+(null):8: Locate: or | Try: word
+(null):8: Locate: visit
+(null):8: Locate: today
+(null):9: Locate: Paths
+(null):9: Locate: and
+(null):9: Locate: and
+(null):9: Locate: ok
+(null):10: Locate: Tabbed
+(null):10: Locate: line
+(null):10: Locate: with
+(null):10: Locate: tabz
+stderr 0

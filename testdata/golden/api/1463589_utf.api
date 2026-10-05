@@ -1,0 +1,430 @@
+# example: Kühlschrank
+> KUHLSCHRANK
+  spell 0 32 
+  sug KÜHLSCHRANK
+> Khlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Khulschrank
+  spell 0 32 
+  sug Kühlschrank
+> Khülschrank
+  spell 0 32 
+  sug Kühlschrank
+> Klühlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuehlcshrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuehllschrank
+  spell 0 32 
+  sug Kühlschrank
+> KuehlschranK
+  spell 0 32 
+  sug Kühlschrank
+> Kuehlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuehlschrank.
+  spell 0 32 
+  sug Kühlschrank
+> Kuehlschrankh
+  spell 0 32 
+  sug Kühlschrank
+> Kuehlschrankk
+  spell 0 32 
+  sug Kühlschrank
+> KuhlscKhrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlschank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlscheank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlschnrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlschran
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlschrank.
+  spell 0 32 
+  sug Kühlschrank
+> KuhlschrankKuehlschrank
+  spell 0 32 
+> KuhlschrankKühlschrank
+  spell 0 32 
+> Kuhlschrann
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlschrnak
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlscührank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlshcrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlslchrank
+  spell 0 32 
+  sug Kühlschrank
+> Kuhlüschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kulschrank
+  spell 0 32 
+  sug Kühlschrank
+> KÜHLSCHRANK
+  spell 1 32 
+  sug KÜHLSCHRANK
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> Kühelschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlchrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlrschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlscharnk
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschcank
+  spell 0 32 
+  sug Kühlschrank
+> KühlschraKnk
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrakn
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschran
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrank
+  spell 1 32 
+  sug Kühlschrank
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> Kühlschrank-Kuehlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> Kühlschrank-Kuhlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> Kühlschrank-Kühlschrank
+  spell 1 33 
+> Kühlschrank-kuehlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> Kühlschrank-kuhlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> Kühlschrank-kühlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> Kühlschrank.
+  spell 1 32 
+  sug Kühlschrank
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> KühlschrankK
+  spell 0 32 
+  sug Kühlschrank
+> KühlschrankKuehlschrank
+  spell 0 32 
+> KühlschrankKühlschrank
+  spell 0 32 
+  sug Kühlschrank Kühlschrank
+> Kühlschranka
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrankk
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrankkuehlschrank
+  spell 0 32 
+> Kühlschrankkuhlschrank
+  spell 0 32 
+> Kühlschrhank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrnak
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrnk
+  spell 0 32 
+  sug Kühlschrank
+> Kühlscrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlscrhank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlshrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlsuhrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlüchrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühüschrank
+  spell 0 32 
+  sug Kühlschrank
+> Küklschrank
+  spell 0 32 
+  sug Kühlschrank
+> Külhschrank
+  spell 0 32 
+  sug Kühlschrank
+> Külschrank
+  spell 0 32 
+  sug Kühlschrank
+> Künhlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Künlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Küühlschrank
+  spell 0 32 
+  sug Kühlschrank
+> eühlschrank
+  spell 0 0 
+  sug Kühlschrank
+> kuehlschranK
+  spell 0 32 
+  sug Kühlschrank
+> kuehlschrank
+  spell 0 0 
+  sug Kühlschrank
+> kuehlschrank-Kühlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> kuehlschrank-kuhlschrank
+  spell 0 0 
+  sug Kühlschrank-kuhlschrank
+> kuehlschrankKuhlschrank
+  spell 0 32 
+> kuehlscürank
+  spell 0 0 
+  sug Kühlschrank
+> kuelschrank
+  spell 0 0 
+  sug Kühlschrank
+> kueulschrank
+  spell 0 0 
+  sug Kühlschrank
+> kuhlscahrank
+  spell 0 0 
+  sug Kühlschrank
+> kuhlschrank
+  spell 0 0 
+  sug Kühlschrank
+> kuhlschrank-Kuehlschrank
+  spell 0 32 
+> kuhlschrank-Kühlschrank
+  spell 0 32 
+  sug Kühlschrank-Kühlschrank
+> kuhlschrank-kuehlschrank
+  spell 0 0 
+  sug Kühlschrank-kuehlschrank
+> kuhlschrank-kuhlschrank
+  spell 0 0 
+  sug Kühlschrank-kuhlschrank
+> kuhlschrank.
+  spell 0 0 
+  sug Kühlschrank
+> kuhlschrankkuehlschrank
+  spell 0 0 
+> kuhnschrank
+  spell 0 0 
+  sug Kühlschrank
+> kühlsachrank
+  spell 0 0 
+  sug Kühlschrank
+> kühlschrakn
+  spell 0 0 
+  sug Kühlschrank
+> kühlschrank
+  spell 0 0 
+  sug Kühlschrank
+> kühlschrank.
+  spell 0 0 
+  sug Kühlschrank
+> kühlschrankKühlschrank
+  spell 0 32 
+> kühlscrank
+  spell 0 0 
+  sug Kühlschrank
+> kühlshcrank
+  spell 0 0 
+  sug Kühlschrank
+> kühlsührank
+  spell 0 0 
+  sug Kühlschrank
+> kühnlschrank
+  spell 0 0 
+  sug Kühlschrank
+> uühlschrank
+  spell 0 0 
+  sug Kühlschrank
+> ühlschrank
+  spell 0 0 
+  sug Kühlschrank
+> ükhlschrank
+  spell 0 0 
+  sug Kühlschrank
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Kühlschrank's
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrank’s
+  spell 0 32 
+  sug Kühlschrank
+> 'Kühlschrank'
+  spell 0 32 
+  sug Kühlschrank
+> l'Kühlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrank.
+  spell 1 32 
+  sug Kühlschrank
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> Kühlschrank..
+  spell 1 32 
+  sug Kühlschrank
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> .Kühlschrank
+  spell 0 32 
+  sug . Kühlschrank
+  sug Kühlschrank
+> ...
+  spell 1 0 
+> -Kühlschrank
+  spell 1 33 
+  sug Kühlschrank
+> Kühlschrank-
+  spell 1 33 
+  sug Kühlschrank
+> Kühlschrank--Kühlschrank
+  spell 1 33 
+> Kühlschrank-Kühlschrank-Kühlschrank
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> KüHLSCHRANK
+  spell 0 32 
+  sug Kühlschrank
+> küHLSCHRANK
+  spell 0 32 
+  sug Kühlschrank
+> KüHlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrank Kühlschrank
+  spell 0 32 
+>  Kühlschrank
+  spell 1 32 
+  sug Kühlschrank
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> Kühlschrank 
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrank	Kühlschrank
+  spell 0 32 
+> ��Kühlschrank
+  spell 0 0 
+  sug Kühlschrank
+> Kühlschrank�
+  spell 0 32 
+  sug Kühlschrank
+> �Kühlschrank
+  spell 0 32 
+  sug Kühlschrank
+> 𐐀Kühlschrank
+  spell 0 0 
+  sug Kühlschrank
+> İKühlschrank
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrankß
+  spell 0 32 
+  sug Kühlschrank
+> Kühlschrank
+  spell 1 32 
+  sug Kühlschrank
+  ana  st:Kühlschrank
+  stem Kühlschrank
+  stemmorph Kühlschrank
+> KüHLSCHRANKSS
+  spell 0 32 
+  sug Kühlschrank
+> <?xml?><query type="analyze"><word>Kühlschrank</word></query>
+  spell 0 32 
+  sug <code><a> st:Kühlschrank</a></code>
+> <?xml?><query type="stem"><word>Kühlschrank</word></query>
+  spell 0 32 
+  sug Kühlschrank
+> <?xml?><query type="suggest"><word>Kühlschrankx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Kühlschrank</word><word>Kühlschrank</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Kühlschrank</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Kühlschrank</word></query>
+  spell 0 32 
+  sug <code><a> st:Kühlschrank</a></code>
+> <?xml?><query type="add"><word>Kühlschrank</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Kühlschrank&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Kühlschrank</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

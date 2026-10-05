@@ -1,0 +1,119 @@
+# example: nagyobb
+# aff: ../../hunspell/circumfix.aff
+# dic: ../../hunspell/circumfix.dic
+> legnagyobb
+  spell 1 0 nagy
+  sug legnagyobb
+  ana  fl:A st:nagy po:adj is:SUPERLATIVE
+  stem nagy
+  stemmorph nagy
+  gen nagyobb
+  genmorph nagyobb
+@trace nagy
+  trace 0 word "nagy"
+  trace 1 lookup "nagy" -> entry "nagy" flags=C
+  trace 1 result correct
+  spell 1
+@trace nagyobb
+  trace 0 word "nagyobb"
+  trace 1 lookup "nagyobb" -> miss
+  trace 1 pfx "nagyobb" candidates=0
+  trace 1 sfx flag=C strip="" add="obb" cont=B,X cond="." at=aff:15 xprod=Y hdr=aff:12
+  trace 2 test circumfix flag=X pfx-cont=(none) sfx-cont=B,X -> fail, this circumfix suffix needs its prefix
+  trace 1 sfx flag=C strip="" add="obb" cont=A,X cond="." at=aff:14 xprod=Y hdr=aff:12
+  trace 2 test circumfix flag=X pfx-cont=(none) sfx-cont=A,X -> fail, this circumfix suffix needs its prefix
+  trace 1 sfx flag=C strip="" add="obb" cont=(none) cond="." at=aff:13 xprod=Y hdr=aff:12
+  trace 2 stem "nagy"
+  trace 2 test condition cond="." on "nagy" -> pass
+  trace 2 lookup "nagy" -> entry "nagy" flags=C
+  trace 2 test sfx-aflag flag=C in=dic have=C -> pass
+  trace 2 accept
+  trace 1 form "nagyobb" = "nagy" + sfx(C:"obb")
+  trace 1 result correct
+  spell 1
+@trace legnagyobb
+  trace 0 word "legnagyobb"
+  trace 1 lookup "legnagyobb" -> miss
+  trace 1 pfx flag=A strip="" add="leg" cont=X cond="." at=aff:7 xprod=Y hdr=aff:6
+  trace 2 stem "nagyobb"
+  trace 2 test condition cond="." on "nagyobb" -> pass
+  trace 2 lookup "nagyobb" -> miss
+  trace 2 sfx flag=C strip="" add="obb" cont=B,X cond="." at=aff:15 xprod=Y hdr=aff:12
+  trace 3 stem "nagy"
+  trace 3 test condition cond="." on "nagy" -> pass
+  trace 3 lookup "nagy" -> entry "nagy" flags=C
+  trace 3 test sfx-aflag flag=C in=dic have=C -> pass
+  trace 3 test xprod flag=A in=dic have=C -> fail, the stem does not take the prefix as well
+  trace 3 lookup "nagy" -> no more homonyms
+  trace 2 sfx flag=C strip="" add="obb" cont=A,X cond="." at=aff:14 xprod=Y hdr=aff:12
+  trace 3 stem "nagy"
+  trace 3 test condition cond="." on "nagy" -> pass
+  trace 3 lookup "nagy" -> entry "nagy" flags=C
+  trace 3 test sfx-aflag flag=C in=dic have=C -> pass
+  trace 3 test xprod flag=A in=sfx-cont have=A,X -> pass, this suffix enables the prefix
+  trace 3 accept
+  trace 1 form "legnagyobb" = pfx(A:"leg") + "nagy" + sfx(C:"obb")
+  trace 1 result correct
+  spell 1
+@trace legeslegnagyobb
+  trace 0 word "legeslegnagyobb"
+  trace 1 lookup "legeslegnagyobb" -> miss
+  trace 1 pfx flag=A strip="" add="leg" cont=X cond="." at=aff:7 xprod=Y hdr=aff:6
+  trace 2 stem "eslegnagyobb"
+  trace 2 test condition cond="." on "eslegnagyobb" -> pass
+  trace 2 lookup "eslegnagyobb" -> miss
+  trace 2 sfx flag=C strip="" add="obb" cont=B,X cond="." at=aff:15 xprod=Y hdr=aff:12
+  trace 3 stem "eslegnagy"
+  trace 3 test condition cond="." on "eslegnagy" -> pass
+  trace 3 lookup "eslegnagy" -> miss
+  trace 2 sfx flag=C strip="" add="obb" cont=A,X cond="." at=aff:14 xprod=Y hdr=aff:12
+  trace 3 stem "eslegnagy"
+  trace 3 test condition cond="." on "eslegnagy" -> pass
+  trace 3 lookup "eslegnagy" -> miss
+  trace 2 sfx flag=C strip="" add="obb" cont=(none) cond="." at=aff:13 xprod=Y hdr=aff:12
+  trace 3 test circumfix flag=X pfx-cont=X sfx-cont=(none) -> fail, this circumfix prefix needs its suffix
+  trace 1 pfx flag=B strip="" add="legesleg" cont=X cond="." at=aff:10 xprod=Y hdr=aff:9
+  trace 2 stem "nagyobb"
+  trace 2 test condition cond="." on "nagyobb" -> pass
+  trace 2 lookup "nagyobb" -> miss
+  trace 2 sfx flag=C strip="" add="obb" cont=B,X cond="." at=aff:15 xprod=Y hdr=aff:12
+  trace 3 stem "nagy"
+  trace 3 test condition cond="." on "nagy" -> pass
+  trace 3 lookup "nagy" -> entry "nagy" flags=C
+  trace 3 test sfx-aflag flag=C in=dic have=C -> pass
+  trace 3 test xprod flag=B in=sfx-cont have=B,X -> pass, this suffix enables the prefix
+  trace 3 accept
+  trace 1 form "legeslegnagyobb" = pfx(B:"legesleg") + "nagy" + sfx(C:"obb")
+  trace 1 result correct
+  spell 1
+@trace legnagy
+  trace 0 word "legnagy"
+  trace 1 lookup "legnagy" -> miss
+  trace 1 pfx flag=A strip="" add="leg" cont=X cond="." at=aff:7 xprod=Y hdr=aff:6
+  trace 2 stem "nagy"
+  trace 2 test condition cond="." on "nagy" -> pass
+  trace 2 lookup "nagy" -> entry "nagy" flags=C
+  trace 2 test pfx-aflag flag=A in=dic have=C -> fail
+  trace 2 lookup "nagy" -> no more homonyms
+  trace 2 sfx "nagy" candidates=0 xprod=Y
+  trace 1 sfx "legnagy" candidates=0
+  trace 1 result incorrect
+  spell 0
+@trace legeslegnagy
+  trace 0 word "legeslegnagy"
+  trace 1 lookup "legeslegnagy" -> miss
+  trace 1 pfx flag=A strip="" add="leg" cont=X cond="." at=aff:7 xprod=Y hdr=aff:6
+  trace 2 stem "eslegnagy"
+  trace 2 test condition cond="." on "eslegnagy" -> pass
+  trace 2 lookup "eslegnagy" -> miss
+  trace 2 sfx "eslegnagy" candidates=0 xprod=Y
+  trace 1 pfx flag=B strip="" add="legesleg" cont=X cond="." at=aff:10 xprod=Y hdr=aff:9
+  trace 2 stem "nagy"
+  trace 2 test condition cond="." on "nagy" -> pass
+  trace 2 lookup "nagy" -> entry "nagy" flags=C
+  trace 2 test pfx-aflag flag=B in=dic have=C -> fail
+  trace 2 lookup "nagy" -> no more homonyms
+  trace 2 sfx "nagy" candidates=0 xprod=Y
+  trace 1 sfx "legeslegnagy" candidates=0
+  trace 1 result incorrect
+  spell 0

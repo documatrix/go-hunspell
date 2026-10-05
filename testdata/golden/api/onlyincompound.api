@@ -1,0 +1,441 @@
+# example: foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOPSEUDO
+  spell 1 33 foo
+  sug FOOPSEUDO
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> FOOPSEUDOS
+  spell 1 33 foo
+  sug FOOPSEUDOS
+  sug FOOPSEUDO
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foopseudo
+  spell 1 33 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> Foopseudos
+  spell 1 33 foo
+  sug foopseudos
+  sug Foopseudo
+> PSEUDO
+  spell 0 32 
+> PSEUDOFOO
+  spell 1 33 pseudo
+  sug PSEUDOFOO
+  ana  pa:pseudo st:pseudo pa:foo
+  stem pseudo
+  stemmorph pseudo
+> PSEUDOS
+  spell 0 32 
+  ana  st:pseudo fl:B
+  stem pseudo
+  stemmorph pseudo
+> Pseudo
+  spell 0 32 
+> doo
+  spell 0 0 
+  sug foo
+> eseudofoo
+  spell 0 0 
+> fdo
+  spell 0 0 
+  sug foo
+> ffoopseudo
+  spell 0 0 
+  sug foopseudo
+> fo
+  spell 0 0 
+  sug foo
+> fodo
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-foopseudo
+  spell 1 1 
+  sug foofoopseudo
+> foo-foopseudos
+  spell 1 1 
+  sug foofoopseudos
+> foo-pseudofoo
+  spell 1 1 
+  sug foopseudofoo
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foofoopseudos
+  spell 1 1 foo
+  sug foofoopseudos
+  sug foofoopseudo
+> fooo
+  spell 0 0 
+  sug foo
+> foopseddo
+  spell 0 0 
+> foopseduo
+  spell 0 0 
+  sug foopseudo
+> foopseudo
+  spell 1 1 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> foopseudo-pseudos
+  spell 0 0 
+  sug foopseudopseudos
+> foopseudo.
+  spell 1 1 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> foopseudopseudofoo
+  spell 1 1 foo
+  sug foopseudo pseudofoo
+  ana  pa:foo st:foo pa:pseudo st:pseudo pa:pseudo st:pseudo pa:foo
+  stem foopseudopseudo
+  stemmorph foopseudopseudo
+> foopseudos
+  spell 1 1 foo
+  sug foopseudos
+  sug foopseudo
+> foopseudos-foo
+  spell 1 1 
+> foopseudos-foopseudo
+  spell 1 1 
+> foopseudos-pseudo
+  spell 0 0 
+> foopseudos.
+  spell 1 1 foo
+  sug foopseudos
+  sug foopseudo
+> foopseuedo
+  spell 0 0 
+  sug foopseudo
+> foopseuedos
+  spell 0 0 
+  sug foopseudos
+> foopseuos
+  spell 0 0 
+> foopsseudos
+  spell 0 0 
+  sug foopseudos
+> foopsudos
+  spell 0 0 
+> foosseudos
+  spell 0 0 
+> foou
+  spell 0 0 
+  sug foo
+> foposeudo
+  spell 0 0 
+  sug foopseudo
+> foso
+  spell 0 0 
+  sug foo
+> fou
+  spell 0 0 
+  sug foo
+> fpo
+  spell 0 0 
+  sug foo
+> ofo
+  spell 0 0 
+  sug foo
+> ofopseudos
+  spell 0 0 
+  sug foopseudos
+> oo
+  spell 0 0 
+  sug foo
+> peudos
+  spell 0 0 
+> psedo
+  spell 0 0 
+> psedos
+  spell 0 0 
+> pseduo
+  spell 0 0 
+> pseduos
+  spell 0 0 
+> pseodo
+  spell 0 0 
+> psesudos
+  spell 0 0 
+> pseud
+  spell 0 0 
+> pseudeos
+  spell 0 0 
+> pseudo
+  spell 0 0 
+  sfx pseudos
+> pseudo-pseudo
+  spell 0 0 
+  sug pseudopseudo
+> pseudo-pseudofoo
+  spell 0 0 
+  sug pseudopseudofoo
+> pseudo-pseudos
+  spell 0 0 
+  sug pseudopseudos
+> pseudo.
+  spell 0 0 
+> pseudod
+  spell 0 0 
+> pseudodfoo
+  spell 0 0 
+  sug pseudofoo
+> pseudof
+  spell 0 0 
+> pseudofoo
+  spell 1 1 pseudo
+  sug pseudofoo
+  ana  pa:pseudo st:pseudo pa:foo
+  stem pseudo
+  stemmorph pseudo
+> pseudofoo-foopseudo
+  spell 1 1 
+  sug pseudofoofoopseudo
+> pseudofoo.
+  spell 1 1 pseudo
+  sug pseudofoo
+  ana  pa:pseudo st:pseudo pa:foo
+  stem pseudo
+  stemmorph pseudo
+> pseudofoofoo
+  spell 1 1 pseudo
+  sug pseudofoofoo
+  ana  pa:pseudo st:pseudo pa:foo st:foo pa:foo
+  stem pseudofoo
+  stemmorph pseudofoo
+> pseudofoopseudofoo
+  spell 1 1 pseudo
+  sug pseudofoo pseudofoo
+  ana  pa:pseudo st:pseudo pa:foo st:foo pa:pseudo st:pseudo pa:foo
+  stem pseudofoopseudo
+  stemmorph pseudofoopseudo
+> pseudofoopseudos
+  spell 1 1 pseudo
+  sug pseudofoopseudos
+  sug pseudofoopseudo
+> pseudofouo
+  spell 0 0 
+  sug pseudofoo
+> pseudoooo
+  spell 0 0 
+> pseudop
+  spell 0 0 
+> pseudopseudos
+  spell 1 1 pseudo
+  sug pseudopseudo
+> pseudos
+  spell 0 0 
+  ana  st:pseudo fl:B
+  stem pseudo
+  stemmorph pseudo
+> pseudos-pseudo
+  spell 0 0 
+> pseudos-pseudofoo
+  spell 0 0 
+> pseudos-pseudos
+  spell 0 0 
+> pseudos.
+  spell 0 0 
+  ana  st:pseudo fl:B
+  stem pseudo
+  stemmorph pseudo
+> pseudose
+  spell 0 0 
+> pseudospseudo
+  spell 0 0 
+  sug pseudopseudo
+> pseuds
+  spell 0 0 
+> pseuedofoo
+  spell 0 0 
+  sug pseudofoo
+> pseuods
+  spell 0 0 
+> pseuoofoo
+  spell 0 0 
+> pseusdo
+  spell 0 0 
+> pseuuos
+  spell 0 0 
+> pspudos
+  spell 0 0 
+> psudo
+  spell 0 0 
+> psuedo
+  spell 0 0 
+> pueudo
+  spell 0 0 
+> puseudo
+  spell 0 0 
+> soo
+  spell 0 0 
+> soopseudos
+  spell 0 0 
+> speudo
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foopseudo's
+  spell 0 0 
+  sug foopseudos
+> foopseudoâ€™s
+  spell 0 0 
+> 'foopseudo'
+  spell 0 0 
+> l'foopseudo
+  spell 0 0 
+> foopseudo.
+  spell 1 1 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> foopseudo..
+  spell 1 1 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> .foopseudo
+  spell 0 0 
+  sug foopseudo
+> ...
+  spell 1 0 
+> -foopseudo
+  spell 1 1 
+  sug foopseudo
+> foopseudo-
+  spell 1 1 
+  sug foopseudo
+> foopseudo--pseudos
+  spell 0 0 
+> foopseudo-pseudos-foopseudo
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FOOPSEUDO
+  spell 1 33 foo
+  sug FOOPSEUDO
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> FOOPSEUDO
+  spell 1 33 foo
+  sug FOOPSEUDO
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> Foopseudo
+  spell 1 33 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> foopseudo pseudos
+  spell 0 0 
+  sug foopseudopseudos
+>  foopseudo
+  spell 1 1 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> foopseudo 
+  spell 0 0 
+  sug foopseudo
+> foopseudo	pseudos
+  spell 0 0 
+  sug foopseudopseudos
+> ÿþfoopseudo
+  spell 0 0 
+> foopseudoÃ
+  spell 0 32 
+  sug foopseudo
+> €foopseudo
+  spell 0 0 
+  sug foopseudo
+> ð€foopseudo
+  spell 0 0 
+> Ä°foopseudo
+  spell 0 32 
+> foopseudoÃŸ
+  spell 0 32 
+> foopseudo
+  spell 1 1 foo
+  sug foopseudo
+  ana  pa:foo st:foo pa:pseudo
+  stem foo
+  stemmorph foo
+> FOOPSEUDOSS
+  spell 0 32 
+  sug FOOPSEUDOS
+> <?xml?><query type="analyze"><word>foopseudo</word></query>
+  spell 0 0 
+  sug <code><a> pa:foo st:foo pa:pseudo</a></code>
+> <?xml?><query type="stem"><word>foopseudo</word></query>
+  spell 0 0 
+  sug foo
+> <?xml?><query type="suggest"><word>foopseudox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foopseudo</word><word>pseudos</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foopseudo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foopseudo</word></query>
+  spell 0 0 
+  sug <code><a> pa:foo st:foo pa:pseudo</a></code>
+> <?xml?><query type="add"><word>foopseudo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foopseudo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foopseudo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

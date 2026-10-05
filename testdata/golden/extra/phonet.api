@@ -1,0 +1,160 @@
+# example: abcd
+> chas
+  spell 0 0 
+  sug café
+> phoan
+  spell 0 0 
+  sug abzon
+  sug nation
+> knite
+  spell 0 0 
+  sug nite
+  sug knight
+  sug nation
+> qick
+  spell 0 0 
+  sug quick
+> kwick
+  spell 0 0 
+  sug quick
+  sug knight
+  sug kaz
+> cafes
+  spell 0 0 
+  sug café
+> naxion
+  spell 0 0 
+  sug nation
+  sug abzon
+  sug nite
+> rong
+  spell 0 0 
+  sug wrong
+  sug fone
+  sug abzon
+> wwrong
+  spell 0 0 
+  sug wrong
+  sug nation
+  sug abzon
+> abcd
+  spell 1 0 
+  sug abcd
+  sug abxe
+  sug abzon
+  ana  st:abcd
+  stem abcd
+  stemmorph abcd
+> abcdz
+  spell 0 0 
+  sug abcd
+  sug abzon
+  sug abyex
+  sug abxe
+> abxez
+  spell 0 0 
+  sug abxe
+  sug abyex
+  sug abzon
+  sug abcd
+> abyez
+  spell 0 0 
+  sug abyex
+  sug abxe
+  sug abzon
+  sug abcd
+> abyiz
+  spell 0 0 
+  sug abyex
+  sug abzon
+  sug abcd
+> abzonn
+  spell 0 0 
+  sug abzon
+  sug abyex
+  sug abxe
+> abwa
+  spell 0 0 
+  sug abxe
+  sug abcd
+  sug abzon
+> abwozz
+  spell 0 0 
+  sug abzon
+  sug abyex
+  sug kaz
+> acchas
+  spell 0 0 
+  sug abxe
+  sug abcd
+> cheese
+  spell 0 0 
+  sug abyex
+  sug nite
+> gnat
+  spell 0 0 
+  sug nation
+  sug knight
+> agnat
+  spell 0 0 
+  sug nation
+  sug abzon
+  sug abyex
+> kr
+  spell 0 0 
+  sug kaz
+> krs
+  spell 0 0 
+> oughgh
+  spell 0 0 
+  sug knight
+  sug wrong
+> lluvia
+  spell 0 0 
+> calla
+  spell 0 0 
+  sug café
+  sug abcd
+> aexa
+  spell 0 0 
+  sug abyex
+  sug abxe
+  sug abcd
+> xaxa
+  spell 0 0 
+  sug abxe
+  sug abyex
+> teste
+  spell 0 0 
+  sug nite
+> teddy
+  spell 0 0 
+  sug nite
+> daddy
+  spell 0 0 
+  sug abcd
+> thithe
+  spell 0 0 
+  sug nation
+  sug knight
+> bbb
+  spell 0 0 
+  sug abcd
+  sug abxe
+> aphone
+  spell 0 0 
+  sug nation
+  sug abzon
+> sphone
+  spell 0 0 
+  sug nation
+  sug fone
+> quiqu
+  spell 0 0 
+  sug quick
+> kés
+  spell 0 0 
+> és
+  spell 0 0 
+> aés
+  spell 0 0 

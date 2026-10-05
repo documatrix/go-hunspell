@@ -1,0 +1,382 @@
+# example: openSUSE
+> Eello
+  spell 0 32 
+  sug Hello
+> HELLO
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> Hello
+  spell 1 32 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> OPENSUSE
+  spell 1 32 
+  sug OPENSUSE
+  ana  st:Opensuse
+  stem Opensuse
+  stemmorph Opensuse
+> Opensuse
+  spell 0 32 
+  sug OpenSUSE
+  ana  st:Opensuse
+  stem Opensuse
+  stemmorph Opensuse
+> Sello
+  spell 0 32 
+  sug Hello
+> ehllo
+  spell 0 0 
+  sug hello
+> ello
+  spell 0 0 
+  sug hello
+> hEello
+  spell 0 32 
+  sug hello
+> hUello
+  spell 0 32 
+  sug hello
+> heEllo
+  spell 0 32 
+  sug hello
+> heSlo
+  spell 0 32 
+  sug hello
+> heUllo
+  spell 0 32 
+  sug hello
+> helElo
+  spell 0 32 
+  sug hello
+> hell
+  spell 0 0 
+  sug hello
+> hellEo
+  spell 0 32 
+  sug hello
+> hellU
+  spell 0 32 
+  sug hello
+> hellUo
+  spell 0 32 
+  sug hello
+> hello
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello-hello
+  spell 1 1 
+> hello-openSUSE
+  spell 1 33 
+> hello.
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> helloh
+  spell 0 0 
+  sug hello
+> hellohello
+  spell 0 0 
+  sug hello hello
+  sug hello-hello
+> hellon
+  spell 0 0 
+  sug hello
+> helloo
+  spell 0 0 
+  sug hello
+> helloopenSUSE
+  spell 0 32 
+  sug hello openSUSE
+  sug hello-openSUSE
+> helo
+  spell 0 0 
+  sug hello
+> helol
+  spell 0 0 
+  sug hello
+> hhello
+  spell 0 0 
+  sug hello
+> hlelo
+  spell 0 0 
+  sug hello
+> hllo
+  spell 0 0 
+  sug hello
+> hnllo
+  spell 0 0 
+  sug hello
+> nopenSUSE
+  spell 0 32 
+  sug openSUSE
+> oEpenSUSE
+  spell 0 32 
+  sug openSUSE
+> oello
+  spell 0 0 
+  sug hello
+> oenSUSE
+  spell 0 32 
+  sug openSUSE
+> oepnSUSE
+  spell 0 32 
+  sug openSUSE
+> ohenSUSE
+  spell 0 32 
+  sug openSUSE
+> opEenSUSE
+  spell 0 32 
+  sug openSUSE
+> opeSUSE
+  spell 0 32 
+  sug openSUSE
+> opeUSUSE
+  spell 0 32 
+  sug openSUSE
+> opeUnSUSE
+  spell 0 32 
+  sug openSUSE
+> opeenSUSE
+  spell 0 32 
+  sug openSUSE
+> opelSUSE
+  spell 0 32 
+  sug openSUSE
+> openSSUE
+  spell 0 32 
+  sug openSUSE
+> openSUE
+  spell 0 32 
+  sug openSUSE
+> openSUES
+  spell 0 32 
+  sug openSUSE
+> openSUS
+  spell 0 32 
+  sug openSUSE
+> openSUSE
+  spell 1 32 
+  sug openSUSE
+  ana  st:openSUSE
+  stem openSUSE
+  stemmorph openSUSE
+> openSUSE-hello
+  spell 1 33 
+> openSUSE-openSUSE
+  spell 1 33 
+> openSUSE.
+  spell 1 32 
+  sug openSUSE
+  ana  st:openSUSE
+  stem openSUSE
+  stemmorph openSUSE
+> openSUSEhello
+  spell 0 32 
+  sug openSUSE hello
+  sug openSUSE-hello
+> openSUSEopenSUSE
+  spell 0 32 
+  sug openSUSE openSUSE
+  sug openSUSE-openSUSE
+> openSUSS
+  spell 0 32 
+  sug openSUSE
+> openSUSUE
+  spell 0 32 
+  sug openSUSE
+> openSUSpE
+  spell 0 32 
+  sug openSUSE
+> openSUUSE
+  spell 0 32 
+  sug openSUSE
+> openSUhE
+  spell 0 32 
+  sug openSUSE
+> openSUlSE
+  spell 0 32 
+  sug openSUSE
+> openSUnSE
+  spell 0 32 
+  sug openSUSE
+> openSlUSE
+  spell 0 32 
+  sug openSUSE
+> openSnSE
+  spell 0 32 
+  sug openSUSE
+> openUSE
+  spell 0 32 
+  sug openSUSE
+> openUSSE
+  spell 0 32 
+  sug openSUSE
+> opennUSE
+  spell 0 32 
+  sug openSUSE
+> opnSUSE
+  spell 0 32 
+  sug openSUSE
+> oppenSUSE
+  spell 0 32 
+  sug openSUSE
+> penSUSE
+  spell 0 32 
+  sug openSUSE
+> phello
+  spell 0 0 
+  sug hello
+> poenSUSE
+  spell 0 32 
+  sug openSUSE
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> openSUSE's
+  spell 0 32 
+  sug openSUSE
+> openSUSEâ€™s
+  spell 0 32 
+  sug openSUSE
+> 'openSUSE'
+  spell 0 32 
+  sug openSUSE
+> l'openSUSE
+  spell 0 32 
+  sug openSUSE
+> openSUSE.
+  spell 1 32 
+  sug openSUSE
+  ana  st:openSUSE
+  stem openSUSE
+  stemmorph openSUSE
+> openSUSE..
+  spell 1 32 
+  sug openSUSE
+  ana  st:openSUSE
+  stem openSUSE
+  stemmorph openSUSE
+> .openSUSE
+  spell 0 32 
+  sug openSUSE
+> ...
+  spell 1 0 
+> -openSUSE
+  spell 1 33 
+  sug openSUSE
+> openSUSE-
+  spell 1 33 
+  sug openSUSE
+> openSUSE--hello
+  spell 1 33 
+> openSUSE-hello-openSUSE
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> OPENSUSE
+  spell 1 32 
+  sug OPENSUSE
+  ana  st:Opensuse
+  stem Opensuse
+  stemmorph Opensuse
+> OPENsuse
+  spell 0 32 
+  sug OpenSUSE
+> Opensuse
+  spell 0 32 
+  sug OpenSUSE
+  ana  st:Opensuse
+  stem Opensuse
+  stemmorph Opensuse
+> openSUSE hello
+  spell 0 32 
+>  openSUSE
+  spell 1 32 
+  sug openSUSE
+  ana  st:openSUSE
+  stem openSUSE
+  stemmorph openSUSE
+> openSUSE 
+  spell 0 32 
+  sug openSUSE
+> openSUSE	hello
+  spell 0 32 
+> ÿþopenSUSE
+  spell 0 0 
+  sug openSUSE
+> openSUSEÃ
+  spell 0 32 
+  sug openSUSE
+> €openSUSE
+  spell 0 32 
+  sug openSUSE
+> ð€openSUSE
+  spell 0 0 
+  sug openSUSE
+> Ä°openSUSE
+  spell 0 32 
+  sug OpenSUSE
+> openSUSEÃŸ
+  spell 0 32 
+  sug openSUSE
+> openSUSE
+  spell 1 32 
+  sug openSUSE
+  ana  st:openSUSE
+  stem openSUSE
+  stemmorph openSUSE
+> OPENSUSESS
+  spell 0 32 
+  sug OPENSUSE
+> <?xml?><query type="analyze"><word>openSUSE</word></query>
+  spell 0 32 
+  sug <code><a> st:openSUSE</a></code>
+> <?xml?><query type="stem"><word>openSUSE</word></query>
+  spell 0 32 
+  sug openSUSE
+> <?xml?><query type="suggest"><word>openSUSEx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>openSUSE</word><word>hello</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>openSUSE</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>openSUSE</word></query>
+  spell 0 32 
+  sug <code><a> st:openSUSE</a></code>
+> <?xml?><query type="add"><word>openSUSE</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;openSUSE&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>openSUSE</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,4 @@
+kind text-utf8
+wordchars '
+---
+dog\xe2\x80\x99s it\xe2\x80\x99 don't

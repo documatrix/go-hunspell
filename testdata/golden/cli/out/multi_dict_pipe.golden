@@ -1,0 +1,98 @@
+exit 0
+stdout 1110
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+# wrold 6
+# this 13
+& is 1 18: said
+& a 1 21: FAQ
+# tset 23
+# of 28
+& the 1 31: text
+& speling 1 35: speech
+# checker. 43
+
+& The 1 0: Text
+# quick 4
+# brown 10
+# fox 16
+# jumpss 20
+& over 1 27: looker
+& the 1 32: text
+# lazy 36
+& dog. 1 41: doesn't
+
+# Numbers 0
+*
+& and 1 16: can't
+*
+& and 1 25: can't
+& st 1 30: said
+& nd 1 35: NASA
+# rd 40
+& are 1 43: create
+# skipped 47
+& so 1 56: said
+& are 1 59: create
+# hyphen 63
+& ated 1 70: created
+*
+
+# MiXeD 0
+& CaSe 1 6: Secret
+*
+*
+*
+*
+& hELLO 2 36: hello, hellos
+*
+& Nasa. 1 47: NASA
+
+# Apostrophes 0
+& don't 2 13: won't, doesn't
+*
+# it's 29
+# rock'n'roll 35
+# 'quoted' 48
+& dogs' 1 58: doesn't
+# bones 64
+& can 1 71: can't
+& t 1 77: text
+# isn 80
+& t. 1 86: text
+
+& Colons 1 0: Conveys
+*
+# Finnish 14
+# ssa 22
+# and 26
+# a 30
+& lone 1 32: hello
+# colon. 39
+
+# Entities 0
+# caf 10
+# eacute 14
+# na&iuml;ve 22
+# &Agrave;bc 33
+# amp 45
+# x&yuml;z. 50
+
+# Mail 0
+# me 5
+# at 8
+& or 1 31: word
+# visit 34
+# today. 83
+
+# Paths 0
+# and 30
+# and 53
+# ok. 68
+
+# Tabbed 1
+# line 8
+# with 13
+# tabz 18
+
+stderr 0

@@ -1,0 +1,294 @@
+# example: ycd
+> ABCD
+  spell 0 32 
+> Abcd
+  spell 0 32 
+> YCD
+  spell 1 32 
+  sug YCD
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> Ycd
+  spell 1 32 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> aabcd
+  spell 0 0 
+  sug ycd
+> abacd
+  spell 0 0 
+  sug ycd
+> abc
+  spell 0 0 
+> abca
+  spell 0 0 
+  sug ycd
+> abcbd
+  spell 0 0 
+  sug ycd
+> abcd
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> abcd-abcd
+  spell 1 1 
+  sug ycd
+> abcd-ycd
+  spell 1 1 
+  sug ycd
+> abcd.
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> abcda
+  spell 0 0 
+  sug ycd
+> abcdabcd
+  spell 0 0 
+  sug ycd ycd
+  sug ycd
+> abcdy
+  spell 0 0 
+  sug ycd
+> abcdycd
+  spell 0 0 
+  sug ycd ycd
+  sug ycd
+> abd
+  spell 0 0 
+  sug ycd
+> abdc
+  spell 0 0 
+  sug ycd
+> abdcd
+  spell 0 0 
+  sug ycd
+> abdd
+  spell 0 0 
+  sug ycd
+> acbd
+  spell 0 0 
+> aycd
+  spell 0 0 
+  sug ycd
+> babcd
+  spell 0 0 
+  sug ycd
+> cd
+  spell 0 0 
+  sug ycd
+> cyd
+  spell 0 0 
+  sug ycd
+> dbcd
+  spell 0 0 
+> ybcd
+  spell 0 0 
+  sug ycd
+> ybd
+  spell 0 0 
+  sug ycd
+> yc
+  spell 0 0 
+  sug ycd
+> yca
+  spell 0 0 
+  sug ycd
+> ycb
+  spell 0 0 
+  sug ycd
+> ycc
+  spell 0 0 
+  sug ycd
+> yccd
+  spell 0 0 
+  sug ycd
+> ycd
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> ycd-abcd
+  spell 1 1 
+  sug ycd
+> ycd-ycd
+  spell 1 1 
+  sug ycd
+> ycd.
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> ycda
+  spell 0 0 
+  sug ycd
+> ycdabcd
+  spell 0 0 
+  sug ycd ycd
+  sug ycd
+> ycdd
+  spell 0 0 
+  sug ycd
+> ycdy
+  spell 0 0 
+  sug ycd
+> ycdycd
+  spell 0 0 
+  sug ycd ycd
+  sug ycd
+> ycy
+  spell 0 0 
+  sug ycd
+> yd
+  spell 0 0 
+  sug ycd
+> ydc
+  spell 0 0 
+  sug ycd
+> yycd
+  spell 0 0 
+  sug ycd
+> yyd
+  spell 0 0 
+  sug ycd
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> abcd's
+  spell 0 0 
+  sug ycd
+> abcdâ€™s
+  spell 0 0 
+  sug ycd
+> 'abcd'
+  spell 0 0 
+  sug ycd
+> l'abcd
+  spell 0 0 
+  sug ycd
+> abcd.
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> abcd..
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> .abcd
+  spell 0 0 
+  sug ycd
+> ...
+  spell 1 0 
+> -abcd
+  spell 1 1 
+  sug ycd
+> abcd-
+  spell 1 1 
+  sug ycd
+> abcd--ycd
+  spell 1 1 
+> abcd-ycd-abcd
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ABCD
+  spell 0 32 
+> ABCD
+  spell 0 32 
+> Abcd
+  spell 0 32 
+> abcd ycd
+  spell 0 0 
+  sug ycd
+>  abcd
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> abcd 
+  spell 0 0 
+  sug ycd
+> abcd	ycd
+  spell 0 0 
+  sug ycd
+> ÿþabcd
+  spell 0 0 
+  sug ycd
+> abcdÃ
+  spell 0 0 
+  sug ycd
+> €abcd
+  spell 0 0 
+  sug ycd
+> ð€abcd
+  spell 0 0 
+> Ä°abcd
+  spell 0 32 
+  sug Ycd
+> abcdÃŸ
+  spell 0 0 
+  sug ycd
+> abcd
+  spell 1 0 
+  sug ycd
+  ana  st:ycd
+  stem ycd
+  stemmorph ycd
+> ABCDSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>abcd</word></query>
+  spell 0 0 
+  sug <code><a> st:ycd</a></code>
+> <?xml?><query type="stem"><word>abcd</word></query>
+  spell 0 0 
+  sug ycd
+> <?xml?><query type="suggest"><word>abcdx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>abcd</word><word>ycd</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>abcd</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>abcd</word></query>
+  spell 0 0 
+  sug <code><a> st:ycd</a></code>
+> <?xml?><query type="add"><word>abcd</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;abcd&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>abcd</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

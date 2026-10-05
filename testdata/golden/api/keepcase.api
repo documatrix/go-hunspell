@@ -1,0 +1,511 @@
+# example: foo
+> .az.
+  spell 0 0 
+  sug baz.
+> BA.
+  spell 0 32 
+  sug Bar
+> BAR
+  spell 0 32 
+  sug Bar
+  ana  st:Bar
+  stem Bar
+  stemmorph Bar
+> BAZ
+  spell 0 32 
+  sug baz.
+> BAZ.
+  spell 0 32 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> BAZ.-baz.
+  spell 0 32 
+  sug baz.
+> BAZ.-quux.
+  spell 0 32 
+> BAZ.baz.
+  spell 0 32 
+  sug baz.
+> BOZ.
+  spell 0 32 
+  sug baz.
+> BRR
+  spell 0 32 
+  sug Bar
+> BXar
+  spell 0 32 
+  sug Bar
+> BZA.
+  spell 0 32 
+  sug baz.
+> Ba.
+  spell 0 32 
+  sug Bar
+> BaRr
+  spell 0 32 
+  sug Bar
+  sug baz.
+> BaXr
+  spell 0 32 
+  sug Bar
+> Bao
+  spell 0 32 
+  sug Bar
+> Bar
+  spell 1 32 
+  sug Bar
+  ana  st:Bar
+  stem Bar
+  stemmorph Bar
+> Bar-Quux.
+  spell 0 32 
+> BarBar
+  spell 0 32 
+  sug Bar Bar
+  sug Bar
+> BarQUUX.
+  spell 0 32 
+  sug Quux.
+> BarQuux.
+  spell 0 32 
+  sug Quux.
+> Barbaz.
+  spell 0 32 
+  sug baz.
+> Barfoo
+  spell 0 32 
+  sug Bar foo
+  sug Bar
+> Barx
+  spell 0 32 
+  sug Bar
+> Baz.
+  spell 0 32 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> Baz..
+  spell 0 32 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> Baz.FOO
+  spell 0 32 
+  sug baz.
+> Br
+  spell 0 32 
+  sug Bar
+> FBar
+  spell 0 32 
+  sug Bar
+> FOO
+  spell 0 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOO-foo
+  spell 0 32 
+  sug foo-foo
+  sug foo
+> FOOBaz.
+  spell 0 32 
+> FOObaz.
+  spell 0 32 
+> FOOfoo
+  spell 0 32 
+  sug foo
+> Foo
+  spell 0 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foo-BAR
+  spell 0 32 
+> Foo-foo
+  spell 0 32 
+  sug foo-foo
+  sug foo
+> Foofoo
+  spell 0 32 
+  sug foo
+> OFO
+  spell 0 32 
+  sug foo
+> Obaz.
+  spell 0 32 
+  sug baz.
+> QUQX.
+  spell 0 32 
+  sug Quux.
+> QUUX.
+  spell 0 32 
+  sug Quux.
+  ana  st:Quux.
+  stem Quux.
+  stemmorph Quux.
+> QUUX..
+  spell 0 32 
+  sug Quux.
+  ana  st:Quux.
+  stem Quux.
+  stemmorph Quux.
+> QUUX.foo
+  spell 0 32 
+  sug Quux. foo
+  sug Quux.
+> QUUXz
+  spell 0 32 
+  sug Quux.
+> Qbaz.
+  spell 0 32 
+  sug baz.
+> Quux.
+  spell 1 32 
+  sug Quux.
+  ana  st:Quux.
+  stem Quux.
+  stemmorph Quux.
+> Quux.-Quux.
+  spell 0 32 
+> Quux.-foo
+  spell 1 33 
+  sug Quux.
+> Quux..
+  spell 1 32 
+  sug Quux.
+  ana  st:Quux.
+  stem Quux.
+  stemmorph Quux.
+> Quux.Bar
+  spell 0 32 
+  sug Quux. Bar
+  sug Quux.
+> Quux.foo
+  spell 0 32 
+  sug Quux. foo
+  sug Quux.
+> Quuxr
+  spell 0 32 
+  sug Quux.
+> UUUX.
+  spell 0 32 
+  sug Quux.
+> Zaz.
+  spell 0 32 
+  sug baz.
+> ar
+  spell 0 0 
+> b.r
+  spell 0 0 
+  sug baz.
+> bAaz.
+  spell 0 32 
+  sug baz.
+> bQz.
+  spell 0 32 
+  sug baz.
+> bUUX.
+  spell 0 32 
+  sug Quux.
+> ba.z
+  spell 0 0 
+  sug baz.
+> baQ
+  spell 0 32 
+  sug Bar
+> bar
+  spell 0 0 
+  sug Bar
+  sug baz.
+> bar-baz.
+  spell 0 0 
+  sug Bar-baz
+  sug baz.-baz
+  sug baz.
+> bar.
+  spell 0 0 
+  sug Bar
+  sug baz.
+> barbar
+  spell 0 0 
+> barq
+  spell 0 0 
+  sug baz.
+> barr
+  spell 0 0 
+  sug baz.
+> baz
+  spell 0 0 
+  sug baz.
+> baz.
+  spell 1 0 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> baz.-BAR
+  spell 0 32 
+  sug baz.-Bar
+  sug baz.
+> baz.-Baz.
+  spell 0 32 
+  sug baz.
+> baz.-Quux.
+  spell 0 32 
+> baz.-foo
+  spell 1 1 
+  sug baz.
+> baz..
+  spell 1 0 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> baz.BAZ.
+  spell 0 32 
+  sug baz.
+> baz.Foo
+  spell 0 32 
+  sug baz.
+> baz.a
+  spell 0 0 
+  sug baz.
+> baz.baz.
+  spell 0 0 
+  sug baz. baz.
+  sug baz.
+> baz.foo
+  spell 0 0 
+  sug baz. foo
+  sug baz.
+> bazO
+  spell 0 32 
+  sug baz.
+> bazb.
+  spell 0 0 
+  sug baz.
+> bfaz.
+  spell 0 0 
+  sug baz.
+> boo
+  spell 0 0 
+> bz.
+  spell 0 0 
+  sug baz.
+> bzar
+  spell 0 0 
+  sug baz.
+> fo
+  spell 0 0 
+  sug foo
+> foXo
+  spell 0 32 
+  sug foo
+> fofo
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-BAR
+  spell 0 32 
+  sug foo-Bar
+> foo-Quux.
+  spell 0 32 
+> foo-baz.
+  spell 0 0 
+  sug foo-baz.
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> fooFOO
+  spell 0 32 
+  sug foo
+> fooo
+  spell 0 0 
+  sug foo
+> froo
+  spell 0 0 
+  sug foo
+> oo
+  spell 0 0 
+  sug foo
+> quux.
+  spell 0 0 
+  sug Quux.
+> quux..
+  spell 0 0 
+  sug Quux.
+> quux.baz.
+  spell 0 0 
+> uAR
+  spell 0 32 
+  sug Bar
+> uqux.
+  spell 0 0 
+> xquux.
+  spell 0 0 
+> zBar
+  spell 0 32 
+  sug Bar
+> zbaz.
+  spell 0 0 
+  sug baz.
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> baz.'s
+  spell 0 0 
+  sug baz.
+> baz.â€™s
+  spell 0 0 
+  sug baz.
+> 'baz.'
+  spell 0 0 
+  sug baz.
+> l'baz.
+  spell 0 0 
+  sug baz.
+> baz..
+  spell 1 0 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> baz...
+  spell 1 0 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> .baz.
+  spell 0 0 
+  sug baz.
+> ...
+  spell 1 0 
+> -baz.
+  spell 0 0 
+  sug -baz.
+  sug baz.
+> baz.-
+  spell 1 1 
+  sug baz.
+> baz.--Baz.
+  spell 0 32 
+> baz.-Baz.-baz.
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> BAZ.
+  spell 0 32 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> BAZ.
+  spell 0 32 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> Baz.
+  spell 0 32 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> baz. Baz.
+  spell 0 32 
+  sug baz.
+>  baz.
+  spell 1 0 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> baz. 
+  spell 0 0 
+  sug baz.
+> baz.	Baz.
+  spell 0 32 
+  sug baz.
+> ÿþbaz.
+  spell 0 0 
+  sug baz.
+> baz.Ã
+  spell 0 32 
+  sug baz.
+> €baz.
+  spell 0 0 
+  sug baz.
+> ð€baz.
+  spell 0 0 
+> Ä°baz.
+  spell 0 32 
+  sug baz.
+> baz.ÃŸ
+  spell 0 32 
+  sug baz.
+> baz.
+  spell 1 0 
+  sug baz.
+  ana  st:baz.
+  stem baz.
+  stemmorph baz.
+> BAZ.SS
+  spell 0 32 
+  sug baz.
+> <?xml?><query type="analyze"><word>baz.</word></query>
+  spell 0 0 
+  sug <code><a> st:baz.</a></code>
+> <?xml?><query type="stem"><word>baz.</word></query>
+  spell 0 0 
+  sug baz.
+> <?xml?><query type="suggest"><word>baz.x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>baz.</word><word>Baz.</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>baz.</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>baz.</word></query>
+  spell 0 0 
+  sug <code><a> st:baz.</a></code>
+> <?xml?><query type="add"><word>baz.</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;baz.&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>baz.</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,289 @@
+# example: abc
+> ABC
+  spell 1 32 
+  sug ABC
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> Abc
+  spell 1 32 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> UNABC
+  spell 0 32 
+  sug ABC
+> Unabc
+  spell 0 32 
+  sug Abc
+> aabc
+  spell 0 0 
+  sug abc
+> ab
+  spell 0 0 
+  sug abc
+> abac
+  spell 0 0 
+  sug abc
+> abb
+  spell 0 0 
+  sug abc
+> abbc
+  spell 0 0 
+  sug abc
+> abc
+  spell 1 0 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> abc-abc
+  spell 1 1 
+  sug abc
+> abc-unabc
+  spell 0 0 
+  sug abc-abc
+> abc.
+  spell 1 0 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> abca
+  spell 0 0 
+  sug abc
+> abcabc
+  spell 0 0 
+  sug abc abc
+  sug abc
+> abcb
+  spell 0 0 
+  sug abc
+> abcn
+  spell 0 0 
+  sug abc
+> abcu
+  spell 0 0 
+  sug abc
+> abcunabc
+  spell 0 0 
+> ac
+  spell 0 0 
+  sug abc
+> acb
+  spell 0 0 
+  sug abc
+> anbc
+  spell 0 0 
+  sug abc
+> anc
+  spell 0 0 
+  sug abc
+> aubc
+  spell 0 0 
+  sug abc
+> auc
+  spell 0 0 
+  sug abc
+> bac
+  spell 0 0 
+  sug abc
+> bbc
+  spell 0 0 
+  sug abc
+> bc
+  spell 0 0 
+  sug abc
+> bnabc
+  spell 0 0 
+  sug abc
+> cabc
+  spell 0 0 
+  sug abc
+> cbc
+  spell 0 0 
+  sug abc
+> nabc
+  spell 0 0 
+  sug abc
+> nuabc
+  spell 0 0 
+  sug abc
+> uabc
+  spell 0 0 
+  sug abc
+> uanabc
+  spell 0 0 
+> unaabc
+  spell 0 0 
+> unab
+  spell 0 0 
+> unabc
+  spell 0 0 
+  sug abc
+> unabc-abc
+  spell 0 0 
+  sug abc-abc
+> unabc-unabc
+  spell 0 0 
+  sug abc-unabc
+> unabc.
+  spell 0 0 
+  sug abc
+> unabcabc
+  spell 0 0 
+> unabcunabc
+  spell 0 0 
+> unacbc
+  spell 0 0 
+> unauc
+  spell 0 0 
+> unbac
+  spell 0 0 
+> unbbc
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> abc's
+  spell 0 0 
+  sug abc
+> abcâ€™s
+  spell 0 0 
+> 'abc'
+  spell 0 0 
+  sug abc
+> l'abc
+  spell 0 0 
+  sug abc
+> abc.
+  spell 1 0 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> abc..
+  spell 1 0 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> .abc
+  spell 0 0 
+  sug abc
+> ...
+  spell 1 0 
+> -abc
+  spell 1 1 
+  sug abc
+> abc-
+  spell 1 1 
+  sug abc
+> abc--unabc
+  spell 0 0 
+  sug abc--abc
+> abc-unabc-abc
+  spell 0 0 
+  sug abc-abc-abc
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> ABC
+  spell 1 32 
+  sug ABC
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> ABC
+  spell 1 32 
+  sug ABC
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> Abc
+  spell 1 32 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> abc unabc
+  spell 0 0 
+>  abc
+  spell 1 0 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> abc 
+  spell 0 0 
+  sug abc
+> abc	unabc
+  spell 0 0 
+> ÿþabc
+  spell 0 0 
+  sug abc
+> abcÃ
+  spell 0 32 
+  sug abc
+> €abc
+  spell 0 0 
+  sug abc
+> ð€abc
+  spell 0 0 
+> Ä°abc
+  spell 0 32 
+  sug Abc
+> abcÃŸ
+  spell 0 32 
+  sug abc
+> abc
+  spell 1 0 
+  sug abc
+  ana  st:abc
+  stem abc
+  stemmorph abc
+> ABCSS
+  spell 0 32 
+  sug ABC
+> <?xml?><query type="analyze"><word>abc</word></query>
+  spell 0 0 
+  sug <code><a> st:abc</a></code>
+> <?xml?><query type="stem"><word>abc</word></query>
+  spell 0 0 
+  sug abc
+> <?xml?><query type="suggest"><word>abcx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>abc</word><word>unabc</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>abc</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>abc</word></query>
+  spell 0 0 
+  sug <code><a> st:abc</a></code>
+> <?xml?><query type="add"><word>abc</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;abc&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>abc</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

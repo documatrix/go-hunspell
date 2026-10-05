@@ -1,0 +1,60 @@
+exit 0
+stdout 783
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+*
+*
+*
+*
+
+*
+
+& hunspell 2 0: Hunspell, unshapely
+*
+*
+*
+& morphologcal 2 30: morphological, morphology
+*
+
+*
+
+& hunspell 2 3: Hunspell, unshapely
+*
+& filee 7 35: filer, file, flee, files, filet, filed, file e
+
+& boldd 3 3: bold, bold d, bollard
+*
+*
+
+
+*
+*
+*
+& manuall 5 10: manual, manually, manuals, manual l, annual
+*
+*
+& mistaeks 2 28: mistakes, mistake
+
+*
+& bolld 4 11: bolls, boll, bold, boll d
+*
+& italc 5 27: ital, talc, italic, i talc, ital c
+*
+*
+*
+
+*
+& coment 9 6: comet, comment, cement, cogent, moment, foment, commitment, contentment, content
+*
+& wih 6 18: wig, wish, with, win, wit, wiz
+*
+
+
+*
+& textt 5 7: text, texts, text t, TeX, ext
+*
+*
+& argless 5 22: largess, artless, gargles, argyles, legless
+*
+
+stderr 0

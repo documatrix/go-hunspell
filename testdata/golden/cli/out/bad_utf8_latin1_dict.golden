@@ -1,0 +1,13 @@
+exit 0
+stdout 163
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+# wr 6
+# old 9
+& t 1 13: text
+& set 1 15: etc
+& café 1 19: can't
+& end 1 26: seven
+# x 31
+
+stderr 0

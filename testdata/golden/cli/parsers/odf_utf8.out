@@ -1,0 +1,8 @@
+utf8 1
+line [<text:p>caf<text:span>\xc3\xa9</text:span> m\xc3\xbc<text:span a="b">n</text:span>chen</text:p>]
+token 8 [caf<text:span>\xc3\xa9] word [caf\xc3\xa9]
+token 37 [m\xc3\xbc<text:span a="b">n</text:span>chen] word [m\xc3\xbcnchen]
+prev 0 [<text:p>caf<text:span>\xc3\xa9</text:span> m\xc3\xbc<text:span a="b">n</text:span>chen</text:p>]
+prev 1 []
+prev 2 []
+prev 3 []

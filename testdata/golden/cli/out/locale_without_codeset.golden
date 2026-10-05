@@ -1,0 +1,10 @@
+exit 0
+stdout 173
+Line 1: wrold -> world
+Line 1: café -> cafe
+Line 1: naïve -> nave
+Line 1: résumé -> resume
+Line 3: uncreated -> untreated
+Line 3: decreate -> decrease
+Line 4: doesn -> does
+stderr 0

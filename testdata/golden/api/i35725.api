@@ -1,0 +1,770 @@
+# example: endangerment
+> Cferment
+  spell 0 32 
+  sug Ferment
+  sug Empowerment
+> EMPOWERMENT
+  spell 1 32 
+  sug EMPOWERMENTS
+  sug EMPOWERMENT
+  ana  st:empowerment
+  stem empowerment
+  stemmorph empowerment
+> ENDANGERMENT
+  spell 1 32 
+  sug ENDANGERMENTS
+  sug ENDANGERMENT
+  ana  st:endangerment
+  stem endangerment
+  stemmorph endangerment
+> Ferment
+  spell 1 32 
+  sug ferment
+  sug Ferments
+  ana  st:ferment
+  stem ferment
+  stemmorph ferment
+> IMPERMANENT
+  spell 1 32 
+  sug IMPERMANENT
+  ana  st:impermanent
+  stem impermanent
+  stemmorph impermanent
+> ORNAMENT
+  spell 1 32 
+  sug ORNAMENTS
+  sug ORNAMENT
+  ana  st:ornament
+  stem ornament
+  stemmorph ornament
+> Opermanent
+  spell 0 32 
+  sug Permanent
+> Ornament
+  spell 1 32 
+  sug ornament
+  sug Ornaments
+  ana  st:ornament
+  stem ornament
+  stemmorph ornament
+> OrnamentPermanent
+  spell 0 32 
+  sug Ornament Permanent
+  sug Ornament-permanent
+  sug Semipermanent
+> Ornamentpermenant
+  spell 0 32 
+> Ornameont
+  spell 0 32 
+  sug Ornament
+  sug Tournament
+> PERMANENT
+  spell 1 32 
+  sug PERMANENTS
+  sug PERMANENT
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> PERNEMANT
+  spell 0 32 
+  sug PERMANENT
+> PIMPERNEL
+  spell 1 32 
+  sug PIMPERNEL
+  ana  st:pimpernel
+  stem pimpernel
+  stemmorph pimpernel
+> PeOrnemant
+  spell 0 32 
+  sug Permanent
+> PermEenant
+  spell 0 32 
+  sug Permanent
+> Permaennt
+  spell 0 32 
+  sug Permanent
+> Permanent
+  spell 1 32 
+  sug permanent
+  sug Permanents
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> Permanent.
+  spell 1 32 
+  sug Permanent
+  sug Permanents
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> Permanentornament
+  spell 0 32 
+  sug Permanent ornament
+  sug Permanent-ornament
+  sug Semipermanent
+> Permanentpermanent
+  spell 0 32 
+  sug Permanent permanent
+  sug Permanent-permanent
+> Permanetn
+  spell 0 32 
+  sug Permanent
+> Permannet
+  spell 0 32 
+  sug Permanent
+> Permenant
+  spell 0 32 
+  sug Permanent
+  sug Preferment
+> Pernaent
+  spell 0 32 
+  sug Permanent
+> Pernamen
+  spell 0 32 
+  sug Ornament
+> Pernament
+  spell 0 32 
+  sug Permanent
+  sug Ornament
+> Pernament.
+  spell 0 32 
+  sug Permanent
+  sug Ornament
+> Pernemant
+  spell 0 32 
+  sug Permanent
+> Pernemantpermenant
+  spell 0 32 
+> Perrmanent
+  spell 0 32 
+  sug Permanent
+> Pertmanent
+  spell 0 32 
+  sug Permanent
+> PrefeCrment
+  spell 0 32 
+  sug Preferment
+  sug Empowerment
+> Preferment
+  spell 1 32 
+  sug preferment
+  sug Preferments
+  ana  st:preferment
+  stem preferment
+  stemmorph preferment
+> Preferment-endangerment
+  spell 1 33 
+> Prefermentunesco's
+  spell 0 32 
+> SEMIPERMANENT
+  spell 1 32 
+  sug SEMIPERMANENT
+  ana  st:semipermanent
+  stem semipermanent
+  stemmorph semipermanent
+> Semipermanent
+  spell 1 32 
+  sug semipermanent
+  ana  st:semipermanent
+  stem semipermanent
+  stemmorph semipermanent
+> UNESC
+  spell 0 32 
+  sug UNESCO
+> UNESCO
+  spell 1 32 
+  sug UNESCO
+  ana  st:UNESCO
+  ana  st:Unesco
+  stem UNESCO
+  stem Unesco
+  stemmorph UNESCO
+  stemmorph Unesco
+  sfx UNESCO's
+> UNESCO'cs
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> UNESCO's
+  spell 1 32 UNESCO
+  sug UNESCO's
+  ana  st:UNESCO fl:M
+  stem UNESCO
+  stemmorph UNESCO
+> UNESCO's-UNESCO
+  spell 1 33 
+> UNESCO'sUNESCO
+  spell 0 32 
+  sug UNESCO's UNESCO
+  sug UNESCO's-UNESCO
+> UNESCO-pernemant
+  spell 0 32 
+  sug UNESCO-permanent
+> UNESCO.
+  spell 1 32 
+  sug UNESCO
+  ana  st:UNESCO
+  ana  st:Unesco
+  stem UNESCO
+  stem Unesco
+  stemmorph UNESCO
+  stemmorph Unesco
+> UNESCOornament
+  spell 0 32 
+  sug UNESCO ornament
+  sug UNESCO-ornament
+  sug Tournament
+> UNESCOpermanent
+  spell 0 32 
+  sug UNESCO permanent
+  sug UNESCO-permanent
+  sug Semipermanent
+> UNESCe's
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> UNESCpO's
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> UNESO
+  spell 0 32 
+  sug UNESCO
+> UNErCO
+  spell 0 32 
+  sug UNESCO
+> UNEsSCO
+  spell 0 32 
+  sug UNESCO
+> UcNESCO
+  spell 0 32 
+  sug UNESCO
+> Unesco
+  spell 0 32 
+  sug UNESCO
+  ana  st:Unesco
+  stem Unesco
+  stemmorph Unesco
+  sfx Unesco's
+> Unesco'
+  spell 0 32 
+  sug UNESCO
+> Unesco's
+  spell 0 32 
+  sug UNESCO's
+  ana  st:Unesco fl:M
+  stem Unesco
+  stemmorph Unesco
+> Unesuco
+  spell 0 32 
+  sug UNESCO
+> ednangerment
+  spell 0 0 
+  sug endangerment
+  sug empowerment
+> empowerment
+  spell 1 0 
+  sug empowerments
+  sug empowerment
+  ana  st:empowerment
+  stem empowerment
+  stemmorph empowerment
+  sfx empowerments
+  sfx empowerment's
+> empowerment-permanent
+  spell 1 1 
+> empowerment.
+  spell 1 0 
+  sug empowerments
+  sug empowerment
+  ana  st:empowerment
+  stem empowerment
+  stemmorph empowerment
+> empowermetn
+  spell 0 0 
+  sug empowerment
+> enadngerment
+  spell 0 0 
+  sug endangerment
+  sug empowerment
+> endangerment
+  spell 1 0 
+  sug endangerments
+  sug endangerment
+  ana  st:endangerment
+  stem endangerment
+  stemmorph endangerment
+  sfx endangerments
+  sfx endangerment's
+> ermanent
+  spell 0 0 
+  sug permanent
+  sug endangerment
+> ferment
+  spell 1 0 
+  sug ferments
+  sug ferment
+  ana  st:ferment
+  stem ferment
+  stemmorph ferment
+  sfx ferments
+  sfx ferment's
+> ferment-Permanent
+  spell 1 33 
+  sug ferment-permanent
+  sug semipermanent
+> ferment-permanent
+  spell 1 1 
+  sug semipermanent
+> ferment.
+  spell 1 0 
+  sug ferments
+  sug ferment
+  ana  st:ferment
+  stem ferment
+  stemmorph ferment
+> fermentO
+  spell 0 32 
+  sug ferment
+  sug ferments
+  sug empowerment
+> ferrment
+  spell 0 0 
+  sug ferment
+  sug empowerment
+> gUNESCO
+  spell 0 32 
+  sug UNESCO
+> impermEanent
+  spell 0 32 
+  sug impermanent
+  sug semipermanent
+  sug permanent
+> impermanent
+  spell 1 0 
+  sug impermanent
+  ana  st:impermanent
+  stem impermanent
+  stemmorph impermanent
+  sfx impermanently
+> impermanent-endangerment
+  spell 1 1 
+> impermanentUNESCO
+  spell 0 32 
+  sug impermanent UNESCO
+  sug impermanent-UNESCO
+  sug semipermanent
+> ornaental
+  spell 0 0 
+  sug ornamental
+  sug ornament
+> ornameet
+  spell 0 0 
+  sug ornament
+> ornamenm
+  spell 0 0 
+  sug ornament
+  sug tournament
+> ornament
+  spell 1 0 
+  sug ornaments
+  sug ornament
+  ana  st:ornament
+  stem ornament
+  stemmorph ornament
+  sfx ornamented
+  sfx ornamenting
+  sfx ornaments
+  sfx ornament's
+> ornamental
+  spell 1 0 
+  sug ornamentals
+  sug ornamental
+  ana  st:ornamental
+  stem ornamental
+  stemmorph ornamental
+  sfx ornamentals
+  sfx ornamentally
+> ornamental.
+  spell 1 0 
+  sug ornamentals
+  sug ornamental
+  ana  st:ornamental
+  stem ornamental
+  stemmorph ornamental
+> ornamentalornament
+  spell 0 0 
+  sug ornamental ornament
+  sug ornamental-ornament
+> ornamentendangerment
+  spell 0 0 
+  sug ornament endangerment
+  sug ornament-endangerment
+> ornamentpernemant
+  spell 0 0 
+> peUmanent
+  spell 0 32 
+  sug permanent
+> peUrmanent
+  spell 0 32 
+  sug permanent
+> pemrmanent
+  spell 0 0 
+  sug permanent
+> peranent
+  spell 0 0 
+  sug permanent
+> permalnent
+  spell 0 0 
+  sug permanent
+> permanent
+  spell 1 0 
+  sug permanents
+  sug permanent
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+  sfx permanents
+  sfx permanentness
+  sfx permanently
+> permanent-permanent
+  spell 1 1 
+> permanent.
+  spell 1 0 
+  sug permanents
+  sug permanent
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> permanentU
+  spell 0 32 
+  sug permanent
+  sug permanents
+> permanentUnesco's
+  spell 0 32 
+  sug semipermanent
+> permannet
+  spell 0 0 
+  sug permanent
+> permenant
+  spell 0 0 
+  sug permanent
+  sug preferment
+> permenant.
+  spell 0 0 
+  sug permanent
+  sug preferment
+> permenantPernament
+  spell 0 32 
+> permenantUNESCO
+  spell 0 32 
+> pernament
+  spell 0 0 
+  sug permanent
+  sug ornament
+> pernemant
+  spell 0 0 
+  sug permanent
+> pernemant-Pernament
+  spell 0 32 
+> pernemnat
+  spell 0 0 
+  sug permanent
+> pimpenrel
+  spell 0 0 
+  sug pimpernel
+  sug impermanent
+> pimpernel
+  spell 1 0 
+  sug pimpernel
+  ana  st:pimpernel
+  stem pimpernel
+  stemmorph pimpernel
+> pnmpernel
+  spell 0 0 
+  sug pimpernel
+  sug impermanent
+> preferment
+  spell 1 0 
+  sug preferments
+  sug preferment
+  ana  st:preferment
+  stem preferment
+  stemmorph preferment
+  sfx preferments
+  sfx preferment's
+> preferment.
+  spell 1 0 
+  sug preferments
+  sug preferment
+  ana  st:preferment
+  stem preferment
+  stemmorph preferment
+> prefermentUnesco
+  spell 0 32 
+  sug endangerment
+> prefermetn
+  spell 0 0 
+  sug preferment
+  sug ferment
+> prelerment
+  spell 0 0 
+  sug preferment
+  sug empowerment
+> ronament
+  spell 0 0 
+  sug ornament
+  sug tournament
+> semipdermanent
+  spell 0 0 
+  sug semipermanent
+  sug impermanent
+> semipermanent
+  spell 1 0 
+  sug semipermanent
+  ana  st:semipermanent
+  stem semipermanent
+  stemmorph semipermanent
+  sfx semipermanently
+> semipermanent-Unesco
+  spell 0 32 
+  sug semipermanent-UNESCO
+> semipermanent-ornament
+  spell 1 1 
+> spuermen
+  spell 0 0 
+  sug supermen
+  sug preferment
+> supelrmen
+  spell 0 0 
+  sug supermen
+  sug supernatant
+> supermen
+  spell 1 0 
+  sug supermen
+  ana  st:supermen
+  stem supermen
+  stemmorph supermen
+> supermen.
+  spell 1 0 
+  sug supermen
+  ana  st:supermen
+  stem supermen
+  stemmorph supermen
+> supernatant
+  spell 1 0 
+  sug supernatant
+  ana  st:supernatant
+  stem supernatant
+  stemmorph supernatant
+> supernatant.
+  spell 1 0 
+  sug supernatant
+  ana  st:supernatant
+  stem supernatant
+  stemmorph supernatant
+> supernatantUNESCO
+  spell 0 32 
+  sug supernatant UNESCO
+  sug supernatant-UNESCO
+> supernatantUnesco's
+  spell 0 32 
+> superntant
+  spell 0 0 
+  sug supernatant
+  sug supermen
+> tournamenst
+  spell 0 0 
+  sug tournaments
+  sug tournament
+  sug ornamental
+> tournament
+  spell 1 0 
+  sug tournaments
+  sug tournament
+  ana  st:tournament
+  stem tournament
+  stemmorph tournament
+  sfx tournaments
+  sfx tournament's
+> tournament-UNESCO
+  spell 1 33 
+> tournament-preferment
+  spell 1 1 
+> unSsco
+  spell 0 32 
+  sug UNESCO
+> unecso
+  spell 0 0 
+  sug UNESCO
+> uneeco
+  spell 0 0 
+  sug UNESCO
+> unesc'os
+  spell 0 0 
+  sug UNESCO
+> unesco
+  spell 0 0 
+  sug UNESCO
+> unesco's
+  spell 0 0 
+  sug UNESCO's
+> unesco-permanent
+  spell 0 0 
+  sug UNESCO-permanent
+  sug semipermanent
+> unesco.
+  spell 0 0 
+  sug UNESCO
+> unescom
+  spell 0 0 
+  sug UNESCO
+> unlesco's
+  spell 0 0 
+  sug UNESCO's
+> unsco's
+  spell 0 0 
+  sug UNESCO's
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> UNESCO's's
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> UNESCO'sâ€™s
+  spell 0 32 
+> 'UNESCO's'
+  spell 0 32 
+  sug UNESCO
+> l'UNESCO's
+  spell 0 32 
+  sug UNESCO's
+> UNESCO's.
+  spell 1 32 UNESCO
+  sug UNESCO's
+  ana  st:UNESCO fl:M
+  stem UNESCO
+  stemmorph UNESCO
+> UNESCO's..
+  spell 1 32 UNESCO
+  sug UNESCO's
+  ana  st:UNESCO fl:M
+  stem UNESCO
+  stemmorph UNESCO
+> .UNESCO's
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> ...
+  spell 1 0 
+> -UNESCO's
+  spell 1 33 
+  sug UNESCO's
+  sug UNESCO
+> UNESCO's-
+  spell 1 33 
+  sug UNESCO's
+  sug UNESCO
+> UNESCO's--permanent
+  spell 1 33 
+> UNESCO's-permanent-UNESCO's
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> UNESCO'S
+  spell 1 32 Unesco
+  sug UNESCO'S
+  ana  st:Unesco fl:M
+  stem Unesco
+  stemmorph Unesco
+> unesco'S
+  spell 0 32 
+  sug UNESCO's
+> Unesco'S
+  spell 0 32 
+  sug UNESCO's
+> UNESCO's permanent
+  spell 0 32 
+>  UNESCO's
+  spell 1 32 UNESCO
+  sug UNESCO's
+  ana  st:UNESCO fl:M
+  stem UNESCO
+  stemmorph UNESCO
+> UNESCO's 
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> UNESCO's	permanent
+  spell 0 32 
+> ÿþUNESCO's
+  spell 0 32 
+  sug UNESCO's
+> UNESCO'sÃ
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> €UNESCO's
+  spell 0 32 
+  sug UNESCO's
+  sug UNESCO
+> ð€UNESCO's
+  spell 0 32 
+> Ä°UNESCO's
+  spell 0 32 
+  sug UNESCO's
+> UNESCO'sÃŸ
+  spell 0 32 
+  sug UNESCO
+> UNESCO's
+  spell 1 32 UNESCO
+  sug UNESCO's
+  ana  st:UNESCO fl:M
+  stem UNESCO
+  stemmorph UNESCO
+> UNESCO'SSS
+  spell 0 32 
+  sug UNESCO
+> <?xml?><query type="analyze"><word>UNESCO's</word></query>
+  spell 0 32 
+  sug <code><a> st:UNESCO fl:M</a></code>
+> <?xml?><query type="stem"><word>UNESCO's</word></query>
+  spell 0 32 
+  sug UNESCO
+> <?xml?><query type="suggest"><word>UNESCO'sx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>UNESCO's</word><word>permanent</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>UNESCO's</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>UNESCO's</word></query>
+  spell 0 32 
+  sug <code><a> st:UNESCO fl:M</a></code>
+> <?xml?><query type="add"><word>UNESCO's</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;UNESCO's&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>UNESCO's</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

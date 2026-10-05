@@ -1,0 +1,98 @@
+exit 0
+stdout 1099
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wrold 2 6: world, wold
+*
+*
+*
+& tset 5 23: stet, test, set, sett, t set
+*
+*
+& speling 5 35: spieling, spelling, spewing, peeling, splinting
+*
+
+*
+*
+*
+*
+& jumpss 3 20: jumps, jump's, jumps s
+*
+*
+*
+*
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+& ated 15 70: ate, ted, sated, anted, rated, acted, dated, gated, mated, hated, bated, fated, date, aced, aged
+*
+
+& MiXeD 12 0: Mix Ed, Mixed, Nixed, Mixes, Maxed, Mined, Mixer, Mired, Mimed, Fixed, Miked, Mix-ed
+& CaSe 11 6: Case, Cage, Ca Se, Ca-Se, Cane, Care, Came, Cape, Cafe, Cave, Cake
+*
+*
+*
+*
+& hELLO 6 36: hell O, hello, jello, hell, hellos, cello
+*
+& Nasa 5 47: NASA, Nyasa, Napa, Nash, Nasal
+
+*
+*
+*
+*
+& rock'n'roll 1 35: rollicking
+*
+*
+*
+*
+*
+
+*
+*
+*
+& ssa 6 22: SSA, ass, sea, spa, ssh, ska
+*
+*
+*
+*
+
+*
+& caf 15 10: cad, ca, cf, cafe, calf, caff, can, car, cat, oaf, cal, cam, cap, cab, cay
+& eacute 6 14: acute, e acute, ea cute, ea-cute, teacup, cute
+# na&iuml;ve 22
+& &Agrave;bc 1 33: engraver
+*
+# x&yuml;z 50
+
+*
+*
+*
+*
+*
+*
+
+*
+*
+*
+& ok 2 68: OK, och
+
+*
+*
+*
+& tabz 3 18: tab, tabs, tab z
+
+stderr 0

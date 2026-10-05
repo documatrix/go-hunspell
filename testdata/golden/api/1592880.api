@@ -1,0 +1,424 @@
+# example: weg
+> WEG
+  spell 1 32 
+  sug WEG
+  ana  st:weg
+  stem weg
+  stemmorph weg
+> WEGE
+  spell 1 32 
+  sug WEG
+  sug WEGE
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> WEGEN
+  spell 1 32 weg
+  sug WEGE
+  sug WEGEN
+  ana  st:weg fl:Q
+  ana  st:weg fl:P
+  stem weg
+  stemmorph weg
+> Weg
+  spell 1 32 
+  sug weg
+  ana  st:weg
+  stem weg
+  stemmorph weg
+> Wege
+  spell 1 32 
+  sug Weg
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> Wegen
+  spell 1 32 weg
+  sug Wege
+  ana  st:weg fl:Q
+  ana  st:weg fl:P
+  stem weg
+  stemmorph weg
+> eegen
+  spell 0 0 
+  sug wegen
+> ege
+  spell 0 0 
+  sug wege
+> ewg
+  spell 0 0 
+  sug weg
+> ewge
+  spell 0 0 
+  sug wege
+> geg
+  spell 0 0 
+  sug wege
+> gwege
+  spell 0 0 
+  sug wege
+  sug weg
+> gwegen
+  spell 0 0 
+  sug wegen
+  sug wege
+> nweg
+  spell 0 0 
+  sug weg
+> nwege
+  spell 0 0 
+  sug wege
+  sug wegen
+  sug weg
+> we
+  spell 0 0 
+  sug wege
+> weeg
+  spell 0 0 
+  sug wege
+  sug weg
+> ween
+  spell 0 0 
+  sug wegen
+> weg
+  spell 1 0 
+  sug weg
+  ana  st:weg
+  stem weg
+  stemmorph weg
+  sfx wege
+  sfx wegen
+> weg-weg
+  spell 1 1 
+  sug wege
+> weg-wege
+  spell 1 1 
+  sug wege
+> weg-wegen
+  spell 1 1 
+> weg.
+  spell 1 0 
+  sug weg
+  ana  st:weg
+  stem weg
+  stemmorph weg
+> wege
+  spell 1 0 
+  sug weg
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> wege-weg
+  spell 1 1 
+  sug wege
+> wege-wege
+  spell 1 1 
+> wege-wegen
+  spell 1 1 
+> wege.
+  spell 1 0 
+  sug weg
+  sug wege
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> wegeg
+  spell 0 0 
+  sug wege
+  sug weg
+> wegen
+  spell 1 0 weg
+  sug wege
+  ana  st:weg fl:Q
+  ana  st:weg fl:P
+  stem weg
+  stemmorph weg
+> wegen-weg
+  spell 1 1 
+> wegen-wege
+  spell 1 1 
+> wegen.
+  spell 1 0 weg
+  sug wege
+  sug wegen
+  ana  st:weg fl:Q
+  ana  st:weg fl:P
+  stem weg
+  stemmorph weg
+> wegenn
+  spell 0 0 
+  sug wegen
+  sug wege
+> wegenweg
+  spell 0 0 
+  sug wegen weg
+  sug wege
+> wegenwege
+  spell 0 0 
+  sug wegen wege
+> wegenwegen
+  spell 0 0 
+  sug wegen wegen
+> wegeweg
+  spell 0 0 
+  sug wege weg
+  sug wege
+  sug weg
+> wegewege
+  spell 0 0 
+  sug wege wege
+  sug wege
+> wegewegen
+  spell 0 0 
+  sug wege wegen
+> wegg
+  spell 0 0 
+  sug weg
+> wegge
+  spell 0 0 
+  sug wege
+  sug weg
+> wegne
+  spell 0 0 
+  sug wegen
+  sug wege
+> wegw
+  spell 0 0 
+  sug wege
+  sug weg
+> wegwe
+  spell 0 0 
+  sug wege
+  sug weg
+> wegweg
+  spell 0 0 
+  sug weg weg
+  sug wege
+  sug weg
+> wegwege
+  spell 0 0 
+  sug weg wege
+  sug wege
+> wegwegen
+  spell 0 0 
+  sug weg wegen
+  sug wege
+> wewe
+  spell 0 0 
+  sug wege
+> wewge
+  spell 0 0 
+  sug wege
+  sug weg
+> wg
+  spell 0 0 
+  sug weg
+> wge
+  spell 0 0 
+  sug weg
+> wgee
+  spell 0 0 
+  sug wege
+> wgeen
+  spell 0 0 
+  sug wegen
+> wgeg
+  spell 0 0 
+  sug weg
+> wneg
+  spell 0 0 
+  sug weg
+> wnege
+  spell 0 0 
+  sug wege
+  sug wegen
+> wng
+  spell 0 0 
+  sug weg
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> wege's
+  spell 0 0 
+  sug wege
+> wegeâ€™s
+  spell 0 0 
+  sug wege
+> 'wege'
+  spell 0 0 
+  sug wege
+> l'wege
+  spell 0 0 
+  sug wege
+> wege.
+  spell 1 0 
+  sug weg
+  sug wege
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> wege..
+  spell 1 0 
+  sug weg
+  sug wege
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> .wege
+  spell 0 0 
+  sug wege
+  sug weg
+> ...
+  spell 1 0 
+> -wege
+  spell 1 1 
+  sug wege
+  sug weg
+> wege-
+  spell 1 1 
+  sug wege
+  sug weg
+> wege--wege
+  spell 1 1 
+> wege-wege-wege
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> WEGE
+  spell 1 32 
+  sug WEG
+  sug WEGE
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> WEGE
+  spell 1 32 
+  sug WEG
+  sug WEGE
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> Wege
+  spell 1 32 
+  sug Weg
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> wege wege
+  spell 0 0 
+>  wege
+  spell 1 0 
+  sug weg
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> wege 
+  spell 0 0 
+  sug wege
+  sug weg
+> wege	wege
+  spell 0 0 
+> ÿþwege
+  spell 0 0 
+  sug wege
+> wegeÃ
+  spell 0 32 
+  sug wege
+  sug weg
+> €wege
+  spell 0 0 
+  sug wege
+  sug weg
+> ð€wege
+  spell 0 0 
+> Ä°wege
+  spell 0 32 
+  sug Wege
+> wegeÃŸ
+  spell 0 32 
+  sug wege
+> wege
+  spell 1 0 
+  sug weg
+  ana  st:wege
+  ana  st:weg fl:Q
+  stem wege
+  stem weg
+  stemmorph wege
+  stemmorph weg
+> WEGESS
+  spell 0 32 
+  sug WEGE
+> <?xml?><query type="analyze"><word>wege</word></query>
+  spell 0 0 
+  sug <code><a> st:wege</a><a> st:weg fl:Q</a></code>
+> <?xml?><query type="stem"><word>wege</word></query>
+  spell 0 0 
+  sug wege
+  sug weg
+> <?xml?><query type="suggest"><word>wegex</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>wege</word><word>wege</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>wege</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>wege</word></query>
+  spell 0 0 
+  sug <code><a> st:wege</a><a> st:weg fl:Q</a></code>
+> <?xml?><query type="add"><word>wege</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;wege&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>wege</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

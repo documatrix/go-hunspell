@@ -1,0 +1,541 @@
+# example: a
+> -cot-free
+  spell 0 0 
+  sug scot-free
+> A
+  spell 1 32 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> Alot
+  spell 0 32 
+  sug A lot
+> Alto
+  spell 1 32 
+  sug alto
+  ana  st:alto
+  stem alto
+  stemmorph alto
+> IN
+  spell 1 32 
+  sug IN
+  ana  st:in
+  stem in
+  stemmorph in
+> INSPITE
+  spell 0 32 
+  sug IN SPITE
+> In
+  spell 1 32 
+  sug in
+  ana  st:in
+  stem in
+  stemmorph in
+> Inspite
+  spell 0 32 
+  sug In spite
+> LOT
+  spell 1 32 
+  sug LOT
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> Lot
+  spell 1 32 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> SCOT
+  spell 1 32 
+  sug SCOT
+  ana  st:scot
+  stem scot
+  stemmorph scot
+> SCOT-FREE
+  spell 1 32 
+  sug SCOT-FREE
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> SCOTFREE
+  spell 0 32 
+  sug SCOT-FREE
+> SPITE
+  spell 1 32 
+  sug SPITE
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> Scot
+  spell 1 32 
+  sug scot
+  ana  st:scot
+  stem scot
+  stemmorph scot
+> Scot-free
+  spell 1 32 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> Spite
+  spell 1 32 
+  sug spite
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> a
+  spell 1 0 
+  ana  st:a
+  stem a
+  stemmorph a
+> a-alot
+  spell 0 0 
+  sug a-a lot
+> a-lot
+  spell 1 1 
+> a-spite
+  spell 1 1 
+> a.
+  spell 1 0 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> aalto
+  spell 0 0 
+  sug alto
+  sug a alto
+> aclot
+  spell 0 0 
+> ain
+  spell 0 0 
+  sug in
+  sug a in
+> ainspite
+  spell 0 0 
+> alot
+  spell 0 0 
+  sug a lot
+> alot-alot
+  spell 0 0 
+  sug a lot-alot
+> alot-alto
+  spell 0 0 
+  sug a lot-alto
+> alot-in
+  spell 0 0 
+  sug a lot-in
+> alotc
+  spell 0 0 
+> alsto
+  spell 0 0 
+  sug alto
+> alti
+  spell 0 0 
+  sug alto
+> alto
+  spell 1 0 
+  ana  st:alto
+  stem alto
+  stemmorph alto
+> alto-a
+  spell 1 1 
+> alto.
+  spell 1 0 
+  sug alto
+  ana  st:alto
+  stem alto
+  stemmorph alto
+> altofree
+  spell 0 0 
+  sug alto free
+  sug alto-free
+> altto
+  spell 0 0 
+  sug alto
+> ao
+  spell 0 0 
+  sug a
+> aoot
+  spell 0 0 
+> ap
+  spell 0 0 
+  sug a
+> csotfree
+  spell 0 0 
+> en
+  spell 0 0 
+  sug in
+> epite
+  spell 0 0 
+  sug spite
+> free
+  spell 1 0 
+  sug free
+  ana  st:free
+  stem free
+  stemmorph free
+> free-a
+  spell 1 1 
+> free-in
+  spell 1 1 
+> free-scot-free
+  spell 1 1 
+> free-spite
+  spell 1 1 
+> free.
+  spell 1 0 
+  sug free
+  ana  st:free
+  stem free
+  stemmorph free
+> fscot
+  spell 0 0 
+  sug scot
+> ian
+  spell 0 0 
+  sug in
+> in
+  spell 1 0 
+  ana  st:in
+  stem in
+  stemmorph in
+> in-a
+  spell 1 1 
+> in.
+  spell 1 0 
+  sug in
+  ana  st:in
+  stem in
+  stemmorph in
+> ina
+  spell 0 0 
+  sug in
+  sug in a
+> inscot-free
+  spell 0 0 
+  sug in scot-free
+  sug in-scot-free
+> insipte
+  spell 0 0 
+> inspier
+  spell 0 0 
+  sug inspire
+> inspire
+  spell 1 0 
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> inspire-in
+  spell 1 1 
+> inspire.
+  spell 1 0 
+  sug inspire
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> inspit
+  spell 0 0 
+> inspite
+  spell 0 0 
+  sug in spite
+> inspite-scotfree
+  spell 0 0 
+  sug in spite-scotfree
+> inspitein
+  spell 0 0 
+> insplre
+  spell 0 0 
+  sug inspire
+> insprie
+  spell 0 0 
+  sug inspire
+> int
+  spell 0 0 
+  sug in
+> io
+  spell 0 0 
+  sug in
+> it
+  spell 0 0 
+  sug in
+> laot
+  spell 0 0 
+  sug alto
+  sug lot
+> loi
+  spell 0 0 
+  sug lot
+> lon
+  spell 0 0 
+  sug lot
+> lot
+  spell 1 0 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lot.
+  spell 1 0 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> loti
+  spell 0 0 
+  sug lot
+> lotl
+  spell 0 0 
+  sug lot
+> lotn
+  spell 0 0 
+  sug lot
+> loto
+  spell 0 0 
+  sug lot
+> lto
+  spell 0 0 
+  sug lot
+  sug alto
+> n
+  spell 0 0 
+  sug in
+  sug a
+> nlot
+  spell 0 0 
+  sug lot
+> ot
+  spell 0 0 
+  sug lot
+> psite
+  spell 0 0 
+  sug spite
+> sciot
+  spell 0 0 
+  sug scot
+> scot
+  spell 1 0 
+  ana  st:scot
+  stem scot
+  stemmorph scot
+> scot-free
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> scot-freea
+  spell 0 0 
+  sug scot-free
+  sug scot-free a
+> scot-in
+  spell 1 1 
+> scot-ree
+  spell 0 0 
+  sug scot-free
+> scotfre
+  spell 0 0 
+> scotfree
+  spell 0 0 
+  sug scot-free
+> scotfree.
+  spell 0 0 
+  sug scot-free
+> scotfreeinspite
+  spell 0 0 
+> scotfreelot
+  spell 0 0 
+> scotfroee
+  spell 0 0 
+> scotfrpe
+  spell 0 0 
+> scotscot
+  spell 0 0 
+  sug scot scot
+  sug scot-scot
+> scto-free
+  spell 0 0 
+  sug scot-free
+> siot
+  spell 0 0 
+  sug scot
+> sipte
+  spell 0 0 
+  sug spite
+> site
+  spell 0 0 
+  sug spite
+> slpite
+  spell 0 0 
+  sug spite
+> soct
+  spell 0 0 
+  sug scot
+> spit
+  spell 0 0 
+  sug spite
+> spite
+  spell 1 0 
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> spite-inspire
+  spell 1 1 
+> spite.
+  spell 1 0 
+  sug spite
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> spitealot
+  spell 0 0 
+> spitef
+  spell 0 0 
+  sug spite
+> spitescotfree
+  spell 0 0 
+> ssot-free
+  spell 0 0 
+  sug scot-free
+> tin
+  spell 0 0 
+  sug in
+> tpite
+  spell 0 0 
+  sug spite
+> 1
+  spell 1 0 
+  sug a
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> lot's
+  spell 0 0 
+> lotâ€™s
+  spell 0 0 
+> 'lot'
+  spell 0 0 
+> l'lot
+  spell 0 0 
+> lot.
+  spell 1 0 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lot..
+  spell 1 0 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> .lot
+  spell 0 0 
+  sug lot
+> ...
+  spell 1 0 
+> -lot
+  spell 1 1 
+  sug lot
+> lot-
+  spell 1 1 
+  sug lot
+> lot--scot-free
+  spell 1 1 
+> lot-scot-free-lot
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> LOT
+  spell 1 32 
+  sug LOT
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> LOT
+  spell 1 32 
+  sug LOT
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> Lot
+  spell 1 32 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lot scot-free
+  spell 0 0 
+>  lot
+  spell 1 0 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lot 
+  spell 0 0 
+  sug lot
+> lot	scot-free
+  spell 0 0 
+> ÿþlot
+  spell 0 0 
+> lotÃ
+  spell 0 32 
+  sug lot
+> €lot
+  spell 0 0 
+  sug lot
+> ð€lot
+  spell 0 0 
+> Ä°lot
+  spell 0 32 
+> lotÃŸ
+  spell 0 32 
+> lot
+  spell 1 0 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> LOTSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>lot</word></query>
+  spell 0 0 
+  sug <code><a> st:lot</a></code>
+> <?xml?><query type="stem"><word>lot</word></query>
+  spell 0 0 
+  sug lot
+> <?xml?><query type="suggest"><word>lotx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>lot</word><word>scot-free</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>lot</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>lot</word></query>
+  spell 0 0 
+  sug <code><a> st:lot</a></code>
+> <?xml?><query type="add"><word>lot</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;lot&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>lot</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

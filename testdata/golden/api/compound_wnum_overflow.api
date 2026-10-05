@@ -1,0 +1,1308 @@
+# example: a
+> A
+  spell 1 32 
+  sug S
+  ana  st:a
+  stem a
+  stemmorph a
+> B
+  spell 1 32 
+  sug V
+  sug N
+  ana  st:b
+  stem b
+  stemmorph b
+> C
+  spell 1 32 
+  sug X
+  sug V
+  ana  st:c
+  stem c
+  stemmorph c
+> D
+  spell 1 32 
+  sug S
+  sug F
+  ana  st:d
+  stem d
+  stemmorph d
+> E
+  spell 1 32 
+  sug W
+  sug R
+  ana  st:e
+  stem e
+  stemmorph e
+> F
+  spell 1 32 
+  sug D
+  sug G
+  ana  st:f
+  stem f
+  stemmorph f
+> G
+  spell 1 32 
+  sug F
+  sug H
+  ana  st:g
+  stem g
+  stemmorph g
+> I
+  spell 1 32 
+  sug U
+  sug O
+  ana  st:i
+  stem i
+  stemmorph i
+> J
+  spell 1 32 
+  sug H
+  sug K
+  ana  st:j
+  stem j
+  stemmorph j
+> N
+  spell 1 32 
+  sug B
+  sug M
+  ana  st:n
+  stem n
+  stemmorph n
+> Q
+  spell 1 32 
+  sug W
+  ana  st:q
+  stem q
+  stemmorph q
+> R
+  spell 1 32 
+  sug E
+  sug T
+  ana  st:r
+  stem r
+  stemmorph r
+> S
+  spell 1 32 
+  sug A
+  sug D
+  ana  st:s
+  stem s
+  stemmorph s
+> T
+  spell 1 32 
+  sug R
+  sug Y
+  ana  st:t
+  stem t
+  stemmorph t
+> U
+  spell 1 32 
+  sug Y
+  sug I
+  ana  st:u
+  stem u
+  stemmorph u
+> V
+  spell 1 32 
+  sug C
+  sug B
+  ana  st:v
+  stem v
+  stemmorph v
+> W
+  spell 1 32 
+  sug Q
+  sug E
+  ana  st:w
+  stem w
+  stemmorph w
+> X
+  spell 1 32 
+  sug Z
+  sug C
+  ana  st:x
+  stem x
+  stemmorph x
+> Y
+  spell 1 32 
+  sug T
+  sug U
+  ana  st:y
+  stem y
+  stemmorph y
+> a
+  spell 1 0 
+  sug s
+  ana  st:a
+  stem a
+  stemmorph a
+> a.
+  spell 1 0 
+  sug s
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> b
+  spell 1 0 
+  sug v
+  sug n
+  ana  st:b
+  stem b
+  stemmorph b
+> c
+  spell 1 0 
+  sug x
+  sug v
+  ana  st:c
+  stem c
+  stemmorph c
+> c.
+  spell 1 0 
+  sug x
+  sug v
+  sug c
+  ana  st:c
+  stem c
+  stemmorph c
+> cb
+  spell 1 1 c
+  sug c
+  sug b
+  sug bc
+  sug xb
+  sug vb
+  sug cv
+  sug cn
+  ana  pa:c st:c pa:b
+  ana  pa:c st:c pa:b st:b
+  stem c
+  stem cb
+  stemmorph c
+  stemmorph cb
+> cp
+  spell 1 1 c
+  sug c
+  sug p
+  sug pc
+  sug xp
+  sug vp
+  sug co
+  ana  pa:c st:c pa:p
+  ana  pa:c st:c pa:p st:p
+  stem c
+  stem cp
+  stemmorph c
+  stemmorph cp
+> d
+  spell 1 0 
+  sug s
+  sug f
+  ana  st:d
+  stem d
+  stemmorph d
+> d-t
+  spell 1 1 
+  sug dt
+> d-u
+  spell 1 1 
+  sug du
+> d.
+  spell 1 0 
+  sug s
+  sug f
+  sug d
+  ana  st:d
+  stem d
+  stemmorph d
+> do
+  spell 1 1 d
+  sug d
+  sug o
+  sug od
+  sug so
+  sug fo
+  sug di
+  sug dp
+  ana  pa:d st:d pa:o
+  ana  pa:d st:d pa:o st:o
+  stem d
+  stem do
+  stemmorph d
+  stemmorph do
+> e
+  spell 1 0 
+  sug w
+  sug r
+  ana  st:e
+  stem e
+  stemmorph e
+> e.
+  spell 1 0 
+  sug w
+  sug r
+  sug e
+  ana  st:e
+  stem e
+  stemmorph e
+> ec
+  spell 1 1 e
+  sug e
+  sug c
+  sug ce
+  sug wc
+  sug rc
+  sug ex
+  sug ev
+  ana  pa:e st:e pa:c
+  ana  pa:e st:e pa:c st:c
+  stem e
+  stem ec
+  stemmorph e
+  stemmorph ec
+> er
+  spell 1 1 e
+  sug e
+  sug r
+  sug re
+  sug wr
+  sug rr
+  sug ee
+  sug et
+  ana  pa:e st:e pa:r
+  ana  pa:e st:e pa:r st:r
+  stem e
+  stem er
+  stemmorph e
+  stemmorph er
+> f
+  spell 1 0 
+  sug d
+  sug g
+  ana  st:f
+  stem f
+  stemmorph f
+> fa
+  spell 1 1 f
+  sug f
+  sug a
+  sug af
+  sug da
+  sug ga
+  sug fs
+  ana  pa:f st:f pa:a
+  ana  pa:f st:f pa:a st:a
+  stem f
+  stem fa
+  stemmorph f
+  stemmorph fa
+> fi
+  spell 1 1 f
+  sug f
+  sug i
+  sug if
+  sug di
+  sug gi
+  sug fu
+  sug fo
+  ana  pa:f st:f pa:i
+  ana  pa:f st:f pa:i st:i
+  stem f
+  stem fi
+  stemmorph f
+  stemmorph fi
+> g
+  spell 1 0 
+  sug f
+  sug h
+  ana  st:g
+  stem g
+  stemmorph g
+> g-k
+  spell 1 1 
+  sug gk
+> gl
+  spell 1 1 g
+  sug g
+  sug l
+  sug lg
+  sug fl
+  sug hl
+  sug gk
+  ana  pa:g st:g pa:l
+  ana  pa:g st:g pa:l st:l
+  stem g
+  stem gl
+  stemmorph g
+  stemmorph gl
+> h
+  spell 1 0 
+  sug g
+  sug j
+  ana  st:h
+  stem h
+  stemmorph h
+> h.
+  spell 1 0 
+  sug g
+  sug j
+  sug h
+  ana  st:h
+  stem h
+  stemmorph h
+> hh
+  spell 1 1 h
+  sug h
+  sug hh
+  sug gh
+  sug jh
+  sug hg
+  sug hj
+  ana  pa:h st:h pa:h
+  ana  pa:h st:h pa:h st:h
+  stem h
+  stem hh
+  stemmorph h
+  stemmorph hh
+> hi
+  spell 1 1 h
+  sug h
+  sug i
+  sug ih
+  sug gi
+  sug ji
+  sug hu
+  sug ho
+  ana  pa:h st:h pa:i
+  ana  pa:h st:h pa:i st:i
+  stem h
+  stem hi
+  stemmorph h
+  stemmorph hi
+> i
+  spell 1 0 
+  sug u
+  sug o
+  ana  st:i
+  stem i
+  stemmorph i
+> i.
+  spell 1 0 
+  sug u
+  sug o
+  sug i
+  ana  st:i
+  stem i
+  stemmorph i
+> j
+  spell 1 0 
+  sug h
+  sug k
+  ana  st:j
+  stem j
+  stemmorph j
+> j-c
+  spell 1 1 
+  sug jc
+> j.
+  spell 1 0 
+  sug h
+  sug k
+  sug j
+  ana  st:j
+  stem j
+  stemmorph j
+> jl
+  spell 1 1 j
+  sug j
+  sug l
+  sug lj
+  sug hl
+  sug kl
+  sug jk
+  ana  pa:j st:j pa:l
+  ana  pa:j st:j pa:l st:l
+  stem j
+  stem jl
+  stemmorph j
+  stemmorph jl
+> jv
+  spell 1 1 j
+  sug j
+  sug v
+  sug vj
+  sug hv
+  sug kv
+  sug jc
+  sug jb
+  ana  pa:j st:j pa:v
+  ana  pa:j st:j pa:v st:v
+  stem j
+  stem jv
+  stemmorph j
+  stemmorph jv
+> k
+  spell 1 0 
+  sug j
+  sug l
+  ana  st:k
+  stem k
+  stemmorph k
+> k.
+  spell 1 0 
+  sug j
+  sug l
+  sug k
+  ana  st:k
+  stem k
+  stemmorph k
+> kr
+  spell 1 1 k
+  sug k
+  sug r
+  sug rk
+  sug jr
+  sug lr
+  sug ke
+  sug kt
+  ana  pa:k st:k pa:r
+  ana  pa:k st:k pa:r st:r
+  stem k
+  stem kr
+  stemmorph k
+  stemmorph kr
+> l
+  spell 1 0 
+  sug k
+  ana  st:l
+  stem l
+  stemmorph l
+> l-z
+  spell 1 1 
+  sug lz
+> l.
+  spell 1 0 
+  sug k
+  sug l
+  ana  st:l
+  stem l
+  stemmorph l
+> m
+  spell 1 0 
+  sug n
+  ana  st:m
+  stem m
+  stemmorph m
+> m-a
+  spell 1 1 
+  sug ma
+> m-p
+  spell 1 1 
+  sug mp
+> m.
+  spell 1 0 
+  sug n
+  sug m
+  ana  st:m
+  stem m
+  stemmorph m
+> mn
+  spell 1 1 m
+  sug m
+  sug n
+  sug nm
+  sug nn
+  sug mb
+  sug mm
+  ana  pa:m st:m pa:n
+  ana  pa:m st:m pa:n st:n
+  stem m
+  stem mn
+  stemmorph m
+  stemmorph mn
+> mq
+  spell 1 1 m
+  sug m
+  sug q
+  sug qm
+  sug nq
+  sug mw
+  ana  pa:m st:m pa:q
+  ana  pa:m st:m pa:q st:q
+  stem m
+  stem mq
+  stemmorph m
+  stemmorph mq
+> mv
+  spell 1 1 m
+  sug m
+  sug v
+  sug vm
+  sug nv
+  sug mc
+  sug mb
+  ana  pa:m st:m pa:v
+  ana  pa:m st:m pa:v st:v
+  stem m
+  stem mv
+  stemmorph m
+  stemmorph mv
+> n
+  spell 1 0 
+  sug b
+  sug m
+  ana  st:n
+  stem n
+  stemmorph n
+> n-h
+  spell 1 1 
+  sug nh
+> n-q
+  spell 1 1 
+  sug nq
+> n-x
+  spell 1 1 
+  sug nx
+> ng
+  spell 1 1 n
+  sug n
+  sug g
+  sug gn
+  sug bg
+  sug mg
+  sug nf
+  sug nh
+  ana  pa:n st:n pa:g
+  ana  pa:n st:n pa:g st:g
+  stem n
+  stem ng
+  stemmorph n
+  stemmorph ng
+> nn
+  spell 1 1 n
+  sug n
+  sug nn
+  sug bn
+  sug mn
+  sug nb
+  sug nm
+  ana  pa:n st:n pa:n
+  ana  pa:n st:n pa:n st:n
+  stem n
+  stem nn
+  stemmorph n
+  stemmorph nn
+> nt
+  spell 1 1 n
+  sug n
+  sug t
+  sug tn
+  sug bt
+  sug mt
+  sug nr
+  sug ny
+  ana  pa:n st:n pa:t
+  ana  pa:n st:n pa:t st:t
+  stem n
+  stem nt
+  stemmorph n
+  stemmorph nt
+> o
+  spell 1 0 
+  sug i
+  sug p
+  ana  st:o
+  stem o
+  stemmorph o
+> o-p
+  spell 1 1 
+  sug op
+> o.
+  spell 1 0 
+  sug i
+  sug p
+  sug o
+  ana  st:o
+  stem o
+  stemmorph o
+> ot
+  spell 1 1 o
+  sug o
+  sug t
+  sug to
+  sug it
+  sug pt
+  sug or
+  sug oy
+  ana  pa:o st:o pa:t
+  ana  pa:o st:o pa:t st:t
+  stem o
+  stem ot
+  stemmorph o
+  stemmorph ot
+> ov
+  spell 1 1 o
+  sug o
+  sug v
+  sug vo
+  sug iv
+  sug pv
+  sug oc
+  sug ob
+  ana  pa:o st:o pa:v
+  ana  pa:o st:o pa:v st:v
+  stem o
+  stem ov
+  stemmorph o
+  stemmorph ov
+> p
+  spell 1 0 
+  sug o
+  ana  st:p
+  stem p
+  stemmorph p
+> p.
+  spell 1 0 
+  sug o
+  sug p
+  ana  st:p
+  stem p
+  stemmorph p
+> pa
+  spell 1 1 p
+  sug p
+  sug a
+  sug ap
+  sug oa
+  sug ps
+  ana  pa:p st:p pa:a
+  ana  pa:p st:p pa:a st:a
+  stem p
+  stem pa
+  stemmorph p
+  stemmorph pa
+> pb
+  spell 1 1 p
+  sug p
+  sug b
+  sug bp
+  sug ob
+  sug pv
+  sug pn
+  ana  pa:p st:p pa:b
+  ana  pa:p st:p pa:b st:b
+  stem p
+  stem pb
+  stemmorph p
+  stemmorph pb
+> pi
+  spell 1 1 p
+  sug p
+  sug i
+  sug ip
+  sug oi
+  sug pu
+  sug po
+  ana  pa:p st:p pa:i
+  ana  pa:p st:p pa:i st:i
+  stem p
+  stem pi
+  stemmorph p
+  stemmorph pi
+> pk
+  spell 1 1 p
+  sug p
+  sug k
+  sug kp
+  sug ok
+  sug pj
+  sug pl
+  ana  pa:p st:p pa:k
+  ana  pa:p st:p pa:k st:k
+  stem p
+  stem pk
+  stemmorph p
+  stemmorph pk
+> q
+  spell 1 0 
+  sug w
+  ana  st:q
+  stem q
+  stemmorph q
+> q-j
+  spell 1 1 
+  sug qj
+> q-z
+  spell 1 1 
+  sug qz
+> q.
+  spell 1 0 
+  sug w
+  sug q
+  ana  st:q
+  stem q
+  stemmorph q
+> qk
+  spell 1 1 q
+  sug q
+  sug k
+  sug kq
+  sug wk
+  sug qj
+  sug ql
+  ana  pa:q st:q pa:k
+  ana  pa:q st:q pa:k st:k
+  stem q
+  stem qk
+  stemmorph q
+  stemmorph qk
+> r
+  spell 1 0 
+  sug e
+  sug t
+  ana  st:r
+  stem r
+  stemmorph r
+> r.
+  spell 1 0 
+  sug e
+  sug t
+  sug r
+  ana  st:r
+  stem r
+  stemmorph r
+> ra
+  spell 1 1 r
+  sug r
+  sug a
+  sug ar
+  sug ea
+  sug ta
+  sug rs
+  ana  pa:r st:r pa:a
+  ana  pa:r st:r pa:a st:a
+  stem r
+  stem ra
+  stemmorph r
+  stemmorph ra
+> rk
+  spell 1 1 r
+  sug r
+  sug k
+  sug kr
+  sug ek
+  sug tk
+  sug rj
+  sug rl
+  ana  pa:r st:r pa:k
+  ana  pa:r st:r pa:k st:k
+  stem r
+  stem rk
+  stemmorph r
+  stemmorph rk
+> s
+  spell 1 0 
+  sug a
+  sug d
+  ana  st:s
+  stem s
+  stemmorph s
+> su
+  spell 1 1 s
+  sug s
+  sug u
+  sug us
+  sug au
+  sug du
+  sug sy
+  sug si
+  ana  pa:s st:s pa:u
+  ana  pa:s st:s pa:u st:u
+  stem s
+  stem su
+  stemmorph s
+  stemmorph su
+> t
+  spell 1 0 
+  sug r
+  sug y
+  ana  st:t
+  stem t
+  stemmorph t
+> t-z
+  spell 1 1 
+  sug tz
+> u
+  spell 1 0 
+  sug y
+  sug i
+  ana  st:u
+  stem u
+  stemmorph u
+> u-x
+  spell 1 1 
+  sug ux
+> uu
+  spell 1 1 u
+  sug u
+  sug uu
+  sug yu
+  sug iu
+  sug uy
+  sug ui
+  ana  pa:u st:u pa:u
+  ana  pa:u st:u pa:u st:u
+  stem u
+  stem uu
+  stemmorph u
+  stemmorph uu
+> v
+  spell 1 0 
+  sug c
+  sug b
+  ana  st:v
+  stem v
+  stemmorph v
+> v-h
+  spell 1 1 
+  sug vh
+> v-j
+  spell 1 1 
+  sug vj
+> v.
+  spell 1 0 
+  sug c
+  sug b
+  sug v
+  ana  st:v
+  stem v
+  stemmorph v
+> vb
+  spell 1 1 v
+  sug v
+  sug b
+  sug bv
+  sug cb
+  sug bb
+  sug vv
+  sug vn
+  ana  pa:v st:v pa:b
+  ana  pa:v st:v pa:b st:b
+  stem v
+  stem vb
+  stemmorph v
+  stemmorph vb
+> w
+  spell 1 0 
+  sug q
+  sug e
+  ana  st:w
+  stem w
+  stemmorph w
+> w-m
+  spell 1 1 
+  sug wm
+> wc
+  spell 1 1 w
+  sug w
+  sug c
+  sug cw
+  sug qc
+  sug ec
+  sug wx
+  sug wv
+  ana  pa:w st:w pa:c
+  ana  pa:w st:w pa:c st:c
+  stem w
+  stem wc
+  stemmorph w
+  stemmorph wc
+> wk
+  spell 1 1 w
+  sug w
+  sug k
+  sug kw
+  sug qk
+  sug ek
+  sug wj
+  sug wl
+  ana  pa:w st:w pa:k
+  ana  pa:w st:w pa:k st:k
+  stem w
+  stem wk
+  stemmorph w
+  stemmorph wk
+> wu
+  spell 1 1 w
+  sug w
+  sug u
+  sug uw
+  sug qu
+  sug eu
+  sug wy
+  sug wi
+  ana  pa:w st:w pa:u
+  ana  pa:w st:w pa:u st:u
+  stem w
+  stem wu
+  stemmorph w
+  stemmorph wu
+> x
+  spell 1 0 
+  sug z
+  sug c
+  ana  st:x
+  stem x
+  stemmorph x
+> x-g
+  spell 1 1 
+  sug xg
+> x-t
+  spell 1 1 
+  sug xt
+> x.
+  spell 1 0 
+  sug z
+  sug c
+  sug x
+  ana  st:x
+  stem x
+  stemmorph x
+> xc
+  spell 1 1 x
+  sug x
+  sug c
+  sug cx
+  sug zc
+  sug cc
+  sug xx
+  sug xv
+  ana  pa:x st:x pa:c
+  ana  pa:x st:x pa:c st:c
+  stem x
+  stem xc
+  stemmorph x
+  stemmorph xc
+> xf
+  spell 1 1 x
+  sug x
+  sug f
+  sug fx
+  sug zf
+  sug cf
+  sug xd
+  sug xg
+  ana  pa:x st:x pa:f
+  ana  pa:x st:x pa:f st:f
+  stem x
+  stem xf
+  stemmorph x
+  stemmorph xf
+> xj
+  spell 1 1 x
+  sug x
+  sug j
+  sug jx
+  sug zj
+  sug cj
+  sug xh
+  sug xk
+  ana  pa:x st:x pa:j
+  ana  pa:x st:x pa:j st:j
+  stem x
+  stem xj
+  stemmorph x
+  stemmorph xj
+> xl
+  spell 1 1 x
+  sug x
+  sug l
+  sug lx
+  sug zl
+  sug cl
+  sug xk
+  ana  pa:x st:x pa:l
+  ana  pa:x st:x pa:l st:l
+  stem x
+  stem xl
+  stemmorph x
+  stemmorph xl
+> xw
+  spell 1 1 x
+  sug x
+  sug w
+  sug wx
+  sug zw
+  sug cw
+  sug xq
+  sug xe
+  ana  pa:x st:x pa:w
+  ana  pa:x st:x pa:w st:w
+  stem x
+  stem xw
+  stemmorph x
+  stemmorph xw
+> xy
+  spell 1 1 x
+  sug x
+  sug y
+  sug yx
+  sug zy
+  sug cy
+  sug xt
+  sug xu
+  ana  pa:x st:x pa:y
+  ana  pa:x st:x pa:y st:y
+  stem x
+  stem xy
+  stemmorph x
+  stemmorph xy
+> y
+  spell 1 0 
+  sug t
+  sug u
+  ana  st:y
+  stem y
+  stemmorph y
+> y.
+  spell 1 0 
+  sug t
+  sug u
+  sug y
+  ana  st:y
+  stem y
+  stemmorph y
+> yc
+  spell 1 1 y
+  sug y
+  sug c
+  sug cy
+  sug tc
+  sug uc
+  sug yx
+  sug yv
+  ana  pa:y st:y pa:c
+  ana  pa:y st:y pa:c st:c
+  stem y
+  stem yc
+  stemmorph y
+  stemmorph yc
+> yt
+  spell 1 1 y
+  sug y
+  sug t
+  sug ty
+  sug tt
+  sug ut
+  sug yr
+  sug yy
+  ana  pa:y st:y pa:t
+  ana  pa:y st:y pa:t st:t
+  stem y
+  stem yt
+  stemmorph y
+  stemmorph yt
+> z
+  spell 1 0 
+  sug x
+  ana  st:z
+  stem z
+  stemmorph z
+> z-j
+  spell 1 1 
+  sug zj
+> z.
+  spell 1 0 
+  sug x
+  sug z
+  ana  st:z
+  stem z
+  stemmorph z
+> zw
+  spell 1 1 z
+  sug z
+  sug w
+  sug wz
+  sug xw
+  sug zq
+  sug ze
+  ana  pa:z st:z pa:w
+  ana  pa:z st:z pa:w st:w
+  stem z
+  stem zw
+  stemmorph z
+  stemmorph zw
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+  ana 12
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+  ana 1.
+> 12-th
+  spell 1 1 
+> 3rd
+  spell 0 0 
+  sug rd
+> 1st.
+  spell 0 0 
+  sug st
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> c's
+  spell 0 0 
+  sug cs
+> câ€™s
+  spell 0 0 
+  sug cs
+> 'c'
+  spell 0 0 
+> l'c
+  spell 0 0 
+  sug lc
+> c.
+  spell 1 0 
+  sug x
+  sug v
+  sug c
+  ana  st:c
+  stem c
+  stemmorph c
+> c..
+  spell 1 0 
+  sug x
+  sug v
+  sug c
+  ana  st:c
+  stem c
+  stemmorph c
+> .c
+  spell 0 0 
+  sug c
+> ...
+  spell 1 0 
+> -c
+  spell 1 1 
+  sug c
+> c-
+  spell 1 1 
+  sug c
+  ana  st:c
+  stem c
+  stemmorph c
+> c--m
+  spell 1 1 
+> c-m-c
+  spell 1 1 
+> C
+  spell 1 32 
+  sug X
+  sug V
+  ana  st:c
+  stem c
+  stemmorph c
+> C
+  spell 1 32 
+  sug X
+  sug V
+  ana  st:c
+  stem c
+  stemmorph c
+> C
+  spell 1 32 
+  sug X
+  sug V
+  ana  st:c
+  stem c
+  stemmorph c
+> c m
+  spell 0 0 
+  sug cm
+>  c
+  spell 1 0 
+  sug x
+  sug v
+  ana  st:c
+  stem c
+  stemmorph c
+> c 
+  spell 0 0 
+  sug c
+> c	m
+  spell 0 0 
+  sug cm
+> ÿþc
+  spell 0 0 
+> cÃ
+  spell 0 0 
+  sug c
+> €c
+  spell 0 0 
+  sug c
+> ð€c
+  spell 0 0 
+> Ä°c
+  spell 0 32 
+  sug C
+  sug I
+  sug Ci
+  sug Uc
+  sug Oc
+  sug Ix
+  sug Iv
+  ana  pa:i st:i pa:c
+  ana  pa:i st:i pa:c st:c
+  stem i
+  stem ic
+  stemmorph i
+  stemmorph ic
+> cÃŸ
+  spell 0 0 
+  sug c
+> c
+  spell 1 0 
+  sug x
+  sug v
+  ana  st:c
+  stem c
+  stemmorph c
+> CSS
+  spell 1 33 c
+  sug CS
+  sug SS
+  ana  pa:c st:c pa:s st:s pa:s
+  ana  pa:c st:c pa:s st:s pa:s st:s
+  stem cs
+  stem css
+  stemmorph cs
+  stemmorph css
+> <?xml?><query type="analyze"><word>c</word></query>
+  spell 0 0 
+  sug <code><a> st:c</a></code>
+> <?xml?><query type="stem"><word>c</word></query>
+  spell 0 0 
+  sug c
+> <?xml?><query type="suggest"><word>cx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>c</word><word>m</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>c</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>c</word></query>
+  spell 0 0 
+  sug <code><a> st:c</a></code>
+> <?xml?><query type="add"><word>c</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;c&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>c</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

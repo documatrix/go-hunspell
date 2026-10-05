@@ -1,0 +1,28 @@
+# example: a
+> x
+  spell 1 0 
+> x.
+  spell 1 0 
+> xx-x
+  spell 0 0 
+> X
+  spell 0 32 
+> a-x
+  spell 1 1 
+  sug a
+> x-a
+  spell 1 1 
+  sug a
+> xa
+  spell 1 0 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> X.
+  spell 0 32 
+> Xa
+  spell 1 32 
+  sug A
+> b-x
+  spell 0 0 

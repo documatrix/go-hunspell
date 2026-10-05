@@ -1,0 +1,359 @@
+# example: ijs
+> IIjs
+  spell 0 32 
+  sug ijs
+> IJ
+  spell 0 32 
+  sug ijs
+> IJI
+  spell 0 32 
+  sug ijs
+> IJS
+  spell 0 34 
+  sug ijs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> IJjs
+  spell 0 32 
+  sug IJs
+  sug ijs
+> IJs
+  spell 1 32 ijs
+  sug ijs
+  sug IJs
+  ana IJ st:ijs fl:i
+  stem ijs
+  stemmorph ijs
+> IJs-IJs
+  spell 1 33 
+  sug ijs-ijs
+  sug ijs
+> IJs-Ijs
+  spell 0 32 
+  sug ijs-ijs
+  sug ijs
+> IJs.
+  spell 1 32 ijs
+  sug ijs
+  sug IJs
+  ana IJ st:ijs fl:i
+  stem ijs
+  stemmorph ijs
+> IJsIJs
+  spell 0 32 
+  sug IJs IJs
+  sug ijs
+> IJsIjs
+  spell 0 32 
+  sug ijs
+> IJsijs
+  spell 0 32 
+  sug IJs ijs
+  sug ijs
+> IJsj
+  spell 0 32 
+  sug IJs
+  sug ijs
+> IJss
+  spell 0 32 
+  sug IJs
+  sug ijs
+> Ijs
+  spell 0 34 
+  sug IJs
+  sug ijs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> Ijs-IJs
+  spell 0 32 
+  sug ijs-ijs
+  sug ijs
+> Ijs-Ijs
+  spell 0 32 
+  sug ijs-ijs
+  sug ijs
+> Ijs-ijs
+  spell 0 32 
+  sug IJs-ijs
+  sug ijs-ijs
+  sug ijs
+> Ijs.
+  spell 0 34 
+  sug IJs
+  sug ijs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> IjsI
+  spell 0 32 
+  sug ijs
+> Ijsijs
+  spell 0 32 
+  sug ijs
+> Ijss
+  spell 0 32 
+  sug ijs
+> Is
+  spell 0 32 
+  sug ijs
+> IsJ
+  spell 0 32 
+  sug IJs
+  sug ijs
+> JIs
+  spell 0 32 
+  sug IJs
+  sug ijs
+> Jjs
+  spell 0 32 
+  sug ijs
+> Js
+  spell 0 32 
+  sug ijs
+> iJs
+  spell 0 32 
+  sug ijs
+  sug IJs
+> iijs
+  spell 0 0 
+  sug ijs
+> iis
+  spell 0 0 
+  sug ijs
+> ijJ
+  spell 0 32 
+  sug ijs
+> iji
+  spell 0 0 
+  sug ijs
+> ijjs
+  spell 0 0 
+  sug ijs
+> ijs
+  spell 1 0 
+  sug IJs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> ijs-IJs
+  spell 1 33 
+  sug ijs-ijs
+  sug ijs
+> ijs-Ijs
+  spell 0 32 
+  sug ijs-ijs
+  sug ijs
+> ijs-ijs
+  spell 1 1 
+  sug ijs
+> ijs.
+  spell 1 0 
+  sug IJs
+  sug ijs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> ijsI
+  spell 0 32 
+  sug ijs
+> ijsIJs
+  spell 0 32 
+  sug ijs IJs
+  sug ijs
+> ijsIjs
+  spell 0 32 
+  sug ijs
+> ijsijs
+  spell 0 0 
+  sug ijs ijs
+  sug ijs
+> ijsj
+  spell 0 0 
+  sug ijs
+> is
+  spell 0 0 
+  sug ijs
+> isj
+  spell 0 0 
+  sug ijs
+> isjs
+  spell 0 0 
+  sug ijs
+> jIjs
+  spell 0 32 
+  sug ijs
+> jIs
+  spell 0 32 
+  sug ijs
+> jis
+  spell 0 0 
+  sug ijs
+> jjs
+  spell 0 0 
+  sug ijs
+> js
+  spell 0 0 
+  sug ijs
+> sjs
+  spell 0 0 
+  sug ijs
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> IJs's
+  spell 0 32 
+  sug ijs
+> IJsâ€™s
+  spell 0 32 
+> 'IJs'
+  spell 0 32 
+  sug ijs
+> l'IJs
+  spell 0 32 
+  sug ijs
+> IJs.
+  spell 1 32 ijs
+  sug ijs
+  sug IJs
+  ana IJ st:ijs fl:i
+  stem ijs
+  stemmorph ijs
+> IJs..
+  spell 1 32 ijs
+  sug ijs
+  sug IJs
+  ana IJ st:ijs fl:i
+  stem ijs
+  stemmorph ijs
+> .IJs
+  spell 0 32 
+  sug IJs
+  sug ijs
+> ...
+  spell 1 0 
+> -IJs
+  spell 1 33 
+  sug -ijs
+  sug IJs
+  sug ijs
+> IJs-
+  spell 1 33 
+  sug ijs-
+  sug IJs
+  sug ijs
+> IJs--ijs
+  spell 1 33 
+  sug ijs--ijs
+> IJs-ijs-IJs
+  spell 1 33 
+  sug ijs-ijs-ijs
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> IJS
+  spell 0 34 
+  sug ijs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> ijS
+  spell 0 32 
+  sug ijs
+  sug IJs
+> Ijs
+  spell 0 34 
+  sug IJs
+  sug ijs
+  ana  st:ijs
+  stem ijs
+  stemmorph ijs
+> IJs ijs
+  spell 0 32 
+  sug IJs IJs
+  sug IJs ijs
+>  IJs
+  spell 1 32 ijs
+  sug ijs
+  sug IJs
+  ana IJ st:ijs fl:i
+  stem ijs
+  stemmorph ijs
+> IJs 
+  spell 0 32 
+  sug IJs
+  sug ijs
+> IJs	ijs
+  spell 0 32 
+  sug ijs
+> ÿþIJs
+  spell 0 32 
+  sug ijs
+> IJsÃ
+  spell 0 32 
+  sug IJs
+  sug ijs
+> €IJs
+  spell 0 32 
+  sug IJs
+  sug ijs
+> ð€IJs
+  spell 0 32 
+> Ä°IJs
+  spell 0 32 
+  sug ijs
+> IJsÃŸ
+  spell 0 32 
+  sug ijs
+> IJs
+  spell 1 32 ijs
+  sug ijs
+  sug IJs
+  ana IJ st:ijs fl:i
+  stem ijs
+  stemmorph ijs
+> IJSSS
+  spell 0 32 
+  sug ijs
+> <?xml?><query type="analyze"><word>IJs</word></query>
+  spell 0 32 
+  sug <code><a>IJ st:ijs fl:i</a></code>
+> <?xml?><query type="stem"><word>IJs</word></query>
+  spell 0 32 
+  sug ijs
+> <?xml?><query type="suggest"><word>IJsx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>IJs</word><word>ijs</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>IJs</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>IJs</word></query>
+  spell 0 32 
+  sug <code><a>IJ st:ijs fl:i</a></code>
+> <?xml?><query type="add"><word>IJs</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;IJs&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>IJs</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

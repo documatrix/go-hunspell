@@ -1,0 +1,4 @@
+exit 0
+stdout 90
+Mail me at someone@example.com or visit http://www.example.org/pathh/to/pagee.html today.
+stderr 0

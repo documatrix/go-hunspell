@@ -1,0 +1,10 @@
+# COMPLEXPREFIXES in UTF-8 with morphological aliases
+SET UTF-8
+COMPLEXPREFIXES
+AM 2
+AM po:noun
+AM po:verb ip:é
+PFX P Y 1
+PFX P 0 é . 2
+PFX Q Y 1
+PFX Q 0 ő . ip:ő

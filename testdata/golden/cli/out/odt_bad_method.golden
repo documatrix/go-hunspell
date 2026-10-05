@@ -1,0 +1,4 @@
+exit 0
+stdout 39
+in/words.txt: wrold
+in/words.txt: tset

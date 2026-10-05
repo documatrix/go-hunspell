@@ -1,0 +1,994 @@
+# example: created
+> ASA
+  spell 0 32 
+  sug NASA
+> Aeech
+  spell 0 32 
+  sug Speech
+> CAN'T
+  spell 1 32 
+  sug CAN'T
+  ana  st:can't
+  stem can't
+  stemmorph can't
+> CREATED
+  spell 1 32 
+  sug CREATES
+  sug CREATE
+  sug CREATED
+  ana  st:created
+  ana  st:create fl:D
+  stem created
+  stem create
+  stemmorph created
+  stemmorph create
+> Craeted
+  spell 0 32 
+  sug Created
+  sug Create
+> CreatLed
+  spell 0 32 
+  sug Created
+  sug Create
+> Created
+  spell 1 32 
+  sug created
+  sug Creates
+  sug Create
+  ana  st:created
+  ana  st:create fl:D
+  stem created
+  stem create
+  stemmorph created
+  stemmorph create
+> Created.
+  spell 1 32 
+  sug Created
+  sug Creates
+  sug Create
+  ana  st:created
+  ana  st:create fl:D
+  stem created
+  stem create
+  stemmorph created
+  stemmorph create
+> Createdlook
+  spell 0 32 
+  sug Created look
+  sug Created-look
+  sug Created
+> DAY
+  spell 1 32 
+  sug DAY
+  ana  st:day
+  stem day
+  stemmorph day
+> DOESN'T
+  spell 1 32 
+  sug DOESN'T
+  ana  st:doesn't
+  stem doesn't
+  stemmorph doesn't
+> Day
+  spell 1 32 
+  sug day
+  ana  st:day
+  stem day
+  stemmorph day
+> FAQ
+  spell 1 32 
+  sug FAQ
+  ana  st:FAQ
+  ana  st:Faq
+  stem FAQ
+  stem Faq
+  stemmorph FAQ
+  stemmorph Faq
+  sfx FAQs
+  sfx FAQ's
+> FAQ.
+  spell 1 32 
+  sug FAQ
+  ana  st:FAQ
+  ana  st:Faq
+  stem FAQ
+  stem Faq
+  stemmorph FAQ
+  stemmorph Faq
+> FAQs
+  spell 1 32 FAQ
+  sug FAQ
+  sug FAQ's
+  sug FAQs
+  ana  st:FAQ fl:S
+  stem FAQ
+  stemmorph FAQ
+> FAsQ
+  spell 0 32 
+  sug FAQs
+  sug FAQ
+> HELLO
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> HELLO.
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> HELLOunnatural
+  spell 0 32 
+  sug Hello unnatural
+  sug Hello-unnatural
+> HLELO
+  spell 0 32 
+  sug HELLO
+> HORRIFYING
+  spell 1 32 
+  sug HORRIFYING
+  ana  st:horrifying
+  stem horrifying
+  stemmorph horrifying
+> HUNSPELL.
+  spell 1 32 
+  sug HUNSPELL
+  ana  st:Hunspell
+  stem Hunspell
+  stemmorph Hunspell
+> HUNSPELL...
+  spell 1 32 
+  sug HUNSPELL
+  ana  st:Hunspell
+  stem Hunspell
+  stemmorph Hunspell
+> Hello
+  spell 1 32 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> Hext
+  spell 0 32 
+  sug Text
+> Hrnspell.
+  spell 0 32 
+  sug Hunspell
+> Hunspell
+  spell 1 32 
+  sug Hunspell
+  ana  st:Hunspell
+  stem Hunspell
+  stemmorph Hunspell
+> Hunspell.
+  spell 1 32 
+  sug Hunspell
+  ana  st:Hunspell
+  stem Hunspell
+  stemmorph Hunspell
+> Hunvspell.
+  spell 0 32 
+  sug Hunspell
+> Hurnspell
+  spell 0 32 
+  sug Hunspell
+> Imply
+  spell 1 32 
+  sug imply
+  ana  st:imply
+  stem imply
+  stemmorph imply
+> LOOKED
+  spell 1 32 look
+  sug LOOKED
+  sug LOOKER
+  ana  st:look fl:D
+  stem look
+  stemmorph look
+> LOOOKED
+  spell 0 32 
+  sug LOOKED
+> Like
+  spell 1 32 
+  sug like
+  sug Likes
+  ana  st:like
+  stem like
+  stemmorph like
+> Look
+  spell 1 32 
+  sug look
+  sug Looks
+  ana  st:look
+  stem look
+  stemmorph look
+> NASA
+  spell 1 32 
+  sug NASA
+  ana  st:NASA
+  stem NASA
+  stemmorph NASA
+> NASA.
+  spell 1 32 
+  sug NASA
+  ana  st:NASA
+  stem NASA
+  stemmorph NASA
+> NASAhorrifying
+  spell 0 32 
+  sug NASA horrifying
+  sug NASA-horrifying
+  sug Horrifying
+> NASAx
+  spell 0 32 
+  sug NASA
+> NATURAL
+  spell 1 32 
+  sug NATURAL
+  ana  st:natural
+  stem natural
+  stemmorph natural
+> Nasa
+  spell 0 32 
+  sug NASA
+> Qmply
+  spell 0 32 
+  sug Imply
+> ROTTEN
+  spell 1 32 
+  sug ROTTEN
+  ana  st:rotten
+  stem rotten
+  stemmorph rotten
+> ROTTEN-DAY
+  spell 1 33 
+  sug ROTTEN
+> ROTTENDAY
+  spell 0 32 
+  sug ROTTEN DAY
+  sug ROTTEN-DAY
+  sug ROTTEN
+> Rotten
+  spell 1 32 
+  sug rotten
+  ana  st:rotten
+  stem rotten
+  stemmorph rotten
+> SAWYER
+  spell 1 32 
+  sug SAWYER
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> SEID
+  spell 0 32 
+  sug SAID
+> Seven
+  spell 1 32 
+  sug seven
+  ana  st:seven
+  stem seven
+  stemmorph seven
+> TEXT.
+  spell 1 32 
+  sug TEXT
+  ana  st:text
+  stem text
+  stemmorph text
+> TEXT.-etc
+  spell 1 33 
+  sug Text.-etc
+> Text.
+  spell 1 32 
+  sug Text
+  ana  st:text
+  stem text
+  stemmorph text
+> Uncreate
+  spell 1 32 
+  sug uncreate
+  sug Uncreated
+  ana  st:uncreate
+  stem uncreate
+  stemmorph uncreate
+> WON'T
+  spell 1 32 
+  sug WON'T
+  ana  st:won't
+  stem won't
+  stemmorph won't
+> Won't
+  spell 1 32 
+  sug won't
+  ana  st:won't
+  stem won't
+  stemmorph won't
+> aeven
+  spell 0 0 
+  sug seven
+> can't
+  spell 1 0 
+  sug can't
+  ana  st:can't
+  stem can't
+  stemmorph can't
+> can't.
+  spell 1 0 
+  sug can't
+  ana  st:can't
+  stem can't
+  stemmorph can't
+> cna't
+  spell 0 0 
+  sug can't
+> convex
+  spell 0 0 
+  sug convey
+> convey
+  spell 1 0 
+  sug conveys
+  sug convey
+  ana  st:convey
+  stem convey
+  stemmorph convey
+  sfx conveyed
+  sfx conveyable
+  sfx conveying
+  sfx conveys
+> convey-imply
+  spell 1 1 
+> convey.
+  spell 1 0 
+  sug conveys
+  sug convey
+  ana  st:convey
+  stem convey
+  stemmorph convey
+> conveyed
+  spell 1 0 convey
+  sug conveyed
+  ana  st:convey fl:D
+  stem convey
+  stemmorph convey
+> create
+  spell 1 0 
+  sug creates
+  sug created
+  sug create
+  ana  st:create
+  stem create
+  stemmorph create
+  sfx created
+  sfx creates
+> createQd
+  spell 0 32 
+  sug created
+  sug create
+> created
+  spell 1 0 
+  sug creates
+  sug create
+  ana  st:created
+  ana  st:create fl:D
+  stem created
+  stem create
+  stemmorph created
+  stemmorph create
+> createdcreated
+  spell 0 0 
+  sug created created
+  sug created-created
+> day
+  spell 1 0 
+  sug day
+  ana  st:day
+  stem day
+  stemmorph day
+> day-text
+  spell 1 1 
+> desn't
+  spell 0 0 
+  sug doesn't
+> dlay
+  spell 0 0 
+  sug day
+> does.n't
+  spell 0 0 
+  sug doesn't
+> doesn't
+  spell 1 0 
+  sug doesn't
+  ana  st:doesn't
+  stem doesn't
+  stemmorph doesn't
+> dya
+  spell 0 0 
+  sug day
+> eftc
+  spell 0 0 
+  sug etc
+> etc
+  spell 1 0 
+  sug etc
+  ana  st:etc
+  stem etc
+  stemmorph etc
+> etc.
+  spell 1 0 
+  sug etc
+  ana  st:etc
+  stem etc
+  stemmorph etc
+> etc..
+  spell 1 0 
+  sug etc
+  ana  st:etc
+  stem etc
+  stemmorph etc
+> heUlo
+  spell 0 32 
+  sug hello
+> hello
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello.
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hlelo
+  spell 0 0 
+  sug hello
+> hlelo.
+  spell 0 0 
+  sug hello
+> horTorfying
+  spell 0 32 
+  sug horrifying
+> horifying
+  spell 0 0 
+  sug horrifying
+> horrifying
+  spell 1 0 
+  sug horrifying
+  ana  st:horrifying
+  stem horrifying
+  stemmorph horrifying
+> horrorfying
+  spell 0 0 
+  sug horrifying
+> impEly
+  spell 0 32 
+  sug imply
+> impldy
+  spell 0 0 
+  sug imply
+> implhed
+  spell 0 0 
+  sug implied
+  sug imply
+> implied
+  spell 1 0 imply
+  sug implies
+  sug implied
+  ana  st:imply fl:D
+  stem imply
+  stemmorph imply
+> implied-created
+  spell 1 1 
+> imply
+  spell 1 0 
+  sug imply
+  ana  st:imply
+  stem imply
+  stemmorph imply
+  sfx implying
+> like
+  spell 1 0 
+  sug likes
+  sug like
+  ana  st:like
+  stem like
+  stemmorph like
+  sfx likes
+  sfx likeness
+  sfx likely
+> lip
+  spell 1 0 
+  sug lip
+  ana  st:lip
+  stem lip
+  stemmorph lip
+> lip.
+  spell 1 0 
+  sug lip
+  ana  st:lip
+  stem lip
+  stemmorph lip
+> lip.-NASA
+  spell 1 33 
+> liue
+  spell 0 0 
+  sug like
+> look
+  spell 1 0 
+  sug look
+  sug looks
+  ana  st:look
+  stem look
+  stemmorph look
+  sfx looked
+  sfx looking
+  sfx looker
+  sfx looks
+  sfx lookers
+> look.
+  spell 1 0 
+  sug look
+  sug looks
+  ana  st:look
+  stem look
+  stemmorph look
+> lookHello
+  spell 0 32 
+  sug look Hello
+  sug look-hello
+  sug hello
+> looked
+  spell 1 0 look
+  sug looked
+  sug looker
+  ana  st:look fl:D
+  stem look
+  stemmorph look
+> looked-uncreate
+  spell 1 1 
+> looketc.
+  spell 0 0 
+  sug look etc
+  sug look-etc
+  sug look
+> loooked
+  spell 0 0 
+  sug looked
+  sug look
+> naturael
+  spell 0 0 
+  sug natural
+> natural
+  spell 1 0 
+  sug natural
+  ana  st:natural
+  stem natural
+  stemmorph natural
+  sfx naturalness
+  sfx naturally
+> natural.
+  spell 1 0 
+  sug natural
+  ana  st:natural
+  stem natural
+  stemmorph natural
+> own't
+  spell 0 0 
+  sug won't
+> peech
+  spell 0 0 
+  sug speech
+> peecth
+  spell 0 0 
+  sug speech
+> ptomorrow
+  spell 0 0 
+  sug tomorrow
+> rotteX
+  spell 0 32 
+  sug rotten
+> rotten
+  spell 1 0 
+  sug rotten
+  ana  st:rotten
+  stem rotten
+  stemmorph rotten
+> rotten-day
+  spell 1 1 
+  sug rotten
+> rotten-rotten
+  spell 1 1 
+> rotten-seven
+  spell 1 1 
+> rotten.
+  spell 1 0 
+  sug rotten
+  ana  st:rotten
+  stem rotten
+  stemmorph rotten
+> rottenday
+  spell 0 0 
+  sug rotten day
+  sug rotten-day
+  sug rotten
+> rottenimply
+  spell 0 0 
+  sug rotten imply
+  sug rotten-imply
+> rtoten
+  spell 0 0 
+  sug rotten
+> sadi
+  spell 0 0 
+  sug said
+> said
+  spell 1 0 
+  sug said
+  ana  st:said
+  stem said
+  stemmorph said
+> said-seven
+  spell 1 1 
+> said.
+  spell 1 0 
+  sug said
+  ana  st:said
+  stem said
+  stemmorph said
+> sawyer
+  spell 1 0 
+  sug sawyer
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> sawyercreated
+  spell 0 0 
+  sug sawyer created
+  sug sawyer-created
+> seeeven
+  spell 0 0 
+  sug seven
+> seeevenhorrifying
+  spell 0 0 
+> seid
+  spell 0 0 
+  sug said
+> seidNasa
+  spell 0 32 
+> seven
+  spell 1 0 
+  sug seven
+  ana  st:seven
+  stem seven
+  stemmorph seven
+> seven.
+  spell 1 0 
+  sug seven
+  ana  st:seven
+  stem seven
+  stemmorph seven
+> sevenNASA
+  spell 0 32 
+  sug seven NASA
+  sug seven-NASA
+  sug seven
+> sevenseeeven
+  spell 0 0 
+> seventext.
+  spell 0 0 
+  sug seven text
+  sug seven-text
+  sug seven
+> sgugest
+  spell 0 0 
+  sug suggest
+> speech
+  spell 1 0 
+  sug speech
+  ana  st:speech
+  stem speech
+  stemmorph speech
+> speechHello
+  spell 0 32 
+  sug speech Hello
+  sug speech-hello
+> speechw
+  spell 0 0 
+  sug speech
+> stggest
+  spell 0 0 
+  sug suggest
+> sugesst
+  spell 0 0 
+  sug suggest
+> sugesst-won't
+  spell 0 0 
+  sug suggest-won't
+> sugest
+  spell 0 0 
+  sug suggest
+> suggest
+  spell 1 0 
+  sug suggest
+  ana  st:suggest
+  stem suggest
+  stemmorph suggest
+> suggest-looked
+  spell 1 1 
+> suggest-natural
+  spell 1 1 
+> suggest-seeeven
+  spell 0 0 
+  sug suggest-seven
+> suggestHello
+  spell 0 32 
+  sug suggest Hello
+  sug suggest-hello
+> tec.
+  spell 0 0 
+  sug etc
+> tex
+  spell 0 0 
+  sug text
+> text
+  spell 1 0 
+  sug text
+  ana  st:text
+  stem text
+  stemmorph text
+> text.
+  spell 1 0 
+  sug text
+  ana  st:text
+  stem text
+  stemmorph text
+> textP
+  spell 0 32 
+  sug text
+> textT
+  spell 0 32 
+  sug text
+> texxt
+  spell 0 0 
+  sug text
+> texxt-Hunspell
+  spell 0 32 
+  sug text-Hunspell
+> tomorow
+  spell 0 0 
+  sug tomorrow
+> tomorow-speech
+  spell 0 0 
+  sug tomorrow-speech
+> tomorrow
+  spell 1 0 
+  sug tomorrow
+  ana  st:tomorrow
+  stem tomorrow
+  stemmorph tomorrow
+> tomporrow
+  spell 0 0 
+  sug tomorrow
+> txxt
+  spell 0 0 
+  sug text
+> unceate
+  spell 0 0 
+  sug uncreate
+  sug create
+> uncerate
+  spell 0 0 
+  sug uncreate
+> uncre'ate
+  spell 0 0 
+  sug uncreate
+  sug created
+> uncreaUed
+  spell 0 32 
+  sug uncreated
+  sug uncreate
+> uncreate
+  spell 1 0 
+  sug uncreated
+  sug uncreate
+  ana  st:uncreate
+  stem uncreate
+  stemmorph uncreate
+> uncreate-sawyer
+  spell 1 1 
+> uncreated
+  spell 1 0 created
+  sug uncreate
+  ana un st:created fl:U
+  stem created
+  stemmorph created
+> uncreated-created
+  spell 1 1 
+> uncreated-uncreate
+  spell 1 1 
+> unhreated
+  spell 0 0 
+  sug uncreated
+  sug uncreate
+> unnatural
+  spell 1 0 natural
+  sug unnatural
+  ana un st:natural fl:U
+  stem natural
+  stemmorph natural
+> unnatural.
+  spell 1 0 natural
+  sug unnatural
+  ana un st:natural fl:U
+  stem natural
+  stemmorph natural
+> unnaturaluncreate
+  spell 0 0 
+  sug unnatural uncreate
+  sug unnatural-uncreate
+> vtext
+  spell 0 0 
+  sug text
+> won't
+  spell 1 0 
+  sug won't
+  ana  st:won't
+  stem won't
+  stemmorph won't
+> won'trotten
+  spell 0 0 
+  sug won't rotten
+  sug won't-rotten
+> woon't
+  spell 0 0 
+  sug won't
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-text
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> sawyer's
+  spell 0 0 
+  sug sawyer
+> sawyerâ€™s
+  spell 0 0 
+  sug sawyer
+> 'sawyer'
+  spell 0 0 
+  sug sawyer
+> l'sawyer
+  spell 0 0 
+  sug sawyer
+> sawyer.
+  spell 1 0 
+  sug sawyer
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> sawyer..
+  spell 1 0 
+  sug sawyer
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> .sawyer
+  spell 0 0 
+  sug sawyer
+> ...
+  spell 1 0 
+> -sawyer
+  spell 1 1 
+  sug sawyer
+> sawyer-
+  spell 1 1 
+  sug sawyer
+> sawyer--HELLO
+  spell 1 33 
+  sug sawyer--hello
+> sawyer-HELLO-sawyer
+  spell 1 33 
+  sug sawyer-hello-sawyer
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> SAWYER
+  spell 1 32 
+  sug SAWYER
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> SAWYER
+  spell 1 32 
+  sug SAWYER
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> Sawyer
+  spell 1 32 
+  sug sawyer
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> sawyer HELLO
+  spell 0 32 
+>  sawyer
+  spell 1 0 
+  sug sawyer
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> sawyer 
+  spell 0 0 
+  sug sawyer
+> sawyer	HELLO
+  spell 0 32 
+> ÿþsawyer
+  spell 0 0 
+  sug sawyer
+> sawyerÃ
+  spell 0 32 
+  sug sawyer
+> €sawyer
+  spell 0 0 
+  sug sawyer
+> ð€sawyer
+  spell 0 0 
+  sug sawyer
+> Ä°sawyer
+  spell 0 32 
+  sug Sawyer
+> sawyerÃŸ
+  spell 0 32 
+  sug sawyer
+> sawyer
+  spell 1 0 
+  sug sawyer
+  ana  st:sawyer
+  stem sawyer
+  stemmorph sawyer
+> SAWYERSS
+  spell 0 32 
+  sug SAWYER
+> <?xml?><query type="analyze"><word>sawyer</word></query>
+  spell 0 0 
+  sug <code><a> st:sawyer</a></code>
+> <?xml?><query type="stem"><word>sawyer</word></query>
+  spell 0 0 
+  sug sawyer
+> <?xml?><query type="suggest"><word>sawyerx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>sawyer</word><word>HELLO</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>sawyer</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>sawyer</word></query>
+  spell 0 0 
+  sug <code><a> st:sawyer</a></code>
+> <?xml?><query type="add"><word>sawyer</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;sawyer&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>sawyer</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

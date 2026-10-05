@@ -1,0 +1,225 @@
+# example: banana
+> BANANA
+  spell 1 32 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> Banana
+  spell 1 32 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> aanana
+  spell 0 0 
+> abnana
+  spell 0 0 
+  sug banana
+> anana
+  spell 0 0 
+> baaana
+  spell 0 0 
+> baana
+  spell 0 0 
+> baanna
+  spell 0 0 
+  sug banana
+> babnana
+  spell 0 0 
+  sug banana
+> banaa
+  spell 0 0 
+> banaaa
+  spell 0 0 
+> banaan
+  spell 0 0 
+  sug banana
+> banan
+  spell 0 0 
+> banana
+  spell 1 0 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> banana-banana
+  spell 1 1 
+> banana.
+  spell 1 0 
+  sug banana
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> bananaa
+  spell 0 0 
+  sug banana
+> bananab
+  spell 0 0 
+  sug banana
+> bananabanana
+  spell 0 0 
+  sug banana banana
+> bananan
+  spell 0 0 
+  sug banana
+> bananba
+  spell 0 0 
+  sug banana
+> banann
+  spell 0 0 
+> bananna
+  spell 0 0 
+  sug banana
+> banna
+  spell 0 0 
+> bannaa
+  spell 0 0 
+  sug banana
+> bannana
+  spell 0 0 
+  sug banana
+> bbanana
+  spell 0 0 
+  sug banana
+> bbnana
+  spell 0 0 
+> bnaana
+  spell 0 0 
+  sug banana
+> bnana
+  spell 0 0 
+> bnanana
+  spell 0 0 
+  sug banana
+> bnnana
+  spell 0 0 
+> nanana
+  spell 0 0 
+  sug banana
+> nbanana
+  spell 0 0 
+  sug banana
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> banana's
+  spell 0 0 
+> bananaâ€™s
+  spell 0 0 
+> 'banana'
+  spell 0 0 
+> l'banana
+  spell 0 0 
+> banana.
+  spell 1 0 
+  sug banana
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> banana..
+  spell 1 0 
+  sug banana
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> .banana
+  spell 0 0 
+  sug banana
+> ...
+  spell 1 0 
+> -banana
+  spell 1 1 
+  sug banana
+> banana-
+  spell 1 1 
+  sug banana
+> banana--banana
+  spell 1 1 
+> banana-banana-banana
+  spell 1 1 
+> BANANA
+  spell 1 32 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> BANANA
+  spell 1 32 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> Banana
+  spell 1 32 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> banana banana
+  spell 0 0 
+>  banana
+  spell 1 0 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> banana 
+  spell 0 0 
+  sug banana
+> banana	banana
+  spell 0 0 
+> ÿşbanana
+  spell 0 0 
+> bananaÃ
+  spell 0 0 
+  sug banana
+> €banana
+  spell 0 0 
+  sug banana
+> ğ€banana
+  spell 0 0 
+> Ä°banana
+  spell 0 32 
+  sug Banana
+> bananaÃŸ
+  spell 0 0 
+  sug banana
+> banana
+  spell 1 0 
+  ana  st:banana
+  stem banana
+  stemmorph banana
+> BANANASS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>banana</word></query>
+  spell 0 0 
+  sug <code><a> st:banana</a></code>
+> <?xml?><query type="stem"><word>banana</word></query>
+  spell 0 0 
+  sug banana
+> <?xml?><query type="suggest"><word>bananax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>banana</word><word>banana</word></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>banana</word></query>
+  spell 0 0 
+  sug <code><a> st:banana</a></code>
+> <?xml?><query type="add"><word>banana</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;banana&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>banana</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

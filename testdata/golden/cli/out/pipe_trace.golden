@@ -1,0 +1,44 @@
+exit 0
+stdout 812
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+word "hello"
+  lookup "hello" -> entry "hello" flags=S
+  result correct
+*
+
+word "wrold"
+  lookup "wrold" -> miss
+  pfx "wrold" candidates=0
+  sfx "wrold" candidates=0
+  result incorrect
+& wrold 1 0: world
+
+word "tset"
+  lookup "tset" -> miss
+  pfx "tset" candidates=0
+  sfx "tset" candidates=0
+  result incorrect
+& tset 1 0: test
+
+word "forbidden"
+  lookup "forbidden" -> miss
+  pfx "forbidden" candidates=0
+  sfx "forbidden" candidates=0
+  result incorrect
+# forbidden 0
+
+
+word "NASA"
+  lookup "NASA" -> miss
+  pfx "NASA" candidates=0
+  sfx "NASA" candidates=0
+  lookup "Nasa" -> miss
+  pfx "Nasa" candidates=0
+  sfx "Nasa" candidates=0
+  lookup "nasa" -> miss
+  pfx "nasa" candidates=0
+  sfx "nasa" candidates=0
+  result incorrect
+# NASA 0
+
+stderr 0

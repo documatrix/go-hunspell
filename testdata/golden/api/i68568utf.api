@@ -1,0 +1,309 @@
+# example: Bár
+> 'OÓ'
+  spell 0 32 
+> 'foó'Bár
+  spell 0 32 
+> 'oó'Bár
+  spell 0 32 
+> BBár
+  spell 0 32 
+  sug Bár
+> BÁR
+  spell 1 32 
+  sug BÁR
+  ana  st:Bár
+  stem Bár
+  stemmorph Bár
+> Bá
+  spell 0 32 
+  sug Bár
+> Bár
+  spell 1 32 
+  sug Bár
+  ana  st:Bár
+  stem Bár
+  stemmorph Bár
+> Bár-foó'bár
+  spell 0 32 
+> Bár.
+  spell 1 32 
+  sug Bár
+  ana  st:Bár
+  stem Bár
+  stemmorph Bár
+> BárBár
+  spell 0 32 
+  sug Bár Bár
+  sug Bár
+> BárFOÓ'
+  spell 0 32 
+> Bárb
+  spell 0 32 
+  sug Bár
+> F'ó'bár
+  spell 0 32 
+> FOBÓ'
+  spell 0 32 
+> FOÓ'
+  spell 0 32 
+> FOÓ'-foó'
+  spell 0 32 
+> FOÓ'.
+  spell 0 32 
+> FOÓ'BÁR
+  spell 1 32 Bár
+  sug FOÓ'BÁR
+> FOÓ'foó'
+  spell 0 32 
+> FOÓ'foó'Bár
+  spell 0 32 
+> FOÓ'foó'bár
+  spell 0 32 
+> FOÓ'o
+  spell 0 32 
+> FOÓb'
+  spell 0 32 
+> FOÓÓ'
+  spell 0 32 
+> FOÓó
+  spell 0 32 
+> Foó'
+  spell 0 32 
+> Foó'br
+  spell 0 32 
+> Foó'brá
+  spell 0 32 
+> Foó'bár
+  spell 0 32 
+  sug Foó'Bár
+> Foó'bár-foó'
+  spell 0 32 
+> Foó'bár.
+  spell 0 32 
+  sug Foó'Bár
+> Foó'bárBár
+  spell 0 32 
+> Foó'bárfoó'Bár
+  spell 0 32 
+> Foó'fár
+  spell 0 32 
+> Foó'ábr
+  spell 0 32 
+> Foó'ár
+  spell 0 32 
+> Foób'ár
+  spell 0 32 
+> Foóbár
+  spell 0 32 
+> Foóábár
+  spell 0 32 
+> Foóóbár
+  spell 0 32 
+> FÓO'
+  spell 0 32 
+> Ofoó'Bár
+  spell 0 32 
+> OÓ'
+  spell 0 32 
+> fFOÓ'
+  spell 0 32 
+> fo'
+  spell 0 0 
+> fo'Bár
+  spell 0 32 
+> fo'ó
+  spell 0 0 
+> foáó'Bár
+  spell 0 32 
+> foó
+  spell 0 0 
+> foó'
+  spell 0 0 
+> foó''
+  spell 0 0 
+> foó'-Bár
+  spell 0 32 
+> foó'-Foó'bár
+  spell 0 32 
+> foó'.
+  spell 0 0 
+> foó'BBár
+  spell 0 32 
+> foó'Bár
+  spell 0 32 
+  sug Foó'Bár
+> foó'Bár-Bár
+  spell 0 32 
+  sug Foó'Bár-Bár
+> foó'Bár-FOÓ'
+  spell 0 32 
+> foó'Bár-foó'bár
+  spell 0 32 
+> foó'Bár.
+  spell 0 32 
+  sug Foó'Bár
+> foó'BárBár
+  spell 0 32 
+> foó'BárFoó'bár
+  spell 0 32 
+> foó'Bárfoó'Bár
+  spell 0 32 
+> foó'Bárfoó'bár
+  spell 0 32 
+> foó'Bárr
+  spell 0 32 
+> foó'FOÓ'
+  spell 0 32 
+> foó'boár
+  spell 0 0 
+> foó'brá
+  spell 0 0 
+> foó'bár
+  spell 0 0 
+> foó'bár-Bár
+  spell 0 32 
+> foó'bár-FOÓ'
+  spell 0 32 
+> foó'bár-Foó'bár
+  spell 0 32 
+> foó'bár-foó'
+  spell 0 0 
+> foó'bár.
+  spell 0 0 
+> foó'bárFOÓ'
+  spell 0 32 
+> foó'bárfoó'Bár
+  spell 0 32 
+> foó'f
+  spell 0 0 
+> foó'foó'Bár
+  spell 0 32 
+> foób'ár
+  spell 0 0 
+> foóá'
+  spell 0 0 
+> foóá'bár
+  spell 0 0 
+> fó'Bár
+  spell 0 32 
+> fóo'
+  spell 0 0 
+> fóo'bár
+  spell 0 0 
+> oFó'bár
+  spell 0 32 
+> ofó'
+  spell 0 0 
+> oó'
+  spell 0 0 
+> ÓBár
+  spell 0 32 
+  sug Bár
+> áár
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Foó'bár's
+  spell 0 32 
+> Foó'bár’s
+  spell 0 32 
+> 'Foó'bár'
+  spell 0 32 
+> l'Foó'bár
+  spell 0 32 
+> Foó'bár.
+  spell 0 32 
+  sug Foó'Bár
+> Foó'bár..
+  spell 0 32 
+  sug Foó'Bár
+> .Foó'bár
+  spell 0 32 
+> ...
+  spell 1 0 
+> -Foó'bár
+  spell 0 32 
+  sug -Foó'Bár
+> Foó'bár-
+  spell 0 32 
+  sug Foó'Bár-
+> Foó'bár--foó'
+  spell 0 32 
+> Foó'bár-foó'-Foó'bár
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> FOó'BáR
+  spell 0 32 
+  sug Foó'Bár
+> fOó'BáR
+  spell 0 32 
+> Foó'BáR
+  spell 0 32 
+  sug Foó'Bár
+> Foó'bár foó'
+  spell 0 32 
+>  Foó'bár
+  spell 0 32 
+  sug Foó'Bár
+> Foó'bár 
+  spell 0 32 
+> Foó'bár	foó'
+  spell 0 32 
+> ��Foó'bár
+  spell 0 0 
+> Foó'bár�
+  spell 0 32 
+> �Foó'bár
+  spell 0 32 
+> 𐐀Foó'bár
+  spell 0 0 
+> İFoó'bár
+  spell 0 32 
+> Foó'bárß
+  spell 0 32 
+> Foó'bár
+  spell 0 32 
+  sug Foó'Bár
+> FOó'BáRSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>Foó'bár</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>Foó'bár</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>Foó'bárx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Foó'bár</word><word>foó'</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Foó'bár</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Foó'bár</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>Foó'bár</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Foó'bár&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Foó'bár</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

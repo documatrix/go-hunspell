@@ -1,0 +1,357 @@
+# example: Mull
+> MALL
+  spell 0 32 
+  sug MULL
+> MALLE
+  spell 0 32 
+  sug MULLE
+> MALLS
+  spell 0 32 
+  sug MULLS
+> MMll
+  spell 0 32 
+  sug Mull
+> MMull
+  spell 0 32 
+  sug Mull
+> MULL
+  spell 1 32 
+  sug MULL
+  sug MULLE
+  sug MULLS
+  ana  st:Mull
+  stem Mull
+  stemmorph Mull
+> MULLE
+  spell 1 32 Mull
+  sug MULLE
+  sug MULL
+  sug MULLS
+  ana  st:Mull fl:e
+  stem Mull
+  stemmorph Mull
+> MULLS
+  spell 1 32 Mull
+  sug MULLS
+  sug MULL
+  sug MULLE
+  ana  st:Mull fl:S
+  stem Mull
+  stemmorph Mull
+> MalMe
+  spell 0 32 
+> Male
+  spell 0 32 
+> Mall
+  spell 0 32 
+  sug Mull
+> Mall-Mulle
+  spell 0 32 
+  sug Mull-Mulle
+> Mall-Mulls
+  spell 0 32 
+  sug Mull-Mulls
+> Mall.
+  spell 0 32 
+  sug Mull
+> MallMall
+  spell 0 32 
+> MallMalle
+  spell 0 32 
+> Malle
+  spell 0 32 
+  sug Mulle
+> Malle-Malle
+  spell 0 32 
+> Malle-Mull
+  spell 0 32 
+  sug Mulle-Mull
+> Malle.
+  spell 0 32 
+  sug Mulle
+> MalleMall
+  spell 0 32 
+> MalleMalle
+  spell 0 32 
+> MalleMull
+  spell 0 32 
+> Mallee
+  spell 0 32 
+> Mallls
+  spell 0 32 
+> Malls
+  spell 0 32 
+  sug Mulls
+> Malls-Mulls
+  spell 0 32 
+  sug Mulls-Mulls
+> Malls.
+  spell 0 32 
+  sug Mulls
+> MallsMull
+  spell 0 32 
+> Mallsu
+  spell 0 32 
+> Mals
+  spell 0 32 
+> Malule
+  spell 0 32 
+> Mauls
+  spell 0 32 
+> Mll
+  spell 0 32 
+  sug Mull
+> Mlle
+  spell 0 32 
+  sug Mulle
+> Mlul
+  spell 0 32 
+  sug Mull
+> Msll
+  spell 0 32 
+  sug Mull
+> Mslls
+  spell 0 32 
+  sug Mulls
+> Muelle
+  spell 0 32 
+  sug Mulle
+> Mul
+  spell 0 32 
+  sug Mull
+> Mule
+  spell 0 32 
+  sug Mulle
+  sug Mull
+> Mull
+  spell 1 32 
+  sug Mull
+  sug Mulle
+  sug Mulls
+  ana  st:Mull
+  stem Mull
+  stemmorph Mull
+  sfx Mulle
+> Mull-Mull
+  spell 1 33 
+> Mull-Mulle
+  spell 1 33 
+> Mull-Mulls
+  spell 1 33 
+> Mull.
+  spell 1 32 
+  sug Mull
+  sug Mulle
+  sug Mulls
+  ana  st:Mull
+  stem Mull
+  stemmorph Mull
+> MullM
+  spell 0 32 
+  sug Mull
+  sug Mulle
+  sug Mulls
+> MullMall
+  spell 0 32 
+> MullMalle
+  spell 0 32 
+> MullMulls
+  spell 0 32 
+  sug Mull Mulls
+  sug Mull-Mulls
+> Mulle
+  spell 1 32 Mull
+  sug Mulle
+  sug Mull
+  sug Mulls
+  ana  st:Mull fl:e
+  stem Mull
+  stemmorph Mull
+> Mulle-Mull
+  spell 1 33 
+> Mulle.
+  spell 1 32 Mull
+  sug Mulle
+  sug Mull
+  sug Mulls
+  ana  st:Mull fl:e
+  stem Mull
+  stemmorph Mull
+> MulleMall
+  spell 0 32 
+> Mullee
+  spell 0 32 
+  sug Mulle
+> Mulleu
+  spell 0 32 
+  sug Mulle
+> Mulls
+  spell 1 32 Mull
+  sug Mulls
+  sug Mull
+  sug Mulle
+  ana  st:Mull fl:S
+  stem Mull
+  stemmorph Mull
+> Mulls-Malls
+  spell 0 32 
+  sug Mulls-Mulls
+> Mulls-Mull
+  spell 1 33 
+> Mulls.
+  spell 1 32 Mull
+  sug Mulls
+  sug Mull
+  sug Mulle
+  ana  st:Mull fl:S
+  stem Mull
+  stemmorph Mull
+> MullsM
+  spell 0 32 
+  sug Mulls
+> MullsMall
+  spell 0 32 
+> MullsMalle
+  spell 0 32 
+> MullsMalls
+  spell 0 32 
+> Mullsl
+  spell 0 32 
+  sug Mulls
+> Mulsl
+  spell 0 32 
+  sug Mulls
+  sug Mull
+> Mulu
+  spell 0 32 
+  sug Mull
+> Musl
+  spell 0 32 
+  sug Mull
+> Muul
+  spell 0 32 
+  sug Mull
+> Muull
+  spell 0 32 
+  sug Mull
+> aulle
+  spell 0 0 
+  sug Mulle
+> lMull
+  spell 0 32 
+  sug Mull
+> sall
+  spell 0 0 
+> uMalle
+  spell 0 32 
+> uMalls
+  spell 0 32 
+> uMull
+  spell 0 32 
+  sug Mull
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Mall's
+  spell 0 32 
+> Mallâ€™s
+  spell 0 32 
+> 'Mall'
+  spell 0 32 
+> l'Mall
+  spell 0 32 
+> Mall.
+  spell 0 32 
+  sug Mull
+> Mall..
+  spell 0 32 
+  sug Mull
+> .Mall
+  spell 0 32 
+> ...
+  spell 1 0 
+> -Mall
+  spell 0 32 
+  sug -Mull
+> Mall-
+  spell 0 32 
+  sug Mull-
+> Mall--Malls
+  spell 0 32 
+> Mall-Malls-Mall
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> MALL
+  spell 0 32 
+  sug MULL
+> mALL
+  spell 0 32 
+> Mall
+  spell 0 32 
+  sug Mull
+> Mall Malls
+  spell 0 32 
+>  Mall
+  spell 0 32 
+  sug Mull
+> Mall 
+  spell 0 32 
+> Mall	Malls
+  spell 0 32 
+> ÿþMall
+  spell 0 32 
+> MallÃ
+  spell 0 32 
+> €Mall
+  spell 0 32 
+> ð€Mall
+  spell 0 32 
+> Ä°Mall
+  spell 0 32 
+> MallÃŸ
+  spell 0 32 
+> Mall
+  spell 0 32 
+  sug Mull
+> MALLSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>Mall</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>Mall</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>Mallx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Mall</word><word>Malls</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Mall</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Mall</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>Mall</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Mall&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Mall</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

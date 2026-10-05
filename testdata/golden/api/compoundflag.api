@@ -1,0 +1,550 @@
+# example: foo
+> Bar
+  spell 1 32 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> Barfoo
+  spell 1 33 bar
+  sug Bar foo
+  sug barfoo
+  ana  pa:bar st:bar pa:foo
+  stem bar
+  stemmorph bar
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOBAR
+  spell 1 33 foo
+  sug FOO BAR
+  sug FOOBAR
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> FOOBARFOO
+  spell 1 33 foo
+  sug FOOBARFOO
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> FOOXY
+  spell 0 32 
+  sug FOO XY
+  sug FOO
+> FOOXYBAR
+  spell 0 32 
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foobar
+  spell 1 33 foo
+  sug Foo bar
+  sug foobar
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> Foobarfoo
+  spell 1 33 foo
+  sug foobarfoo
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> XY
+  spell 1 32 
+  sug XY
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> XYFOO
+  spell 0 32 
+  sug XY FOO
+> XYYZ
+  spell 0 32 
+  sug XY YZ
+  sug XY
+> Xy
+  spell 1 32 
+  sug xy
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> Xyfoo
+  spell 0 32 
+  sug Xy foo
+> Xyyz
+  spell 0 32 
+  sug Xy yz
+  sug Xy
+> YZ
+  spell 1 32 
+  sug YZ
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> Yz
+  spell 1 32 
+  sug yz
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> ar
+  spell 0 0 
+  sug bar
+> ayfoo
+  spell 0 0 
+> ayyz
+  spell 0 0 
+> ba
+  spell 0 0 
+  sug bar
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bar-bar
+  spell 1 1 
+  sug barbar
+> bar-foobarfoo
+  spell 1 1 
+  sug barfoobarfoo
+> bar.
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bara
+  spell 0 0 
+  sug bar
+> barfobo
+  spell 0 0 
+  sug barfoo
+> barfoo
+  spell 1 1 bar
+  sug bar foo
+  sug barfoo
+  ana  pa:bar st:bar pa:foo
+  stem bar
+  stemmorph bar
+> barfoo-foo
+  spell 1 1 
+  sug barfoofoo
+> barfoo.
+  spell 1 1 bar
+  sug bar foo
+  sug barfoo
+  sug bar
+  ana  pa:bar st:bar pa:foo
+  stem bar
+  stemmorph bar
+> barfoobar
+  spell 1 1 bar
+  sug barfoobar
+  ana  pa:bar st:bar pa:foo st:foo pa:bar
+  stem barfoo
+  stemmorph barfoo
+> barfooxyfoo
+  spell 0 0 
+> barfox
+  spell 0 0 
+  sug bar
+> barofo
+  spell 0 0 
+  sug barfoo
+> bary
+  spell 0 0 
+  sug bar
+> baxfoo
+  spell 0 0 
+> faobarfoo
+  spell 0 0 
+> fbo
+  spell 0 0 
+  sug foo
+> ffoobar
+  spell 0 0 
+  sug foobar
+> fo
+  spell 0 0 
+  sug foo
+> fob
+  spell 0 0 
+  sug foo
+> fobar
+  spell 0 0 
+  sug bar
+> fobarfoo
+  spell 0 0 
+> fofobarfoo
+  spell 0 0 
+  sug foobarfoo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-barfoo
+  spell 1 1 
+  sug foobarfoo
+> foo-fooxy
+  spell 0 0 
+  sug foo-foo xy
+  sug foo-foo
+> foo-xyyz
+  spell 0 0 
+  sug foo-xy yz
+  sug foo-xy
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> fooay
+  spell 0 0 
+  sug foo
+> foobaafoo
+  spell 0 0 
+> foobaar
+  spell 0 0 
+  sug foobar
+> foobar
+  spell 1 1 foo
+  sug foo bar
+  sug foobar
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> foobar-bar
+  spell 1 1 
+  sug foobarbar
+> foobar-foobarfoo
+  spell 1 1 
+  sug foobarfoobarfoo
+> foobar.
+  spell 1 1 foo
+  sug foo bar
+  sug foobar
+  ana  pa:foo st:foo pa:bar
+  stem foo
+  stemmorph foo
+> foobarboo
+  spell 0 0 
+> foobarfof
+  spell 0 0 
+> foobarfoo
+  spell 1 1 foo
+  sug foobarfoo
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> foobarfoo-xy
+  spell 1 1 
+> foobarfoo.
+  spell 1 1 foo
+  sug foobarfoo
+  ana  pa:foo st:foo pa:bar st:bar pa:foo
+  stem foobar
+  stemmorph foobar
+> foobarfooo
+  spell 0 0 
+  sug foobarfoo
+> foobarfoy
+  spell 0 0 
+> foobarofo
+  spell 0 0 
+  sug foobarfoo
+> foobarxyyz
+  spell 0 0 
+> foobarzoo
+  spell 0 0 
+> foobra
+  spell 0 0 
+  sug foobar
+> foofooxybar
+  spell 0 0 
+> foofy
+  spell 0 0 
+  sug foo
+> fooo
+  spell 0 0 
+  sug foo
+> fooobar
+  spell 0 0 
+  sug foobar
+> fooxa
+  spell 0 0 
+  sug foo
+> fooxbyar
+  spell 0 0 
+> fooxy
+  spell 0 0 
+  sug foo xy
+  sug foo
+> fooxy-fooxybar
+  spell 0 0 
+  sug foo xy-fooxybar
+  sug foo-fooxybar
+> fooxy.
+  spell 0 0 
+  sug foo xy
+  sug foo
+> fooxybar
+  spell 0 0 
+> fooxybar-xyyz
+  spell 0 0 
+> fooxybar-yz
+  spell 0 0 
+> fooxybar.
+  spell 0 0 
+> fooxybarfoo
+  spell 0 0 
+> fooxybarfoobar
+  spell 0 0 
+> fooxybra
+  spell 0 0 
+> fooxyxy
+  spell 0 0 
+> forbar
+  spell 0 0 
+> foro
+  spell 0 0 
+  sug foo
+> foxoybar
+  spell 0 0 
+> ofo
+  spell 0 0 
+  sug foo
+> oo
+  spell 0 0 
+  sug foo
+> oobar
+  spell 0 0 
+> oxy
+  spell 0 0 
+  sug xy
+> rarfoo
+  spell 0 0 
+> rbar
+  spell 0 0 
+  sug bar
+> xfooxy
+  spell 0 0 
+> xofoo
+  spell 0 0 
+  sug foo
+> xy
+  spell 1 0 
+  sug xy
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> xy-yz
+  spell 1 1 
+> xy.
+  spell 1 0 
+  sug xy
+  ana  st:xy
+  stem xy
+  stemmorph xy
+> xyb
+  spell 0 0 
+  sug xy
+> xybar
+  spell 0 0 
+  sug xy bar
+  sug bar
+> xyfboo
+  spell 0 0 
+> xyfo
+  spell 0 0 
+  sug xy
+> xyfoo
+  spell 0 0 
+  sug xy foo
+> xyfoobarfoo
+  spell 0 0 
+> xyfoofooxybar
+  spell 0 0 
+> xyfooxy
+  spell 0 0 
+> xyfoyo
+  spell 0 0 
+> xyfroo
+  spell 0 0 
+> xyfz
+  spell 0 0 
+  sug xy
+> xyo
+  spell 0 0 
+  sug xy
+> xyyz
+  spell 0 0 
+  sug xy yz
+  sug xy
+> xyyz-foobar
+  spell 0 0 
+  sug xy yz-foobar
+  sug xy-foobar
+> xyyz-xyyz
+  spell 0 0 
+  sug xy yz-xyyz
+  sug xy-xyyz
+> xyyzbar
+  spell 0 0 
+> xzfoo
+  spell 0 0 
+> y
+  spell 0 0 
+  sug yz
+> yoz
+  spell 0 0 
+  sug yz
+> yyyz
+  spell 0 0 
+  sug yz
+> yz
+  spell 1 0 
+  sug yz
+  ana  st:yz
+  stem yz
+  stemmorph yz
+> yz-yz
+  spell 1 1 
+> yzbarfoo
+  spell 0 0 
+> z
+  spell 0 0 
+  sug yz
+> zxyyz
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> xyyz's
+  spell 0 0 
+> xyyzâ€™s
+  spell 0 0 
+> 'xyyz'
+  spell 0 0 
+> l'xyyz
+  spell 0 0 
+> xyyz.
+  spell 0 0 
+  sug xy yz
+  sug xy
+> xyyz..
+  spell 0 0 
+  sug xy yz
+  sug xy
+> .xyyz
+  spell 0 0 
+> ...
+  spell 1 0 
+> -xyyz
+  spell 0 0 
+  sug -xy yz
+  sug -xy
+> xyyz-
+  spell 0 0 
+  sug xy yz-
+  sug xy-
+> xyyz--fooxy
+  spell 0 0 
+  sug xy yz--fooxy
+  sug xy--fooxy
+> xyyz-fooxy-xyyz
+  spell 0 0 
+  sug xy yz-fooxy-xyyz
+  sug xy-fooxy-xyyz
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> XYYZ
+  spell 0 32 
+  sug XY YZ
+  sug XY
+> XYYZ
+  spell 0 32 
+  sug XY YZ
+  sug XY
+> Xyyz
+  spell 0 32 
+  sug Xy yz
+  sug Xy
+> xyyz fooxy
+  spell 0 0 
+>  xyyz
+  spell 0 0 
+  sug xy yz
+  sug xy
+> xyyz 
+  spell 0 0 
+> xyyz	fooxy
+  spell 0 0 
+> ÿþxyyz
+  spell 0 0 
+> xyyzÃ
+  spell 0 32 
+> €xyyz
+  spell 0 0 
+> ð€xyyz
+  spell 0 0 
+> Ä°xyyz
+  spell 0 32 
+> xyyzÃŸ
+  spell 0 32 
+> xyyz
+  spell 0 0 
+  sug xy yz
+  sug xy
+> XYYZSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>xyyz</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>xyyz</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>xyyzx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>xyyz</word><word>fooxy</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>xyyz</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>xyyz</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>xyyz</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;xyyz&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>xyyz</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

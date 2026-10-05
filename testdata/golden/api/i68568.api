@@ -1,0 +1,325 @@
+# example: Elia
+> ELIA
+  spell 1 32 
+  sug ELIA
+  ana  st:Elia
+  stem Elia
+  stemmorph Elia
+> ESANT'
+  spell 0 32 
+> Eelia
+  spell 0 32 
+  sug Elia
+> Eia
+  spell 0 32 
+  sug Elia
+> Ela
+  spell 0 32 
+  sug Elia
+> EliA
+  spell 0 32 
+  sug Elia
+> Elia
+  spell 1 32 
+  sug Elia
+  ana  st:Elia
+  stem Elia
+  stemmorph Elia
+> Elia-Sant'elia
+  spell 0 32 
+  sug Elia-Sant'Elia
+> Elia-sant'elia
+  spell 0 32 
+> Elia.
+  spell 1 32 
+  sug Elia
+  ana  st:Elia
+  stem Elia
+  stemmorph Elia
+> EliaE
+  spell 0 32 
+  sug Elia
+> EliaElia
+  spell 0 32 
+  sug Elia Elia
+  sug Elia
+> EliaSANT'
+  spell 0 32 
+> EliaSant'elia
+  spell 0 32 
+> Eliasant'elia
+  spell 0 32 
+> Eltia
+  spell 0 32 
+  sug Elia
+> SAN'
+  spell 0 32 
+> SAN'T
+  spell 0 32 
+> SANT'
+  spell 0 32 
+> SANT'-Elia
+  spell 0 32 
+> SANT'-SANT'
+  spell 0 32 
+> SANT'-Sant'
+  spell 0 32 
+> SANT'-sant'Elia
+  spell 0 32 
+> SANT'-sant'elia
+  spell 0 32 
+> SANT'.
+  spell 0 32 
+> SANT'ELIA
+  spell 1 32 Elia
+  sug SANT'ELIA
+> SANT'Elia
+  spell 0 32 
+  sug Sant'Elia
+> SAT'
+  spell 0 32 
+> SATN'
+  spell 0 32 
+> SNAT'
+  spell 0 32 
+> SNT'
+  spell 0 32 
+> SaAt'
+  spell 0 32 
+> San'telia
+  spell 0 32 
+> Sanl'elia
+  spell 0 32 
+> Sant'
+  spell 0 32 
+> Sant'-SANT'
+  spell 0 32 
+> Sant'-sant'elia
+  spell 0 32 
+> Sant'Alia
+  spell 0 32 
+> Sant'Elia
+  spell 1 32 Elia
+  sug Sant'Elia
+  ana Sant' st:Elia fl:a
+  stem Elia
+  stemmorph Elia
+> Sant'SANT'
+  spell 0 32 
+> Sant'Sant'
+  spell 0 32 
+> Sant'e
+  spell 0 32 
+> Sant'eAlia
+  spell 0 32 
+> Sant'el'a
+  spell 0 32 
+> Sant'ela
+  spell 0 32 
+> Sant'elai
+  spell 0 32 
+> Sant'elia
+  spell 0 32 
+  sug Sant'Elia
+> Sant'elia-Elia
+  spell 0 32 
+  sug Sant'Elia-Elia
+> Sant'elia-SANT'
+  spell 0 32 
+> Sant'elia-Sant'elia
+  spell 0 32 
+> Sant'elia-sant'Elia
+  spell 0 32 
+> Sant'elia-sant'elia
+  spell 0 32 
+> Sant'elia.
+  spell 0 32 
+  sug Sant'Elia
+> Sant'eliaElia
+  spell 0 32 
+> Sant'eliaSant'
+  spell 0 32 
+> Sant'eliasant'Elia
+  spell 0 32 
+> Sant'elsa
+  spell 0 32 
+> Sant'ielia
+  spell 0 32 
+> Sant'sant'Elia
+  spell 0 32 
+> Sant'sant'elia
+  spell 0 32 
+> Satn'
+  spell 0 32 
+> Snat'
+  spell 0 32 
+> SsNT'
+  spell 0 32 
+> Ssant'
+  spell 0 32 
+> aSnt'elia
+  spell 0 32 
+> ant'
+  spell 0 0 
+> ant'Elia
+  spell 0 32 
+> ant'elia
+  spell 0 0 
+> asnt'elia
+  spell 0 0 
+> elia
+  spell 0 0 
+  sug Elia
+> iant'Elia
+  spell 0 32 
+> lEia
+  spell 0 32 
+  sug Elia
+> san'elia
+  spell 0 0 
+> sans'Elia
+  spell 0 32 
+> sant'Elaa
+  spell 0 32 
+> sant'Eli
+  spell 0 32 
+> sant'Elia
+  spell 0 32 
+  sug Sant'Elia
+> sant'Elia-sant'Elia
+  spell 0 32 
+> sant'Elia.
+  spell 0 32 
+  sug Sant'Elia
+> sant'EliaSANT'
+  spell 0 32 
+> sant'EliaSant'
+  spell 0 32 
+> sant'EliaSant'elia
+  spell 0 32 
+> sant'Eliasant'elia
+  spell 0 32 
+> sant'elia
+  spell 0 0 
+> sant'elia-SANT'
+  spell 0 32 
+> sant'elia-Sant'elia
+  spell 0 32 
+> sant'elia-sant'Elia
+  spell 0 32 
+> sant'elia.
+  spell 0 0 
+> sant'eliaElia
+  spell 0 32 
+> sant'eliaSant'
+  spell 0 32 
+> sant'leia
+  spell 0 0 
+> santelia
+  spell 0 0 
+> sants'elia
+  spell 0 0 
+> santsElia
+  spell 0 32 
+> snat'elia
+  spell 0 0 
+> snt'Elia
+  spell 0 32 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Sant''s
+  spell 0 32 
+> Sant'â€™s
+  spell 0 32 
+> 'Sant''
+  spell 0 32 
+> l'Sant'
+  spell 0 32 
+> Sant'.
+  spell 0 32 
+> Sant'..
+  spell 0 32 
+> .Sant'
+  spell 0 32 
+> ...
+  spell 1 0 
+> -Sant'
+  spell 0 32 
+> Sant'-
+  spell 0 32 
+> Sant'--sant'Elia
+  spell 0 32 
+> Sant'-sant'Elia-Sant'
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> SANT'
+  spell 0 32 
+> sANT'
+  spell 0 32 
+> Sant'
+  spell 0 32 
+> Sant' sant'Elia
+  spell 0 32 
+>  Sant'
+  spell 0 32 
+> Sant' 
+  spell 0 32 
+> Sant'	sant'Elia
+  spell 0 32 
+> ÿşSant'
+  spell 0 32 
+> Sant'Ã
+  spell 0 32 
+> €Sant'
+  spell 0 32 
+> ğ€Sant'
+  spell 0 32 
+> Ä°Sant'
+  spell 0 32 
+> Sant'ÃŸ
+  spell 0 32 
+> Sant'
+  spell 0 32 
+> SANT'SS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>Sant'</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>Sant'</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>Sant'x</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Sant'</word><word>sant'Elia</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Sant'</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Sant'</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>Sant'</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Sant'&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Sant'</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,1025 @@
+# example: Brasilia
+> BRAIN
+  spell 1 32 
+  sug BRAIN
+  sug BRASS
+  sug BRASILIA
+  ana  st:brain
+  stem brain
+  stemmorph brain
+> BRASILIA
+  spell 1 32 
+  sug BRASILIA
+  sug XXXXXXXXXX
+  ana  st:Brasilia
+  stem Brasilia
+  stemmorph Brasilia
+> BRASILLIAN
+  spell 0 32 
+  sug BRASILIA
+  sug XXXXXXXXXX
+  sug BRILLIANT
+  sug BRAZILIAN
+  sug BRASSILY
+  sug BRILLIANCE
+> BRASS
+  spell 1 32 
+  sug BRASS
+  sug BRASILIA
+  sug BRAIN
+  ana  st:brass
+  stem brass
+  stemmorph brass
+> BRASSILY
+  spell 1 32 
+  sug BRASSILY
+  sug BRASILIA
+  sug BRAZILIAN
+  ana  st:brassily
+  stem brassily
+  stemmorph brassily
+> BRAZILIAN
+  spell 1 32 
+  sug BRAZILIAN
+  sug BRASILIA
+  sug BRASSILY
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> BRILLIANCE
+  spell 1 32 
+  sug BRILLIANCE
+  sug BRILLIANCY
+  sug BRILLIANT
+  ana  st:brilliance
+  stem brilliance
+  stemmorph brilliance
+> BRILLIANCY
+  spell 1 32 
+  sug BRILLIANCY
+  sug BRILLIANCE
+  sug BRILLIANT
+  ana  st:brilliancy
+  stem brilliancy
+  stemmorph brilliancy
+> BRILLIANT
+  spell 1 32 
+  sug BRILLIANT
+  sug BRILLIANCE
+  sug BRILLIANCY
+  ana  st:brilliant
+  stem brilliant
+  stemmorph brilliant
+> Barssily
+  spell 0 32 
+  sug Brassily
+  sug Brasilia
+  sug Brazilian
+  sug Brilliancy
+> Barzilian
+  spell 0 32 
+  sug Brazilian
+  sug Brilliant
+  sug Brilliance
+  sug Brilliancy
+> Basilia
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brassily
+> Basillian
+  spell 0 32 
+  sug Brilliant
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliancy
+  sug Brazilian
+  sug Brilliance
+> Birlliance
+  spell 0 32 
+  sug Brilliance
+  sug Brilliancy
+  sug Brazilian
+  sug Brilliant
+> Braeilia
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brilliance
+  sug Brilliant
+  sug Brilliancy
+> BrasBily
+  spell 0 32 
+  sug Brassily
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brass
+> Brasilai
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brassily
+  sug Brazilian
+  sug Brass
+> Brasilia
+  spell 1 32 
+  sug Xxxxxxxxxx
+  sug Brasilia
+  ana  st:Brasilia
+  stem Brasilia
+  stemmorph Brasilia
+> Brasilia-Brasillian
+  spell 0 32 
+  sug Brasilia-Brasilia
+  sug Brasilia-Xxxxxxxxxx
+  sug Brasilia-Brilliant
+  sug Brasilia-Brazilian
+  sug Brasilia-Brassily
+  sug Brasilia-Brilliance
+> Brasilia-Brassily
+  spell 1 33 
+  sug Brasilia-brassily
+> Brasilia-Brazilian
+  spell 1 33 
+> Brasilia.
+  spell 1 32 
+  sug Xxxxxxxxxx
+  sug Brasilia
+  ana  st:Brasilia
+  stem Brasilia
+  stemmorph Brasilia
+> BrasiliaBrasillian
+  spell 0 32 
+> BrasillCian
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliancy
+  sug Brilliance
+  sug Brazilian
+  sug Brassily
+> Brasillian
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliant
+  sug Brazilian
+  sug Brassily
+  sug Brilliance
+> Brasillian-Xxxxxxxxxx
+  spell 0 32 
+  sug Brasilia-Xxxxxxxxxx
+  sug Xxxxxxxxxx-Xxxxxxxxxx
+  sug Brilliant-Xxxxxxxxxx
+  sug Brazilian-Xxxxxxxxxx
+  sug Brassily-Xxxxxxxxxx
+  sug Brilliance-Xxxxxxxxxx
+> Brasillian.
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliant
+  sug Brazilian
+  sug Brassily
+  sug Brilliance
+> Brasily
+  spell 0 32 
+  sug Brassily
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brass
+  sug Brazilian
+  sug Brilliancy
+> Brasisly
+  spell 0 32 
+  sug Brassily
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brass
+> Brasiullian
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brilliant
+  sug Brassily
+  sug Brilliance
+> Brasliia
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brassily
+  sug Brazilian
+  sug Brass
+  sug Brilliance
+> Brass
+  spell 1 32 
+  sug brass
+  sug Brasilia
+  sug Brain
+  ana  st:brass
+  stem brass
+  stemmorph brass
+> Brassily
+  spell 1 32 
+  sug brassily
+  sug Brasilia
+  sug Brazilian
+  ana  st:brassily
+  stem brassily
+  stemmorph brassily
+> Brassily-Churchillian
+  spell 1 33 
+> Brassily-brass
+  spell 1 33 
+  sug Xxxxxxxxxx
+  sug Churchillian
+> Brassiy
+  spell 0 32 
+  sug Brassily
+  sug Brass
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brilliancy
+> Brassliy
+  spell 0 32 
+  sug Brassily
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brass
+  sug Brazilian
+  sug Brilliancy
+> Brazilian
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> Brazilian-Xxxxxxxxxx
+  spell 1 33 
+  sug Brazilian-xxxxxxxxxx
+> Brazilian.
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> Braziliann
+  spell 0 32 
+  sug Brazilian
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brasilia
+  sug Brassily
+  sug Churchillian
+> Brazilin
+  spell 0 32 
+  sug Brazilian
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brain
+  sug Brassily
+  sug Brilliance
+> Braziliyn
+  spell 0 32 
+  sug Brazilian
+  sug Brassily
+  sug Brasilia
+> Briliance
+  spell 0 32 
+  sug Brilliance
+  sug Brilliancy
+  sug Brilliant
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+> Brililance
+  spell 0 32 
+  sug Brilliance
+  sug Brilliancy
+  sug Brilliant
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+> BrilliXnt
+  spell 0 32 
+  sug Brilliant
+  sug Brilliance
+  sug Brilliancy
+> Brillianbt
+  spell 0 32 
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  sug Churchillian
+> Brillianc
+  spell 0 32 
+  sug Brilliancy
+  sug Brilliance
+  sug Brilliant
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+> Brilliance
+  spell 1 32 
+  sug brilliance
+  sug Brilliancy
+  sug Brilliant
+  ana  st:brilliance
+  stem brilliance
+  stemmorph brilliance
+> Brilliance-Brazilian
+  spell 1 33 
+> Brilliance-Xxxxxxxxxx
+  spell 1 33 
+  sug Brilliance-xxxxxxxxxx
+> Brilliance.
+  spell 1 32 
+  sug Brilliance
+  sug Brilliancy
+  sug Brilliant
+  ana  st:brilliance
+  stem brilliance
+  stemmorph brilliance
+> Brilliant
+  spell 1 32 
+  sug brilliant
+  sug Brilliance
+  sug Brilliancy
+  ana  st:brilliant
+  stem brilliant
+  stemmorph brilliant
+> Brilliant-Brazilian
+  spell 1 33 
+> Brilliant-brain
+  spell 1 33 
+  sug Churchillian
+> Brilliant-brilliancy
+  spell 1 33 
+> Brilliant.
+  spell 1 32 
+  sug Brilliant
+  sug Brilliance
+  sug Brilliancy
+  ana  st:brilliant
+  stem brilliant
+  stemmorph brilliant
+> BrilliantBrilliance
+  spell 0 32 
+  sug Brilliant Brilliance
+> Brilliantl
+  spell 0 32 
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brazilian
+  sug Brasilia
+  sug Churchillian
+  sug Brassily
+> Brsilia
+  spell 0 32 
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brazilian
+  sug Brilliant
+  sug Brassily
+  sug Brilliance
+> Brzailian
+  spell 0 32 
+  sug Brazilian
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brasilia
+  sug Brassily
+  sug Churchillian
+> Brzilian
+  spell 0 32 
+  sug Brazilian
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brasilia
+  sug Brassily
+> CHURCHILLIAN
+  spell 1 32 
+  sug CHURCHILLIAN
+  sug BRILLIANCE
+  sug BRILLIANCY
+  ana  st:Churchillian
+  stem Churchillian
+  stemmorph Churchillian
+> ChurchiClian
+  spell 0 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+> Churchilblian
+  spell 0 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+> Churchillban
+  spell 0 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+> Churchillian
+  spell 1 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+  ana  st:Churchillian
+  stem Churchillian
+  stemmorph Churchillian
+> Churchillian.
+  spell 1 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+  ana  st:Churchillian
+  stem Churchillian
+  stemmorph Churchillian
+> Churchrillian
+  spell 0 32 
+  sug Churchillian
+  sug Brilliancy
+  sug Brilliance
+  sug Xxxxxxxxxx
+> Churhillian
+  spell 0 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+> Churthillian
+  spell 0 32 
+  sug Churchillian
+  sug Brilliance
+  sug Brilliancy
+> Crhurchillian
+  spell 0 32 
+  sug Churchillian
+  sug Brilliancy
+  sug Brilliance
+  sug Xxxxxxxxxx
+> XXXXXXXXXX
+  spell 1 32 
+  sug XXXXXXXXXX
+  ana  st:xxxxxxxxxx ph:Brasilia
+  stem xxxxxxxxxx
+  stemmorph xxxxxxxxxx
+> Xxxxxxxxx
+  spell 0 32 
+  sug Xxxxxxxxxx
+> Xxxxxxxxxx
+  spell 1 32 
+  sug xxxxxxxxxx
+  ana  st:xxxxxxxxxx ph:Brasilia
+  stem xxxxxxxxxx
+  stemmorph xxxxxxxxxx
+> Xxxxxxxxxx-Brasillian
+  spell 0 32 
+  sug Xxxxxxxxxx-Brasilia
+  sug Xxxxxxxxxx-Xxxxxxxxxx
+  sug Xxxxxxxxxx-Brilliant
+  sug Xxxxxxxxxx-Brazilian
+  sug Xxxxxxxxxx-Brassily
+  sug Xxxxxxxxxx-Brilliance
+> Xxxxxxxxxx-brilliancy
+  spell 1 33 
+> Xxxxxxxxxx.
+  spell 1 32 
+  sug Xxxxxxxxxx
+  ana  st:xxxxxxxxxx ph:Brasilia
+  stem xxxxxxxxxx
+  stemmorph xxxxxxxxxx
+> Xxxxxxxxxxbrass
+  spell 0 32 
+  sug Xxxxxxxxxx brass
+> barin
+  spell 0 0 
+  sug brain
+  sug brass
+  sug Brasilia
+> bass
+  spell 0 0 
+  sug brass
+  sug brain
+> brCassily
+  spell 0 32 
+  sug brassily
+  sug Brasilia
+  sug xxxxxxxxxx
+  sug Brazilian
+  sug brilliancy
+> braCssily
+  spell 0 32 
+  sug brassily
+  sug Brasilia
+  sug xxxxxxxxxx
+  sug Brazilian
+  sug brilliancy
+> brain
+  spell 1 0 
+  sug brain
+  sug brass
+  sug Brasilia
+  ana  st:brain
+  stem brain
+  stemmorph brain
+> brain-brain
+  spell 1 1 
+  sug Brazilian
+  sug brilliance
+> brain-brilliance
+  spell 1 1 
+> brain.
+  spell 1 0 
+  sug brain
+  sug brass
+  sug Brasilia
+  ana  st:brain
+  stem brain
+  stemmorph brain
+> brainbrass
+  spell 0 0 
+  sug brain brass
+  sug brassily
+  sug Brasilia
+  sug xxxxxxxxxx
+  sug Brazilian
+  sug brilliance
+> brainxxxxxxxxxx
+  spell 0 0 
+  sug brain xxxxxxxxxx
+  sug Churchillian
+> brani
+  spell 0 0 
+  sug brain
+  sug Brazilian
+  sug brass
+  sug Brasilia
+> brass
+  spell 1 0 
+  sug brass
+  sug Brasilia
+  sug brain
+  ana  st:brass
+  stem brass
+  stemmorph brass
+> brass.
+  spell 1 0 
+  sug brass
+  sug Brasilia
+  sug brain
+  ana  st:brass
+  stem brass
+  stemmorph brass
+> brassCly
+  spell 0 32 
+  sug brassily
+  sug brass
+  sug Brasilia
+  sug Brazilian
+> brassily
+  spell 1 0 
+  sug brassily
+  sug Brasilia
+  sug Brazilian
+  ana  st:brassily
+  stem brassily
+  stemmorph brassily
+> brassily.
+  spell 1 0 
+  sug brassily
+  sug Brasilia
+  sug Brazilian
+  ana  st:brassily
+  stem brassily
+  stemmorph brassily
+> brassilyChurchillian
+  spell 0 32 
+  sug brassily Churchillian
+> brasts
+  spell 0 0 
+  sug brass
+  sug Brasilia
+  sug Brazilian
+> brileiancy
+  spell 0 0 
+  sug brilliancy
+  sug brilliance
+  sug brilliant
+  sug Brazilian
+  sug Brasilia
+> brillaiant
+  spell 0 0 
+  sug brilliant
+  sug brilliancy
+  sug brilliance
+  sug Brazilian
+  sug Brasilia
+  sug Churchillian
+> brilliace
+  spell 0 0 
+  sug brilliance
+  sug brilliancy
+  sug brilliant
+  sug Brasilia
+  sug Brazilian
+  sug brassily
+> brilliacy
+  spell 0 0 
+  sug brilliancy
+  sug brilliance
+  sug brilliant
+  sug Brasilia
+  sug Brazilian
+  sug brassily
+> brillialncy
+  spell 0 0 
+  sug brilliancy
+  sug brilliance
+  sug brilliant
+  sug Brazilian
+  sug Brasilia
+> brilliance
+  spell 1 0 
+  sug brilliance
+  sug brilliancy
+  sug brilliant
+  ana  st:brilliance
+  stem brilliance
+  stemmorph brilliance
+> brilliance-Brazilian
+  spell 1 33 
+> brilliance-brain
+  spell 1 1 
+> brilliancexxxxxxxxxx
+  spell 0 0 
+  sug brilliance xxxxxxxxxx
+> brilliancr
+  spell 0 0 
+  sug brilliance
+  sug brilliancy
+  sug brilliant
+  sug Brazilian
+  sug Brasilia
+  sug brassily
+  sug Churchillian
+> brilliancy
+  spell 1 0 
+  sug brilliancy
+  sug brilliance
+  sug brilliant
+  ana  st:brilliancy
+  stem brilliancy
+  stemmorph brilliancy
+> brilliancy-Brilliance
+  spell 1 33 
+  sug brilliancy-brilliance
+> brilliancy.
+  spell 1 0 
+  sug brilliancy
+  sug brilliance
+  sug brilliant
+  ana  st:brilliancy
+  stem brilliancy
+  stemmorph brilliancy
+> brilliancyBrasilia
+  spell 0 32 
+  sug brilliancy Brasilia
+> brilliancybrain
+  spell 0 0 
+  sug brilliancy brain
+  sug Churchillian
+> brillianec
+  spell 0 0 
+  sug brilliance
+  sug brilliancy
+  sug brilliant
+  sug Brazilian
+  sug Brasilia
+  sug Churchillian
+> brillianiy
+  spell 0 0 
+  sug brilliancy
+  sug brilliant
+  sug brilliance
+  sug Brazilian
+  sug Brasilia
+  sug brassily
+> brilliant
+  spell 1 0 
+  sug brilliant
+  sug brilliance
+  sug brilliancy
+  ana  st:brilliant
+  stem brilliant
+  stemmorph brilliant
+> brilliant-Brasillian
+  spell 0 32 
+  sug brilliant-Brasilia
+  sug brilliant-Xxxxxxxxxx
+  sug brilliant-Brilliant
+  sug brilliant-Brazilian
+  sug brilliant-Brassily
+  sug brilliant-Brilliance
+> brilliant-brassily
+  spell 1 1 
+> brilliant.
+  spell 1 0 
+  sug brilliant
+  sug brilliance
+  sug brilliancy
+  ana  st:brilliant
+  stem brilliant
+  stemmorph brilliant
+> brilliantBrassily
+  spell 0 32 
+  sug brilliant Brassily
+> brliliant
+  spell 0 0 
+  sug brilliant
+  sug Brazilian
+  sug brilliancy
+  sug brilliance
+  sug Brasilia
+  sug brassily
+  sug Churchillian
+> bruilliance
+  spell 0 0 
+  sug brilliance
+  sug brilliancy
+  sug brilliant
+  sug Brazilian
+  sug Brasilia
+  sug Churchillian
+> nrilliant
+  spell 0 0 
+  sug brilliant
+  sug brilliancy
+  sug brilliance
+  sug Brazilian
+  sug Churchillian
+> rBazilian
+  spell 0 32 
+  sug Brazilian
+  sug brilliant
+  sug brilliance
+  sug brilliancy
+> xxxxxxxxxx
+  spell 1 0 
+  sug xxxxxxxxxx
+  ana  st:xxxxxxxxxx ph:Brasilia
+  stem xxxxxxxxxx
+  stemmorph xxxxxxxxxx
+> xxxxxxxxxx.
+  spell 1 0 
+  sug xxxxxxxxxx
+  ana  st:xxxxxxxxxx ph:Brasilia
+  stem xxxxxxxxxx
+  stemmorph xxxxxxxxxx
+> zbrain
+  spell 0 0 
+  sug brain
+  sug Brazilian
+  sug brassily
+  sug Brasilia
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Brazilian's
+  spell 0 32 
+  sug Brazilian
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliant
+  sug Brilliance
+  sug Brilliancy
+> Brazilianâ€™s
+  spell 0 32 
+  sug Brazilian
+  sug Brilliance
+  sug Brilliancy
+> 'Brazilian'
+  spell 0 32 
+  sug Brazilian
+  sug Brasilia
+  sug brilliance
+> l'Brazilian
+  spell 0 32 
+  sug Brazilian
+  sug brilliant
+  sug brilliancy
+  sug brilliance
+  sug Brasilia
+  sug brassily
+> Brazilian.
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> Brazilian..
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> .Brazilian
+  spell 0 32 
+  sug . Brazilian
+  sug Brazilian
+  sug brilliant
+  sug brilliancy
+  sug brilliance
+  sug Brasilia
+  sug brassily
+  sug Churchillian
+> ...
+  spell 1 0 
+> -Brazilian
+  spell 1 33 
+  sug Brazilian
+  sug brilliant
+  sug brilliancy
+  sug brilliance
+  sug Brasilia
+  sug brassily
+  sug Churchillian
+> Brazilian-
+  spell 1 33 
+  sug Brazilian
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brassily
+> Brazilian--brilliant
+  spell 1 33 
+> Brazilian-brilliant-Brazilian
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> BRAZILIAN
+  spell 1 32 
+  sug BRAZILIAN
+  sug BRASILIA
+  sug BRASSILY
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> bRAZILIAN
+  spell 0 32 
+  sug Brazilian
+  sug Brasilia
+  sug brassily
+> Brazilian
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> Brazilian brilliant
+  spell 0 32 
+>  Brazilian
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> Brazilian 
+  spell 0 32 
+  sug Brazilian
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brassily
+> Brazilian	brilliant
+  spell 0 32 
+> ÿşBrazilian
+  spell 0 32 
+  sug Brazilian
+  sug brilliant
+  sug Brasilia
+  sug brilliance
+> BrazilianÃ
+  spell 0 32 
+  sug Brazilian
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliant
+  sug Brilliancy
+  sug Brilliance
+  sug Brassily
+> €Brazilian
+  spell 0 32 
+  sug Brazilian
+  sug brilliant
+  sug brilliancy
+  sug brilliance
+  sug Brasilia
+  sug brassily
+  sug Churchillian
+> ğ€Brazilian
+  spell 0 32 
+  sug Brazilian
+  sug brilliance
+  sug brilliancy
+> Ä°Brazilian
+  spell 0 32 
+  sug Brazilian
+  sug Brilliant
+  sug Brasilia
+  sug Brilliance
+> BrazilianÃŸ
+  spell 0 32 
+  sug Brazilian
+  sug Brilliant
+  sug Brasilia
+  sug Xxxxxxxxxx
+  sug Brilliance
+  sug Brilliancy
+> Brazilian
+  spell 1 32 
+  sug Brazilian
+  sug Brasilia
+  sug Brassily
+  ana  st:Brazilian
+  stem Brazilian
+  stemmorph Brazilian
+> BRAZILIANSS
+  spell 0 32 
+  sug BRAZILIAN
+  sug BRASILIA
+  sug XXXXXXXXXX
+  sug BRILLIANT
+  sug BRILLIANCE
+  sug BRILLIANCY
+> <?xml?><query type="analyze"><word>Brazilian</word></query>
+  spell 0 32 
+  sug <code><a> st:Brazilian</a></code>
+> <?xml?><query type="stem"><word>Brazilian</word></query>
+  spell 0 32 
+  sug Brazilian
+> <?xml?><query type="suggest"><word>Brazilianx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Brazilian</word><word>brilliant</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Brazilian</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>Brazilian</word></query>
+  spell 0 32 
+  sug <code><a> st:Brazilian</a></code>
+> <?xml?><query type="add"><word>Brazilian</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Brazilian&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Brazilian</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,10 @@
+utf8 0
+line [``qoted'' it's don''t x'' ''y]
+token 2 [qoted''] word [qoted'']
+token 10 [it's] word [it's]
+token 15 [don''t] word [don''t]
+token 22 [x''] word [x'']
+prev 0 [``qoted'' it's don''t x'' ''y]
+prev 1 []
+prev 2 []
+prev 3 []

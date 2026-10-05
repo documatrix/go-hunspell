@@ -1,0 +1,636 @@
+# example: NASA
+> A
+  spell 1 32 
+  ana  st:a
+  stem a
+  stemmorph a
+> ALOT
+  spell 0 32 
+  sug A LOT
+  sug LOT
+> Ahev
+  spell 0 32 
+  sug Have
+> Alot
+  spell 0 32 
+  sug Lot
+  sug A lot
+> GANDHI
+  spell 1 32 
+  sug GANDHI
+  ana  st:Gandhi
+  stem Gandhi
+  stemmorph Gandhi
+> GAndhi
+  spell 0 32 
+  sug Gandhi
+> Gandhi
+  spell 1 32 
+  sug Gandhi
+  ana  st:Gandhi
+  stem Gandhi
+  stemmorph Gandhi
+> Gandhi-in
+  spell 1 33 
+> Gandhi.
+  spell 1 32 
+  sug Gandhi
+  ana  st:Gandhi
+  stem Gandhi
+  stemmorph Gandhi
+> GandhiG
+  spell 0 32 
+  sug Gandhi
+> GandhiNASA
+  spell 0 32 
+  sug Gandhi NASA
+> Gandhir
+  spell 0 32 
+  sug Gandhi
+> Gandhivacation
+  spell 0 32 
+  sug Gandhi vacation
+> Ganhdi
+  spell 0 32 
+  sug Gandhi
+> Ganqdhi
+  spell 0 32 
+  sug Gandhi
+> Ganrdhi
+  spell 0 32 
+  sug Gandhi
+> Ghandi
+  spell 0 32 
+  sug Gandhi
+> Ghandi-
+  spell 0 32 
+  sug Gandhi-
+> Ghandi-in
+  spell 0 32 
+  sug Gandhi-in
+> Ghandi.
+  spell 0 32 
+  sug Gandhi
+> Grateful
+  spell 1 32 
+  ana  st:grateful
+  stem grateful
+  stemmorph grateful
+> Have
+  spell 1 32 
+  ana  st:have
+  stem have
+  stemmorph have
+> Hwihc
+  spell 0 32 
+  sug Which
+> IN
+  spell 1 32 
+  ana  st:in
+  stem in
+  stemmorph in
+> INSPIRE
+  spell 1 32 
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> INSPITE
+  spell 0 32 
+  sug IN SPITE
+  sug INSPIRE
+> In
+  spell 1 32 
+  ana  st:in
+  stem in
+  stemmorph in
+> Lot
+  spell 1 32 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> MCDONALD
+  spell 1 32 
+  sug MCDONALD
+  ana  st:Mcdonald
+  stem Mcdonald
+  stemmorph Mcdonald
+> McDonAld
+  spell 0 32 
+  sug McDonald
+> McDonald
+  spell 1 32 
+  sug McDonald
+  ana  st:McDonald
+  stem McDonald
+  stemmorph McDonald
+> McDonald.
+  spell 1 32 
+  sug McDonald
+  ana  st:McDonald
+  stem McDonald
+  stemmorph McDonald
+> Mcdonald
+  spell 0 32 
+  sug McDonald
+  ana  st:Mcdonald
+  stem Mcdonald
+  stemmorph Mcdonald
+> NASA
+  spell 1 32 
+  sug NASA
+  ana  st:NASA
+  stem NASA
+  stemmorph NASA
+> NASA-greatful
+  spell 0 32 
+  sug NASA-grateful
+> NASAin
+  spell 0 32 
+  sug NASA in
+> NASAlot
+  spell 0 32 
+  sug NASA lot
+> NAwA
+  spell 0 32 
+> Nasa
+  spell 0 32 
+  sug NASA
+> NgSA
+  spell 0 32 
+> PERMANENT
+  spell 1 32 
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> PERMANENT.VACATION
+  spell 0 32 
+> PERMQNENT
+  spell 0 32 
+  sug PERMANENT
+> Permanent
+  spell 1 32 
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> Permanent.vacation
+  spell 0 32 
+> Permqnent-vacation
+  spell 0 32 
+> SPITE
+  spell 1 32 
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> Spite
+  spell 1 32 
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> VACATION
+  spell 1 32 
+  ana  st:vacation
+  stem vacation
+  stemmorph vacation
+> Vacacation
+  spell 0 32 
+  sug Vacation
+> VacatDion
+  spell 0 32 
+  sug Vacation
+> Vacatio
+  spell 0 32 
+> Vacation
+  spell 1 32 
+  ana  st:vacation
+  stem vacation
+  stemmorph vacation
+> Vacation-Ghandi
+  spell 0 32 
+  sug Vacation-Gandhi
+> Vacation-NASA
+  spell 1 33 
+> Vacationinspire
+  spell 0 32 
+  sug Vacation inspire
+> Vacationn
+  spell 0 32 
+  sug Vacation
+> Vacatoin
+  spell 0 32 
+  sug Vacation
+> WHICH
+  spell 1 32 
+  ana  st:which
+  stem which
+  stemmorph which
+> Which
+  spell 1 32 
+  ana  st:which
+  stem which
+  stemmorph which
+> a
+  spell 1 0 
+  ana  st:a
+  stem a
+  stemmorph a
+> a-permanent.Vacation
+  spell 0 32 
+  sug a-permanent. Vacation
+> a.
+  spell 1 0 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> ad
+  spell 0 0 
+  sug a
+> ahev
+  spell 0 0 
+  sug have
+> ahev-permanent
+  spell 0 0 
+  sug have-permanent
+> alot
+  spell 0 0 
+  sug a lot
+  sug lot
+> alot-have
+  spell 0 0 
+  sug a lot-have
+  sug lot-have
+> anasa
+  spell 0 0 
+> asa
+  spell 0 0 
+> au
+  spell 0 0 
+  sug a
+> ave
+  spell 0 0 
+> grateful
+  spell 1 0 
+  ana  st:grateful
+  stem grateful
+  stemmorph grateful
+> grateful.
+  spell 1 0 
+  sug grateful
+  ana  st:grateful
+  stem grateful
+  stemmorph grateful
+> gratefulMcDonald
+  spell 0 32 
+  sug grateful McDonald
+> gratefulpermanent
+  spell 0 0 
+  sug grateful permanent
+> greatful
+  spell 0 0 
+  sug grateful
+> have
+  spell 1 0 
+  ana  st:have
+  stem have
+  stemmorph have
+> havwe
+  spell 0 0 
+  sug have
+> hwhc
+  spell 0 0 
+> hwih
+  spell 0 0 
+> hwihc
+  spell 0 0 
+  sug which
+> hwihc-Mcdonald
+  spell 0 32 
+> hwihca
+  spell 0 0 
+> in
+  spell 1 0 
+  ana  st:in
+  stem in
+  stemmorph in
+> in-permenant
+  spell 0 0 
+  sug in-permanent
+> in.
+  spell 1 0 
+  sug in
+  ana  st:in
+  stem in
+  stemmorph in
+> inp
+  spell 0 0 
+  sug in
+> insiire
+  spell 0 0 
+> inspie
+  spell 0 0 
+> inspire
+  spell 1 0 
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> inspire.
+  spell 1 0 
+  sug inspire
+  ana  st:inspire
+  stem inspire
+  stemmorph inspire
+> inspirelot
+  spell 0 0 
+  sug inspire lot
+> inspite
+  spell 0 0 
+  sug in spite
+  sug inspire
+> ispite
+  spell 0 0 
+  sug spite
+> it
+  spell 0 0 
+> ivn
+  spell 0 0 
+  sug in
+> lot
+  spell 1 0 
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lot-McDonald
+  spell 1 33 
+> lot.
+  spell 1 0 
+  sug lot
+  ana  st:lot
+  stem lot
+  stemmorph lot
+> lotMcdonald
+  spell 0 32 
+> lota
+  spell 0 0 
+  sug lot
+  sug lot a
+> lotpermanent
+  spell 0 0 
+  sug lot permanent
+> nasa
+  spell 0 0 
+  sug NASA
+> nasa.
+  spell 0 0 
+  sug NASA
+> nasahave
+  spell 0 0 
+> ot
+  spell 0 0 
+> pDermanent
+  spell 0 32 
+  sug permanent
+> pemanent
+  spell 0 0 
+> perMenant
+  spell 0 32 
+  sug permanent
+> percmenant
+  spell 0 0 
+> permGanent
+  spell 0 32 
+  sug permanent
+> permGnant
+  spell 0 32 
+> perma-nent.
+  spell 0 0 
+  sug permanent
+> perma.ent
+  spell 0 0 
+> permanent
+  spell 1 0 
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> permanent-NASA
+  spell 1 33 
+> permanent-vacation
+  spell 0 2 
+> permanent-vaction
+  spell 0 0 
+> permanent.
+  spell 1 0 
+  sug permanent
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> permanent..
+  spell 1 0 
+  sug permanent
+  ana  st:permanent
+  stem permanent
+  stemmorph permanent
+> permanent.Vacation
+  spell 0 32 
+  sug permanent. Vacation
+> permanent.Vacationpermanent-vacation
+  spell 0 32 
+> permanent.greatful
+  spell 0 0 
+> permanentNASA
+  spell 0 32 
+  sug permanent NASA
+> permanentevacation
+  spell 0 0 
+> perme.ant
+  spell 0 0 
+> permenant
+  spell 0 0 
+  sug permanent
+> permenatn
+  spell 0 0 
+> permlnent-vacation
+  spell 0 0 
+> permnaent
+  spell 0 0 
+  sug permanent
+> permqnent
+  spell 0 0 
+  sug permanent
+> permqnent-vacation
+  spell 0 0 
+> permqnent-vacationpermanent-vacation
+  spell 0 0 
+  sug permanent-vacationpermanent-vacation
+> permqnenta
+  spell 0 0 
+> spit.
+  spell 0 0 
+> spite
+  spell 1 0 
+  ana  st:spite
+  stem spite
+  stemmorph spite
+> spite-Gandhi
+  spell 1 33 
+> vacacation
+  spell 0 0 
+  sug vacation
+> vacacation-lot
+  spell 0 0 
+  sug vacation-lot
+> vacacationGAndhi
+  spell 0 32 
+> vacatio
+  spell 0 0 
+> vacation
+  spell 1 0 
+  ana  st:vacation
+  stem vacation
+  stemmorph vacation
+> vacation-McDonald
+  spell 1 33 
+> vacation-alot
+  spell 0 0 
+  sug vacation-a lot
+  sug vacation-lot
+> vacation.
+  spell 1 0 
+  sug vacation
+  ana  st:vacation
+  stem vacation
+  stemmorph vacation
+> vacationpermanent.Vacation
+  spell 0 32 
+> whach
+  spell 0 0 
+> whch
+  spell 0 0 
+> which
+  spell 1 0 
+  ana  st:which
+  stem which
+  stemmorph which
+> whivh
+  spell 0 0 
+  sug which
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> alot's
+  spell 0 0 
+> alotâ€™s
+  spell 0 0 
+> 'alot'
+  spell 0 0 
+> l'alot
+  spell 0 0 
+> alot.
+  spell 0 0 
+  sug a lot
+  sug lot
+> alot..
+  spell 0 0 
+  sug a lot
+  sug lot
+> .alot
+  spell 0 0 
+> ...
+  spell 1 0 
+> -alot
+  spell 0 0 
+  sug -a lot
+  sug -lot
+> alot-
+  spell 0 0 
+  sug a lot-
+  sug lot-
+> alot--vacation
+  spell 0 0 
+  sug a lot--vacation
+  sug lot--vacation
+> alot-vacation-alot
+  spell 0 0 
+  sug a lot-vacation-alot
+  sug lot-vacation-alot
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> ALOT
+  spell 0 32 
+  sug A LOT
+  sug LOT
+> ALOT
+  spell 0 32 
+  sug A LOT
+  sug LOT
+> Alot
+  spell 0 32 
+  sug Lot
+  sug A lot
+> alot vacation
+  spell 0 0 
+  sug a lot vacation
+>  alot
+  spell 0 0 
+  sug a lot
+  sug lot
+> alot 
+  spell 0 0 
+> alot	vacation
+  spell 0 0 
+> ÿþalot
+  spell 0 0 
+> alotÃ
+  spell 0 32 
+> €alot
+  spell 0 0 
+> ð€alot
+  spell 0 0 
+> Ä°alot
+  spell 0 32 
+> alotÃŸ
+  spell 0 32 
+> alot
+  spell 0 0 
+  sug a lot
+  sug lot
+> ALOTSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>alot</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>alot</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>alotx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>alot</word><word>vacation</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>alot</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>alot</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>alot</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;alot&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>alot</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

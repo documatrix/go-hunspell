@@ -1,0 +1,523 @@
+# example: arbeits
+> ARBEITS
+  spell 1 32 
+  sug ARBEITS
+  ana  st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> ARBEITSFARBIG
+  spell 0 32 
+  sug ARBEITS FARBIG
+  sug ARBEITS-FARBIG
+> ARBEITSFARBIGE
+  spell 0 32 
+  sug ARBEITS FARBIGE
+  sug ARBEITS-FARBIGE
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> ARBEITSFARBIGER
+  spell 0 32 
+  sug ARBEITS FARBIGER
+  sug ARBEITS-FARBIGER
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> Arbeits
+  spell 1 32 
+  sug arbeits
+  ana  st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> Arbeitsfarbig
+  spell 0 32 
+  sug Arbeits farbig
+  sug Arbeits-farbig
+> Arbeitsfarbige
+  spell 0 32 
+  sug Arbeits farbige
+  sug Arbeits-farbige
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> Arbeitsfarbiger
+  spell 0 32 
+  sug Arbeits farbiger
+  sug Arbeits-farbiger
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> FARBIG
+  spell 1 32 
+  sug FARBIGE
+  sug FARBIG
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> Farbig
+  spell 1 32 
+  sug farbig
+  sug Farbige
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> SCHEU
+  spell 1 32 
+  sug SCHEUE
+  sug SCHEU
+  ana  st:scheu
+  stem scheu
+  stemmorph scheu
+> Scheu
+  spell 1 32 
+  sug scheu
+  sug Scheue
+  ana  st:scheu
+  stem scheu
+  stemmorph scheu
+> abeitsfarbig
+  spell 0 0 
+> abeitsfarbiger
+  spell 0 0 
+> afrbig
+  spell 0 0 
+  sug farbig
+> airbeits
+  spell 0 0 
+  sug arbeits
+> arbaits
+  spell 0 0 
+  sug arbeits
+> arbeiisfarbiger
+  spell 0 0 
+> arbeitbs
+  spell 0 0 
+  sug arbeits
+> arbeits
+  spell 1 0 
+  sug arbeits
+  ana  st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> arbeits-arbeits
+  spell 1 1 
+> arbeits-farbig
+  spell 1 1 
+> arbeits.
+  spell 1 0 
+  sug arbeits
+  ana  st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> arbeitsarbeitsfarbig
+  spell 0 0 
+> arbeitsarbeitsfarbiger
+  spell 0 0 
+> arbeitsarbige
+  spell 0 0 
+> arbeitsb
+  spell 0 0 
+  sug arbeits
+> arbeitsbfarbiger
+  spell 0 0 
+> arbeitsfaarbiger
+  spell 0 0 
+> arbeitsfabig
+  spell 0 0 
+> arbeitsfabiger
+  spell 0 0 
+> arbeitsfarbbge
+  spell 0 0 
+> arbeitsfarbife
+  spell 0 0 
+> arbeitsfarbig
+  spell 0 0 
+  sug arbeits farbig
+  sug arbeits-farbig
+> arbeitsfarbig-arbeitsfarbig
+  spell 0 0 
+  sug arbeits farbig-arbeitsfarbig
+  sug arbeits-farbig-arbeitsfarbig
+> arbeitsfarbig-farbig
+  spell 0 0 
+  sug arbeits farbig-farbig
+  sug arbeits-farbig-farbig
+> arbeitsfarbig.
+  spell 0 0 
+  sug arbeits farbig
+  sug arbeits-farbig
+> arbeitsfarbige
+  spell 0 0 
+  sug arbeits farbige
+  sug arbeits-farbige
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> arbeitsfarbige-arbeitsfarbig
+  spell 0 0 
+  sug arbeits farbige-arbeitsfarbig
+  sug arbeits-farbige-arbeitsfarbig
+> arbeitsfarbige-arbeitsfarbiger
+  spell 0 0 
+  sug arbeits farbige-arbeitsfarbiger
+  sug arbeits-farbige-arbeitsfarbiger
+> arbeitsfarbige-farbig
+  spell 0 0 
+  sug arbeits farbige-farbig
+  sug arbeits-farbige-farbig
+> arbeitsfarbige.
+  spell 0 0 
+  sug arbeits farbige
+  sug arbeits-farbige
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> arbeitsfarbigearbeitsfarbig
+  spell 0 0 
+> arbeitsfarbigearbeitsfarbige
+  spell 0 0 
+> arbeitsfarbigearbeitsfarbiger
+  spell 0 0 
+> arbeitsfarbigeh
+  spell 0 0 
+> arbeitsfarbiger
+  spell 0 0 
+  sug arbeits farbiger
+  sug arbeits-farbiger
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> arbeitsfarbiger-arbeits
+  spell 0 0 
+  sug arbeits farbiger-arbeits
+  sug arbeits-farbiger-arbeits
+> arbeitsfarbiger-arbeitsfarbig
+  spell 0 0 
+  sug arbeits farbiger-arbeitsfarbig
+  sug arbeits-farbiger-arbeitsfarbig
+> arbeitsfarbiger-arbeitsfarbiger
+  spell 0 0 
+  sug arbeits farbiger-arbeitsfarbiger
+  sug arbeits-farbiger-arbeitsfarbiger
+> arbeitsfarbiger-farbig
+  spell 0 0 
+  sug arbeits farbiger-farbig
+  sug arbeits-farbiger-farbig
+> arbeitsfarbiger-scheu
+  spell 0 0 
+  sug arbeits farbiger-scheu
+  sug arbeits-farbiger-scheu
+> arbeitsfarbiger.
+  spell 0 0 
+  sug arbeits farbiger
+  sug arbeits-farbiger
+  ana  pa:arbeits st:arbeits
+  stem arbeits
+  stemmorph arbeits
+> arbeitsfarbigerarbeits
+  spell 0 0 
+> arbeitsfarbigerarbeitsfarbige
+  spell 0 0 
+> arbeitsfarbigerfarbig
+  spell 0 0 
+> arbeitsfarbigfr
+  spell 0 0 
+> arbeitsfarbiguer
+  spell 0 0 
+> arbeitsfarbirger
+  spell 0 0 
+> arbeitsfarbtig
+  spell 0 0 
+> arbeitsfarhbige
+  spell 0 0 
+> arbeitsfaribger
+  spell 0 0 
+> arbeitsfasbiger
+  spell 0 0 
+> arbeitsfsrbiger
+  spell 0 0 
+> arbesits
+  spell 0 0 
+  sug arbeits
+> arbeutsfarbig
+  spell 0 0 
+> arbheits
+  spell 0 0 
+  sug arbeits
+> arbig
+  spell 0 0 
+  sug farbig
+  sug arbeits
+> arbsitsfarbige
+  spell 0 0 
+> arebitsfarbig
+  spell 0 0 
+> areits
+  spell 0 0 
+  sug arbeits
+> cheu
+  spell 0 0 
+  sug scheu
+> csheu
+  spell 0 0 
+  sug scheu
+> fagbig
+  spell 0 0 
+  sug farbig
+> farbg
+  spell 0 0 
+  sug farbig
+> farbgi
+  spell 0 0 
+  sug farbig
+> farbi
+  spell 0 0 
+  sug farbig
+  sug arbeits
+> farbig
+  spell 1 0 
+  sug farbige
+  sug farbig
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+  sfx farbige
+  sfx farbigem
+  sfx farbigen
+  sfx farbiger
+  sfx farbiges
+> farbig-arbeits
+  spell 1 1 
+> farbig.
+  spell 1 0 
+  sug farbige
+  sug farbig
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> farbiga
+  spell 0 0 
+  sug farbig
+  sug farbige
+> farbigfarbig
+  spell 0 0 
+  sug farbig farbig
+  sug farbig-farbig
+> farig
+  spell 0 0 
+  sug farbig
+> rabeitsfarbiger
+  spell 0 0 
+> sche
+  spell 0 0 
+  sug scheu
+> scheu
+  spell 1 0 
+  sug scheue
+  sug scheu
+  ana  st:scheu
+  stem scheu
+  stemmorph scheu
+  sfx scheue
+  sfx scheuem
+  sfx scheuen
+  sfx scheuer
+  sfx scheues
+> scheu-arbeits
+  spell 1 1 
+> scheu-arbeitsfarbige
+  spell 0 0 
+  sug scheu-arbeits farbige
+  sug scheu-arbeits-farbige
+> scheu-arbeitsfarbiger
+  spell 0 0 
+  sug scheu-arbeits farbiger
+  sug scheu-arbeits-farbiger
+> scheu-farbig
+  spell 1 1 
+> scheu.
+  spell 1 0 
+  sug scheue
+  sug scheu
+  ana  st:scheu
+  stem scheu
+  stemmorph scheu
+> scheuarbeitsfarbig
+  spell 0 0 
+> scheuarbeitsfarbige
+  spell 0 0 
+> scheuscheu
+  spell 0 0 
+  sug scheu scheu
+  sug scheu-scheu
+> schru
+  spell 0 0 
+  sug scheu
+> schue
+  spell 0 0 
+  sug scheu
+  sug scheue
+> shceu
+  spell 0 0 
+  sug scheu
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> farbig's
+  spell 0 0 
+  sug farbiges
+  sug farbig
+> farbigâ€™s
+  spell 0 0 
+  sug farbig
+> 'farbig'
+  spell 0 0 
+  sug farbig
+> l'farbig
+  spell 0 0 
+  sug farbig
+> farbig.
+  spell 1 0 
+  sug farbige
+  sug farbig
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> farbig..
+  spell 1 0 
+  sug farbige
+  sug farbig
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> .farbig
+  spell 0 0 
+  sug farbig
+> ...
+  spell 1 0 
+> -farbig
+  spell 1 1 
+  sug farbig
+> farbig-
+  spell 1 1 
+  sug farbig
+  sug farbige
+> farbig--arbeits
+  spell 1 1 
+> farbig-arbeits-farbig
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FARBIG
+  spell 1 32 
+  sug FARBIGE
+  sug FARBIG
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> FARBIG
+  spell 1 32 
+  sug FARBIGE
+  sug FARBIG
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> Farbig
+  spell 1 32 
+  sug farbig
+  sug Farbige
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> farbig arbeits
+  spell 0 0 
+>  farbig
+  spell 1 0 
+  sug farbige
+  sug farbig
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+> farbig 
+  spell 0 0 
+  sug farbig
+  sug farbige
+> farbig	arbeits
+  spell 0 0 
+> ÿşfarbig
+  spell 0 0 
+  sug farbig
+> farbigÃ
+  spell 0 32 
+  sug farbig
+  sug farbige
+> €farbig
+  spell 0 0 
+  sug farbig
+> ğ€farbig
+  spell 0 0 
+  sug farbig
+> Ä°farbig
+  spell 0 32 
+  sug Farbig
+> farbigÃŸ
+  spell 0 32 
+  sug farbig
+> farbig
+  spell 1 0 
+  sug farbige
+  sug farbig
+  ana  st:farbig
+  stem farbig
+  stemmorph farbig
+  sfx farbige
+  sfx farbigem
+  sfx farbigen
+  sfx farbiger
+  sfx farbiges
+> FARBIGSS
+  spell 0 32 
+  sug FARBIGES
+  sug FARBIG
+> <?xml?><query type="analyze"><word>farbig</word></query>
+  spell 0 0 
+  sug <code><a> st:farbig</a></code>
+> <?xml?><query type="stem"><word>farbig</word></query>
+  spell 0 0 
+  sug farbig
+> <?xml?><query type="suggest"><word>farbigx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>farbig</word><word>arbeits</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>farbig</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>farbig</word></query>
+  spell 0 0 
+  sug <code><a> st:farbig</a></code>
+> <?xml?><query type="add"><word>farbig</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;farbig&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>farbig</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

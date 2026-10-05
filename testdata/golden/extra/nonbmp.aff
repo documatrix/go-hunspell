@@ -1,0 +1,7 @@
+# dictionary words past the BMP (their length is 65535 in the n-gram
+# search) and malformed UTF-8
+SET UTF-8
+TRY ab
+
+SFX S Y 1
+SFX S 0 𐀀 .

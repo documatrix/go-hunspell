@@ -1,0 +1,368 @@
+# example: أرى
+> �رى
+  spell 0 0 
+  sug أرى
+> ��رى
+  spell 0 0 
+> ��يار
+  spell 0 0 
+> �أيار
+  spell 0 0 
+  sug أيار
+> أ��ار
+  spell 0 0 
+> أ��ار
+  spell 0 0 
+> أ�رى
+  spell 0 0 
+  sug أرى
+> أ��ى
+  spell 0 0 
+> أ��ى
+  spell 0 0 
+> أ�ى
+  spell 0 0 
+  sug أرى
+> أر�
+  spell 0 0 
+  sug أرى
+> أر�ى
+  spell 0 0 
+  sug أرى
+> أرى
+  spell 1 0 
+  sug أرى
+  ana  st:أرى
+  stem أرى
+  stemmorph أرى
+> أرى-أرى
+  spell 1 1 
+  sug أرى
+> أرى-أيار
+  spell 1 1 
+  sug أيار
+> أرى-ترى
+  spell 1 1 
+  sug أرى
+> أرى.
+  spell 1 0 
+  sug أرى
+  ana  st:أرى
+  stem أرى
+  stemmorph أرى
+> أرى�
+  spell 0 0 
+  sug أرى
+> أرى�
+  spell 0 0 
+  sug أرى
+> أرى�
+  spell 0 0 
+  sug أرى
+> أرىأرى
+  spell 0 0 
+  sug أرى أرى
+  sug أرى
+> أرىأيار
+  spell 0 0 
+  sug أرى أيار
+  sug أيار
+> أرىترى
+  spell 0 0 
+  sug أرى ترى
+  sug أرى
+> أرىتيار
+  spell 0 0 
+> أر٧�
+  spell 0 0 
+  sug أرى
+> أ�ٱ�
+  spell 0 0 
+> أي�ار
+  spell 0 0 
+  sug أيار
+> أي�ر
+  spell 0 0 
+  sug أيار
+> أي��ر
+  spell 0 0 
+> أياأ�
+  spell 0 0 
+  sug أيار
+> أيار
+  spell 1 0 
+  sug أيار
+  ana  st:أيار
+  stem أيار
+  stemmorph أيار
+> أيار-أيار
+  spell 1 1 
+> أيار-ترى
+  spell 1 1 
+  sug أيار
+> أيار-تيار
+  spell 0 0 
+  sug أيار-أيار
+> أيار.
+  spell 1 0 
+  sug أيار
+  ana  st:أيار
+  stem أيار
+  stemmorph أيار
+> أيارأيار
+  spell 0 0 
+  sug أيار أيار
+  sug أيار
+> أيارتيار
+  spell 0 0 
+  sug أيار
+> أيار�
+  spell 0 0 
+  sug أيار
+> أياٱ
+  spell 0 0 
+  sug أيار
+> أي�ر
+  spell 0 0 
+  sug أيار
+> أي�٧ر
+  spell 0 0 
+  sug أيار
+> أ�ار
+  spell 0 0 
+  sug أيار
+> أ����
+  spell 0 0 
+  sug أرى
+> أ������
+  spell 0 0 
+  sug أرى
+> ت��ى
+  spell 0 0 
+> تر�
+  spell 0 0 
+  sug ترى
+> تر��
+  spell 0 0 
+  sug ترى
+> ترى
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى-أرى
+  spell 1 1 
+  sug ترى
+> ترى.
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى�
+  spell 0 0 
+  sug ترى
+> ترى�
+  spell 0 0 
+  sug ترى
+> ترىأرى
+  spell 0 0 
+  sug ترى أرى
+  sug ترى
+> تر٧
+  spell 0 0 
+  sug ترى
+> تر٪
+  spell 0 0 
+  sug ترى
+> ت�رى
+  spell 0 0 
+  sug ترى
+> ت�ٱ�
+  spell 0 0 
+> تيا�ر
+  spell 0 0 
+> تيا�
+  spell 0 0 
+> تيار
+  spell 0 0 
+  sug أيار
+> تيار-أرى
+  spell 0 0 
+  sug أيار-أرى
+> تيار-أيار
+  spell 0 0 
+  sug أيار-أيار
+> تيار.
+  spell 0 0 
+  sug أيار
+> تيارأرى
+  spell 0 0 
+> تيارترى
+  spell 0 0 
+> تيارتيار
+  spell 0 0 
+  sug أيار
+> ت�ار
+  spell 0 0 
+> ت�يار
+  spell 0 0 
+  sug أيار
+> ت����
+  spell 0 0 
+  sug ترى
+> ت������
+  spell 0 0 
+  sug ترى
+> �رى
+  spell 0 0 
+  sug أرى
+> �يار
+  spell 0 0 
+  sug أيار
+> �ترى
+  spell 0 0 
+  sug ترى
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> ترى's
+  spell 0 0 
+  sug ترى
+> ترى’s
+  spell 0 0 
+  sug ترى
+> 'ترى'
+  spell 0 0 
+> l'ترى
+  spell 0 0 
+> ترى.
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى..
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> .ترى
+  spell 0 0 
+  sug ترى
+> ...
+  spell 1 0 
+> -ترى
+  spell 1 1 
+  sug ترى
+> ترى-
+  spell 1 1 
+  sug ترى
+> ترى--أرى
+  spell 1 1 
+> ترى-أرى-ترى
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ترى
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى أرى
+  spell 0 0 
+  sug ترى
+>  ترى
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترى 
+  spell 0 0 
+  sug ترى
+> ترى	أرى
+  spell 0 0 
+  sug ترى
+> ��ترى
+  spell 0 0 
+> ترى�
+  spell 0 0 
+  sug ترى
+> �ترى
+  spell 0 0 
+  sug ترى
+> 𐐀ترى
+  spell 0 0 
+> İترى
+  spell 0 32 
+  sug ترى
+> ترىß
+  spell 0 0 
+  sug ترى
+> ترى
+  spell 1 0 أرى
+  sug ترى
+  ana ت st:أرى fl:x
+  stem أرى
+  stemmorph أرى
+> ترىSS
+  spell 0 32 
+  sug ترى
+> <?xml?><query type="analyze"><word>ترى</word></query>
+  spell 0 0 
+  sug <code><a>ت st:أرى fl:x</a></code>
+> <?xml?><query type="stem"><word>ترى</word></query>
+  spell 0 0 
+  sug أرى
+> <?xml?><query type="suggest"><word>ترىx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ترى</word><word>أرى</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ترى</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>ترى</word></query>
+  spell 0 0 
+  sug <code><a>ت st:أرى fl:x</a></code>
+> <?xml?><query type="add"><word>ترى</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;ترى&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>ترى</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

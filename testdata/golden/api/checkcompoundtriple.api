@@ -1,0 +1,642 @@
+# example: foo
+> BARE
+  spell 1 32 
+  sug BARE
+  ana  st:bare
+  stem bare
+  stemmorph bare
+> Bare
+  spell 1 32 
+  sug bare
+  ana  st:bare
+  stem bare
+  stemmorph bare
+> Bareeel
+  spell 0 32 
+  sug Bare eel
+  sug Bare
+> EEL
+  spell 1 32 
+  sug EEL
+  ana  st:eel
+  stem eel
+  stemmorph eel
+> EELBARE
+  spell 1 33 eel
+  sug EEL BARE
+  sug EELBARE
+  sug BARE
+  ana  pa:eel st:eel pa:bare
+  stem eel
+  stemmorph eel
+> EELFOO
+  spell 1 33 eel
+  sug EEL FOO
+  sug EELFOO
+  ana  pa:eel st:eel pa:foo
+  stem eel
+  stemmorph eel
+> Eelopera
+  spell 1 33 eel
+  sug Eel opera
+  sug eelopera
+  ana  pa:eel st:eel pa:opera
+  stem eel
+  stemmorph eel
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOOPERA
+  spell 0 32 
+  sug FOO OPERA
+  sug OPERA
+> Fooopera
+  spell 0 32 
+  sug Foo opera
+  sug Opera
+> OPERA
+  spell 1 32 
+  sug OPERA
+  ana  st:opera
+  stem opera
+  stemmorph opera
+> OPERAEEL
+  spell 1 33 opera
+  sug OPERA EEL
+  sug OPERAEEL
+  sug OPERA
+  ana  pa:opera st:opera pa:eel
+  stem opera
+  stemmorph opera
+> OPERAFOO
+  spell 1 33 opera
+  sug OPERA FOO
+  sug OPERAFOO
+  sug OPERA
+  ana  pa:opera st:opera pa:foo
+  stem opera
+  stemmorph opera
+> Opera
+  spell 1 32 
+  sug opera
+  ana  st:opera
+  stem opera
+  stemmorph opera
+> Operabare
+  spell 1 33 opera
+  sug Opera bare
+  sug Opera
+  ana  pa:opera st:opera pa:bare
+  stem opera
+  stemmorph opera
+> Operaeel
+  spell 1 33 opera
+  sug Opera eel
+  sug operaeel
+  ana  pa:opera st:opera pa:eel
+  stem opera
+  stemmorph opera
+> Operafoo
+  spell 1 33 opera
+  sug Opera foo
+  sug operafoo
+  ana  pa:opera st:opera pa:foo
+  stem opera
+  stemmorph opera
+> aeel
+  spell 0 0 
+  sug eel
+> bae
+  spell 0 0 
+  sug bare
+> bare
+  spell 1 0 
+  sug bare
+  ana  st:bare
+  stem bare
+  stemmorph bare
+> bare-eelfoo
+  spell 1 1 
+> bare.
+  spell 1 0 
+  sug bare
+  ana  st:bare
+  stem bare
+  stemmorph bare
+> bareeael
+  spell 0 0 
+  sug bare
+> bareeel
+  spell 0 0 
+  sug bare eel
+  sug bare
+> bareeel-operafoo
+  spell 0 0 
+  sug bare eel-operafoo
+  sug bare-operafoo
+> bareeel.
+  spell 0 0 
+  sug bare eel
+  sug bare
+> bareeeleelbare
+  spell 0 0 
+> bareeelf
+  spell 0 0 
+  sug bare
+> bareeell
+  spell 0 0 
+  sug bare
+> bareeelopera
+  spell 0 0 
+> baref
+  spell 0 0 
+  sug bare
+> barefooopera
+  spell 0 0 
+> barer
+  spell 0 0 
+  sug bare
+> barfe
+  spell 0 0 
+  sug bare
+> bfoo
+  spell 0 0 
+  sug foo
+> boare
+  spell 0 0 
+  sug bare
+> braeeel
+  spell 0 0 
+> breeel
+  spell 0 0 
+> eare
+  spell 0 0 
+  sug bare
+> eeafoo
+  spell 0 0 
+> eebl
+  spell 0 0 
+  sug eel
+> eel
+  spell 1 0 
+  sug eel
+  ana  st:eel
+  stem eel
+  stemmorph eel
+> eel-eelopera
+  spell 1 1 
+  sug eeleelopera
+> eel.
+  spell 1 0 
+  sug eel
+  ana  st:eel
+  stem eel
+  stemmorph eel
+> eelbaoe
+  spell 0 0 
+> eelbare
+  spell 1 1 eel
+  sug eel bare
+  sug eelbare
+  ana  pa:eel st:eel pa:bare
+  stem eel
+  stemmorph eel
+> eelbare.
+  spell 1 1 eel
+  sug eel bare
+  sug eelbare
+  sug bare
+  ana  pa:eel st:eel pa:bare
+  stem eel
+  stemmorph eel
+> eelbareeelbare
+  spell 0 0 
+  sug eelbare eelbare
+> eelbareoperaeel
+  spell 1 1 eel
+  sug eelbare operaeel
+  ana  pa:eel st:eel pa:bare st:bare pa:opera st:opera pa:eel
+  stem eelbareopera
+  stemmorph eelbareopera
+> eelepera
+  spell 0 0 
+  sug opera
+> eelfoo
+  spell 1 1 eel
+  sug eel foo
+  sug eelfoo
+  ana  pa:eel st:eel pa:foo
+  stem eel
+  stemmorph eel
+> eelfoo-bareeel
+  spell 0 0 
+  sug eelfoo-bare eel
+  sug eelfoo-bare
+> eelfoo-opera
+  spell 1 1 
+> eelfoo.
+  spell 1 1 eel
+  sug eel foo
+  sug eelfoo
+  ana  pa:eel st:eel pa:foo
+  stem eel
+  stemmorph eel
+> eelfooopera
+  spell 0 0 
+> eelfoooperaeel
+  spell 0 0 
+  sug eelfoo operaeel
+> eeloepra
+  spell 0 0 
+  sug eelopera
+> eelofo
+  spell 0 0 
+  sug eelfoo
+> eeloo
+  spell 0 0 
+  sug eel
+> eelopera
+  spell 1 1 eel
+  sug eel opera
+  sug eelopera
+  ana  pa:eel st:eel pa:opera
+  stem eel
+  stemmorph eel
+> eelopera.
+  spell 1 1 eel
+  sug eel opera
+  sug eelopera
+  sug opera
+  ana  pa:eel st:eel pa:opera
+  stem eel
+  stemmorph eel
+> eeloperabare
+  spell 1 1 eel
+  sug eeloperabare
+  ana  pa:eel st:eel pa:opera st:opera pa:bare
+  stem eelopera
+  stemmorph eelopera
+> eeloperabareeel
+  spell 0 0 
+> eeloperf
+  spell 0 0 
+  sug opera
+> eelpera
+  spell 0 0 
+  sug opera
+> eelroo
+  spell 0 0 
+> efoo
+  spell 0 0 
+  sug foo
+> el
+  spell 0 0 
+  sug eel
+> ele
+  spell 0 0 
+  sug eel
+> elebare
+  spell 0 0 
+  sug eelbare
+> elefoo
+  spell 0 0 
+  sug eelfoo
+> elelbare
+  spell 0 0 
+  sug eelbare
+> elopera
+  spell 0 0 
+  sug opera
+> faoopera
+  spell 0 0 
+  sug opera
+> fare
+  spell 0 0 
+  sug bare
+> fof
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-operabare
+  spell 1 1 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foobareeel
+  spell 0 0 
+> fooeel
+  spell 1 1 foo
+  sug foo eel
+  sug fooeel
+  ana  pa:foo st:foo pa:eel
+  stem foo
+  stemmorph foo
+> fooopeara
+  spell 0 0 
+> fooopera
+  spell 0 0 
+  sug foo opera
+  sug opera
+> fooopera-eel
+  spell 0 0 
+  sug foo opera-eel
+  sug opera-eel
+> fooopera-eelopera
+  spell 0 0 
+  sug foo opera-eelopera
+  sug opera-eelopera
+> fooopera-opera
+  spell 0 0 
+  sug foo opera-opera
+  sug opera-opera
+> fooopera.
+  spell 0 0 
+  sug foo opera
+  sug opera
+> foooperabare
+  spell 0 0 
+> oelopera
+  spell 0 0 
+  sug opera
+> oo
+  spell 0 0 
+  sug foo
+> opbera
+  spell 0 0 
+  sug opera
+> opefafoo
+  spell 0 0 
+> opelabare
+  spell 0 0 
+> opera
+  spell 1 0 
+  sug opera
+  ana  st:opera
+  stem opera
+  stemmorph opera
+> opera-eel
+  spell 1 1 
+  sug operaeel
+> opera-fooopera
+  spell 0 0 
+  sug opera-foo opera
+  sug opera-opera
+> operabare
+  spell 1 1 opera
+  sug opera bare
+  sug opera
+  ana  pa:opera st:opera pa:bare
+  stem opera
+  stemmorph opera
+> operabare-eelopera
+  spell 1 1 
+> operabare.
+  spell 1 1 opera
+  sug opera bare
+  sug operabare
+  sug opera
+  ana  pa:opera st:opera pa:bare
+  stem opera
+  stemmorph opera
+> operabaro
+  spell 0 0 
+  sug opera
+> operaeel
+  spell 1 1 opera
+  sug opera eel
+  sug operaeel
+  ana  pa:opera st:opera pa:eel
+  stem opera
+  stemmorph opera
+> operaeel-eelfoo
+  spell 1 1 
+  sug operaeeleelfoo
+> operaeel.
+  spell 1 1 opera
+  sug opera eel
+  sug operaeel
+  sug opera
+  ana  pa:opera st:opera pa:eel
+  stem opera
+  stemmorph opera
+> operaeeleelbare
+  spell 1 1 opera
+  sug operaeel eelbare
+  ana  pa:opera st:opera pa:eel st:eel pa:eel st:eel pa:bare
+  stem operaeeleel
+  stemmorph operaeeleel
+> operaeelfooopera
+  spell 0 0 
+> operaeeloperafoo
+  spell 1 1 opera
+  sug operaeel operafoo
+  ana  pa:opera st:opera pa:eel st:eel pa:opera st:opera pa:foo
+  stem operaeelopera
+  stemmorph operaeelopera
+> operafoo
+  spell 1 1 opera
+  sug opera foo
+  sug operafoo
+  ana  pa:opera st:opera pa:foo
+  stem opera
+  stemmorph opera
+> operafoo-eel
+  spell 1 1 
+  sug operafooeel
+> operafoo-eelfoo
+  spell 1 1 
+  sug operafooeelfoo
+> operafoo-eelopera
+  spell 1 1 
+  sug operafooeelopera
+> operafooeelbare
+  spell 1 1 opera
+  sug operafoo eelbare
+  ana  pa:opera st:opera pa:foo st:foo pa:eel st:eel pa:bare
+  stem operafooeel
+  stemmorph operafooeel
+> operafooopera
+  spell 0 0 
+> operaoperabare
+  spell 1 1 opera
+  ana  pa:opera st:opera pa:opera st:opera pa:bare
+  stem operaopera
+  stemmorph operaopera
+> operaoperafoo
+  spell 1 1 opera
+  sug operaoperafoo
+  ana  pa:opera st:opera pa:opera st:opera pa:foo
+  stem operaopera
+  stemmorph operaopera
+> operb
+  spell 0 0 
+  sug opera
+> operbare
+  spell 0 0 
+  sug opera
+> operp
+  spell 0 0 
+  sug opera
+> operpafoo
+  spell 0 0 
+  sug operafoo
+> oplerafoo
+  spell 0 0 
+  sug operafoo
+> oplra
+  spell 0 0 
+  sug opera
+> opra
+  spell 0 0 
+  sug opera
+> opreabare
+  spell 0 0 
+  sug operabare
+> opreaeel
+  spell 0 0 
+  sug operaeel
+> oprerabare
+  spell 0 0 
+  sug operabare
+> orerafoo
+  spell 0 0 
+> perabare
+  spell 0 0 
+  sug opera
+> rpera
+  spell 0 0 
+  sug opera
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> bareeel's
+  spell 0 0 
+> bareeelâ€™s
+  spell 0 0 
+> 'bareeel'
+  spell 0 0 
+> l'bareeel
+  spell 0 0 
+> bareeel.
+  spell 0 0 
+  sug bare eel
+  sug bare
+> bareeel..
+  spell 0 0 
+  sug bare eel
+  sug bare
+> .bareeel
+  spell 0 0 
+> ...
+  spell 1 0 
+> -bareeel
+  spell 0 0 
+  sug -bare eel
+  sug -bare
+> bareeel-
+  spell 0 0 
+  sug bare eel-
+  sug bare-
+  sug bare
+> bareeel--eelbare
+  spell 0 0 
+  sug bare eel--eelbare
+  sug bare--eelbare
+> bareeel-eelbare-bareeel
+  spell 0 0 
+  sug bare eel-eelbare-bareeel
+  sug bare-eelbare-bareeel
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> BAREEEL
+  spell 0 32 
+  sug BARE EEL
+  sug BARE
+> BAREEEL
+  spell 0 32 
+  sug BARE EEL
+  sug BARE
+> Bareeel
+  spell 0 32 
+  sug Bare eel
+  sug Bare
+> bareeel eelbare
+  spell 0 0 
+>  bareeel
+  spell 0 0 
+  sug bare eel
+  sug bare
+> bareeel 
+  spell 0 0 
+  sug bare
+> bareeel	eelbare
+  spell 0 0 
+> ÿþbareeel
+  spell 0 0 
+> bareeelÃ
+  spell 0 32 
+  sug bare
+> €bareeel
+  spell 0 0 
+> ð€bareeel
+  spell 0 0 
+> Ä°bareeel
+  spell 0 32 
+> bareeelÃŸ
+  spell 0 32 
+> bareeel
+  spell 0 0 
+  sug bare eel
+  sug bare
+> BAREEELSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>bareeel</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>bareeel</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>bareeelx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>bareeel</word><word>eelbare</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>bareeel</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>bareeel</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>bareeel</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;bareeel&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>bareeel</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

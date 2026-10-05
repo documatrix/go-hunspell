@@ -1,0 +1,5 @@
+# malformed UTF-8 in a dictionary with COMPLEXPREFIXES
+SET UTF-8
+COMPLEXPREFIXES
+PFX P Y 1
+PFX P 0 re .

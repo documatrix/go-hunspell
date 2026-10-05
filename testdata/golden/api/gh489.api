@@ -1,0 +1,209 @@
+# example: foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> ffo
+  spell 0 0 
+  sug foo
+> ffoo
+  spell 0 0 
+  sug foo
+> fo
+  spell 0 0 
+  sug foo
+> fof
+  spell 0 0 
+  sug foo
+> fofo
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+  sfx foobar
+> foo-foo
+  spell 1 1 
+  sug foo
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> foof
+  spell 0 0 
+  sug foo
+> foofoo
+  spell 0 0 
+  sug foo foo
+  sug foo
+> fooo
+  spell 0 0 
+  sug foo
+> ofo
+  spell 0 0 
+  sug foo
+> ofoo
+  spell 0 0 
+  sug foo
+> oo
+  spell 0 0 
+  sug foo
+> ooo
+  spell 0 0 
+  sug foo
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foo's
+  spell 0 0 
+  sug foo
+> fooâ€™s
+  spell 0 0 
+  sug foo
+> 'foo'
+  spell 0 0 
+> l'foo
+  spell 0 0 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> foo..
+  spell 1 0 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> .foo
+  spell 0 0 
+  sug foo
+> ...
+  spell 1 0 
+> -foo
+  spell 1 1 
+  sug foo
+> foo-
+  spell 1 1 
+  sug foo
+> foo--foo
+  spell 1 1 
+> foo-foo-foo
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> foo foo
+  spell 0 0 
+  sug foo
+>  foo
+  spell 1 0 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+> foo 
+  spell 0 0 
+  sug foo
+> foo	foo
+  spell 0 0 
+  sug foo
+> ÿþfoo
+  spell 0 0 
+> fooÃ
+  spell 0 0 
+  sug foo
+> €foo
+  spell 0 0 
+  sug foo
+> ð€foo
+  spell 0 0 
+> Ä°foo
+  spell 0 32 
+  sug Foo
+> fooÃŸ
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo po:noun
+  stem foo
+  stemmorph foo
+  sfx foobar
+> FOOSS
+  spell 0 32 
+  sug FOO
+> <?xml?><query type="analyze"><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo po:noun</a></code>
+> <?xml?><query type="stem"><word>foo</word></query>
+  spell 0 0 
+  sug foo
+> <?xml?><query type="suggest"><word>foox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo po:noun</a></code>
+> <?xml?><query type="add"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

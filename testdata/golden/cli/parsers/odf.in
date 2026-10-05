@@ -1,0 +1,9 @@
+kind odf
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change mistaek mistake
+---
+<office:document-content><office:meta><meta:title>Titel</meta:title></office:meta>
+<office:settings>settingz</office:settings><office:binary-data>QUJD</office:binary-data>
+<text:p>exam<text:span text:style-name="T1">p</text:span>le and mis<text:span>t</text:span>ake mistaek</text:p>
+<text:p>open<text:span x="1">only and exam<text:span>p</text:span> end</text:p>
+<text:p>tail<text:span

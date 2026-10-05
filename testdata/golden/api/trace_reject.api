@@ -1,0 +1,455 @@
+# example: hope
+> HOP
+  spell 1 32 
+  sug HOP
+  ana  st:hop
+  stem hop
+  stemmorph hop
+> HOPE
+  spell 1 32 
+  sug HOP
+  sug HOPE
+  ana  st:hope
+  stem hope
+  stemmorph hope
+> HOPEING
+  spell 0 32 
+  sug HOPING
+> HOPING
+  spell 1 32 hop
+  sug HOPING
+  ana  st:hop fl:G
+  stem hop
+  stemmorph hop
+> Hope
+  spell 1 32 
+  sug Hop
+  ana  st:hope
+  stem hope
+  stemmorph hope
+> Hopeing
+  spell 0 32 
+  sug Hoping
+  sug Hope
+> Hoping
+  spell 1 32 hop
+  sug hoping
+  ana  st:hop fl:G
+  stem hop
+  stemmorph hop
+> WALK
+  spell 1 32 
+  sug WALK
+  ana  st:walk
+  stem walk
+  stemmorph walk
+> WALKING
+  spell 0 32 
+  sug WALK
+> Walk
+  spell 1 32 
+  sug walk
+  ana  st:walk
+  stem walk
+  stemmorph walk
+> Walking
+  spell 0 32 
+  sug Walk
+> alk
+  spell 0 0 
+  sug walk
+> aoping
+  spell 0 0 
+  sug hoping
+> awalking
+  spell 0 0 
+> awlking
+  spell 0 0 
+> ealk
+  spell 0 0 
+  sug walk
+> eop
+  spell 0 0 
+  sug hope
+> hhopeing
+  spell 0 0 
+> hipe
+  spell 0 0 
+  sug hope
+> ho
+  spell 0 0 
+  sug hop
+> hohp
+  spell 0 0 
+  sug hop
+> hoie
+  spell 0 0 
+  sug hope
+> hoipeing
+  spell 0 0 
+> hoipng
+  spell 0 0 
+  sug hoping
+> hop
+  spell 1 0 
+  sug hop
+  ana  st:hop
+  stem hop
+  stemmorph hop
+  sfx hoping
+> hop-hopeing
+  spell 0 0 
+  sug hop-hoping
+  sug hop-hope
+> hop-walk
+  spell 1 1 
+> hop.
+  spell 1 0 
+  sug hop
+  ana  st:hop
+  stem hop
+  stemmorph hop
+> hopa
+  spell 0 0 
+  sug hop
+> hope
+  spell 1 0 
+  sug hop
+  ana  st:hope
+  stem hope
+  stemmorph hope
+> hope-hop
+  spell 1 1 
+  sug hope
+> hope-hope
+  spell 1 1 
+> hope.
+  spell 1 0 
+  sug hop
+  sug hope
+  ana  st:hope
+  stem hope
+  stemmorph hope
+> hopeg
+  spell 0 0 
+  sug hope
+  sug hop
+> hopehope
+  spell 0 0 
+  sug hope hope
+  sug hope
+> hopehopeing
+  spell 0 0 
+> hopei
+  spell 0 0 
+  sug hope
+  sug hop
+> hopeign
+  spell 0 0 
+  sug hope
+> hopeing
+  spell 0 0 
+  sug hoping
+  sug hope
+> hopeing.
+  spell 0 0 
+  sug hoping
+  sug hope
+> hopeinghopeing
+  spell 0 0 
+> hopeingw
+  spell 0 0 
+  sug hope
+> hopewalking
+  spell 0 0 
+> hopg
+  spell 0 0 
+  sug hop
+> hophop
+  spell 0 0 
+  sug hop hop
+  sug hope
+  sug hop
+> hophopeing
+  spell 0 0 
+> hopi
+  spell 0 0 
+  sug hop
+> hopiang
+  spell 0 0 
+  sug hoping
+> hopiing
+  spell 0 0 
+  sug hoping
+> hopikg
+  spell 0 0 
+  sug hope
+> hoping
+  spell 1 0 hop
+  sug hoping
+  ana  st:hop fl:G
+  stem hop
+  stemmorph hop
+> hoping-hope
+  spell 1 1 
+> hoping-hopeing
+  spell 0 0 
+  sug hoping-hoping
+  sug hoping-hope
+> hoping.
+  spell 1 0 hop
+  sug hoping
+  ana  st:hop fl:G
+  stem hop
+  stemmorph hop
+> hopk
+  spell 0 0 
+  sug hop
+> hopnig
+  spell 0 0 
+  sug hoping
+  sug hope
+> hopp
+  spell 0 0 
+  sug hop
+> hopwalking
+  spell 0 0 
+> hopwng
+  spell 0 0 
+  sug hope
+> how
+  spell 0 0 
+  sug hop
+> hp
+  spell 0 0 
+  sug hop
+> hpe
+  spell 0 0 
+  sug hope
+> hpope
+  spell 0 0 
+  sug hope
+> hwope
+  spell 0 0 
+  sug hope
+> kope
+  spell 0 0 
+  sug hope
+> lhope
+  spell 0 0 
+  sug hope
+  sug hop
+> lop
+  spell 0 0 
+  sug hop
+> ohp
+  spell 0 0 
+  sug hop
+> ohpe
+  spell 0 0 
+  sug hope
+> ope
+  spell 0 0 
+  sug hope
+> wak
+  spell 0 0 
+  sug walk
+> wal
+  spell 0 0 
+  sug walk
+> walhk
+  spell 0 0 
+  sug walk
+> walk
+  spell 1 0 
+  sug walk
+  ana  st:walk
+  stem walk
+  stemmorph walk
+> walk-hopeing
+  spell 0 0 
+  sug walk-hoping
+  sug walk-hope
+> walk-hoping
+  spell 1 1 
+> walk-walk
+  spell 1 1 
+> walk-walking
+  spell 0 0 
+  sug walk-walk
+> walk.
+  spell 1 0 
+  sug walk
+  ana  st:walk
+  stem walk
+  stemmorph walk
+> walking
+  spell 0 0 
+  sug walk
+> walking-hoping
+  spell 0 0 
+  sug walk-hoping
+> walking-walk
+  spell 0 0 
+  sug walk-walk
+> walking.
+  spell 0 0 
+  sug walk
+> walkinghop
+  spell 0 0 
+> walkinghope
+  spell 0 0 
+> walkinghoping
+  spell 0 0 
+> walkingo
+  spell 0 0 
+  sug walk
+> walkingp
+  spell 0 0 
+  sug walk
+> walkk
+  spell 0 0 
+  sug walk
+> walkwalk
+  spell 0 0 
+  sug walk walk
+  sug walk
+> wallk
+  spell 0 0 
+  sug walk
+> waplk
+  spell 0 0 
+  sug walk
+> wlking
+  spell 0 0 
+> wnalk
+  spell 0 0 
+  sug walk
+> woalking
+  spell 0 0 
+> woping
+  spell 0 0 
+  sug hoping
+> wwlking
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> hopeing's
+  spell 0 0 
+> hopeingâ€™s
+  spell 0 0 
+> 'hopeing'
+  spell 0 0 
+> l'hopeing
+  spell 0 0 
+> hopeing.
+  spell 0 0 
+  sug hoping
+  sug hope
+> hopeing..
+  spell 0 0 
+  sug hoping
+  sug hope
+> .hopeing
+  spell 0 0 
+> ...
+  spell 1 0 
+> -hopeing
+  spell 0 0 
+  sug -hoping
+  sug -hope
+> hopeing-
+  spell 0 0 
+  sug hoping-
+  sug hope-
+  sug hope
+> hopeing--walk
+  spell 0 0 
+  sug hoping--walk
+  sug hope--walk
+> hopeing-walk-hopeing
+  spell 0 0 
+  sug hoping-walk-hopeing
+  sug hope-walk-hopeing
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> HOPEING
+  spell 0 32 
+  sug HOPING
+> HOPEING
+  spell 0 32 
+  sug HOPING
+> Hopeing
+  spell 0 32 
+  sug Hoping
+  sug Hope
+> hopeing walk
+  spell 0 0 
+>  hopeing
+  spell 0 0 
+  sug hoping
+  sug hope
+> hopeing 
+  spell 0 0 
+  sug hope
+> hopeing	walk
+  spell 0 0 
+> ÿþhopeing
+  spell 0 0 
+> hopeingÃ
+  spell 0 32 
+  sug hope
+> €hopeing
+  spell 0 0 
+> ð€hopeing
+  spell 0 0 
+> Ä°hopeing
+  spell 0 32 
+> hopeingÃŸ
+  spell 0 32 
+> hopeing
+  spell 0 0 
+  sug hoping
+  sug hope
+> HOPEINGSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>hopeing</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>hopeing</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>hopeingx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hopeing</word><word>walk</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hopeing</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>hopeing</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>hopeing</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;hopeing&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>hopeing</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

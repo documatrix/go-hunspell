@@ -1,0 +1,12 @@
+kind text
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change wrold world
+change tset test&<'>
+---
+Hello wrold, this is a tset.
+don't rock'n'roll 'quoted' dogs' it\xe2\x80\x99s
+caf&eacute; na&iuml;ve &Agrave;bc x&yuml;z &amp; &yuml;
+word: Finnish:ssa a: : ::
+mail someone@example.com and http://example.org/a/b?c=d#e and /usr/share/x and C:\\Win\\Sys and ~/foo
+wrold tset wrold
+after\x00nul hidden

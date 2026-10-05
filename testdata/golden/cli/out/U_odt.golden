@@ -1,0 +1,18 @@
+exit 0
+stdout 799
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"><office:automatic-styles><style:style style:name="P1" style:family="paragraph"><style:text-properties fo:color="#ff0000"/></style:style>
+<style:style style:name="T1" style:family="text"/></office:automatic-styles><office:body><office:text><text:p text:style-name="P1">Hello world, this is an OFF document.</text:p>
+<text:p>Re-edited example and mistake.</text:p>
+<text:p>It&apos;s the dog&apos;s bone &amp; cadé anïbe mühenchmen.</text:p>
+<!-- coment wrod --><text:p>Last paragraph</text:p>
+</office:text></office:body></office:document-content>
+stderr 180
+Line 3: wrold -> world
+Line 3: ODF -> OFF
+Line 3: documnet -> document
+Line 5: caf -> cad
+Line 5: na -> an
+Line 5: ve -> be
+Line 5: nchen -> henchmen
+Line 6: paragrph -> paragraph

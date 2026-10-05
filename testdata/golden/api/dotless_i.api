@@ -1,0 +1,523 @@
+# example: iç
+> Biç
+  spell 0 32 
+  sug İç
+> DIYABRAKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> DIYARBAKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> DIYARBAKIR-Diyarbakır
+  spell 0 32 
+  sug DİYARBAKIR-Diyarbakır
+> DIYARBAKIRışık
+  spell 0 32 
+  sug Diyarbakır
+> DIYARBAKRI
+  spell 0 32 
+  sug DİYARBAKIR
+> DIYARBÇAKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> DIYARBÇKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> DIiyarbakir
+  spell 0 32 
+  sug Diyarbakır
+> Dirarbakır
+  spell 0 32 
+  sug Diyarbakır
+> Diyabakır
+  spell 0 32 
+  sug Diyarbakır
+> Diyarabkır
+  spell 0 32 
+  sug Diyarbakır
+> DiyarbRakır
+  spell 0 32 
+  sug Diyarbakır
+> DiyarbaKır
+  spell 0 32 
+  sug Diyarbakır
+> Diyarbakir
+  spell 0 32 
+  sug Diyarbakır
+> Diyarbakiry
+  spell 0 32 
+  sug Diyarbakır
+> Diyarbakirışık
+  spell 0 32 
+  sug Diyarbakır
+> Diyarbakr
+  spell 0 32 
+  sug Diyarbakır
+> Diyarbakı
+  spell 0 32 
+  sug Diyarbakır
+> Diyarbakır
+  spell 1 32 
+  sug Diyarbakır
+  ana  st:Diyarbakır
+  stem Diyarbakır
+  stemmorph Diyarbakır
+> Diyarbakır-Diyarbakır
+  spell 1 33 
+> Diyarbakır-ışık
+  spell 1 33 
+> Diyarbakır.
+  spell 1 32 
+  sug Diyarbakır
+  ana  st:Diyarbakır
+  stem Diyarbakır
+  stemmorph Diyarbakır
+> DiyarbakırDiyarbakır
+  spell 0 32 
+  sug Diyarbakır Diyarbakır
+> DiyarbakırDİYARBAKIR
+  spell 0 32 
+> Diyarbayır
+  spell 0 32 
+  sug Diyarbakır
+> Diyrbakır
+  spell 0 32 
+  sug Diyarbakır
+> DiÇarbakır
+  spell 0 32 
+  sug Diyarbakır
+> Di̇yarbakir
+  spell 0 32 
+  sug Diyarbakır
+> Dyarbakir
+  spell 0 32 
+  sug Diyarbakır
+> DİYARBAKIR
+  spell 1 32 
+  sug DİYARBAKIR
+  ana  st:Diyarbakır
+  stem Diyarbakır
+  stemmorph Diyarbakır
+> DİYARBAKIR.
+  spell 1 32 
+  sug DİYARBAKIR
+  ana  st:Diyarbakır
+  stem Diyarbakır
+  stemmorph Diyarbakır
+> DİYARBAKIRİç
+  spell 0 32 
+  sug Diyarbakır İç
+  sug Diyarbakır
+> DİYARBAKIRışık
+  spell 0 32 
+  sug Diyarbakır ışık
+  sug Diyarbakır
+> DİYARBAçKIR
+  spell 0 32 
+  sug Diyarbakır
+> DİYARşBAKIR
+  spell 0 32 
+  sug Diyarbakır
+> DİYAYBAKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> DİYRBAKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> IIK
+  spell 0 32 
+  sug IŞIK
+> IÇ
+  spell 0 32 
+  sug IŞIK
+> IÇ-DİYARBAKIR
+  spell 0 32 
+  sug DİYARBAKIR
+> IÇ-Iç
+  spell 0 32 
+> IÇ.
+  spell 0 32 
+  sug IŞIK
+> IÇI
+  spell 0 32 
+> IÇİç
+  spell 0 32 
+> Iç
+  spell 0 32 
+  sug Işık
+> Iç-Iç
+  spell 0 32 
+> IçIç
+  spell 0 32 
+> IçR
+  spell 0 32 
+> IŞI
+  spell 0 32 
+  sug IŞIK
+> IŞIK
+  spell 1 32 
+  sug IŞIK
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> IŞIK-Diyarbakır
+  spell 1 33 
+> IŞIK-Iç
+  spell 0 32 
+  sug IŞIK-Işık
+  sug Işık
+> IŞIK.
+  spell 1 32 
+  sug IŞIK
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> IŞkK
+  spell 0 32 
+  sug Işık
+> IŞçIK
+  spell 0 32 
+  sug Işık
+> Işik
+  spell 0 32 
+  sug Işık
+> Işçık
+  spell 0 32 
+  sug Işık
+> Işık
+  spell 1 32 
+  sug ışık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> IşıkIŞIK
+  spell 0 32 
+  sug Işık Işık
+  sug Işık
+> Işıkr
+  spell 0 32 
+  sug Işık
+> IşŞk
+  spell 0 32 
+  sug Işık
+> Kiç
+  spell 0 32 
+  sug İç
+> i
+  spell 0 0 
+  sug iç
+> iyç
+  spell 0 0 
+  sug iç
+> iÇ
+  spell 0 32 
+  sug iç
+> iç
+  spell 1 0 
+  sug iç
+  ana  st:iç
+  stem iç
+  stemmorph iç
+> iç-Diyarbakir
+  spell 0 32 
+  sug iç-Diyarbakır
+  sug Diyarbakır
+> iç-Diyarbakır
+  spell 1 33 
+  sug Diyarbakır
+> iç.
+  spell 1 0 
+  sug iç
+  ana  st:iç
+  stem iç
+  stemmorph iç
+> içDiyarbakır
+  spell 0 32 
+  sug iç Diyarbakır
+  sug Diyarbakır
+> içiç
+  spell 0 0 
+  sug iç iç
+  sug iç
+> içy
+  spell 0 0 
+  sug iç
+> içç
+  spell 0 0 
+  sug iç
+> riç
+  spell 0 0 
+  sug iç
+> ÇI
+  spell 0 32 
+> ç
+  spell 0 0 
+  sug iç
+> İIK
+  spell 0 32 
+  sug IŞIK
+> İÇ
+  spell 1 32 
+  sug İÇ
+  ana  st:iç
+  stem iç
+  stemmorph iç
+> İÇ-iç
+  spell 1 33 
+  sug İç-iç
+> İÇ-İç
+  spell 1 33 
+  sug İç-iç
+> İÇiç
+  spell 0 32 
+  sug İç iç
+  sug İç
+> İÇı
+  spell 0 32 
+  sug İç
+> İç
+  spell 1 32 
+  sug iç
+  ana  st:iç
+  stem iç
+  stemmorph iç
+> İç-İşık
+  spell 0 32 
+  sug İç-Işık
+> İç.
+  spell 1 32 
+  sug İç
+  ana  st:iç
+  stem iç
+  stemmorph iç
+> İçDiyarbakır
+  spell 0 32 
+  sug İç Diyarbakır
+  sug Diyarbakır
+> İışk
+  spell 0 32 
+  sug Işık
+> İışık
+  spell 0 32 
+  sug Işık
+> İŞIK
+  spell 0 32 
+  sug IŞIK
+> İŞIK-İŞIK
+  spell 0 32 
+> İŞIK.
+  spell 0 32 
+  sug IŞIK
+> İŞIKY
+  spell 0 32 
+  sug IŞIK
+> İŞKK
+  spell 0 32 
+> İşk
+  spell 0 32 
+> İşık
+  spell 0 32 
+  sug Işık
+> İşık-iç
+  spell 0 32 
+  sug Işık-iç
+> İşık.
+  spell 0 32 
+  sug Işık
+> İşıkİşık
+  spell 0 32 
+  sug Işık
+> İşıkışık
+  spell 0 32 
+  sug Işık
+> İşıŞ
+  spell 0 32 
+  sug Işık
+> ışk
+  spell 0 0 
+  sug ışık
+> ışıBk
+  spell 0 32 
+  sug ışık
+> ışıYk
+  spell 0 32 
+  sug ışık
+> ışıi
+  spell 0 0 
+  sug ışık
+> ışık
+  spell 1 0 
+  sug ışık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> ışık-İÇ
+  spell 1 33 
+  sug ışık-iç
+  sug ışık
+> ışık.
+  spell 1 0 
+  sug ışık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> ışıkDiyarbakır
+  spell 0 32 
+  sug ışık Diyarbakır
+  sug Diyarbakır
+> ışıkIşık
+  spell 0 32 
+  sug ışık Işık
+  sug ışık
+> ışıkiç
+  spell 0 0 
+  sug ışık iç
+  sug ışık
+> ışıkışık
+  spell 0 0 
+  sug ışık ışık
+  sug ışık
+> ŞIIK
+  spell 0 32 
+  sug IŞIK
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Işık's
+  spell 0 32 
+  sug Işık
+> Işık’s
+  spell 0 32 
+  sug Işık
+> 'Işık'
+  spell 0 32 
+  sug ışık
+> l'Işık
+  spell 0 32 
+  sug ışık
+> Işık.
+  spell 1 32 
+  sug Işık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> Işık..
+  spell 1 32 
+  sug Işık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> .Işık
+  spell 0 32 
+  sug . Işık
+  sug ışık
+> ...
+  spell 1 0 
+> -Işık
+  spell 1 33 
+  sug -ışık
+  sug ışık
+> Işık-
+  spell 1 33 
+  sug Işık
+> Işık--IÇ
+  spell 0 32 
+  sug Işık--IŞIK
+  sug Işık
+> Işık-IÇ-Işık
+  spell 0 32 
+  sug Işık-IŞIK-Işık
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> IşıK
+  spell 0 32 
+  sug Işık
+> işıK
+  spell 0 32 
+  sug ışık
+> IşıK
+  spell 0 32 
+  sug Işık
+> Işık IÇ
+  spell 0 32 
+  sug Işık
+>  Işık
+  spell 1 32 
+  sug Işık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> Işık 
+  spell 0 32 
+  sug Işık
+> Işık	IÇ
+  spell 0 32 
+  sug Işık
+> ��Işık
+  spell 0 0 
+  sug ışık
+> Işık�
+  spell 0 32 
+  sug Işık
+> �Işık
+  spell 0 32 
+  sug ışık
+> 𐐀Işık
+  spell 0 0 
+> İIşık
+  spell 0 32 
+  sug Işık
+> Işıkß
+  spell 0 32 
+  sug Işık
+> Işık
+  spell 1 32 
+  sug ışık
+  ana  st:ışık
+  stem ışık
+  stemmorph ışık
+> IşıKSS
+  spell 0 32 
+  sug Işık
+> <?xml?><query type="analyze"><word>Işık</word></query>
+  spell 0 32 
+  sug <code><a> st:ışık</a></code>
+> <?xml?><query type="stem"><word>Işık</word></query>
+  spell 0 32 
+  sug ışık
+> <?xml?><query type="suggest"><word>Işıkx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Işık</word><word>IÇ</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Işık</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Işık</word></query>
+  spell 0 32 
+  sug <code><a> st:ışık</a></code>
+> <?xml?><query type="add"><word>Işık</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Işık&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Işık</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

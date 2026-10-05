@@ -1,0 +1,22 @@
+exit 0
+stdout 672
+(null):1: Locate: wrold | Try: world
+(null):1: Locate: tset | Try: stet
+(null):1: Locate: speling | Try: spieling
+(null):2: Locate: jumpss | Try: jumps
+(null):3: Locate: ated | Try: ate
+(null):4: Locate: MiXeD | Try: Mix Ed
+(null):4: Locate: CaSe | Try: Case
+(null):4: Locate: hELLO | Try: hell O
+(null):4: Locate: Nasa | Try: NASA
+(null):5: Locate: doesn | Try: does
+(null):5: Locate: isn | Try: sin
+(null):6: Locate: ssa | Try: SSA
+(null):7: Locate: caf | Try: cad
+(null):7: Locate: eacute | Try: acute
+(null):7: Locate: na&iuml;ve
+(null):7: Locate: &Agrave;bc | Try: engraver
+(null):7: Locate: x&yuml;z
+(null):9: Locate: ok | Try: OK
+(null):10: Locate: tabz | Try: tab
+stderr 0

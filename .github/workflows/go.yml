@@ -1,0 +1,56 @@
+name: Go
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+      - name: Format
+        if: runner.os == 'Linux'
+        run: test -z "$(gofmt -l .)"
+      - name: Vet
+        run: go vet ./...
+      - name: Test
+        run: go test -race -timeout 45m ./...
+      - name: Coverage
+        if: runner.os == 'Linux'
+        run: |
+          go test -timeout 45m -coverprofile=coverage.out -coverpkg=./... ./... > /dev/null
+          go tool cover -func=coverage.out | tail -1
+
+  cross:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+      - name: Build every platform without cgo
+        env:
+          CGO_ENABLED: "0"
+        run: |
+          for p in $(go tool dist list); do
+            case $p in
+              android/*|ios/*) pkgs=". ./parsers ./internal/core ./internal/charset ./internal/cli" ;;
+              *) pkgs="./..." ;;
+            esac
+            GOOS=${p%/*} GOARCH=${p#*/} go build $pkgs || exit 1
+          done
+      - name: Generated tables are up to date
+        run: |
+          go -C internal/gen/charmaps run . -out ../../charset/maps.go
+          git diff --exit-code

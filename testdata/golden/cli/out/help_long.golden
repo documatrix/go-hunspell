@@ -1,0 +1,56 @@
+exit 0
+stdout 0
+stderr 2173
+Usage: hunspell [OPTION]... [FILE]...
+Check spelling of each FILE. Without FILE, check standard input.
+
+  -1		check only first field in lines (delimiter = tabulator)
+  -a		Ispell's pipe interface
+  --check-url	check URLs, e-mail addresses and directory paths
+  --check-apostrophe	check Unicode typographic apostrophe
+  -d d[,d2,...]	use d (d2 etc.) dictionaries
+  -D		show available dictionaries
+  -G		print only correct words or lines
+  -h, --help	display this help and exit
+  -H		HTML input file format
+  -i enc	input encoding
+  -l		print misspelled words
+  -L		print lines with misspelled words
+  -m 		analyze the words of the input text
+  -n		nroff/troff input file format
+  -O		OpenDocument (ODF or Flat ODF) input file format
+  -p dict	set dict custom dictionary
+  --no-default-personal
+		don't use the default personal dictionary
+  -r		warn of the potential mistakes (rare words)
+  -P password	set password for encrypted dictionaries
+  -s 		stem the words of the input text
+  -S 		suffix words of the input text
+  -t		TeX/LaTeX input file format
+  --trace	report how each input word was decided
+  -u		print the line number, misspelled word and first suggestion
+  -U		print the input text with each misspelled word replaced by its
+		first suggestion
+  -u2		print the replacements that -U would make, as a sed script
+  -u3		print the file name and line number with each misspelled word
+  -v, --version	print version number
+  -vv		print Ispell compatible version number
+  -w		print misspelled words (= lines) from one word/line input.
+  -X		XML input file format
+
+Example: hunspell -d en_US file.txt    # interactive spelling
+         hunspell -i utf-8 file.txt    # check UTF-8 encoded file
+         hunspell -l *.odt             # print misspelled words of ODF files
+
+         # Quick fix of ODF documents by personal dictionary creation
+
+         # 1 Make a reduced list from misspelled and unknown words:
+
+         hunspell -l *.odt | sort | uniq >words
+
+         # 2 Delete misspelled words of the file by a text editor.
+         # 3 Use this personal dictionary to fix the deleted words:
+
+         hunspell -p words *.odt
+
+Bug reports: http://hunspell.github.io/

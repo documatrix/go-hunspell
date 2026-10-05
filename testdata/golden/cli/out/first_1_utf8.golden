@@ -1,0 +1,4 @@
+exit 0
+stdout 6
+wrold
+stderr 0

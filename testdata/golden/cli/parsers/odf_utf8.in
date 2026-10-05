@@ -1,0 +1,3 @@
+kind odf-utf8
+---
+<text:p>caf<text:span>\xc3\xa9</text:span> m\xc3\xbc<text:span a="b">n</text:span>chen</text:p>

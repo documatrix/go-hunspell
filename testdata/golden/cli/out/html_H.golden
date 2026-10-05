@@ -1,0 +1,64 @@
+exit 0
+stdout 875
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+
+& Titel 4 19: Ti tel, Ti-tel, Title, Elite
+*
+& pagge 1 28: page
+
+
+
+
+
+
+*
+& wrold 2 9: world, wold
+& caf 15 21: cad, ca, cf, cafe, calf, caff, can, car, cat, oaf, cal, cam, cap, cab, cay
+& &Agrave;lle 1 33: gravedigger
+*
+*
+*
+*
+*
+
+*
+*
+& picturre 2 32: picture, epicure
+*
+*
+& dogg 6 46: dog, doggy, doge, dogs, dong, dog g
+& titel 4 59: title, ti tel, ti-tel, elite
+& txt 7 65: text, ext, tit, tat, tot, tut, TX
+*
+
+*
+& textt 5 62: text, texts, text t, TeX, ext
+
+*
+*
+& attrr 2 24: attar, attract
+*
+*
+& quotte 2 67: quote, quot
+
+
+
+*
+& TAGG 4 23: TAG, TAGS, TANG, TAG G
+*
+
+*
+*
+& attr 7 10: tart, attar, attn, atty, at tr, at-tr, attract
+*
+& spann 5 52: span, spans, spank, spawn, span n
+
+& Unterminated 4 0: Exterminated, Terminated, Indeterminate, Uncontaminated
+*
+*
+*
+*
+& wrds 4 52: weds, wards, words, wads
+
+
+stderr 0

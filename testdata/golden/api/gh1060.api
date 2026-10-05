@@ -1,0 +1,439 @@
+# example: nagy
+> LEGNAGY
+  spell 0 32 
+  sug NAGY
+> LEGNAGYOBB
+  spell 1 32 nagy
+  sug LEGNAGYOBB
+  ana  fl:A st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> Legnagy
+  spell 0 32 
+  sug Nagy
+> Legnagyobb
+  spell 1 32 nagy
+  sug legnagyobb
+  ana  fl:A st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> NAGY
+  spell 1 32 
+  sug NAGY
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> NAGYOBB
+  spell 1 32 nagy
+  sug NAGYOBB
+  ana  st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> Nagy
+  spell 1 32 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> Nagyobb
+  spell 1 32 nagy
+  sug nagyobb
+  ana  st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> agyobb
+  spell 0 0 
+  sug nagyobb
+> alegnagy
+  spell 0 0 
+> angy
+  spell 0 0 
+  sug nagy
+> bnagy
+  spell 0 0 
+  sug nagy
+> bnagyobb
+  spell 0 0 
+  sug nagyobb
+> gegnagyobb
+  spell 0 0 
+> gnagy
+  spell 0 0 
+  sug nagy
+> lbegnagy
+  spell 0 0 
+> leagnagyobb
+  spell 0 0 
+  sug legnagyobb
+> legangy
+  spell 0 0 
+> legnaagy
+  spell 0 0 
+> legnaeyobb
+  spell 0 0 
+> legnagoybb
+  spell 0 0 
+  sug legnagyobb
+> legnagy
+  spell 0 0 
+  sug nagy
+> legnagy-legnagyobb
+  spell 0 0 
+  sug nagy-legnagyobb
+> legnagy-nagy
+  spell 0 0 
+  sug nagy-nagy
+> legnagy.
+  spell 0 0 
+  sug nagy
+> legnagya
+  spell 0 0 
+> legnagylegnagy
+  spell 0 0 
+> legnagynagy
+  spell 0 0 
+> legnagyobb
+  spell 1 0 nagy
+  sug legnagyobb
+  ana  fl:A st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> legnagyobb-legnagy
+  spell 0 0 
+  sug legnagyobb-nagy
+> legnagyobb-nagyobb
+  spell 1 1 
+> legnagyobb.
+  spell 1 0 nagy
+  sug legnagyobb
+  ana  fl:A st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> legnagyobblegnagyobb
+  spell 0 0 
+  sug legnagyobb legnagyobb
+> legnagyobbnagy
+  spell 0 0 
+  sug legnagyobb nagy
+> legnagyobl
+  spell 0 0 
+> legnagyobyb
+  spell 0 0 
+  sug legnagyobb
+> legnany
+  spell 0 0 
+> legnegyobb
+  spell 0 0 
+> legngagy
+  spell 0 0 
+> legngy
+  spell 0 0 
+> lenagyobb
+  spell 0 0 
+> lengagy
+  spell 0 0 
+> lennagy
+  spell 0 0 
+  sug nagy
+> lgenagyobb
+  spell 0 0 
+  sug legnagyobb
+> lgnagy
+  spell 0 0 
+  sug nagy
+> lgnagyobb
+  spell 0 0 
+> naagy
+  spell 0 0 
+  sug nagy
+> naay
+  spell 0 0 
+  sug nagy
+> nagb
+  spell 0 0 
+  sug nagy
+> nageobb
+  spell 0 0 
+  sug nagyobb
+> naggobb
+  spell 0 0 
+  sug nagyobb
+> naggy
+  spell 0 0 
+  sug nagy
+> nagly
+  spell 0 0 
+  sug nagy
+> naglyobb
+  spell 0 0 
+  sug nagyobb
+> nago
+  spell 0 0 
+  sug nagy
+> nagy
+  spell 1 0 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+  sfx nagyobb
+  sfx nagyobb
+> nagy-legnagy
+  spell 0 0 
+  sug nagy-nagy
+> nagy-legnagyobb
+  spell 1 1 
+> nagy-nagy
+  spell 1 1 
+> nagy-nagyobb
+  spell 1 1 
+> nagy.
+  spell 1 0 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> nagybob
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyl
+  spell 0 0 
+  sug nagy
+> nagylegnagy
+  spell 0 0 
+> nagylegnagyobb
+  spell 0 0 
+  sug nagy legnagyobb
+> nagyn
+  spell 0 0 
+  sug nagy
+> nagynagy
+  spell 0 0 
+  sug nagy nagy
+  sug nagy
+> nagynagyobb
+  spell 0 0 
+  sug nagy nagyobb
+> nagyo
+  spell 0 0 
+  sug nagy
+> nagyob
+  spell 0 0 
+  sug nagy
+> nagyobb
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> nagyobb-legnagyobb
+  spell 1 1 
+> nagyobb-nagyobb
+  spell 1 1 
+> nagyobb.
+  spell 1 0 nagy
+  sug nagyobb
+  ana  st:nagy fl:C
+  stem nagy
+  stemmorph nagy
+> nagyobblegnagyobb
+  spell 0 0 
+  sug nagyobb legnagyobb
+> nagyobbnagy
+  spell 0 0 
+  sug nagyobb nagy
+> nagyobbnagyobb
+  spell 0 0 
+  sug nagyobb nagyobb
+> nagyobob
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyoebb
+  spell 0 0 
+  sug nagyobb
+  sug nagy
+> nagyy
+  spell 0 0 
+  sug nagy
+> naoyobb
+  spell 0 0 
+  sug nagyobb
+> nayg
+  spell 0 0 
+  sug nagy
+> ngay
+  spell 0 0 
+  sug nagy
+> ngayobb
+  spell 0 0 
+  sug nagyobb
+> ngy
+  spell 0 0 
+  sug nagy
+> ngyobb
+  spell 0 0 
+  sug nagyobb
+> nlegnagyobb
+  spell 0 0 
+  sug legnagyobb
+> nnagy
+  spell 0 0 
+  sug nagy
+> onagy
+  spell 0 0 
+  sug nagy
+> yagy
+  spell 0 0 
+  sug nagy
+> ynagy
+  spell 0 0 
+  sug nagy
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> nagy's
+  spell 0 0 
+  sug nagy
+> nagyâ€™s
+  spell 0 0 
+  sug nagy
+> 'nagy'
+  spell 0 0 
+  sug nagy
+> l'nagy
+  spell 0 0 
+  sug nagy
+> nagy.
+  spell 1 0 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> nagy..
+  spell 1 0 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> .nagy
+  spell 0 0 
+  sug nagy
+> ...
+  spell 1 0 
+> -nagy
+  spell 1 1 
+  sug nagy
+> nagy-
+  spell 1 1 
+  sug nagy
+> nagy--legnagy
+  spell 0 0 
+  sug nagy--nagy
+> nagy-legnagy-nagy
+  spell 0 0 
+  sug nagy-nagy-nagy
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> NAGY
+  spell 1 32 
+  sug NAGY
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> NAGY
+  spell 1 32 
+  sug NAGY
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> Nagy
+  spell 1 32 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> nagy legnagy
+  spell 0 0 
+>  nagy
+  spell 1 0 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+> nagy 
+  spell 0 0 
+  sug nagy
+> nagy	legnagy
+  spell 0 0 
+> ÿþnagy
+  spell 0 0 
+  sug nagy
+> nagyÃ
+  spell 0 0 
+  sug nagy
+> €nagy
+  spell 0 0 
+  sug nagy
+> ð€nagy
+  spell 0 0 
+> Ä°nagy
+  spell 0 32 
+  sug Nagy
+> nagyÃŸ
+  spell 0 0 
+  sug nagy
+> nagy
+  spell 1 0 
+  sug nagy
+  ana  st:nagy
+  stem nagy
+  stemmorph nagy
+  sfx nagyobb
+  sfx nagyobb
+> NAGYSS
+  spell 0 32 
+  sug NAGY
+> <?xml?><query type="analyze"><word>nagy</word></query>
+  spell 0 0 
+  sug <code><a> st:nagy</a></code>
+> <?xml?><query type="stem"><word>nagy</word></query>
+  spell 0 0 
+  sug nagy
+> <?xml?><query type="suggest"><word>nagyx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>nagy</word><word>legnagy</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>nagy</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>nagy</word></query>
+  spell 0 0 
+  sug <code><a> st:nagy</a></code>
+> <?xml?><query type="add"><word>nagy</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;nagy&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>nagy</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

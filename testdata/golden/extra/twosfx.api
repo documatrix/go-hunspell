@@ -1,0 +1,23 @@
+# example: foo
+> refoos
+  spell 1 0 foo
+  sug refoos
+  sug refoo
+  ana  fl:P st:foo fl:A
+  ana  fl:P fl:P st:foo fl:A fl:B
+  stem foo
+  stemmorph foo
+> foos
+  spell 1 0 foo
+  sug foos
+  sug foo
+  ana  st:foo fl:A
+  ana  st:foo fl:A fl:B
+  stem foo
+  stemmorph foo
+> refoo
+  spell 1 0 foo
+  sug refoo
+  ana re st:foo fl:P
+  stem foo
+  stemmorph foo

@@ -1,0 +1,685 @@
+# example: foo
+> BAZSTEM
+  spell 0 32 
+  sug WORDSTEM
+> Bazstem
+  spell 0 32 
+  sug Wordstem
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> FOOBAR
+  spell 0 32 
+  sug FOO BAR
+> FOOBARÖ
+  spell 1 32 
+  sug FOOBARÖ
+  ana  st:foobarö ph:fubarő*
+  stem foobarö
+  stemmorph foobarö
+> FOOBARŐT
+  spell 1 32 foobarö
+  sug FOOBARŐT
+  ana  st:foobarö ph:fubarő* fl:B
+  stem foobarö
+  stemmorph foobarö
+> FORBIDDEN
+  spell 1 32 
+  sug FORBIDDEN
+  ana  st:forbidden
+  stem forbidden
+  stemmorph forbidden
+> FUBARŐT
+  spell 0 32 
+  sug FOOBARŐT
+> Foobar
+  spell 0 32 
+  sug Foo bar
+> Foobarö
+  spell 1 32 
+  sug foobarö
+  ana  st:foobarö ph:fubarő*
+  stem foobarö
+  stemmorph foobarö
+> Happy
+  spell 1 32 
+  sug happy
+  ana  st:happy ph:hepy ph:hepi->happi
+  stem happy
+  stemmorph happy
+> PRETTIEST
+  spell 1 32 pretty
+  sug PRETTIEST
+  ana  st:pretty ph:prity* fl:B
+  stem pretty
+  stemmorph pretty
+> PRITIEST
+  spell 0 32 
+  sug PRETTIEST
+> PRITY
+  spell 0 32 
+  sug PRETTY
+> ROOTFORBIDDENROOT
+  spell 0 32 
+  ana  pa:root st:root pa:forbidden st:forbidden pa:root
+  stem rootforbidden
+  stemmorph rootforbidden
+> Root
+  spell 1 32 
+  sug root
+  ana  st:root
+  stem root
+  stemmorph root
+> STEM
+  spell 1 32 
+  ana  st:stem ph: ph:
+  stem stem
+  stemmorph stem
+> STEMBAZ
+  spell 0 32 
+  sug STEMWORD
+> STEMBAZSTEM
+  spell 0 32 
+  sug STEMWORDSTEM
+> STEMWORD
+  spell 1 33 stem
+  sug STEM WORD
+  ana  pa:stem st:stem ph: ph: pa:word st:word ph:baz
+  stem stemword
+  stemmorph stemword
+> STEMWORDSTEM
+  spell 1 33 stem
+  ana  pa:stem st:stem ph: ph: pa:word st:word ph:baz pa:stem st:stem ph: ph:
+  stem stemwordstem
+  stemmorph stemwordstem
+> Stem
+  spell 1 32 
+  ana  st:stem ph: ph:
+  stem stem
+  stemmorph stem
+> Stembaz
+  spell 0 32 
+  sug Stemword
+> Stembazstem
+  spell 0 32 
+  sug Stemwordstem
+> Stemword
+  spell 1 33 stem
+  sug Stem word
+  ana  pa:stem st:stem ph: ph: pa:word st:word ph:baz
+  stem stemword
+  stemmorph stemword
+> WORD
+  spell 1 32 
+  ana  st:word ph:baz
+  stem word
+  stemmorph word
+> WORDSTEM
+  spell 1 33 word
+  sug WORD STEM
+  ana  pa:word st:word ph:baz pa:stem st:stem ph: ph:
+  stem wordstem
+  stemmorph wordstem
+> Word
+  spell 1 32 
+  ana  st:word ph:baz
+  stem word
+  stemmorph word
+> ahppy
+  spell 0 0 
+  sug happy
+> ar
+  spell 0 0 
+> az
+  spell 0 0 
+> bar
+  spell 0 0 
+  sug foo
+> barroot
+  spell 0 0 
+> bart
+  spell 0 0 
+> barword
+  spell 0 0 
+> baz
+  spell 0 0 
+  sug foo
+  sug word
+> bazstem
+  spell 0 0 
+  sug wordstem
+> fbobar
+  spell 0 0 
+> ffobar
+  spell 0 0 
+> ffoobarö
+  spell 0 0 
+  sug foobarö
+> fforbidden
+  spell 0 0 
+  sug forbidden
+> fo'obarö
+  spell 0 0 
+  sug foobarö
+> fombar
+  spell 0 0 
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> foo'
+  spell 0 0 
+  sug foo
+> foo-forbidden
+  spell 1 1 
+> foo-stemword
+  spell 1 1 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> fooabrö
+  spell 0 0 
+  sug foobarö
+> foobar
+  spell 0 0 
+  sug foo bar
+> foobart
+  spell 0 0 
+> foobarö
+  spell 1 0 
+  sug foobarö
+  ana  st:foobarö ph:fubarő*
+  stem foobarö
+  stemmorph foobarö
+> foobarö.
+  spell 1 0 
+  sug foobarö
+  ana  st:foobarö ph:fubarő*
+  stem foobarö
+  stemmorph foobarö
+> foobarőt
+  spell 1 0 foobarö
+  sug foobarőt
+  ana  st:foobarö ph:fubarő* fl:B
+  stem foobarö
+  stemmorph foobarö
+> foobarőt.
+  spell 1 0 foobarö
+  sug foobarőt
+  ana  st:foobarö ph:fubarő* fl:B
+  stem foobarö
+  stemmorph foobarö
+> foobarőtfoobar
+  spell 0 0 
+> foobarőtword
+  spell 0 0 
+  sug foobarőt word
+> foofoobarőt
+  spell 0 0 
+  sug foo foobarőt
+> foowordstem
+  spell 0 0 
+> fooz
+  spell 0 0 
+  sug foo
+> forbidden
+  spell 1 0 
+  sug forbidden
+  ana  st:forbidden
+  stem forbidden
+  stemmorph forbidden
+> forbidden.
+  spell 1 0 
+  sug forbidden
+  ana  st:forbidden
+  stem forbidden
+  stemmorph forbidden
+> forbiddenroot
+  spell 0 0 
+  sug forbidden root
+  ana  pa:forbidden st:forbidden pa:root
+  stem forbidden
+  stemmorph forbidden
+> forbiddenroot's
+  spell 0 0 
+  sug forbidden root's
+  ana  pa:forbidden st:forbidden pa:root's  st:root fl:A
+  stem forbiddenroot
+  stemmorph forbiddenroot
+> forbiddenroot's.
+  spell 0 0 
+  sug forbidden root's
+  ana  pa:forbidden st:forbidden pa:root's  st:root fl:A
+  stem forbiddenroot
+  stemmorph forbiddenroot
+> forbiddenroot'sstemwordstem
+  spell 0 0 
+> forbiddenrouot's
+  spell 0 0 
+> forbihdenroot
+  spell 0 0 
+> foyo
+  spell 0 0 
+  sug foo
+> fretty
+  spell 0 0 
+> froo
+  spell 0 0 
+  sug foo
+> ftoo
+  spell 0 0 
+  sug foo
+> fubaeö
+  spell 0 0 
+> fubarö
+  spell 0 0 
+  sug foobarö
+> fubaröpritiest
+  spell 0 0 
+> fubarőt
+  spell 0 0 
+  sug foobarőt
+> fubarőt.
+  spell 0 0 
+  sug foobarőt
+> hapiest
+  spell 0 0 
+> happiest
+  spell 1 0 happy
+  sug happiest
+  ana  st:happy ph:hepy ph:hepi->happi fl:B
+  stem happy
+  stemmorph happy
+> happiest.
+  spell 1 0 happy
+  sug happiest
+  ana  st:happy ph:hepy ph:hepi->happi fl:B
+  stem happy
+  stemmorph happy
+> happy
+  spell 1 0 
+  sug happy
+  ana  st:happy ph:hepy ph:hepi->happi
+  stem happy
+  stemmorph happy
+> happy.
+  spell 1 0 
+  sug happy
+  ana  st:happy ph:hepy ph:hepi->happi
+  stem happy
+  stemmorph happy
+> happybazstem
+  spell 0 0 
+> heiest
+  spell 0 0 
+> hepiest
+  spell 0 0 
+  sug happiest
+> hepy
+  spell 0 0 
+  sug happy
+> hepyp
+  spell 0 0 
+> hepőy
+  spell 0 0 
+> hey
+  spell 0 0 
+> mforbiddenroot
+  spell 0 0 
+> ofrbidden
+  spell 0 0 
+  sug forbidden
+> oot
+  spell 0 0 
+> owrd
+  spell 0 0 
+  sug word
+> perttiest
+  spell 0 0 
+  sug prettiest
+> poo
+  spell 0 0 
+> prettiest
+  spell 1 0 pretty
+  sug prettiest
+  ana  st:pretty ph:prity* fl:B
+  stem pretty
+  stemmorph pretty
+> prettieyst
+  spell 0 0 
+  sug prettiest
+> pretts
+  spell 0 0 
+> pretty
+  spell 1 0 
+  sug pretty
+  ana  st:pretty ph:prity*
+  stem pretty
+  stemmorph pretty
+> pretty-baz
+  spell 0 0 
+  sug pretty-foo
+  sug pretty-word
+> pretty.
+  spell 1 0 
+  sug pretty
+  ana  st:pretty ph:prity*
+  stem pretty
+  stemmorph pretty
+> prettyd
+  spell 0 0 
+  sug pretty
+> priitest
+  spell 0 0 
+> pritiest
+  spell 0 0 
+  sug prettiest
+> pritiest-foo
+  spell 0 0 
+  sug prettiest-foo
+> pritiest.
+  spell 0 0 
+  sug prettiest
+> pritiesyt
+  spell 0 0 
+> prity
+  spell 0 0 
+  sug pretty
+> prity.
+  spell 0 0 
+  sug pretty
+> roo'ts
+  spell 0 0 
+  sug root's
+> root
+  spell 1 0 
+  sug root
+  ana  st:root
+  stem root
+  stemmorph root
+  sfx root's
+> root's
+  spell 1 0 root
+  sug root's
+  ana  st:root fl:A
+  stem root
+  stemmorph root
+> root'sfoobarőt
+  spell 0 0 
+  sug root's foobarőt
+> root'sroot
+  spell 0 0 
+  sug root's root
+> root'w
+  spell 0 0 
+> rootforbidden
+  spell 1 1 root
+  sug root forbidden
+  sug rootforbidden
+  ana  pa:root st:root pa:forbidden
+  stem root
+  stemmorph root
+> rootforbidden-foo
+  spell 1 1 
+> rootforbiddenroot
+  spell 0 0 
+  ana  pa:root st:root pa:forbidden st:forbidden pa:root
+  stem rootforbidden
+  stemmorph rootforbidden
+> rootforbiddenstemword
+  spell 1 1 root
+  sug rootforbidden stemword
+  ana  pa:root st:root pa:forbidden st:forbidden pa:stem st:stem ph: ph: pa:word st:word ph:baz
+  stem rootforbiddenstemword
+  stemmorph rootforbiddenstemword
+> roow's
+  spell 0 0 
+> semword
+  spell 0 0 
+> setm
+  spell 0 0 
+  sug stem
+> soo
+  spell 0 0 
+> stebwordstem
+  spell 0 0 
+> stem
+  spell 1 0 
+  ana  st:stem ph: ph:
+  stem stem
+  stemmorph stem
+> stem.
+  spell 1 0 
+  sug stem
+  ana  st:stem ph: ph:
+  stem stem
+  stemmorph stem
+> stembaz
+  spell 0 0 
+  sug stemword
+> stembaz-hepiest
+  spell 0 0 
+  sug stemword-hepiest
+> stembazsetm
+  spell 0 0 
+> stembazstem
+  spell 0 0 
+  sug stemwordstem
+> stembazstem.
+  spell 0 0 
+  sug stemwordstem
+> stemwodrstem
+  spell 0 0 
+  sug stemwordstem
+> stemword
+  spell 1 1 stem
+  sug stem word
+  ana  pa:stem st:stem ph: ph: pa:word st:word ph:baz
+  stem stemword
+  stemmorph stemword
+> stemword-foo
+  spell 1 1 
+> stemwordstem
+  spell 1 1 stem
+  ana  pa:stem st:stem ph: ph: pa:word st:word ph:baz pa:stem st:stem ph: ph:
+  stem stemwordstem
+  stemmorph stemwordstem
+> stemworodstem
+  spell 0 0 
+  sug stemwordstem
+> stimword
+  spell 0 0 
+> stsemword
+  spell 0 0 
+  sug stemword
+> uroot
+  spell 0 0 
+  sug root
+> word
+  spell 1 0 
+  ana  st:word ph:baz
+  stem word
+  stemmorph word
+> word.
+  spell 1 0 
+  sug word
+  ana  st:word ph:baz
+  stem word
+  stemmorph word
+> wordhepy
+  spell 0 0 
+> wordrootforbidden
+  spell 1 1 word
+  sug wordrootforbidden
+  ana  pa:word st:word ph:baz pa:root st:root pa:forbidden
+  stem wordroot
+  stemmorph wordroot
+> wordstem
+  spell 1 1 word
+  sug word stem
+  ana  pa:word st:word ph:baz pa:stem st:stem ph: ph:
+  stem wordstem
+  stemmorph wordstem
+> wordstem-hepy
+  spell 0 0 
+  sug wordstem-happy
+> wordstems
+  spell 0 0 
+  sug wordstem
+> wordtsem
+  spell 0 0 
+  sug wordstem
+> worrd
+  spell 0 0 
+  sug word
+> worő
+  spell 0 0 
+> wrd
+  spell 0 0 
+> wrdstem
+  spell 0 0 
+> yoobarőt
+  spell 0 0 
+> yprity
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foo's
+  spell 0 0 
+> foo’s
+  spell 0 0 
+> 'foo'
+  spell 0 0 
+> l'foo
+  spell 0 0 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> foo..
+  spell 1 0 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> .foo
+  spell 0 0 
+  sug foo
+> ...
+  spell 1 0 
+> -foo
+  spell 1 1 
+  sug foo
+> foo-
+  spell 1 1 
+  sug foo
+> foo--root's
+  spell 1 1 
+> foo-root's-foo
+  spell 1 1 
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> foo root's
+  spell 0 0 
+>  foo
+  spell 1 0 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> foo 
+  spell 0 0 
+  sug foo
+> foo	root's
+  spell 0 0 
+> ��foo
+  spell 0 0 
+> foo�
+  spell 0 0 
+  sug foo
+> �foo
+  spell 0 0 
+  sug foo
+> 𐐀foo
+  spell 0 0 
+> İfoo
+  spell 0 32 
+  sug Foo
+> fooß
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo ph:bar ph:baz
+  stem foo
+  stemmorph foo
+> FOOSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo ph:bar ph:baz</a></code>
+> <?xml?><query type="stem"><word>foo</word></query>
+  spell 0 0 
+  sug foo
+> <?xml?><query type="suggest"><word>foox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><word>root's</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo ph:bar ph:baz</a></code>
+> <?xml?><query type="add"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,55 @@
+# example: foos
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+  sfx foos
+> foos
+  spell 1 0 foo
+  sug foos
+  sug foo
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> foot
+  spell 1 0 foo
+  sug foot
+  sug foo
+  ana  st:foo fl:B
+  stem foo
+  stemmorph foo
+> cep
+  spell 1 0 
+  sug cep
+  ana  st:cep
+  stem cep
+  stemmorph cep
+> fuz
+  spell 0 0 
+  sug Fooz
+> Fuz
+  spell 0 32 
+  sug Fooz
+> Fooz
+  spell 1 32 
+  sug Fooz
+  sug Foo
+  ana  st:Fooz ph:fuz po:noun
+  stem Fooz
+  stemmorph Fooz
+> ärga
+  spell 0 0 
+  sug Ärger
+> Ärga
+  spell 0 32 
+  sug Ärger
+> ärgerr
+  spell 0 0 
+  sug Ärger
+> po:orphan
+  spell 0 0 
+  sug     po:orphan
+> orphan
+  spell 0 0 

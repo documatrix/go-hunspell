@@ -1,0 +1,5 @@
+# three word compounds refused for a simpler form
+COMPOUNDFLAG X
+COMPOUNDMIN 2
+MAP 1
+MAP zy

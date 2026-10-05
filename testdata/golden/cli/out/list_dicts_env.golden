@@ -1,0 +1,18 @@
+exit 0
+stdout 0
+stderr 1120
+SEARCH PATH:
+.::dict:/nonexistent:/nonexistent/home/.local/share/hunspell:/abs/data/hunspell:/usr/share/hunspell:/usr/share/myspell:/usr/share/myspell/dicts:/Library/Spelling:/nonexistent/home/.openoffice.org/3/user/wordbook:/nonexistent/home/.openoffice.org2/user/wordbook:/nonexistent/home/.openoffice.org2.0/user/wordbook:/nonexistent/home/.config/libreoffice/4/user/wordbook:/nonexistent/home/Library/Spelling:/opt/openoffice.org/basis3.0/share/dict/ooo:/usr/lib/openoffice.org/basis3.0/share/dict/ooo:/opt/openoffice.org2.4/share/dict/ooo:/usr/lib/openoffice.org2.4/share/dict/ooo:/opt/openoffice.org2.3/share/dict/ooo:/usr/lib/openoffice.org2.3/share/dict/ooo:/opt/openoffice.org2.2/share/dict/ooo:/usr/lib/openoffice.org2.2/share/dict/ooo:/opt/openoffice.org2.1/share/dict/ooo:/usr/lib/openoffice.org2.1/share/dict/ooo:/opt/openoffice.org2.0/share/dict/ooo:/usr/lib/openoffice.org2.0/share/dict/ooo
+AVAILABLE DICTIONARIES (path is not mandatory for -d option):
+dict/apos
+dict/badcount
+dict/badflags
+dict/cwdtest
+dict/enc
+dict/extra
+dict/small
+dict/unkenc
+dict/ver
+LOADED DICTIONARY:
+dict/small.aff
+dict/small.dic

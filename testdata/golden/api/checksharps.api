@@ -1,0 +1,488 @@
+# example: m¸ﬂig
+> ABSTOIS.
+  spell 0 32 
+  sug ABSTOﬂ.
+> ABSTOSS.
+  spell 1 32 
+  sug ABSTOﬂ.
+> ABSTOSS.-Au√üenabmessung
+  spell 0 32 
+  sug ABSTOSS.-Auﬂenabmessung
+> ABSTOSS.AUSSENMASSE
+  spell 0 32 
+> ABSTOSb.
+  spell 0 32 
+  sug Abstoﬂ.
+> ABSTO√ü.
+  spell 0 32 
+  sug ABSTOﬂ.
+> AUSSEANBMESSUNG
+  spell 0 32 
+  sug AUﬂENABMESSUNG
+> AUSSENABEMSSUNG
+  spell 0 32 
+  sug AUﬂENABMESSUNG
+> AUSSENABMESSUENG
+  spell 0 32 
+  sug AUﬂENABMESSUNG
+> AUSSENABMESSUNG
+  spell 1 32 
+  sug AUﬂENABMESSUNG
+> AUSSENABMESSUNG-m¸ﬂig
+  spell 1 33 
+> AUSSENABMESSUNG.
+  spell 1 32 
+  sug AUﬂENABMESSUNG
+> AUSSENABMESSUNGAussto√ü
+  spell 0 32 
+> AUSSENABMESSUNGPROZESSIONSSTRASSE
+  spell 0 32 
+> AUSSENMASSE
+  spell 1 32 
+> AUSSENMASSE-Ausstoﬂ
+  spell 1 33 
+> AUSSENMASSE.
+  spell 1 32 
+> AUSSENMASSEﬂ
+  spell 0 32 
+> AUSSENMASSuE
+  spell 0 32 
+  sug Auﬂenabmessung
+> AUSSENMATSE
+  spell 0 32 
+> AUSSTOSS
+  spell 1 32 
+  sug AUSSTOﬂ
+> AUSSTOSS.
+  spell 1 32 
+  sug AUSSTOﬂ
+> AUSSTOSSPROZESSIONSSTRASSE
+  spell 0 32 
+> AUSSTO√ü
+  spell 0 32 
+  sug AUSSTOﬂ
+> AU√üENABMESSUNG
+  spell 0 32 
+  sug AUﬂENABMESSUNG
+> AU√üENMA√üE
+  spell 0 32 
+> AaSTOSS.
+  spell 0 32 
+  sug Ausstoﬂ
+> AbsZo√ü.
+  spell 0 32 
+  sug Abstoﬂ.
+> AbstTﬂ.
+  spell 0 32 
+  sug Abstoﬂ.
+> AbstoSﬂ.
+  spell 0 32 
+  sug Abstoﬂ.
+> Abstoss.
+  spell 0 32 
+  sug Abstoﬂ.
+> Absto√ü.
+  spell 0 32 
+  sug Abstoﬂ.
+> Absto√ü..
+  spell 0 32 
+  sug Abstoﬂ.
+> Abstoﬂ.
+  spell 1 32 
+  sug Abstoﬂ.
+  ana  st:Abstoﬂ.
+  stem Abstoﬂ.
+  stemmorph Abstoﬂ.
+> Abstoﬂ.-Auﬂenabmessung
+  spell 1 33 
+> Abstoﬂ.-Auﬂenmaﬂe
+  spell 1 33 
+> Abstoﬂ..
+  spell 1 32 
+  sug Abstoﬂ.
+  ana  st:Abstoﬂ.
+  stem Abstoﬂ.
+  stemmorph Abstoﬂ.
+> Abstoﬂ.Abstoﬂ.
+  spell 0 32 
+> Abstoﬂ.Aussto√ü
+  spell 0 32 
+> Abstoﬂ.m√º√üig
+  spell 0 32 
+> Abtsoﬂ.
+  spell 0 32 
+  sug Abstoﬂ.
+> Astoﬂ.
+  spell 0 32 
+  sug Ausstoﬂ
+> AusZstoﬂ
+  spell 0 32 
+  sug Ausstoﬂ
+  sug Abstoﬂ.
+> Aussenabmessung
+  spell 0 32 
+  sug Auﬂenabmessung
+> AusstoG
+  spell 0 32 
+  sug Ausstoﬂ
+> Ausstoss
+  spell 0 32 
+  sug Ausstoﬂ
+> Aussto√ü
+  spell 0 32 
+  sug Ausstoﬂ
+> Aussto√ü-AUSSENMASSE
+  spell 0 32 
+  sug Ausstoﬂ-AUSSENMASSE
+> Aussto√üm¸ﬂig
+  spell 0 32 
+> Ausstoﬂ
+  spell 1 32 
+  sug Ausstoﬂ
+  ana  st:Ausstoﬂ
+  stem Ausstoﬂ
+  stemmorph Ausstoﬂ
+> Ausstoﬂ-Aussto√ü
+  spell 0 32 
+  sug Ausstoﬂ-Ausstoﬂ
+> Ausstoﬂ-PROZESSIONSSTRASSE
+  spell 1 33 
+> Ausstoﬂ.
+  spell 1 32 
+  sug Ausstoﬂ
+  ana  st:Ausstoﬂ
+  stem Ausstoﬂ
+  stemmorph Ausstoﬂ
+> AusstoﬂAUSSENMASSE
+  spell 0 32 
+> Aussto„ü
+  spell 0 32 
+  sug Ausstoﬂ
+> Au√üenabmessumng
+  spell 0 32 
+  sug Auﬂenabmessung
+> Au√üenabmessung
+  spell 0 32 
+  sug Auﬂenabmessung
+> Au√üenabmessungProzessionsstra√üe
+  spell 0 32 
+> Au√üenabmesung
+  spell 0 32 
+  sug Auﬂenabmessung
+> Au√üenabmsesung
+  spell 0 32 
+  sug Auﬂenabmessung
+> Au√üenambessung
+  spell 0 32 
+  sug Auﬂenabmessung
+> Au√üenmaü√e
+  spell 0 32 
+> Au√üenma√üe
+  spell 0 32 
+> Au√üenma√üe.
+  spell 0 32 
+> Au√üenma√üePROZESSIONSSTRASSE
+  spell 0 32 
+> Auﬂenabmessung
+  spell 1 32 
+  sug Auﬂenabmessung
+  ana  st:Auﬂenabmessung
+  stem Auﬂenabmessung
+  stemmorph Auﬂenabmessung
+> Auﬂenabmessung-Prozessionsstra√üe
+  spell 0 32 
+  sug Auﬂenabmessung-Prozessionsstraﬂe
+> Auﬂenabmessung.
+  spell 1 32 
+  sug Auﬂenabmessung
+  ana  st:Auﬂenabmessung
+  stem Auﬂenabmessung
+  stemmorph Auﬂenabmessung
+> Auﬂenab√messung
+  spell 0 32 
+  sug Auﬂenabmessung
+> Auﬂenmaﬂe
+  spell 1 32 
+  sug Auﬂenmaﬂe
+  ana  st:Auﬂenmaﬂe
+  stem Auﬂenmaﬂe
+  stemmorph Auﬂenmaﬂe
+> Auﬂenmaﬂe-M√ºssig
+  spell 0 32 
+  sug Auﬂenabmessung
+> Auﬂenmaﬂe-m√º√üig
+  spell 0 32 
+> Auﬂenmaﬂee
+  spell 0 32 
+  sug Auﬂenmaﬂe
+  sug Auﬂenabmessung
+> AzSSTOSS
+  spell 0 32 
+  sug Ausstoﬂ
+> MT√ºssig
+  spell 0 32 
+> MúSSIG
+  spell 0 32 
+> Mºssig
+  spell 0 32 
+> M√I√üIG
+  spell 0 32 
+> M√g√üIG
+  spell 0 32 
+> M√z√üIG
+  spell 0 32 
+> M√úSSIG
+  spell 0 32 
+> M√úSSIG-M√úSSIG
+  spell 0 32 
+> M√úSSIG.
+  spell 0 32 
+> M√úSSIgG
+  spell 0 32 
+> M√úSSItG
+  spell 0 32 
+> M√úSbSIG
+  spell 0 32 
+> M√úSmSIG
+  spell 0 32 
+> M√ú√üIG
+  spell 0 32 
+> M√ú√üIGAu√üenabmessung
+  spell 0 32 
+> M√ú√üIGM√ºssig
+  spell 0 32 
+> M√ú√üIGProzessionsstra√üe
+  spell 0 32 
+> M√ºSSIG
+  spell 0 32 
+> M√ºsosig
+  spell 0 32 
+> M√ºssig
+  spell 0 32 
+> M√ºssig-AUSSTOSS
+  spell 0 32 
+> M√ºssigAuﬂenabmessung
+  spell 0 32 
+> M√º√ig
+  spell 0 32 
+> M√º√üig
+  spell 0 32 
+> M√º√üig-M√úSSIG
+  spell 0 32 
+> M„ússig
+  spell 0 32 
+> M„ú„üig
+  spell 0 32 
+> M„ºssig
+  spell 0 32 
+> M„º„üig
+  spell 0 32 
+> PROZESSIONSSRASSE
+  spell 0 32 
+  sug PROZESSIONSSTRAﬂE
+> PROZESSIONSSTRASSE
+  spell 1 32 
+  sug PROZESSIONSSTRAﬂE
+> PROZESSIONSSTRASSE-AUSSTOSS
+  spell 0 32 
+> PROZESSIONSSTRASSE-Prozessionsstra√üe
+  spell 0 32 
+  sug PROZESSIONSSTRASSE-Prozessionsstraﬂe
+> PROZESSIONSSTRASSEAu√üenabmessung
+  spell 0 32 
+> PROZESSIONSSTRASSt
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> PROZESSIONSSTRA√üE
+  spell 0 32 
+  sug PROZESSIONSSTRAﬂE
+> ProzessionsBtra√üe
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> Prozessionsstaﬂe
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> Prozessionsstrasse
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> Prozessionsstra√üe
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> Prozessionsstra√üe-AUSSTOSS
+  spell 0 32 
+  sug Prozessionsstraﬂe-AUSSTOSS
+> Prozessionsstra√üe.
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> Prozessionsstraﬂe
+  spell 1 32 
+  sug Prozessionsstraﬂe
+  ana  st:Prozessionsstraﬂe
+  stem Prozessionsstraﬂe
+  stemmorph Prozessionsstraﬂe
+> Prozessionsstraﬂe-Auﬂenabmessung
+  spell 1 33 
+> Prozessionsstrﬂae
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> Prozessionstsra√üe
+  spell 0 32 
+  sug Prozessionsstraﬂe
+> bAUSSTOSS
+  spell 0 32 
+  sug Ausstoﬂ
+> bAstoﬂ.
+  spell 0 32 
+  sug Abstoﬂ.
+> m√ºüig
+  spell 0 32 
+> m√º√iüg
+  spell 0 32 
+> m√º√üg
+  spell 0 32 
+> m√º√üig
+  spell 0 32 
+> m√º√üig-Aussto√ü
+  spell 0 32 
+> m√º√üig-M√úSSIG
+  spell 0 32 
+> m√º√üig.
+  spell 0 32 
+> m√º√üigAUSSENABMESSUNG
+  spell 0 32 
+> m√º√üigM√úSSIG
+  spell 0 32 
+> m√º√üigm¸ﬂig
+  spell 0 32 
+> m√º√¸ig
+  spell 0 32 
+> m√√ºüig
+  spell 0 32 
+> m¸ig
+  spell 0 0 
+  sug m¸ﬂig
+> m¸ﬂOig
+  spell 0 32 
+  sug m¸ﬂig
+> m¸ﬂi
+  spell 0 0 
+  sug m¸ﬂig
+> m¸ﬂig
+  spell 1 0 
+  sug m¸ﬂig
+  ana  st:m¸ﬂig
+  stem m¸ﬂig
+  stemmorph m¸ﬂig
+> m¸ﬂig-Prozessionsstraﬂe
+  spell 1 33 
+> m¸ﬂigM√ºssig
+  spell 0 32 
+> √Mú√üIG
+  spell 0 32 
+> √Mºssig
+  spell 0 32 
+> √ú√üIG
+  spell 0 32 
+> √º√üig
+  spell 0 32 
+> ¸ﬂig
+  spell 0 0 
+  sug m¸ﬂig
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> m√º√üig's
+  spell 0 32 
+> m√º√üig‚Äôs
+  spell 0 32 
+> 'm√º√üig'
+  spell 0 32 
+> l'm√º√üig
+  spell 0 32 
+> m√º√üig.
+  spell 0 32 
+> m√º√üig..
+  spell 0 32 
+> .m√º√üig
+  spell 0 32 
+> ...
+  spell 1 0 
+> -m√º√üig
+  spell 0 32 
+> m√º√üig-
+  spell 0 32 
+> m√º√üig--m¸ﬂig
+  spell 0 32 
+> m√º√üig-m¸ﬂig-m√º√üig
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> M√º√üIG
+  spell 0 32 
+> M√º√üIG
+  spell 0 32 
+> M√º√üIg
+  spell 0 32 
+> m√º√üig m¸ﬂig
+  spell 0 32 
+>  m√º√üig
+  spell 0 32 
+> m√º√üig 
+  spell 0 32 
+> m√º√üig	m¸ﬂig
+  spell 0 32 
+> ˇ˛m√º√üig
+  spell 0 32 
+> m√º√üig√
+  spell 0 32 
+> Äm√º√üig
+  spell 0 32 
+> êêÄm√º√üig
+  spell 0 32 
+> ƒ∞m√º√üig
+  spell 0 32 
+> m√º√üig√ü
+  spell 0 32 
+> m√º√üig
+  spell 0 32 
+> M√º√üIGSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>m√º√üig</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>m√º√üig</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>m√º√üigx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>m√º√üig</word><word>m¸ﬂig</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>m√º√üig</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>m√º√üig</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>m√º√üig</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;m√º√üig&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>m√º√üig</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

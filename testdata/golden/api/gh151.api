@@ -1,0 +1,461 @@
+# example: trafikk
+> Bil
+  spell 1 32 
+  sug bil
+  ana  st:bil
+  stem bil
+  stemmorph bil
+> KORK
+  spell 1 32 
+  sug KORK
+  ana  st:kork
+  stem kork
+  stemmorph kork
+> TRAFIKK
+  spell 1 32 
+  sug TRAFIKK
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> TRAFIKKBIL
+  spell 0 32 
+  sug TRAFIKK BIL
+  sug TRAFIKK
+> TRAFIKKORK
+  spell 1 33 trafikk
+  sug TRAFIKKORK
+  sug TRAFIKK
+> Trafikk
+  spell 1 32 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> Trafikkbil
+  spell 0 32 
+  sug Trafikk bil
+  sug Trafikk
+> Trafikkork
+  spell 1 33 trafikk
+  sug trafikkork
+> akork
+  spell 0 0 
+  sug kork
+> bbl
+  spell 0 0 
+  sug bil
+> bik
+  spell 0 0 
+  sug bil
+> bil
+  spell 1 0 
+  sug bil
+  ana  st:bil
+  stem bil
+  stemmorph bil
+> bil-kork
+  spell 1 1 
+> bil-trafikkork
+  spell 1 1 
+> bil.
+  spell 1 0 
+  sug bil
+  ana  st:bil
+  stem bil
+  stemmorph bil
+> bila
+  spell 0 0 
+  sug bil
+> bilbil
+  spell 0 0 
+  sug bil bil
+  sug bil
+> bilo
+  spell 0 0 
+  sug bil
+> biltrafikkork
+  spell 0 0 
+> bli
+  spell 0 0 
+  sug bil
+> fbil
+  spell 0 0 
+  sug bil
+> kbil
+  spell 0 0 
+  sug bil
+> klrk
+  spell 0 0 
+  sug kork
+> koirk
+  spell 0 0 
+  sug kork
+> kokr
+  spell 0 0 
+  sug kork
+> korak
+  spell 0 0 
+  sug kork
+> korbk
+  spell 0 0 
+  sug kork
+> kork
+  spell 1 0 
+  sug kork
+  ana  st:kork
+  stem kork
+  stemmorph kork
+> kork-trafikk
+  spell 1 1 
+  sug korktrafikk
+> kork-trafikkork
+  spell 1 1 
+  sug korktrafikkork
+> kork.
+  spell 1 0 
+  sug kork
+  ana  st:kork
+  stem kork
+  stemmorph kork
+> korkf
+  spell 0 0 
+  sug kork
+> korkk
+  spell 0 0 
+  sug kork
+> korktrafikk
+  spell 1 1 kork
+  sug kork trafikk
+  sug korktrafikk
+  ana  pa:kork st:kork pa:trafikk
+  stem kork
+  stemmorph kork
+> korktrafikkbil
+  spell 0 0 
+> korktrafikkork
+  spell 1 1 kork
+  sug korktrafikkork
+> krk
+  spell 0 0 
+  sug kork
+> lkork
+  spell 0 0 
+  sug kork
+> lrafikk
+  spell 0 0 
+  sug trafikk
+> okrk
+  spell 0 0 
+  sug kork
+> oork
+  spell 0 0 
+  sug kork
+> rtafikk
+  spell 0 0 
+  sug trafikk
+> tafikk
+  spell 0 0 
+  sug trafikk
+> tafikkbil
+  spell 0 0 
+  sug trafikk
+> tarfikk
+  spell 0 0 
+  sug trafikk
+> traafikk
+  spell 0 0 
+  sug trafikk
+> trafaikk
+  spell 0 0 
+  sug trafikk
+> trafakk
+  spell 0 0 
+  sug trafikk
+> trafiakk
+  spell 0 0 
+  sug trafikk
+> trafikakbil
+  spell 0 0 
+  sug trafikk
+> trafikbil
+  spell 0 0 
+  sug trafikk
+> trafikk
+  spell 1 0 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> trafikk-bil
+  spell 1 1 
+  sug trafikk
+> trafikk-kork
+  spell 1 1 
+  sug trafikkkork
+> trafikk-trafikk
+  spell 1 1 
+  sug trafikktrafikk
+> trafikk.
+  spell 1 0 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> trafikkb
+  spell 0 0 
+  sug trafikk
+> trafikkbil
+  spell 0 0 
+  sug trafikk bil
+  sug trafikk
+> trafikkbil-kork
+  spell 0 0 
+  sug trafikk bil-kork
+  sug trafikk-kork
+> trafikkbil-trafikk
+  spell 0 0 
+  sug trafikk bil-trafikk
+  sug trafikk-trafikk
+> trafikkbil.
+  spell 0 0 
+  sug trafikk bil
+  sug trafikk
+> trafikkbilb
+  spell 0 0 
+  sug trafikk
+> trafikkbilbil
+  spell 0 0 
+> trafikkbilkork
+  spell 0 0 
+> trafikkbiltrafikk
+  spell 0 0 
+> trafikkbiltrafikkork
+  spell 0 0 
+> trafikkbl
+  spell 0 0 
+  sug trafikk
+> trafikkkork
+  spell 1 1 trafikk
+  sug trafikk kork
+  sug trafikkkork
+  sug trafikkork
+  ana  pa:trafikk st:trafikk pa:kork
+  stem trafikk
+  stemmorph trafikk
+> trafikkok
+  spell 0 0 
+  sug trafikk
+> trafikkork
+  spell 1 1 trafikk
+  sug trafikkork
+> trafikkork-kork
+  spell 1 1 
+  sug trafikkorkkork
+> trafikkork-trafikkbil
+  spell 0 0 
+  sug trafikkork-trafikk bil
+  sug trafikkork-trafikk
+> trafikkork.
+  spell 1 1 trafikk
+  sug trafikkork
+  sug trafikk
+> trafikkorkbil
+  spell 0 0 
+> trafikkrk
+  spell 0 0 
+  sug trafikk
+> trafikkrok
+  spell 0 0 
+  sug trafikkork
+> trafikkt
+  spell 0 0 
+  sug trafikk
+> trafikktork
+  spell 0 0 
+  sug trafikkork
+> trafikktrafikk
+  spell 1 1 trafikk
+  sug trafikk trafikk
+  sug trafikktrafikk
+  ana  pa:trafikk st:trafikk pa:trafikk
+  stem trafikk
+  stemmorph trafikk
+> trafikktrafikkbil
+  spell 0 0 
+> trafikrork
+  spell 0 0 
+  sug trafikk
+> trafilkbil
+  spell 0 0 
+  sug trafikk
+> trafitkk
+  spell 0 0 
+  sug trafikk
+> trafkikkbil
+  spell 0 0 
+  sug trafikk
+> trafoikk
+  spell 0 0 
+  sug trafikk
+> traifkk
+  spell 0 0 
+  sug trafikk
+> traifkkork
+  spell 0 0 
+  sug trafikkork
+> trfaikk
+  spell 0 0 
+  sug trafikk
+> trkafikkork
+  spell 0 0 
+  sug trafikkork
+  sug trafikkkork
+> trtafikk
+  spell 0 0 
+  sug trafikk
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> trafikk's
+  spell 0 0 
+  sug trafikk
+> trafikkâ€™s
+  spell 0 0 
+  sug trafikk
+> 'trafikk'
+  spell 0 0 
+  sug trafikk
+> l'trafikk
+  spell 0 0 
+  sug trafikk
+> trafikk.
+  spell 1 0 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> trafikk..
+  spell 1 0 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> .trafikk
+  spell 0 0 
+  sug trafikk
+> ...
+  spell 1 0 
+> -trafikk
+  spell 1 1 
+  sug trafikk
+> trafikk-
+  spell 1 1 
+  sug trafikk
+> trafikk--trafikkork
+  spell 1 1 
+> trafikk-trafikkork-trafikk
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> TRAFIKK
+  spell 1 32 
+  sug TRAFIKK
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> TRAFIKK
+  spell 1 32 
+  sug TRAFIKK
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> Trafikk
+  spell 1 32 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> trafikk trafikkork
+  spell 0 0 
+  sug trafikktrafikkork
+>  trafikk
+  spell 1 0 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> trafikk 
+  spell 0 0 
+  sug trafikk
+> trafikk	trafikkork
+  spell 0 0 
+  sug trafikktrafikkork
+> ÿþtrafikk
+  spell 0 0 
+  sug trafikk
+> trafikkÃ
+  spell 0 32 
+  sug trafikk
+> €trafikk
+  spell 0 0 
+  sug trafikk
+> ð€trafikk
+  spell 0 0 
+  sug trafikk
+> Ä°trafikk
+  spell 0 32 
+  sug Trafikk
+> trafikkÃŸ
+  spell 0 32 
+  sug trafikk
+> trafikk
+  spell 1 0 
+  sug trafikk
+  ana  st:trafikk
+  stem trafikk
+  stemmorph trafikk
+> TRAFIKKSS
+  spell 0 32 
+  sug TRAFIKK
+> <?xml?><query type="analyze"><word>trafikk</word></query>
+  spell 0 0 
+  sug <code><a> st:trafikk</a></code>
+> <?xml?><query type="stem"><word>trafikk</word></query>
+  spell 0 0 
+  sug trafikk
+> <?xml?><query type="suggest"><word>trafikkx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>trafikk</word><word>trafikkork</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>trafikk</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>trafikk</word></query>
+  spell 0 0 
+  sug <code><a> st:trafikk</a></code>
+> <?xml?><query type="add"><word>trafikk</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;trafikk&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>trafikk</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

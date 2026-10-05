@@ -1,0 +1,297 @@
+# example: hello
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 1 32 
+  sug AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  ana  st:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stem aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stemmorph aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 1 32 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  ana  st:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stem aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stemmorph aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> HELLO
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> Hello
+  spell 1 32 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 1 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  ana  st:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stem aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stemmorph aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-hello
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+  spell 1 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  ana  st:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stem aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  stemmorph aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahello
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa hello
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaeaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaaaaaaaaaaaaoaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaaoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaaaaaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> aaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> ello
+  spell 0 0 
+  sug hello
+> heallo
+  spell 0 0 
+  sug hello
+> healo
+  spell 0 0 
+  sug hello
+> heelo
+  spell 0 0 
+  sug hello
+> hehllo
+  spell 0 0 
+  sug hello
+> helho
+  spell 0 0 
+  sug hello
+> hell
+  spell 0 0 
+  sug hello
+> hella
+  spell 0 0 
+  sug hello
+> helle
+  spell 0 0 
+  sug hello
+> helleo
+  spell 0 0 
+  sug hello
+> helll
+  spell 0 0 
+  sug hello
+> hello
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 1 1 
+> hello-hello
+  spell 1 1 
+> hello.
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> helloaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+  sug hello aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> helloh
+  spell 0 0 
+  sug hello
+> hellohello
+  spell 0 0 
+  sug hello hello
+> helo
+  spell 0 0 
+  sug hello
+> heloo
+  spell 0 0 
+  sug hello
+> hhello
+  spell 0 0 
+  sug hello
+> hhllo
+  spell 0 0 
+  sug hello
+> hlelo
+  spell 0 0 
+  sug hello
+> hllo
+  spell 0 0 
+  sug hello
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> hello's
+  spell 0 0 
+  sug hello
+> helloâ€™s
+  spell 0 0 
+  sug hello
+> 'hello'
+  spell 0 0 
+  sug hello
+> l'hello
+  spell 0 0 
+  sug hello
+> hello.
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello..
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> .hello
+  spell 0 0 
+  sug hello
+> ...
+  spell 1 0 
+> -hello
+  spell 1 1 
+  sug hello
+> hello-
+  spell 1 1 
+  sug hello
+> hello--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 1 1 
+> hello-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-hello
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> HELLO
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> HELLO
+  spell 1 32 
+  sug HELLO
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> Hello
+  spell 1 32 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+>  hello
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> hello 
+  spell 0 0 
+  sug hello
+> hello	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> ÿþhello
+  spell 0 0 
+  sug hello
+> helloÃ
+  spell 0 0 
+  sug hello
+> €hello
+  spell 0 0 
+  sug hello
+> ð€hello
+  spell 0 0 
+> Ä°hello
+  spell 0 32 
+  sug Hello
+> helloÃŸ
+  spell 0 0 
+  sug hello
+> hello
+  spell 1 0 
+  sug hello
+  ana  st:hello
+  stem hello
+  stemmorph hello
+> HELLOSS
+  spell 0 32 
+  sug HELLO
+> <?xml?><query type="analyze"><word>hello</word></query>
+  spell 0 0 
+  sug <code><a> st:hello</a></code>
+> <?xml?><query type="stem"><word>hello</word></query>
+  spell 0 0 
+  sug hello
+> <?xml?><query type="suggest"><word>hellox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hello</word><word>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hello</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>hello</word></query>
+  spell 0 0 
+  sug <code><a> st:hello</a></code>
+> <?xml?><query type="add"><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;hello&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>hello</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

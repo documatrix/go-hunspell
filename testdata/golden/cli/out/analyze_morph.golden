@@ -1,0 +1,30 @@
+exit 0
+stdout 880
+> drink
+analyze(drink) =  st:drink po:noun
+analyze(drink) =  st:drink po:verb	al:drank	al:drunk	ts:present
+stem(drink) = drink
+> drinks
+analyze(drinks) =  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+analyze(drinks) =  st:drink po:noun is:plur
+stem(drinks) = drink
+> undrinkables
+analyze(undrinkables) = dp:pfx_un sp:un  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+stem(undrinkables) = undrinkable
+> phenomena
+analyze(phenomena) =  po:noun st:phenomenon	is:plur
+stem(phenomena) = phenomenon
+> xyzzy
+Unknown word.
+generate(drink, eat) = drink
+generate(drinks, eats) = drinks
+generate(eat, drunk) = eaten
+generate(foo, bar) = NO DATA
+> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Unknown word.
+> xxxxxxxxxxxxxxxxxxxxx
+Unknown word.
+> ate
+analyze(ate) =  po:verb	st:eat	is:past_1
+stem(ate) = eat
+stderr 0

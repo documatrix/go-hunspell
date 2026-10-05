@@ -1,0 +1,496 @@
+# example: अलम्
+> अकम्‌
+  spell 0 0 
+> अमल्
+  spell 0 0 
+  sug अलम्
+> अम्‍
+  spell 0 0 
+  sug अलम्
+> अर्‌य
+  spell 0 0 
+  sug र्‌य
+> अलम
+  spell 0 0 
+  sug अलम्
+> अलमल्
+  spell 0 0 
+  sug अलम्
+> अलम्
+  spell 1 0 
+  sug अलम्
+  ana  st:अलम्
+  stem अलम्
+  stemmorph अलम्
+> अलम्.
+  spell 1 0 
+  sug अलम्
+  ana  st:अलम्
+  stem अलम्
+  stemmorph अलम्
+> अलम्न्न
+  spell 0 0 
+  sug अलम् न्न
+  sug अलम्
+> अलम्ल‍
+  spell 0 0 
+  sug अलम्
+> अलम्‌
+  spell 0 0 
+  sug अलम्
+> अलम्‌.
+  spell 1 0 
+  sug अलम्
+  ana  st:अलम्
+  stem अलम्
+  stemmorph अलम्
+> अलम्‌अलम्‌
+  spell 0 0 
+> अलम्‌र
+  spell 0 0 
+  sug अलम्
+> अलम्‍
+  spell 1 0 
+  sug अलम्
+  ana  st:अलम्
+  stem अलम्
+  stemmorph अलम्
+> अलम्‍-अलम्
+  spell 1 1 
+> अलम्‍-र्‌य
+  spell 1 1 
+> अलम्‍.
+  spell 0 0 
+  sug अलम्
+> अलम्‍न्न
+  spell 0 0 
+  sug अलम्
+> अलम‌
+  spell 0 0 
+  sug अलम्
+> अलम‍्
+  spell 0 0 
+  sug अलम्
+> अल्
+  spell 0 0 
+  sug अलम्
+> अल्म‍
+  spell 0 0 
+  sug अलम्
+> अल्‌
+  spell 0 0 
+  sug अलम्
+> अ‍म्‍
+  spell 0 0 
+  sug अलम्
+> कन्न
+  spell 0 0 
+  sug न्न
+> कय्‍यार
+  spell 0 0 
+  sug क्यार
+> कर्‌य
+  spell 0 0 
+  sug र्‌य
+> क्यर
+  spell 0 0 
+  sug क्यार
+> क्या
+  spell 0 0 
+  sug क्यार
+> क्याय
+  spell 0 0 
+  sug क्यार
+> क्यार
+  spell 1 0 
+  sug क्यार
+  ana  st:क्यार
+  stem क्यार
+  stemmorph क्यार
+> क्यार-अलम्‌
+  spell 0 0 
+  sug क्यार-अलम्
+> क्यार-अलम्‍
+  spell 1 1 
+> क्यार.
+  spell 1 0 
+  sug क्यार
+  ana  st:क्यार
+  stem क्यार
+  stemmorph क्यार
+> क्यारक्यार
+  spell 0 0 
+  sug क्यार क्यार
+> क्यारर्‌य
+  spell 0 0 
+  sug क्यार र्‌य
+  sug क्यार
+> क्याल
+  spell 0 0 
+  sug क्यार
+> क्य‍ार
+  spell 0 0 
+  sug क्यार
+> क्ार
+  spell 0 0 
+  sug क्यार
+> क्‍यामर
+  spell 0 0 
+  sug क्यार
+> क्‍यार
+  spell 0 0 
+  sug क्यार
+> क्‍यार-अलम्‍
+  spell 0 0 
+  sug क्यार-अलम्
+> क्‍यार.
+  spell 0 0 
+  sug क्यार
+> क्‍यारन्‌न
+  spell 0 0 
+> क्‍ार
+  spell 0 0 
+  sug क्यार
+> क‌्यार
+  spell 1 0 
+  sug क्यार
+  ana  st:क्यार
+  stem क्यार
+  stemmorph क्यार
+> क‍्यार
+  spell 0 0 
+  sug क्यार
+> नअ‌न
+  spell 0 0 
+> नय्‌न
+  spell 0 0 
+  sug न्न
+> न्
+  spell 0 0 
+  sug न्न
+> न्न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्न-र्य
+  spell 0 0 
+  sug न्न-र्‌य
+> न्न-र्‌य
+  spell 1 1 
+> न्न.
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्नअलम्‍
+  spell 0 0 
+  sug न्न अलम्
+  sug अलम्
+> न्नन्‌न
+  spell 0 0 
+  sug न्न न्न
+  sug न्न
+> न्नय
+  spell 0 0 
+  sug न्न
+> न्नर्‌य
+  spell 0 0 
+  sug न्न र्‌य
+  sug र्‌य
+> न्यन
+  spell 0 0 
+  sug न्न
+> न्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌न.
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌नअलम्
+  spell 0 0 
+  sug न्न अलम्
+  sug अलम्
+> न्‌नक्‍यार
+  spell 0 0 
+> न्‌नर्‌य
+  spell 0 0 
+  sug न्न र्‌य
+  sug र्‌य
+> न्‌म
+  spell 0 0 
+  sug न्न
+> न‌न
+  spell 0 0 
+  sug न्न
+> न‌्न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न‌्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न‍्न
+  spell 0 0 
+  sug न्न
+> मक्‍यार
+  spell 0 0 
+  sug क्यार
+> रक‌य
+  spell 0 0 
+  sug क्यार
+> रय्
+  spell 0 0 
+  sug र्‌य
+> राय
+  spell 0 0 
+  sug र्‌य
+> र्म‌य
+  spell 0 0 
+  sug र्‌य
+> र्य
+  spell 0 0 
+  sug र्‌य
+> र्य-अलम्‍
+  spell 0 0 
+  sug र्‌य-अलम्
+> र्य-क्यार
+  spell 0 0 
+  sug र्‌य-क्यार
+  sug क्यार
+> र्य-न्न
+  spell 0 0 
+  sug र्‌य-न्न
+> र्यक
+  spell 0 0 
+  sug र्‌य
+> र्यक्‍यार
+  spell 0 0 
+> र्यन्‌न
+  spell 0 0 
+> र्‌
+  spell 0 0 
+  sug र्‌य
+> र्‌य
+  spell 1 0 
+  sug र्‌य
+  ana  st:र्‌य
+  stem र्‌य
+  stemmorph र्‌य
+> र्‌य-अलम्‌
+  spell 0 0 
+  sug र्‌य-अलम्
+> र्‌य-क्यार
+  spell 1 1 
+> र्‌य-क्‍यार
+  spell 0 0 
+  sug र्‌य-क्यार
+> र्‌य-न्‌न
+  spell 1 1 
+  sug र्‌य
+> र्‌य.
+  spell 1 0 
+  sug र्‌य
+  ana  st:र्‌य
+  stem र्‌य
+  stemmorph र्‌य
+> र्‌यअलम्
+  spell 0 0 
+  sug र्‌य अलम्
+  sug र्‌य
+> र्‌यन्‌न
+  spell 0 0 
+  sug र्‌य न्न
+  sug र्‌य
+> र्‌यर्‌य
+  spell 0 0 
+  sug र्‌य र्‌य
+  sug र्‌य
+> र्‌ाय
+  spell 0 0 
+  sug र्‌य
+> लअम्‌
+  spell 0 0 
+> लन्न
+  spell 0 0 
+  sug न्न
+> लर्य
+  spell 0 0 
+  sug र्‌य
+> ्क‍यार
+  spell 0 0 
+  sug क्यार
+> ्न
+  spell 0 0 
+  sug न्न
+> ्नन
+  spell 0 0 
+  sug न्न
+> ्न‌न
+  spell 0 0 
+  sug न्न
+> ्यार
+  spell 0 0 
+  sug क्यार
+> ्रय
+  spell 0 0 
+  sug र्‌य
+> ्र‌य
+  spell 0 0 
+  sug र्‌य
+> ‌्‌य
+  spell 0 0 
+  sug र्‌य
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> न्‌न's
+  spell 0 0 
+  sug न्न
+> न्‌न’s
+  spell 0 0 
+  sug न्न
+> 'न्‌न'
+  spell 0 0 
+> l'न्‌न
+  spell 0 0 
+> न्‌न.
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌न..
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> .न्‌न
+  spell 0 0 
+  sug न्न
+> ...
+  spell 1 0 
+> -न्‌न
+  spell 1 1 
+  sug न्न
+> न्‌न-
+  spell 1 1 
+  sug न्न
+> न्‌न--र्‌य
+  spell 1 1 
+> न्‌न-र्‌य-न्‌न
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> न्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌न र्‌य
+  spell 0 0 
+>  न्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌न 
+  spell 0 0 
+  sug न्न
+> न्‌न	र्‌य
+  spell 0 0 
+> ��न्‌न
+  spell 0 0 
+> न्‌न�
+  spell 0 0 
+  sug न्न
+> �न्‌न
+  spell 0 0 
+  sug न्न
+> 𐐀न्‌न
+  spell 0 0 
+> İन्‌न
+  spell 0 32 
+  sug न्न
+> न्‌नß
+  spell 0 0 
+  sug न्न
+> न्‌न
+  spell 1 0 
+  sug न्न
+  ana  st:न्न
+  stem न्न
+  stemmorph न्न
+> न्‌नSS
+  spell 0 32 
+  sug न्न
+> <?xml?><query type="analyze"><word>न्‌न</word></query>
+  spell 0 0 
+  sug <code><a> st:न्न</a></code>
+> <?xml?><query type="stem"><word>न्‌न</word></query>
+  spell 0 0 
+  sug न्न
+> <?xml?><query type="suggest"><word>न्‌नx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>न्‌न</word><word>र्‌य</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>न्‌न</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>न्‌न</word></query>
+  spell 0 0 
+  sug <code><a> st:न्न</a></code>
+> <?xml?><query type="add"><word>न्‌न</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;न्‌न&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>न्‌न</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,525 @@
+# example: foo
+> BAR
+  spell 1 32 
+  sug BAR
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> BARFOO
+  spell 0 32 
+  sug BAR FOO
+  sug BAR
+> Bar
+  spell 1 32 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> Barfoo
+  spell 0 32 
+  sug Bar foo
+  sug Bar
+> CKm
+  spell 0 32 
+  sug cm
+> CM
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> Cm
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> Cm-cm
+  spell 0 32 
+  sug cm-cm
+> Cm-kg
+  spell 0 32 
+  sug cm-kg
+> Cm.
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> CmKG
+  spell 0 32 
+  sug cm
+> Cmbar
+  spell 0 32 
+  sug Bar
+> Cmbarfoo
+  spell 0 32 
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOS
+  spell 0 34 
+  sug FOO
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foos
+  spell 0 34 
+  sug Foo
+> K
+  spell 0 32 
+  sug kg
+> KG
+  spell 0 34 
+  sug kg
+  ana  st:kg
+  stem kg
+  stemmorph kg
+> KGKG
+  spell 0 32 
+  sug kg
+> KGbars
+  spell 0 32 
+> KGfoos
+  spell 0 32 
+> KGg
+  spell 0 32 
+  sug kg
+> KGo
+  spell 0 32 
+  sug kg
+> Ka
+  spell 0 32 
+  sug kg
+> Kg
+  spell 0 34 
+  sug kg
+  ana  st:kg
+  stem kg
+  stemmorph kg
+> Kg-Cm
+  spell 0 32 
+  sug kg-cm
+> Kg.
+  spell 0 34 
+  sug kg
+  ana  st:kg
+  stem kg
+  stemmorph kg
+> KgCm
+  spell 0 32 
+  sug kg
+> KgG
+  spell 0 32 
+  sug kg
+> Kr
+  spell 0 32 
+  sug kg
+> abr
+  spell 0 0 
+  sug bar
+> arfoo
+  spell 0 0 
+> baC
+  spell 0 32 
+  sug bar
+> bafroo
+  spell 0 0 
+> bag
+  spell 0 0 
+  sug bar
+> bakrs
+  spell 0 0 
+  sug bar
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bar-foo
+  spell 1 1 
+> bar-foobar
+  spell 0 0 
+  sug bar-foo bar
+> barbar
+  spell 1 1 bar
+  sug bar bar
+  sug bar
+  ana  pa:bar st:bar pa:bar
+  stem bar
+  stemmorph bar
+> barbars
+  spell 0 0 
+  sug barbar
+> barfo
+  spell 0 0 
+  sug bar
+> barfoo
+  spell 0 0 
+  sug bar foo
+  sug bar
+> barfoo-bars
+  spell 0 0 
+  sug bar foo-bars
+  sug bar-bars
+> barfoo-cm
+  spell 0 0 
+  sug bar foo-cm
+  sug bar-cm
+> barfoo-foobar
+  spell 0 0 
+  sug bar foo-foobar
+  sug bar-foobar
+> barfoo.
+  spell 0 0 
+  sug bar foo
+  sug bar
+> barfooKg
+  spell 0 32 
+> barfro
+  spell 0 0 
+  sug bar
+> barfsoo
+  spell 0 0 
+> barofo
+  spell 0 0 
+> bars
+  spell 0 2 
+  sug bar
+> bars.
+  spell 0 2 
+  sug bar
+> barsKg
+  spell 0 32 
+  sug bar
+> barsbar
+  spell 0 0 
+  sug barbar
+> basr
+  spell 0 0 
+  sug bar
+> brfoo
+  spell 0 0 
+> bsars
+  spell 0 0 
+> cC
+  spell 0 32 
+  sug cm
+> cb
+  spell 0 0 
+  sug cm
+> cm
+  spell 1 0 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> cm-Kg
+  spell 0 32 
+  sug cm-kg
+> cm-kg
+  spell 1 1 
+> cmKG
+  spell 0 32 
+  sug cm
+> cma
+  spell 0 0 
+  sug cm
+> cmbar
+  spell 0 0 
+  sug cm bar
+  sug bar
+> cmbarfoo
+  spell 0 0 
+> cmfoo
+  spell 0 0 
+  sug cm foo
+> cmfoos
+  spell 0 0 
+> cmkg
+  spell 0 0 
+  sug cm kg
+  sug cm
+> cmm
+  spell 0 0 
+  sug cm
+> fKG
+  spell 0 32 
+  sug kg
+> faoo
+  spell 0 0 
+  sug foo
+> fcoo
+  spell 0 0 
+  sug foo
+> fob
+  spell 0 0 
+  sug foo
+> fobo
+  spell 0 0 
+  sug foo
+> fom
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-cm
+  spell 1 1 
+> foo-foo
+  spell 1 1 
+  sug foo
+> foo-kg
+  spell 1 1 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> fooKG
+  spell 0 32 
+  sug foo
+> fooKg
+  spell 0 32 
+  sug foo
+> foobar
+  spell 0 0 
+  sug foo bar
+> foobar-kg
+  spell 0 0 
+  sug foo bar-kg
+> foobar.
+  spell 0 0 
+  sug foo bar
+> foobarbar
+  spell 0 0 
+> foobarbars
+  spell 0 0 
+> foobarfoo
+  spell 0 0 
+> fookg
+  spell 0 0 
+  sug foo kg
+  sug foo
+> foos
+  spell 0 2 
+  sug foo
+> foos-Cm
+  spell 0 32 
+  sug foo-cm
+> foos-cm
+  spell 0 0 
+  sug foo-cm
+> foosCm
+  spell 0 32 
+> fooscm
+  spell 0 0 
+> fos
+  spell 0 0 
+  sug foo
+> gK
+  spell 0 32 
+  sug kg
+> gkg
+  spell 0 0 
+  sug kg
+> kfg
+  spell 0 0 
+  sug kg
+> kfoos
+  spell 0 0 
+> kg
+  spell 1 0 
+  sug kg
+  ana  st:kg
+  stem kg
+  stemmorph kg
+> kg-foo
+  spell 1 1 
+> kgK
+  spell 0 32 
+  sug kg
+> kgbar
+  spell 0 0 
+  sug kg bar
+  sug bar
+> kgbars
+  spell 0 0 
+> kgfoos
+  spell 0 0 
+> m
+  spell 0 0 
+  sug cm
+> mc
+  spell 0 0 
+  sug cm
+> oG
+  spell 0 32 
+> obar
+  spell 0 0 
+  sug bar
+> ofobar
+  spell 0 0 
+> ofos
+  spell 0 0 
+> oos
+  spell 0 0 
+> rbars
+  spell 0 0 
+  sug bar
+> sKG
+  spell 0 32 
+  sug kg
+> skg
+  spell 0 0 
+  sug kg
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Cm's
+  spell 0 32 
+  sug cm
+> Cmâ€™s
+  spell 0 32 
+> 'Cm'
+  spell 0 32 
+> l'Cm
+  spell 0 32 
+> Cm.
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> Cm..
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> .Cm
+  spell 0 32 
+  sug cm
+> ...
+  spell 1 0 
+> -Cm
+  spell 0 32 
+  sug -cm
+  sug cm
+> Cm-
+  spell 0 32 
+  sug cm-
+  sug cm
+> Cm--Kg
+  spell 0 32 
+  sug cm--kg
+> Cm-Kg-Cm
+  spell 0 32 
+  sug cm-kg-cm
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> CM
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> cM
+  spell 0 32 
+  sug cm
+> Cm
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> Cm Kg
+  spell 0 32 
+>  Cm
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> Cm 
+  spell 0 32 
+  sug cm
+> Cm	Kg
+  spell 0 32 
+> ÿþCm
+  spell 0 32 
+> CmÃ
+  spell 0 32 
+  sug cm
+> €Cm
+  spell 0 32 
+  sug cm
+> ð€Cm
+  spell 0 32 
+> Ä°Cm
+  spell 0 32 
+> CmÃŸ
+  spell 0 32 
+  sug cm
+> Cm
+  spell 0 34 
+  sug cm
+  ana  st:cm
+  stem cm
+  stemmorph cm
+> CMSS
+  spell 0 32 
+  sug cm
+> <?xml?><query type="analyze"><word>Cm</word></query>
+  spell 0 32 
+  sug <code><a> st:cm</a></code>
+> <?xml?><query type="stem"><word>Cm</word></query>
+  spell 0 32 
+  sug cm
+> <?xml?><query type="suggest"><word>Cmx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Cm</word><word>Kg</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Cm</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Cm</word></query>
+  spell 0 32 
+  sug <code><a> st:cm</a></code>
+> <?xml?><query type="add"><word>Cm</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Cm&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Cm</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

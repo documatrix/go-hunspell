@@ -1,0 +1,26 @@
+exit 0
+stdout 363
+Hunspell 1.7.2
+& Café 2 0: Cafe, Caff
+& über 1 6: beer
+& wrold 2 12: world, wold
+& naïve 2 18: nave, naive
+& tset 5 29: stet, test, set, sett, t set
+# été 34
+& résumé 1 40: resume
+& ő 15 49: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& xyzzy 1 52: muzzy
+
+*
+*
+*
+*
++ it
++ dog
+
+# 中文 0
+# русский 7
+# ελληνικά 22
+& wrold 2 39: world, wold
+
+stderr 0

@@ -1,0 +1,20 @@
+exit 0
+stdout 1322
+1s/wrold/world/g; # Hello wrold, this is a tset of the speling checker.
+1s/tset/stet/g; # Hello wrold, this is a tset of the speling checker.
+1s/speling/spieling/g; # Hello wrold, this is a tset of the speling checker.
+2s/jumpss/jumps/g; # The quick brown fox jumpss over the lazy dog.
+3s/ated/ate/g; # Numbers like 42 and 3.14 and 1st, 2nd, 3rd are skipped; so are hyphen-ated words.
+4s/MiXeD/Mix Ed/g; # MiXeD CaSe words: HELLO Hello hello hELLO NASA Nasa.
+4s/CaSe/Case/g; # MiXeD CaSe words: HELLO Hello hello hELLO NASA Nasa.
+4s/hELLO/hell O/g; # MiXeD CaSe words: HELLO Hello hello hELLO NASA Nasa.
+4s/Nasa/NASA/g; # MiXeD CaSe words: HELLO Hello hello hELLO NASA Nasa.
+5s/doesn/does/g; # Apostrophes: don't, doesn't, it's, rock'n'roll, 'quoted', dogs' bones, can’t, isn’t.
+5s/isn/sin/g; # Apostrophes: don't, doesn't, it's, rock'n'roll, 'quoted', dogs' bones, can’t, isn’t.
+6s/ssa/SSA/g; # Colons: word: Finnish:ssa and a lone : colon.
+7s/caf/cad/g; # Entities: caf&eacute; na&iuml;ve &Agrave;bc &amp; x&yuml;z.
+7s/eacute/acute/g; # Entities: caf&eacute; na&iuml;ve &Agrave;bc &amp; x&yuml;z.
+7s/&Agrave;bc/engraver/g; # Entities: caf&eacute; na&iuml;ve &Agrave;bc &amp; x&yuml;z.
+9s/ok/OK/g; # Paths: /usr/share/dictt/wordz and C:\Windowz\Systemm and ~/foo/barr ok.
+10s/tabz/tab/g; # 	Tabbed	line	with	tabz
+stderr 0

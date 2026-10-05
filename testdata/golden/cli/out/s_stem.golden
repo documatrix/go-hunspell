@@ -1,0 +1,13 @@
+exit 0
+stdout 60
+hello hello
+
+worlds world
+
+tests test
+
+testing test
+
+wrold
+
+stderr 0

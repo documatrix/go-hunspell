@@ -1,0 +1,549 @@
+# example: foo
+> EXAMPLE
+  spell 1 32 
+  sug EXAMPLE
+  ana  st:example
+  stem example
+  stemmorph example
+> Example
+  spell 1 32 
+  sug example
+  ana  st:example
+  stem example
+  stemmorph example
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOBAR
+  spell 1 32 foo
+  sug FOOBAR
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> FOOBAREXAMPLE
+  spell 1 33 foo
+  sug FOOBAR EXAMPLE
+  sug FOOBAREXAMPLE
+  ana  pa:foobar st:foo fl:S pa:example
+  stem foobar
+  stemmorph foobar
+> FOOBAZ
+  spell 1 32 
+  sug FOOBAZ
+  ana  st:foobaz
+  ana  st:foo fl:S
+  stem foobaz
+  stem foo
+  stemmorph foobaz
+  stemmorph foo
+> FOOEXAMPLE
+  spell 0 32 
+  sug FOO EXAMPLE
+  sug EXAMPLE
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foobar
+  spell 1 32 foo
+  sug foobar
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> Foobarexample
+  spell 1 33 foo
+  sug Foobar example
+  sug foobarexample
+  ana  pa:foobar st:foo fl:S pa:example
+  stem foobar
+  stemmorph foobar
+> Foobaz
+  spell 1 32 
+  sug foobaz
+  ana  st:foobaz
+  ana  st:foo fl:S
+  stem foobaz
+  stem foo
+  stemmorph foobaz
+  stemmorph foo
+> Foobazexample
+  spell 0 32 
+  sug Foobaz example
+> Fooexample
+  spell 0 32 
+  sug Foo example
+  sug Example
+> eaamplefoo
+  spell 0 0 
+  sug example
+> eoo
+  spell 0 0 
+> examle
+  spell 0 0 
+  sug example
+> examlpe
+  spell 0 0 
+  sug example
+> exampel
+  spell 0 0 
+  sug example
+> exampl
+  spell 0 0 
+  sug example
+> example
+  spell 1 0 
+  sug example
+  ana  st:example
+  stem example
+  stemmorph example
+> example-examplefoo
+  spell 0 0 
+  sug example-example foo
+  sug example-example
+> example-foo
+  spell 1 1 
+  sug example
+> example-foobaz
+  spell 1 1 
+  sug examplefoobaz
+> example.
+  spell 1 0 
+  sug example
+  ana  st:example
+  stem example
+  stemmorph example
+> exampleexample
+  spell 1 1 example
+  sug example example
+  sug exampleexample
+  ana  pa:example st:example pa:example
+  stem example
+  stemmorph example
+> exampleexamplefoo
+  spell 0 0 
+> examplefo
+  spell 0 0 
+  sug example
+> examplefoo
+  spell 0 0 
+  sug example foo
+  sug example
+> examplefoo-foobarexample
+  spell 0 0 
+  sug example foo-foobarexample
+  sug example-foobarexample
+> examplefoo-foobaz
+  spell 0 0 
+  sug example foo-foobaz
+  sug example-foobaz
+> examplefoo.
+  spell 0 0 
+  sug example foo
+  sug example
+> examplefoobarexample
+  spell 1 1 example
+  sug examplefoobarexample
+  ana  pa:example st:example pa:foobar st:foo fl:S pa:example
+  stem examplefoobar
+  stemmorph examplefoobar
+> examplefoobaz
+  spell 1 1 example
+  sug example foobaz
+  sug examplefoobaz
+  ana  pa:example st:example pa:foobaz  st:foo fl:S
+  stem examplefoo
+  stemmorph examplefoo
+> examplefooexample
+  spell 0 0 
+> examplefoofooexample
+  spell 0 0 
+> exampole
+  spell 0 0 
+  sug example
+> examzle
+  spell 0 0 
+  sug example
+> exaxmple
+  spell 0 0 
+  sug example
+> exmaple
+  spell 0 0 
+  sug example
+> exmaplefoo
+  spell 0 0 
+> exmple
+  spell 0 0 
+  sug example
+> exmplefoo
+  spell 0 0 
+  sug example
+> ffoobazexample
+  spell 0 0 
+> flooexample
+  spell 0 0 
+  sug example
+> fmobaz
+  spell 0 0 
+  sug foobaz
+> fo
+  spell 0 0 
+  sug foo
+> fobazexample
+  spell 0 0 
+> foboazexample
+  spell 0 0 
+> fomobaz
+  spell 0 0 
+  sug foobaz
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+  sfx foobar
+  sfx foobaz
+> foo-examplefoo
+  spell 0 0 
+  sug foo-example foo
+  sug foo-example
+> foo-foo
+  spell 1 1 
+  sug foobaz
+> foo-foobaz
+  spell 1 1 
+  sug foobaz
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> fooa
+  spell 0 0 
+  sug foo
+> fooabr
+  spell 0 0 
+  sug foobar
+  sug foobaz
+> foobapexample
+  spell 0 0 
+> foobar
+  spell 1 0 foo
+  sug foobar
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> foobar.
+  spell 1 0 foo
+  sug foobar
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> foobareample
+  spell 0 0 
+> foobarefxample
+  spell 0 0 
+  sug foobarexample
+> foobarexamlpe
+  spell 0 0 
+  sug foobarexample
+> foobarexampee
+  spell 0 0 
+> foobarexample
+  spell 1 1 foo
+  sug foobar example
+  sug foobarexample
+  ana  pa:foobar st:foo fl:S pa:example
+  stem foobar
+  stemmorph foobar
+> foobarexample.
+  spell 1 1 foo
+  sug foobar example
+  sug foobarexample
+  ana  pa:foobar st:foo fl:S pa:example
+  stem foobar
+  stemmorph foobar
+> foobarexampleexample
+  spell 1 1 foo
+  sug foobarexampleexample
+  ana  pa:foobar st:foo fl:S pa:example st:example pa:example
+  stem foobarexample
+  stemmorph foobarexample
+> foobarexampleexamplefoo
+  spell 0 0 
+> foobarexamplm
+  spell 0 0 
+> foobarf
+  spell 0 0 
+  sug foobar
+  sug foobaz
+> foobaz
+  spell 1 0 
+  sug foobaz
+  ana  st:foobaz
+  ana  st:foo fl:S
+  stem foobaz
+  stem foo
+  stemmorph foobaz
+  stemmorph foo
+> foobaz-example
+  spell 1 1 
+> foobaz-foo
+  spell 1 1 
+  sug foobaz
+> foobaz-foobarexample
+  spell 1 1 
+> foobaz-foobaz
+  spell 1 1 
+> foobaz-fooexample
+  spell 0 0 
+  sug foobaz-foo example
+  sug foobaz-example
+> foobaz.
+  spell 1 0 
+  sug foobaz
+  ana  st:foobaz
+  ana  st:foo fl:S
+  stem foobaz
+  stem foo
+  stemmorph foobaz
+  stemmorph foo
+> foobazexamfple
+  spell 0 0 
+> foobazexample
+  spell 0 0 
+  sug foobaz example
+> foobazexample-foobar
+  spell 0 0 
+  sug foobaz example-foobar
+> foobazexamplefoobaz
+  spell 0 0 
+> foobazexamplefooexample
+  spell 0 0 
+> foobazexamprle
+  spell 0 0 
+> foobazfoo
+  spell 0 0 
+  sug foobaz foo
+  sug foobaz
+> foobazfoobarexample
+  spell 0 0 
+> foobazm
+  spell 0 0 
+  sug foobaz
+> foobazz
+  spell 0 0 
+  sug foobaz
+> foobazzexample
+  spell 0 0 
+> fooerxample
+  spell 0 0 
+  sug example
+> fooexabple
+  spell 0 0 
+> fooexample
+  spell 0 0 
+  sug foo example
+  sug example
+> fooexample.
+  spell 0 0 
+  sug foo example
+  sug example
+> fooexamplea
+  spell 0 0 
+  sug example
+> fooexamplee
+  spell 0 0 
+  sug example
+> fooexamplefoo
+  spell 0 0 
+> fooexamplefoobar
+  spell 0 0 
+> fooexapmle
+  spell 0 0 
+> foofoo
+  spell 0 0 
+  sug foo foo
+  sug foo
+> foofoobaz
+  spell 0 0 
+  sug foo foobaz
+  sug foobaz
+> fool
+  spell 0 0 
+  sug foo
+> foorarexample
+  spell 0 0 
+> fooxample
+  spell 0 0 
+  sug example
+> for
+  spell 0 0 
+  sug foo
+> forbaz
+  spell 0 0 
+  sug foobaz
+> fozobaz
+  spell 0 0 
+  sug foobaz
+> ofo
+  spell 0 0 
+  sug foo
+> ofobar
+  spell 0 0 
+  sug foobar
+  sug foobaz
+> ofobaz
+  spell 0 0 
+  sug foobaz
+> xeamplefoo
+  spell 0 0 
+  sug example
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foo's
+  spell 0 0 
+  sug foo
+> fooâ€™s
+  spell 0 0 
+> 'foo'
+  spell 0 0 
+> l'foo
+  spell 0 0 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo..
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> .foo
+  spell 0 0 
+  sug foo
+> ...
+  spell 1 0 
+> -foo
+  spell 1 1 
+  sug foo
+> foo-
+  spell 1 1 
+  sug foo
+> foo--foobazexample
+  spell 0 0 
+  sug foo--foobaz example
+> foo-foobazexample-foo
+  spell 0 0 
+  sug foo-foobaz example-foo
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo foobazexample
+  spell 0 0 
+>  foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo 
+  spell 0 0 
+  sug foo
+> foo	foobazexample
+  spell 0 0 
+> ÿþfoo
+  spell 0 0 
+> fooÃ
+  spell 0 32 
+  sug foo
+> €foo
+  spell 0 0 
+  sug foo
+> ð€foo
+  spell 0 0 
+> Ä°foo
+  spell 0 32 
+> fooÃŸ
+  spell 0 32 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+  sfx foobar
+  sfx foobaz
+> FOOSS
+  spell 0 32 
+  sug FOO
+> <?xml?><query type="analyze"><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo</a></code>
+> <?xml?><query type="stem"><word>foo</word></query>
+  spell 0 0 
+  sug foo
+> <?xml?><query type="suggest"><word>foox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><word>foobazexample</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo</a></code>
+> <?xml?><query type="add"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

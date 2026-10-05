@@ -1,0 +1,400 @@
+# example: Frühstück
+> FRUHSTUCK
+  spell 0 32 
+  sug FRÜHSTÜCK
+> FRÜHSTÜCK
+  spell 1 32 
+  sug FRÜHSTÜCK
+  ana  st:Frühstück
+  stem Frühstück
+  stemmorph Frühstück
+> Fouhstuck
+  spell 0 32 
+> Frhustuck
+  spell 0 32 
+> Fruhstuc
+  spell 0 32 
+> Fruhstucg
+  spell 0 32 
+> Fruhstuck
+  spell 0 32 
+  sug Frühstück
+> Fruhstuck-Frühstück
+  spell 0 32 
+  sug Frühstück-Frühstück
+> Fruhstuck-tukorfuro
+  spell 0 32 
+> Fruhstuck-tükörfúró
+  spell 0 32 
+  sug Frühstück-tükörfúró
+> Fruhstuck.
+  spell 0 32 
+  sug Frühstück
+> FruhstuckFruhstuck
+  spell 0 32 
+> Fruhstucktükörfúró
+  spell 0 32 
+> Fruhstucü
+  spell 0 32 
+> Fruhstuk
+  spell 0 32 
+> Frühsctück
+  spell 0 32 
+  sug Frühstück
+> Frühsfück
+  spell 0 32 
+> Frühstcük
+  spell 0 32 
+  sug Frühstück
+> Frühstrck
+  spell 0 32 
+> Frühstóück
+  spell 0 32 
+  sug Frühstück
+> Frühstüchk
+  spell 0 32 
+  sug Frühstück
+> Frühstück
+  spell 1 32 
+  sug Frühstück
+  ana  st:Frühstück
+  stem Frühstück
+  stemmorph Frühstück
+> Frühstück-tukorfuro
+  spell 0 32 
+  sug Frühstück-tükörfúró
+> Frühstück.
+  spell 1 32 
+  sug Frühstück
+  ana  st:Frühstück
+  stem Frühstück
+  stemmorph Frühstück
+> FrühstückFrühstück
+  spell 0 32 
+  sug Frühstück Frühstück
+> Frühstückgroß
+  spell 0 32 
+  sug Frühstück groß
+> Frühstücß
+  spell 0 32 
+> Frühstüock
+  spell 0 32 
+  sug Frühstück
+> Frühsütck
+  spell 0 32 
+  sug Frühstück
+> Früshtück
+  spell 0 32 
+  sug Frühstück
+> Fúrühstück
+  spell 0 32 
+  sug Frühstück
+> Fúühstück
+  spell 0 32 
+> GROSS
+  spell 0 32 
+  sug GROß
+> Gross
+  spell 0 32 
+  sug Groß
+> Groß
+  spell 1 32 
+  ana  st:groß
+  stem groß
+  stemmorph groß
+> TUKORFURO
+  spell 0 32 
+  sug TÜKÖRFÚRÓ
+> Tukorfuro
+  spell 0 32 
+  sug Tükörfúró
+> TÜKÖRFÚRÓ
+  spell 1 32 
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> Tükörfúró
+  spell 1 32 
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> cgroß
+  spell 0 0 
+  sug groß
+> cross
+  spell 0 0 
+> cruhstuck
+  spell 0 0 
+> gorß
+  spell 0 0 
+  sug groß
+> goß
+  spell 0 0 
+> grfoss
+  spell 0 0 
+> gro
+  spell 0 0 
+> grocs
+  spell 0 0 
+> gros
+  spell 0 0 
+> gross
+  spell 0 0 
+  sug groß
+> gross-groß
+  spell 0 0 
+  sug groß-groß
+> gross-tukorfuro
+  spell 0 0 
+  sug groß-tukorfuro
+> gross.
+  spell 0 0 
+  sug groß
+> grossFruhstuck
+  spell 0 32 
+> grossgross
+  spell 0 0 
+> grossgroß
+  spell 0 0 
+> grosss
+  spell 0 0 
+> grosstukorfuro
+  spell 0 0 
+> grossu
+  spell 0 0 
+> groß
+  spell 1 0 
+  ana  st:groß
+  stem groß
+  stemmorph groß
+> groß.
+  spell 1 0 
+  sug groß
+  ana  st:groß
+  stem groß
+  stemmorph groß
+> großFruhstuck
+  spell 0 32 
+> großgroß
+  spell 0 0 
+  sug groß groß
+> großtukorfuro
+  spell 0 0 
+> großtükörfúró
+  spell 0 0 
+  sug groß tükörfúró
+> großß
+  spell 0 0 
+  sug groß
+> grss
+  spell 0 0 
+> grß
+  spell 0 0 
+> grßo
+  spell 0 0 
+  sug groß
+> rFuhstuck
+  spell 0 32 
+> roß
+  spell 0 0 
+> tgükörfúró
+  spell 0 0 
+  sug tükörfúró
+> tkorfuro
+  spell 0 0 
+> ttükörfúró
+  spell 0 0 
+  sug tükörfúró
+> tukorfuro
+  spell 0 0 
+  sug tükörfúró
+> tukorfuro-groß
+  spell 0 0 
+  sug tükörfúró-groß
+> tukorfuro.
+  spell 0 0 
+  sug tükörfúró
+> tukorfuroFruhstuck
+  spell 0 32 
+> tukorfuroFrühstück
+  spell 0 32 
+> tukorfurro
+  spell 0 0 
+> tukorrfuro
+  spell 0 0 
+> tukoürfuro
+  spell 0 0 
+> tuksorfuro
+  spell 0 0 
+> tükkrfúró
+  spell 0 0 
+> tüköfúró
+  spell 0 0 
+> tükörfró
+  spell 0 0 
+> tükörfrúó
+  spell 0 0 
+  sug tükörfúró
+> tükörfúró
+  spell 1 0 
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> tükörfúró-gross
+  spell 0 0 
+  sug tükörfúró-groß
+> tükörfúró-tükörfúró
+  spell 1 1 
+> tükörfúró.
+  spell 1 0 
+  sug tükörfúró
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> tükörfúróFrühstück
+  spell 0 32 
+  sug tükörfúró Frühstück
+> tükörfúrógroß
+  spell 0 0 
+  sug tükörfúró groß
+> tükörfúrótukorfuro
+  spell 0 0 
+> tükörfúó
+  spell 0 0 
+> tükörfüró
+  spell 0 0 
+  sug tükörfúró
+> tükörtúró
+  spell 0 0 
+> tüöörfúró
+  spell 0 0 
+> ükörfúró
+  spell 0 0 
+> üruhstuck
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> tükörfúró's
+  spell 0 0 
+> tükörfúró’s
+  spell 0 0 
+> 'tükörfúró'
+  spell 0 0 
+> l'tükörfúró
+  spell 0 0 
+> tükörfúró.
+  spell 1 0 
+  sug tükörfúró
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> tükörfúró..
+  spell 1 0 
+  sug tükörfúró
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> .tükörfúró
+  spell 0 0 
+  sug tükörfúró
+> ...
+  spell 1 0 
+> -tükörfúró
+  spell 1 1 
+  sug tükörfúró
+> tükörfúró-
+  spell 1 1 
+  sug tükörfúró
+> tükörfúró--Frühstück
+  spell 1 33 
+> tükörfúró-Frühstück-tükörfúró
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> TüKöRFúRó
+  spell 0 32 
+  sug Tükörfúró
+> TüKöRFúRó
+  spell 0 32 
+  sug Tükörfúró
+> TüKöRfúRó
+  spell 0 32 
+  sug Tükörfúró
+> tükörfúró Frühstück
+  spell 0 32 
+>  tükörfúró
+  spell 1 0 
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> tükörfúró 
+  spell 0 0 
+  sug tükörfúró
+> tükörfúró	Frühstück
+  spell 0 32 
+> ��tükörfúró
+  spell 0 0 
+> tükörfúró�
+  spell 0 0 
+  sug tükörfúró
+> �tükörfúró
+  spell 0 0 
+  sug tükörfúró
+> 𐐀tükörfúró
+  spell 0 0 
+> İtükörfúró
+  spell 0 32 
+  sug Tükörfúró
+> tükörfúróß
+  spell 0 0 
+  sug tükörfúró
+> tükörfúró
+  spell 1 0 
+  ana  st:tükörfúró
+  stem tükörfúró
+  stemmorph tükörfúró
+> TüKöRFúRóSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>tükörfúró</word></query>
+  spell 0 0 
+  sug <code><a> st:tükörfúró</a></code>
+> <?xml?><query type="stem"><word>tükörfúró</word></query>
+  spell 0 0 
+  sug tükörfúró
+> <?xml?><query type="suggest"><word>tükörfúróx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>tükörfúró</word><word>Frühstück</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>tükörfúró</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>tükörfúró</word></query>
+  spell 0 0 
+  sug <code><a> st:tükörfúró</a></code>
+> <?xml?><query type="add"><word>tükörfúró</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;tükörfúró&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>tükörfúró</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

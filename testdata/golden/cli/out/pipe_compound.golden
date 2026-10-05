@@ -1,0 +1,17 @@
+exit 0
+stdout 141
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+*
+*
+*
+*
+*
+*
+*
+*
+& worlds 1 56: world
+& wrold 1 63: world
+# xyzzyq 69
+
+stderr 0

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document>
+<office:meta><meta:title>Titel metaa</meta:title></office:meta>
+<office:settings><config:config-item>settingz</config:config-item></office:settings>
+<office:body><office:text>
+<text:p>Flat ODF wrold with re-edited exam<text:span text:style-name="T1">p</text:span>le and mis<text:span>t</text:span>akes.</text:p>
+<text:p>Broken span exam<text:span text:style-name="T1"
+>p</text:span>le and <office:binary-data>QUJDREVGRw==</office:binary-data> data.</text:p>
+</office:text></office:body>
+</office:document>

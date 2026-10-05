@@ -1,0 +1,252 @@
+# example: test
+> TEST
+  spell 1 32 
+  sug TEST
+  ana  st:test
+  stem test
+  stemmorph test
+> Test
+  spell 1 32 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> eest
+  spell 0 0 
+  sug test
+> est
+  spell 0 0 
+  sug test
+> etest
+  spell 0 0 
+  sug test
+> etst
+  spell 0 0 
+  sug test
+> sest
+  spell 0 0 
+  sug test
+> stest
+  spell 0 0 
+  sug test
+  sug tests
+> teest
+  spell 0 0 
+  sug test
+> tes
+  spell 0 0 
+  sug test
+> tese
+  spell 0 0 
+  sug test
+> teset
+  spell 0 0 
+  sug test
+> tess
+  spell 0 0 
+  sug test
+> tesst
+  spell 0 0 
+  sug tests
+  sug test
+> test
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+  sfx tests
+> test-test
+  spell 1 1 
+> test.
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> teste
+  spell 0 0 
+  sug test
+> tests
+  spell 1 0 test
+  sug test
+  ana  st:test fl:A
+  stem test
+  stemmorph test
+> testt
+  spell 0 0 
+  sug test
+> testtest
+  spell 0 0 
+  sug test test
+  sug test
+> tet
+  spell 0 0 
+  sug test
+> tets
+  spell 0 0 
+  sug test
+> tetst
+  spell 0 0 
+  sug test
+> tset
+  spell 0 0 
+  sug test
+> tsst
+  spell 0 0 
+  sug test
+> tst
+  spell 0 0 
+  sug test
+> ttest
+  spell 0 0 
+  sug test
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-test
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+  sug test
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> test's
+  spell 0 0 
+  sug tests
+  sug test
+> testâ€™s
+  spell 0 0 
+  sug tests
+  sug test
+> 'test'
+  spell 0 0 
+  sug test
+> l'test
+  spell 0 0 
+  sug test
+> test.
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> test..
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> .test
+  spell 0 0 
+  sug test
+> ...
+  spell 1 0 
+> -test
+  spell 1 1 
+  sug test
+> test-
+  spell 1 1 
+  sug test
+> test--test
+  spell 1 1 
+> test-test-test
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> TEST
+  spell 1 32 
+  sug TEST
+  ana  st:test
+  stem test
+  stemmorph test
+> TEST
+  spell 1 32 
+  sug TEST
+  ana  st:test
+  stem test
+  stemmorph test
+> Test
+  spell 1 32 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> test test
+  spell 0 0 
+>  test
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> test 
+  spell 0 0 
+  sug test
+> test	test
+  spell 0 0 
+> ÿştest
+  spell 0 0 
+  sug test
+> testÃ
+  spell 0 0 
+  sug test
+> €test
+  spell 0 0 
+  sug test
+> ğ€test
+  spell 0 0 
+> Ä°test
+  spell 0 32 
+  sug Test
+> testÃŸ
+  spell 0 0 
+  sug test
+> test
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+  sfx tests
+> TESTSS
+  spell 0 32 
+  sug TESTS
+  sug TEST
+> <?xml?><query type="analyze"><word>test</word></query>
+  spell 0 0 
+  sug <code><a> st:test</a></code>
+> <?xml?><query type="stem"><word>test</word></query>
+  spell 0 0 
+  sug test
+> <?xml?><query type="suggest"><word>testx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>test</word><word>test</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>test</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>test</word></query>
+  spell 0 0 
+  sug <code><a> st:test</a></code>
+> <?xml?><query type="add"><word>test</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;test&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>test</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

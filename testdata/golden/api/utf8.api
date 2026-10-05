@@ -1,0 +1,587 @@
+# example: foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOŐ
+  spell 1 32 foo
+  sug FOOŐ
+  sug FOŐO
+  sug FOO
+  sug FOŐ
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> FOOŐŐ
+  spell 1 32 foo
+  sug FOOŐŐ
+  sug FOOŐ
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> FOÓ
+  spell 1 32 
+  sug FOÓ
+  ana  st:foó
+  stem foó
+  stemmorph foó
+> FOÓÓ
+  spell 1 32 foó
+  sug FOÓÓ
+  sug FOÓ
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> FOÓŐ
+  spell 1 32 foó
+  sug FOÓ
+  sug FOŐ
+  sug FOÓŐ
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> FOŐ
+  spell 1 32 foó
+  sug FOŐ
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> FOŐOO
+  spell 1 32 foó
+  sug FOŐOO
+  sug FOŐO
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Fooő
+  spell 1 32 foo
+  sug fooő
+  sug Foőo
+  sug Foo
+  sug Foő
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> Fooőő
+  spell 1 32 foo
+  sug fooőő
+  sug Fooő
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> Foó
+  spell 1 32 
+  sug foó
+  ana  st:foó
+  stem foó
+  stemmorph foó
+> Foóó
+  spell 1 32 foó
+  sug foóó
+  sug Foó
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> Foóő
+  spell 1 32 foó
+  sug Foó
+  sug Foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> Foő
+  spell 1 32 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> Foőo
+  spell 1 32 foo
+  sug Fooő
+  sug Foő
+  sug Foo
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> Foőoo
+  spell 1 32 foó
+  sug foőoo
+  sug Foőo
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> fo
+  spell 0 0 
+  sug foo
+> fof
+  spell 0 0 
+  sug foo
+> fofo
+  spell 0 0 
+  sug foo
+  sug foó
+> fofóő
+  spell 0 0 
+  sug foóő
+  sug fooő
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+  sfx fooő
+  sfx fooőő
+> foo-foó
+  spell 1 1 
+  sug foóó
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> fooó
+  spell 0 0 
+  sug foo
+  sug foó
+> fooő
+  spell 1 0 foo
+  sug fooő
+  sug foőo
+  sug foo
+  sug foő
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> fooő-foóő
+  spell 1 1 
+> fooő-foőoo
+  spell 1 1 
+> fooő.
+  spell 1 0 foo
+  sug fooő
+  sug foőo
+  sug foo
+  sug foő
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> fooőo
+  spell 0 0 
+  sug foőoo
+  sug fooő
+  sug foőo
+  sug foo
+> fooőoo
+  spell 0 0 
+  sug foőoo
+  sug foo
+> fooőő
+  spell 1 0 foo
+  sug fooőő
+  sug fooő
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> fooőő-foó
+  spell 1 1 
+> fooőő.
+  spell 1 0 foo
+  sug fooőő
+  sug fooő
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> fooőőfoőoo
+  spell 0 0 
+  sug fooőő foőoo
+> foó
+  spell 1 0 
+  sug foó
+  ana  st:foó
+  stem foó
+  stemmorph foó
+  sfx foóő
+  sfx foóőő
+  sfx foóó
+> foó-foo
+  spell 1 1 
+  sug foó
+> foó-fooő
+  spell 1 1 
+> foó-foőo
+  spell 1 1 
+> foó.
+  spell 1 0 
+  sug foó
+  ana  st:foó
+  stem foó
+  stemmorph foó
+> foóf
+  spell 0 0 
+  sug foó
+  sug foo
+> foófoó
+  spell 0 0 
+  sug foó foó
+  sug foóó
+  sug foó
+> foófoóő
+  spell 0 0 
+  sug foó foóő
+  sug foóő
+> foófoőo
+  spell 0 0 
+  sug foó foőo
+  sug foőo
+> foóo
+  spell 0 0 
+  sug foó
+  sug foo
+> foóó
+  spell 1 0 foó
+  sug foóó
+  sug foó
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foóó-foo
+  spell 1 1 
+> foóó-foó
+  spell 1 1 
+> foóó.
+  spell 1 0 foó
+  sug foóó
+  sug foó
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foóófoo
+  spell 0 0 
+  sug foóó foo
+  sug foó
+> foóófoóő
+  spell 0 0 
+  sug foóó foóő
+> foóő
+  spell 1 0 foó
+  sug foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foóő-fooő
+  spell 1 1 
+> foóő.
+  spell 1 0 foó
+  sug foó
+  sug foő
+  sug foóő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foóőfoo
+  spell 0 0 
+  sug foóő foo
+  sug foó
+> foóőo
+  spell 0 0 
+  sug foóő
+  sug foőo
+> foő
+  spell 1 0 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foő-foó
+  spell 1 1 
+  sug foóó
+> foő-foóő
+  spell 1 1 
+> foő.
+  spell 1 0 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foőfo
+  spell 0 0 
+  sug foőo
+  sug foo
+> foőfooőő
+  spell 0 0 
+  sug foő fooőő
+> foőfoó
+  spell 0 0 
+  sug foő foó
+  sug foóó
+> foőo
+  spell 1 0 foo
+  sug fooő
+  sug foő
+  sug foo
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> foőo-foo
+  spell 1 1 
+> foőo.
+  spell 1 0 foo
+  sug fooő
+  sug foő
+  sug foo
+  sug foőo
+  ana  st:foo fl:A
+  stem foo
+  stemmorph foo
+> foőofoó
+  spell 0 0 
+  sug foőo foó
+  sug foóó
+> foőoo
+  spell 1 0 foó
+  sug foőoo
+  sug foőo
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foőoof
+  spell 0 0 
+  sug foőoo
+> foőoofoo
+  spell 0 0 
+  sug foőoo foo
+> foőoofoőoo
+  spell 0 0 
+  sug foőoo foőoo
+> foőoó
+  spell 0 0 
+  sug foőo
+  sug foó
+> foőó
+  spell 0 0 
+  sug foóő
+  sug foő
+  sug foó
+> foőő
+  spell 0 0 
+  sug foő
+  sug fooőő
+  sug fooő
+> foőőő
+  spell 0 0 
+  sug fooőő
+  sug foóőő
+  sug foő
+  sug fooő
+> fó
+  spell 0 0 
+  sug foó
+> fóo
+  spell 0 0 
+  sug foó
+> fóoo
+  spell 0 0 
+  sug foo
+> fóó
+  spell 0 0 
+  sug foóó
+> fóóő
+  spell 0 0 
+  sug foóő
+> fő
+  spell 0 0 
+  sug foő
+> főo
+  spell 0 0 
+  sug foő
+> főoo
+  spell 0 0 
+  sug foőo
+  sug fooő
+  sug foo
+> ofo
+  spell 0 0 
+  sug foo
+> ofoőő
+  spell 0 0 
+  sug fooőő
+  sug foő
+> ofóő
+  spell 0 0 
+  sug foóő
+> oo
+  spell 0 0 
+  sug foo
+> ooó
+  spell 0 0 
+  sug foó
+> ooő
+  spell 0 0 
+  sug fooő
+> oóó
+  spell 0 0 
+  sug foóó
+> oóő
+  spell 0 0 
+  sug foóő
+> oő
+  spell 0 0 
+  sug foő
+> óooő
+  spell 0 0 
+  sug fooő
+> óooőő
+  spell 0 0 
+  sug fooőő
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foő's
+  spell 0 0 
+> foő’s
+  spell 0 0 
+> 'foő'
+  spell 0 0 
+> l'foő
+  spell 0 0 
+  sug foő
+> foő.
+  spell 1 0 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foő..
+  spell 1 0 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> .foő
+  spell 0 0 
+  sug foő
+  sug fooő
+> ...
+  spell 1 0 
+> -foő
+  spell 1 1 
+  sug foő
+  sug fooő
+> foő-
+  spell 1 1 
+  sug foő
+  sug foo
+> foő--foo
+  spell 1 1 
+> foő-foo-foő
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> FOő
+  spell 0 32 
+  sug Foő
+> FOő
+  spell 0 32 
+  sug Foő
+> Foő
+  spell 1 32 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foő foo
+  spell 0 0 
+>  foő
+  spell 1 0 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> foő 
+  spell 0 0 
+  sug foő
+  sug foo
+> foő	foo
+  spell 0 0 
+> ��foő
+  spell 0 0 
+  sug foő
+> foő�
+  spell 0 0 
+  sug foő
+  sug foo
+> �foő
+  spell 0 0 
+  sug foő
+  sug fooő
+> 𐐀foő
+  spell 0 0 
+> İfoő
+  spell 0 32 
+  sug Foő
+  sug Fooő
+> foőß
+  spell 0 0 
+  sug foő
+  sug foo
+> foő
+  spell 1 0 foó
+  sug foő
+  ana  st:foó fl:A
+  stem foó
+  stemmorph foó
+> FOőSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>foő</word></query>
+  spell 0 0 
+  sug <code><a> st:foó fl:A</a></code>
+> <?xml?><query type="stem"><word>foő</word></query>
+  spell 0 0 
+  sug foó
+> <?xml?><query type="suggest"><word>foőx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foő</word><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foő</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foő</word></query>
+  spell 0 0 
+  sug <code><a> st:foó fl:A</a></code>
+> <?xml?><query type="add"><word>foő</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foő&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foő</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

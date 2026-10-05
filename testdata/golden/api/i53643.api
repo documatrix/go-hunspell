@@ -1,0 +1,330 @@
+# example: foo
+> -1234567
+  spell 1 1 
+> -234
+  spell 1 1 
+> .2
+  spell 0 0 
+> .2-1
+  spell 0 0 
+> .2.
+  spell 0 0 
+> .24
+  spell 0 0 
+> .4
+  spell 0 0 
+> 1
+  spell 1 0 
+> 1.
+  spell 1 0 
+> 1..
+  spell 1 0 
+> 1..2
+  spell 0 0 
+> 1..21.123
+  spell 0 0 
+> 1..22
+  spell 0 0 
+> 1.1
+  spell 1 0 
+> 1.1-12.1
+  spell 1 0 
+> 1.1.
+  spell 1 0 
+> 1.1..2
+  spell 0 0 
+> 1.112
+  spell 1 0 
+> 1.12
+  spell 1 0 
+> 1.12-1234
+  spell 1 0 
+> 1.12.
+  spell 1 0 
+> 1.12134
+  spell 1 0 
+> 1.123
+  spell 1 0 
+> 1.123-2
+  spell 1 0 
+> 1.123.
+  spell 1 0 
+> 1.123245
+  spell 1 0 
+> 1.1234
+  spell 1 0 
+> 1.1234-1.12345
+  spell 1 0 
+> 1.1234.
+  spell 1 0 
+> 1.123442-42
+  spell 1 0 
+> 1.12345
+  spell 1 0 
+> 1.12345.
+  spell 1 0 
+> 1.123456
+  spell 1 0 
+> 1.123456.
+  spell 1 0 
+> 1.123465
+  spell 1 0 
+> 1.12374
+  spell 1 0 
+> 1.173456
+  spell 1 0 
+> 1.234
+  spell 1 0 
+> 1.o1234
+  spell 0 0 
+> 1123456
+  spell 1 0 
+> 12
+  spell 1 0 
+> 12.
+  spell 1 0 
+> 12.1
+  spell 1 0 
+> 12.1-4
+  spell 1 0 
+> 12.1.
+  spell 1 0 
+> 12.12
+  spell 1 0 
+> 12.4567.123456
+  spell 1 0 
+> 122456
+  spell 1 0 
+> 123
+  spell 1 0 
+> 123.
+  spell 1 0 
+> 123.12
+  spell 1 0 
+> 123.12-.2
+  spell 0 0 
+> 123.12-1.12
+  spell 1 0 
+> 123.12.
+  spell 1 0 
+> 123.162
+  spell 1 0 
+> 1234
+  spell 1 0 
+> 1234.123
+  spell 1 0 
+> 1234.213
+  spell 1 0 
+> 123412345.1234
+  spell 1 0 
+> 12344
+  spell 1 0 
+> 12345
+  spell 1 0 
+> 12345-1234567
+  spell 1 0 
+> 12345-2
+  spell 1 0 
+> 12345.1234
+  spell 1 0 
+> 12345.1234-1234567.123456
+  spell 1 0 
+> 12345.1234.
+  spell 1 0 
+> 12345.12342
+  spell 1 0 
+> 12345.123442-42
+  spell 1 0 
+> 123451234567.123456
+  spell 1 0 
+> 123456
+  spell 1 0 
+> 123456.
+  spell 1 0 
+> 123456.123345
+  spell 1 0 
+> 123456.1234
+  spell 1 0 
+> 123456.12345
+  spell 1 0 
+> 123456.12345-1
+  spell 1 0 
+> 123456.123451234.123
+  spell 1 0 
+> 1234561.12
+  spell 1 0 
+> 1234567
+  spell 1 0 
+> 1234567.123456
+  spell 1 0 
+> 1234567.123456.
+  spell 1 0 
+> 1234567.1234561.1
+  spell 1 0 
+> 123457
+  spell 1 0 
+> 12354
+  spell 1 0 
+> 12356
+  spell 1 0 
+> 1243
+  spell 1 0 
+> 13.1
+  spell 1 0 
+> 1f
+  spell 0 0 
+> 1f3456
+  spell 0 0 
+> 2
+  spell 1 0 
+> 2-2
+  spell 1 0 
+> 2-4
+  spell 1 0 
+> 2-42
+  spell 1 0 
+> 2.
+  spell 1 0 
+> 21.
+  spell 1 0 
+> 212
+  spell 1 0 
+> 2123456.12345
+  spell 1 0 
+> 23
+  spell 1 0 
+> 242-42
+  spell 1 0 
+> 25
+  spell 1 0 
+> 4
+  spell 1 0 
+> 4.
+  spell 1 0 
+> 412
+  spell 1 0 
+> 42-.42
+  spell 0 0 
+> 42-42
+  spell 1 0 
+> 42-42.
+  spell 1 0 
+> 51
+  spell 1 0 
+> 51.1234
+  spell 1 0 
+> 512345.1234
+  spell 1 0 
+> 61.1
+  spell 1 0 
+> 623456
+  spell 1 0 
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-1.123
+  spell 1 1 
+> o.
+  spell 0 0 
+  sug foo
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> 1.123456's
+  spell 0 0 
+> 1.123456â€™s
+  spell 0 0 
+> '1.123456'
+  spell 0 0 
+> l'1.123456
+  spell 0 0 
+> 1.123456.
+  spell 1 0 
+> 1.123456..
+  spell 1 0 
+> .1.123456
+  spell 0 0 
+> ...
+  spell 1 0 
+> -1.123456
+  spell 1 1 
+> 1.123456-
+  spell 1 1 
+> 1.123456--1
+  spell 1 1 
+> 1.123456-1-1.123456
+  spell 1 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> 1.123456
+  spell 1 0 
+> 1.123456
+  spell 1 0 
+> 1.123456
+  spell 1 0 
+> 1.123456 1
+  spell 0 0 
+>  1.123456
+  spell 1 0 
+> 1.123456 
+  spell 0 0 
+> 1.123456	1
+  spell 0 0 
+> ÿþ1.123456
+  spell 0 0 
+> 1.123456Ã
+  spell 0 32 
+> €1.123456
+  spell 0 0 
+> ð€1.123456
+  spell 0 0 
+> Ä°1.123456
+  spell 0 32 
+> 1.123456ÃŸ
+  spell 0 32 
+> 1.123456
+  spell 1 0 
+> 1.123456SS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>1.123456</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>1.123456</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>1.123456x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>1.123456</word><word>1</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>1.123456</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>1.123456</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>1.123456</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;1.123456&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>1.123456</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

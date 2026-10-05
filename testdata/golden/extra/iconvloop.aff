@@ -1,0 +1,5 @@
+# ICONV that brings spell and suggest back to a word of their own stack
+ICONV 3
+ICONV a a-a
+ICONV b c-c
+ICONV c b-b

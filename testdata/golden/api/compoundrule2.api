@@ -1,0 +1,928 @@
+# example: a
+> AAA
+  spell 1 33 a
+  sug AA
+  sug A
+  ana  pa:a st:a pa:a st:a pa:a st:a
+  stem aaa
+  stemmorph aaa
+> AAACCC
+  spell 1 33 a
+  sug AAACCC
+  sug AAACC
+  sug AACCC
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:c st:c pa:c st:c pa:c st:c
+  stem aaaccc
+  stemmorph aaaccc
+> ABCC
+  spell 1 33 a
+  sug AB CC
+  sug BCC
+  ana  pa:a st:a pa:b st:b pa:c st:c pa:c st:c
+  stem abcc
+  stemmorph abcc
+> Aa
+  spell 1 33 a
+  sug A
+  sug aa
+  ana  pa:a st:a pa:a st:a
+  stem aa
+  stemmorph aa
+> Aaaaba
+  spell 0 32 
+  sug Aaaaab
+  sug Aaaab
+  sug Aaaaa
+> Aaab
+  spell 1 33 a
+  sug Aab
+  sug Aa ab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> Aabbc
+  spell 1 33 a
+  sug Abbc
+  sug aabbc
+  sug Aabb
+  sug Aabc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:c st:c
+  stem aabbc
+  stemmorph aabbc
+> Aabcc
+  spell 1 33 a
+  sug Abcc
+  sug aabcc
+  sug Aabc
+  sug Aacc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:c st:c pa:c st:c
+  stem aabcc
+  stemmorph aabcc
+> Abb
+  spell 1 33 a
+  sug Bb
+  sug Ab
+  ana  pa:a st:a pa:b st:b pa:b st:b
+  stem abb
+  stemmorph abb
+> Abbcc
+  spell 1 33 a
+  sug Bbcc
+  sug abbcc
+  sug Abbc
+  sug Abcc
+  ana  pa:a st:a pa:b st:b pa:b st:b pa:c st:c pa:c st:c
+  stem abbcc
+  stemmorph abbcc
+> Abcc
+  spell 1 33 a
+  sug Bcc
+  sug Ab cc
+  ana  pa:a st:a pa:b st:b pa:c st:c pa:c st:c
+  stem abcc
+  stemmorph abcc
+> B
+  spell 1 32 
+  sug b
+  ana  st:b
+  stem b
+  stemmorph b
+> BA
+  spell 0 32 
+  sug B
+  sug A
+  sug AB
+> BBBBBAA
+  spell 0 32 
+  sug BBBBB AA
+> BBC
+  spell 1 33 b
+  sug BB
+  sug BC
+  ana  pa:b st:b pa:b st:b pa:c st:c
+  stem bbc
+  stemmorph bbc
+> Ba
+  spell 0 32 
+  sug A
+  sug B
+  sug Ab
+> Bb
+  spell 1 33 b
+  sug B
+  sug bb
+  ana  pa:b st:b pa:b st:b
+  stem bb
+  stemmorph bb
+> Bbb
+  spell 1 33 b
+  sug Bb
+  sug bbb
+  sug B
+  ana  pa:b st:b pa:b st:b pa:b st:b
+  stem bbb
+  stemmorph bbb
+> Bbbccc
+  spell 1 33 b
+  sug Bbccc
+  sug bbbccc
+  sug Bbbcc
+  sug Bb bccc
+  sug Bbb ccc
+  sug Bbbc cc
+  ana  pa:b st:b pa:b st:b pa:b st:b pa:c st:c pa:c st:c pa:c st:c
+  stem bbbccc
+  stemmorph bbbccc
+> Bbcc
+  spell 1 33 b
+  sug Bcc
+  sug Bb cc
+  ana  pa:b st:b pa:b st:b pa:c st:c pa:c st:c
+  stem bbcc
+  stemmorph bbcc
+> Bcc
+  spell 1 33 b
+  sug Cc
+  sug Bc
+  ana  pa:b st:b pa:c st:c pa:c st:c
+  stem bcc
+  stemmorph bcc
+> C
+  spell 1 32 
+  sug c
+  ana  st:c
+  stem c
+  stemmorph c
+> a
+  spell 1 0 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> a.
+  spell 1 0 
+  sug a
+  ana  st:a
+  stem a
+  stemmorph a
+> aa
+  spell 1 1 a
+  sug a
+  sug aa
+  ana  pa:a st:a pa:a st:a
+  stem aa
+  stemmorph aa
+> aa.
+  spell 1 1 a
+  sug a
+  sug aa
+  ana  pa:a st:a pa:a st:a
+  stem aa
+  stemmorph aa
+> aaa
+  spell 1 1 a
+  sug aa
+  ana  pa:a st:a pa:a st:a pa:a st:a
+  stem aaa
+  stemmorph aaa
+> aaa.
+  spell 1 1 a
+  sug aa
+  sug aaa
+  sug a
+  ana  pa:a st:a pa:a st:a pa:a st:a
+  stem aaa
+  stemmorph aaa
+> aaaa
+  spell 1 1 a
+  sug aa aa
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:a st:a
+  stem aaaa
+  stemmorph aaaa
+> aaaa-aaab
+  spell 1 1 
+  sug aaaaaaab
+> aaaaa
+  spell 1 1 a
+  sug aaaaa
+  sug aaaa
+  sug aaa
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:a st:a pa:a st:a
+  stem aaaaa
+  stemmorph aaaaa
+> aaaab
+  spell 1 1 a
+  sug aaaab
+  sug aaaa
+  sug aaab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaaab
+  stemmorph aaaab
+> aaaab-cccccc
+  spell 1 1 
+  sug aaaabcccccc
+> aaaaba
+  spell 0 0 
+  sug aaaaab
+  sug aaaab
+  sug aaaaa
+> aaaabaaa
+  spell 0 0 
+  sug aaaaaaab
+  sug aaaaaaa
+  sug aaaab aaa
+> aaaabaac
+  spell 0 0 
+  sug aaaaaabc
+  sug aaaaaac
+  sug aaaab aac
+> aaaabab
+  spell 0 0 
+  sug aaaaabb
+  sug aaaabb
+  sug aaaaab
+> aaab
+  spell 1 1 a
+  sug aa ab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> aaab-aaaa
+  spell 1 1 
+> aaab.
+  spell 1 1 a
+  sug aa ab
+  sug aaab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> aaabaaa
+  spell 0 0 
+  sug aaaaaab
+  sug aaaaaa
+  sug aaab aaa
+> aaabaaa-aaabbbccc
+  spell 0 0 
+  sug aaaaaab-aaabbbccc
+  sug aaaaaa-aaabbbccc
+  sug aaab aaa-aaabbbccc
+> aaabaaa-cba
+  spell 0 0 
+  sug aaaaaab-cba
+  sug aaaaaa-cba
+  sug aaab aaa-cba
+> aaabbb
+  spell 1 1 a
+  sug aaabbb
+  sug aaabb
+  sug aabbb
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:b st:b
+  stem aaabbb
+  stemmorph aaabbb
+> aaabbb-aaaab
+  spell 1 1 
+> aaabbbcc
+  spell 1 1 a
+  sug aaabbbcc
+  sug aaabbbc
+  sug aaabbcc
+  sug aabbbcc
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:b st:b pa:c st:c pa:c st:c
+  stem aaabbbcc
+  stemmorph aaabbbcc
+> aaabbbccc
+  spell 1 1 a
+  sug aaabbbccc
+  sug aaabbbcc
+  sug aaabbccc
+  sug aabbbccc
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:b st:b pa:c st:c pa:c st:c pa:c st:c
+  stem aaabbbccc
+  stemmorph aaabbbccc
+> aaac
+  spell 1 1 a
+  sug aa ac
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:c st:c
+  stem aaac
+  stemmorph aaac
+> aaacc
+  spell 1 1 a
+  sug aaacc
+  sug aaac
+  sug aacc
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:c st:c pa:c st:c
+  stem aaacc
+  stemmorph aaacc
+> aaaccc
+  spell 1 1 a
+  sug aaaccc
+  sug aaacc
+  sug aaccc
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:c st:c pa:c st:c pa:c st:c
+  stem aaaccc
+  stemmorph aaaccc
+> aaaccc-aabcc
+  spell 1 1 
+> aaaccc-c
+  spell 1 1 
+  sug aaacccc
+> aaaccc.
+  spell 1 1 a
+  sug aaaccc
+  sug aaacc
+  sug aaccc
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:c st:c pa:c st:c pa:c st:c
+  stem aaaccc
+  stemmorph aaaccc
+> aab
+  spell 1 1 a
+  sug aa
+  sug ab
+  ana  pa:a st:a pa:a st:a pa:b st:b
+  stem aab
+  stemmorph aab
+> aab-aabb
+  spell 1 1 
+> aaba
+  spell 0 0 
+  sug aaab
+  sug aab
+  sug aaa
+> aabaaba
+  spell 0 0 
+  sug aaaaabb
+> aabb
+  spell 1 1 a
+  sug aa bb
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:b st:b
+  stem aabb
+  stemmorph aabb
+> aabb-bbbccc
+  spell 1 1 
+  sug aabbbbbccc
+> aabb.
+  spell 1 1 a
+  sug aa bb
+  sug aabb
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:b st:b
+  stem aabb
+  stemmorph aabb
+> aabbbccc
+  spell 1 1 a
+  sug aabbbccc
+  sug aabbbcc
+  sug aabbccc
+  sug abbbccc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:b st:b pa:c st:c pa:c st:c pa:c st:c
+  stem aabbbccc
+  stemmorph aabbbccc
+> aabbc
+  spell 1 1 a
+  sug aabbc
+  sug aabb
+  sug aabc
+  sug abbc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:c st:c
+  stem aabbc
+  stemmorph aabbc
+> aabbc-aaabbb
+  spell 1 1 
+> aabbc-abbcc
+  spell 1 1 
+> aabbcabcc
+  spell 0 0 
+  sug aabbc abcc
+> aabbcc
+  spell 1 1 a
+  sug aabbcc
+  sug aabbc
+  sug aabcc
+  sug abbcc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:b st:b pa:c st:c pa:c st:c
+  stem aabbcc
+  stemmorph aabbcc
+> aabbccba
+  spell 0 0 
+> aabc
+  spell 1 1 a
+  sug aa bc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:c st:c
+  stem aabc
+  stemmorph aabc
+> aabcb
+  spell 0 0 
+  sug aabbc
+  sug aabc
+  sug aabb
+> aabcbc
+  spell 0 0 
+  sug aabbcc
+  sug aabcc
+  sug aabbc
+> aabcc
+  spell 1 1 a
+  sug aabcc
+  sug aabc
+  sug aacc
+  sug abcc
+  ana  pa:a st:a pa:a st:a pa:b st:b pa:c st:c pa:c st:c
+  stem aabcc
+  stemmorph aabcc
+> aabcc-aac
+  spell 1 1 
+> aac
+  spell 1 1 a
+  sug aa
+  sug ac
+  ana  pa:a st:a pa:a st:a pa:c st:c
+  stem aac
+  stemmorph aac
+> aacacc
+  spell 0 0 
+  sug aaaccc
+  sug aaccc
+  sug aaacc
+> aacc
+  spell 1 1 a
+  sug aa cc
+  ana  pa:a st:a pa:a st:a pa:c st:c pa:c st:c
+  stem aacc
+  stemmorph aacc
+> aacc.
+  spell 1 1 a
+  sug aa cc
+  sug aacc
+  ana  pa:a st:a pa:a st:a pa:c st:c pa:c st:c
+  stem aacc
+  stemmorph aacc
+> aaccc
+  spell 1 1 a
+  sug aaccc
+  sug aacc
+  sug accc
+  ana  pa:a st:a pa:a st:a pa:c st:c pa:c st:c pa:c st:c
+  stem aaccc
+  stemmorph aaccc
+> ab
+  spell 1 1 a
+  sug a
+  sug b
+  ana  pa:a st:a pa:b st:b
+  stem ab
+  stemmorph ab
+> abab
+  spell 0 0 
+  sug ab ab
+> abb
+  spell 1 1 a
+  sug ab
+  sug bb
+  ana  pa:a st:a pa:b st:b pa:b st:b
+  stem abb
+  stemmorph abb
+> abbbc
+  spell 1 1 a
+  sug abbbc
+  sug abbb
+  sug abbc
+  sug bbbc
+  ana  pa:a st:a pa:b st:b pa:b st:b pa:b st:b pa:c st:c
+  stem abbbc
+  stemmorph abbbc
+> abbc
+  spell 1 1 a
+  sug ab bc
+  ana  pa:a st:a pa:b st:b pa:b st:b pa:c st:c
+  stem abbc
+  stemmorph abbc
+> abbcc
+  spell 1 1 a
+  sug abbcc
+  sug abbc
+  sug abcc
+  sug bbcc
+  ana  pa:a st:a pa:b st:b pa:b st:b pa:c st:c pa:c st:c
+  stem abbcc
+  stemmorph abbcc
+> abc
+  spell 1 1 a
+  sug ab
+  sug ac
+  sug bc
+  ana  pa:a st:a pa:b st:b pa:c st:c
+  stem abc
+  stemmorph abc
+> abc.
+  spell 1 1 a
+  sug ab
+  sug ac
+  sug bc
+  sug abc
+  ana  pa:a st:a pa:b st:b pa:c st:c
+  stem abc
+  stemmorph abc
+> abcc
+  spell 1 1 a
+  sug ab cc
+  ana  pa:a st:a pa:b st:b pa:c st:c pa:c st:c
+  stem abcc
+  stemmorph abcc
+> abcc-ab
+  spell 1 1 
+> abcc.
+  spell 1 1 a
+  sug ab cc
+  sug abcc
+  ana  pa:a st:a pa:b st:b pa:c st:c pa:c st:c
+  stem abcc
+  stemmorph abcc
+> ac
+  spell 1 1 a
+  sug a
+  sug c
+  ana  pa:a st:a pa:c st:c
+  stem ac
+  stemmorph ac
+> acabbc
+  spell 0 0 
+  sug aabbc
+  sug aabbcc
+  sug ac abbc
+> acb
+  spell 0 0 
+  sug ac
+  sug ab
+> acbabcc
+  spell 0 0 
+> acc
+  spell 1 1 a
+  sug ac
+  sug cc
+  ana  pa:a st:a pa:c st:c pa:c st:c
+  stem acc
+  stemmorph acc
+> acc.
+  spell 1 1 a
+  sug ac
+  sug cc
+  sug acc
+  ana  pa:a st:a pa:c st:c pa:c st:c
+  stem acc
+  stemmorph acc
+> b
+  spell 1 0 
+  sug b
+  ana  st:b
+  stem b
+  stemmorph b
+> b.
+  spell 1 0 
+  sug b
+  ana  st:b
+  stem b
+  stemmorph b
+> ba
+  spell 0 0 
+  sug b
+  sug a
+  sug ab
+> ba-bbcc
+  spell 0 0 
+  sug b-bbcc
+  sug a-bbcc
+  sug ab-bbcc
+> ba.
+  spell 0 0 
+  sug b
+  sug a
+  sug ab
+> baaaa
+  spell 0 0 
+  sug aaaab
+  sug aaaa
+> bac
+  spell 0 0 
+  sug bc
+  sug ac
+> bb
+  spell 1 1 b
+  sug b
+  sug bb
+  ana  pa:b st:b pa:b st:b
+  stem bb
+  stemmorph bb
+> bb.
+  spell 1 1 b
+  sug b
+  sug bb
+  ana  pa:b st:b pa:b st:b
+  stem bb
+  stemmorph bb
+> bbaaa
+  spell 0 0 
+  sug bb aaa
+> bbaaaa
+  spell 0 0 
+  sug bb aaaa
+> bbaaba
+  spell 0 0 
+> bbb
+  spell 1 1 b
+  sug bb
+  ana  pa:b st:b pa:b st:b pa:b st:b
+  stem bbb
+  stemmorph bbb
+> bbba
+  spell 0 0 
+  sug abbb
+  sug bbb
+> bbbb
+  spell 1 1 b
+  sug bb bb
+  ana  pa:b st:b pa:b st:b pa:b st:b pa:b st:b
+  stem bbbb
+  stemmorph bbbb
+> bbbbbaa
+  spell 0 0 
+  sug bbbbb aa
+> bbbbcab
+  spell 0 0 
+  sug bbbbc ab
+> bbbccc
+  spell 1 1 b
+  sug bbbccc
+  sug bbbcc
+  sug bbccc
+  ana  pa:b st:b pa:b st:b pa:b st:b pa:c st:c pa:c st:c pa:c st:c
+  stem bbbccc
+  stemmorph bbbccc
+> bbc
+  spell 1 1 b
+  sug bb
+  sug bc
+  ana  pa:b st:b pa:b st:b pa:c st:c
+  stem bbc
+  stemmorph bbc
+> bbc-aaabbbccc
+  spell 1 1 
+> bbc-bbbbbaa
+  spell 0 0 
+  sug bbc-bbbbb aa
+> bbcc
+  spell 1 1 b
+  sug bb cc
+  ana  pa:b st:b pa:b st:b pa:c st:c pa:c st:c
+  stem bbcc
+  stemmorph bbcc
+> bbccbbbccc
+  spell 0 0 
+  sug bbcc bbbccc
+> bc
+  spell 1 1 b
+  sug b
+  sug c
+  ana  pa:b st:b pa:c st:c
+  stem bc
+  stemmorph bc
+> bcabbc
+  spell 0 0 
+  sug bc abbc
+> bcc
+  spell 1 1 b
+  sug bc
+  sug cc
+  ana  pa:b st:b pa:c st:c pa:c st:c
+  stem bcc
+  stemmorph bcc
+> bcc.
+  spell 1 1 b
+  sug bc
+  sug cc
+  sug bcc
+  ana  pa:b st:b pa:c st:c pa:c st:c
+  stem bcc
+  stemmorph bcc
+> bccc
+  spell 1 1 b
+  sug bc cc
+  ana  pa:b st:b pa:c st:c pa:c st:c pa:c st:c
+  stem bccc
+  stemmorph bccc
+> c
+  spell 1 0 
+  sug c
+  ana  st:c
+  stem c
+  stemmorph c
+> c-bc
+  spell 1 1 
+> caaab
+  spell 0 0 
+  sug aaab
+  sug aaabc
+> caacc
+  spell 0 0 
+  sug aaccc
+  sug aacc
+> cab
+  spell 0 0 
+  sug ab
+> cab-aaab
+  spell 0 0 
+  sug ab-aaab
+> cab.
+  spell 0 0 
+  sug ab
+> cba
+  spell 0 0 
+  sug abc
+> cba.
+  spell 0 0 
+  sug abc
+> cbaabcc
+  spell 0 0 
+> cbc
+  spell 0 0 
+  sug cc
+  sug bc
+> cc
+  spell 1 1 c
+  sug c
+  sug cc
+  ana  pa:c st:c pa:c st:c
+  stem cc
+  stemmorph cc
+> ccc
+  spell 1 1 c
+  sug cc
+  ana  pa:c st:c pa:c st:c pa:c st:c
+  stem ccc
+  stemmorph ccc
+> ccc-aaab
+  spell 1 1 
+> ccc.
+  spell 1 1 c
+  sug cc
+  sug ccc
+  sug c
+  ana  pa:c st:c pa:c st:c pa:c st:c
+  stem ccc
+  stemmorph ccc
+> cccb
+  spell 0 0 
+  sug bccc
+  sug ccc
+> cccc
+  spell 1 1 c
+  sug cc cc
+  ana  pa:c st:c pa:c st:c pa:c st:c pa:c st:c
+  stem cccc
+  stemmorph cccc
+> cccccc
+  spell 1 1 c
+  sug cccccc
+  sug ccccc
+  sug cccc
+  ana  pa:c st:c pa:c st:c pa:c st:c pa:c st:c pa:c st:c pa:c st:c
+  stem cccccc
+  stemmorph cccccc
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> aaab's
+  spell 0 0 
+> aaabâ€™s
+  spell 0 0 
+> 'aaab'
+  spell 0 0 
+> l'aaab
+  spell 0 0 
+> aaab.
+  spell 1 1 a
+  sug aa ab
+  sug aaab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> aaab..
+  spell 1 1 a
+  sug aa ab
+  sug aaab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> .aaab
+  spell 0 0 
+  sug aaab
+> ...
+  spell 1 0 
+> -aaab
+  spell 1 1 
+  sug aaab
+> aaab-
+  spell 1 1 
+  sug aaab
+> aaab--aacc
+  spell 1 1 
+> aaab-aacc-aaab
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> AAAB
+  spell 1 33 a
+  sug AA AB
+  sug AAB
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> AAAB
+  spell 1 33 a
+  sug AA AB
+  sug AAB
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> Aaab
+  spell 1 33 a
+  sug Aab
+  sug Aa ab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> aaab aacc
+  spell 0 0 
+>  aaab
+  spell 1 1 a
+  sug aa ab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> aaab 
+  spell 0 0 
+  sug aaab
+> aaab	aacc
+  spell 0 0 
+> ÿþaaab
+  spell 0 0 
+> aaabÃ
+  spell 0 32 
+  sug aaab
+> €aaab
+  spell 0 0 
+  sug aaab
+> ð€aaab
+  spell 0 0 
+> Ä°aaab
+  spell 0 32 
+> aaabÃŸ
+  spell 0 32 
+> aaab
+  spell 1 1 a
+  sug aa ab
+  ana  pa:a st:a pa:a st:a pa:a st:a pa:b st:b
+  stem aaab
+  stemmorph aaab
+> AAABSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>aaab</word></query>
+  spell 0 0 
+  sug <code><a> pa:a st:a pa:a st:a pa:a st:a pa:b st:b</a></code>
+> <?xml?><query type="stem"><word>aaab</word></query>
+  spell 0 0 
+  sug aaab
+> <?xml?><query type="suggest"><word>aaabx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>aaab</word><word>aacc</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>aaab</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>aaab</word></query>
+  spell 0 0 
+  sug <code><a> pa:a st:a pa:a st:a pa:a st:a pa:b st:b</a></code>
+> <?xml?><query type="add"><word>aaab</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;aaab&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>aaab</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

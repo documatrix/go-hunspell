@@ -1,0 +1,399 @@
+# example: 1/2
+> /
+  spell 1 0 
+  sug /
+  ana  st:/
+  stem /
+  stemmorph /
+> /-/
+  spell 1 1 
+> /-1/2
+  spell 1 1 
+  sug 1/2
+> /-http://
+  spell 1 1 
+  sug http://
+> /.
+  spell 1 0 
+  sug /
+  ana  st:/
+  stem /
+  stemmorph /
+> //
+  spell 0 0 
+  sug /
+> /1
+  spell 0 0 
+  sug /
+> /12
+  spell 0 0 
+  sug 1/2
+> /2
+  spell 0 0 
+  sug /
+> /2usr/share/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /USR/SHARE/MYSPELL/
+  spell 1 32 
+  sug /USR/SHARE/MYSPELL/
+  ana  st:/usr/share/myspell/
+  ana  st:/usr/share/myspell/
+  stem /usr/share/myspell/
+  stemmorph /usr/share/myspell/
+> /asr/share/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /http://
+  spell 0 0 
+  sug http://
+  sug / http://
+> /sur/share/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/hsare/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/shame/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/share/msypell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/share/mysapell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/share/mysell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/share/myspell
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/share/myspell/
+  spell 1 0 
+  sug /usr/share/myspell/
+  ana  st:/usr/share/myspell/
+  stem /usr/share/myspell/
+  stemmorph /usr/share/myspell/
+> /usr/share/myspell/-/
+  spell 1 1 
+  sug /usr/share/myspell/
+> /usr/share/myspell/-http://
+  spell 1 1 
+> /usr/share/myspell/.
+  spell 1 0 
+  sug /usr/share/myspell/
+  ana  st:/usr/share/myspell/
+  stem /usr/share/myspell/
+  stemmorph /usr/share/myspell/
+> /usr/share/myspell//
+  spell 0 0 
+  sug /usr/share/myspell/
+  sug /usr/share/myspell/ /
+> /usr/share/myspell//usr/share/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/ /usr/share/myspell/
+> /usr/share/myspell/1/2
+  spell 0 0 
+  sug /usr/share/myspell/ 1/2
+  sug /usr/share/myspell/
+> /usr/share/myspell/a
+  spell 0 0 
+  sug /usr/share/myspell/
+> /usr/share/myspll/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /ussr/share/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> /y
+  spell 0 0 
+  sug /
+> 1//2
+  spell 0 0 
+  sug 1/2
+> 1/2
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2-/usr/share/myspell/
+  spell 1 1 
+  sug /usr/share/myspell/
+> 1/2-1/2
+  spell 1 1 
+  sug 1/2
+> 1/2-http://
+  spell 1 1 
+  sug http://
+> 1/2.
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2/
+  spell 0 0 
+  sug 1/2
+  sug 1/2 /
+> 1/2/usr/share/myspell/
+  spell 0 0 
+  sug 1/2 /usr/share/myspell/
+  sug /usr/share/myspell/
+> 1/21/2
+  spell 0 0 
+  sug 1/2 1/2
+  sug 1/2
+> 1/2y
+  spell 0 0 
+  sug 1/2
+> 1/e2
+  spell 0 0 
+  sug 1/2
+> 12/
+  spell 0 0 
+  sug 1/2
+> 1h/2
+  spell 0 0 
+  sug 1/2
+> :
+  spell 0 0 
+> :/
+  spell 0 0 
+  sug /
+> HTTP://
+  spell 1 32 
+  sug HTTP://
+  ana  st:http://
+  stem http://
+  stemmorph http://
+> Http://
+  spell 1 32 
+  sug http://
+  ana  st:http://
+  stem http://
+  stemmorph http://
+> e/2
+  spell 0 0 
+  sug 1/2
+> e/usr/share/myspell/
+  spell 0 0 
+  sug /usr/share/myspell/
+> hmtp://
+  spell 0 0 
+  sug http://
+> hrttp://
+  spell 0 0 
+  sug http://
+> htap://
+  spell 0 0 
+  sug http://
+> htp://
+  spell 0 0 
+  sug http://
+> htt://
+  spell 0 0 
+  sug http://
+> htt:p//
+  spell 0 0 
+  sug http://
+> http//
+  spell 0 0 
+  sug http://
+> http://
+  spell 1 0 
+  sug http://
+  ana  st:http://
+  stem http://
+  stemmorph http://
+> http://-/
+  spell 1 1 
+  sug http://
+> http://-/usr/share/myspell/
+  spell 1 1 
+> http://-1/2
+  spell 1 1 
+  sug http://
+> http://-http://
+  spell 1 1 
+> http://.
+  spell 1 0 
+  sug http://
+  ana  st:http://
+  stem http://
+  stemmorph http://
+> http://1/2
+  spell 0 0 
+  sug http:// 1/2
+  sug http://
+> http://http://
+  spell 0 0 
+  sug http:// http://
+> http://m
+  spell 0 0 
+  sug http://
+> http://y
+  spell 0 0 
+  sug http://
+> http:/a/
+  spell 0 0 
+  sug http://
+> http:r/
+  spell 0 0 
+  sug http://
+> l/
+  spell 0 0 
+  sug /
+> thtp://
+  spell 0 0 
+  sug http://
+> thttp://
+  spell 0 0 
+  sug http://
+> 1
+  spell 1 0 
+  sug 1/2
+> 123
+  spell 1 0 
+  sug 1/2
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> 1/2's
+  spell 0 0 
+  sug 1/2
+> 1/2â€™s
+  spell 0 0 
+> '1/2'
+  spell 0 0 
+  sug 1/2
+> l'1/2
+  spell 0 0 
+  sug 1/2
+> 1/2.
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2..
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> .1/2
+  spell 0 0 
+  sug 1/2
+> ...
+  spell 1 0 
+> -1/2
+  spell 1 1 
+  sug 1/2
+> 1/2-
+  spell 1 1 
+  sug 1/2
+> 1/2--1/2
+  spell 1 1 
+> 1/2-1/2-1/2
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> 1/2
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2 1/2
+  spell 0 0 
+  sug 1/2
+>  1/2
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2 
+  spell 0 0 
+  sug 1/2
+> 1/2	1/2
+  spell 0 0 
+  sug 1/2
+> ÿþ1/2
+  spell 0 0 
+  sug 1/2
+> 1/2Ã
+  spell 0 32 
+  sug 1/2
+> €1/2
+  spell 0 0 
+  sug 1/2
+> ð€1/2
+  spell 0 0 
+> Ä°1/2
+  spell 0 32 
+  sug 1/2
+> 1/2ÃŸ
+  spell 0 32 
+  sug 1/2
+> 1/2
+  spell 1 0 
+  sug 1/2
+  ana  st:1/2
+  stem 1/2
+  stemmorph 1/2
+> 1/2SS
+  spell 0 32 
+  sug 1/2
+> <?xml?><query type="analyze"><word>1/2</word></query>
+  spell 0 0 
+  sug <code><a> st:1/2</a></code>
+> <?xml?><query type="stem"><word>1/2</word></query>
+  spell 0 0 
+  sug 1/2
+> <?xml?><query type="suggest"><word>1/2x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>1/2</word><word>1/2</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>1/2</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>1/2</word></query>
+  spell 0 0 
+  sug <code><a> st:1/2</a></code>
+> <?xml?><query type="add"><word>1/2</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;1/2&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>1/2</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

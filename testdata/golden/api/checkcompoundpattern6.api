@@ -1,0 +1,399 @@
+# example: sUrya
+> DAY
+  spell 1 32 
+  sug DAY
+  ana  st:day
+  stem day
+  stemmorph day
+> Day
+  spell 1 32 
+  sug day
+  ana  st:day
+  stem day
+  stemmorph day
+> NAK
+  spell 1 32 
+  sug NAK
+  ana  st:nak
+  stem nak
+  stemmorph nak
+> Nak
+  spell 1 32 
+  sug nak
+  ana  st:nak
+  stem nak
+  stemmorph nak
+> SURYA
+  spell 1 32 
+  sug SURYA
+  ana  st:Surya
+  stem Surya
+  stemmorph Surya
+> SURYODAYAM
+  spell 0 32 
+> SURYONAK
+  spell 0 32 
+  sug SURYA
+> Surya
+  spell 0 32 
+  sug SUrya
+  ana  st:Surya
+  stem Surya
+  stemmorph Surya
+> Suryodayam
+  spell 0 32 
+> Suryonak
+  spell 0 32 
+  sug SUrya
+> Urya
+  spell 0 32 
+  sug SUrya
+> UsryOnak
+  spell 0 32 
+> Usrya
+  spell 0 32 
+  sug SUrya
+> ak
+  spell 0 0 
+  sug nak
+> ank
+  spell 0 0 
+  sug nak
+> da
+  spell 0 0 
+  sug day
+> daM
+  spell 0 32 
+  sug day
+> dany
+  spell 0 0 
+  sug day
+> day
+  spell 1 0 
+  sug day
+  ana  st:day
+  stem day
+  stemmorph day
+  sfx dayaM
+> day-nak
+  spell 1 1 
+  sug daynak
+> day-sUrya
+  spell 1 33 
+  sug daysUrya
+  sug sUrya
+> day.
+  spell 1 0 
+  sug day
+  ana  st:day
+  stem day
+  stemmorph day
+> dayU
+  spell 0 32 
+  sug day
+> dayn
+  spell 0 0 
+  sug day
+> days
+  spell 0 0 
+  sug day
+> daysUryOnak
+  spell 0 32 
+> dayy
+  spell 0 0 
+  sug day
+> dy
+  spell 0 0 
+  sug day
+> dya
+  spell 0 0 
+  sug day
+> kday
+  spell 0 0 
+  sug day
+> nUak
+  spell 0 32 
+  sug nak
+> na
+  spell 0 0 
+  sug nak
+> naM
+  spell 0 32 
+  sug nak
+> naOk
+  spell 0 32 
+  sug nak
+> nad
+  spell 0 0 
+  sug nak
+> nak
+  spell 1 0 
+  sug nak
+  ana  st:nak
+  stem nak
+  stemmorph nak
+> nak.
+  spell 1 0 
+  sug nak
+  ana  st:nak
+  stem nak
+  stemmorph nak
+> nakO
+  spell 0 32 
+  sug nak
+> nakday
+  spell 1 1 nak
+  sug nak day
+  sug nak
+  ana  pa:nak st:nak pa:day
+  stem nak
+  stemmorph nak
+> naknak
+  spell 1 1 nak
+  sug nak nak
+  sug nak
+  ana  pa:nak st:nak pa:nak
+  stem nak
+  stemmorph nak
+> naksUryOnak
+  spell 0 32 
+> naky
+  spell 0 0 
+  sug nak
+> nka
+  spell 0 0 
+  sug nak
+> nsk
+  spell 0 0 
+  sug nak
+> sUMyOnak
+  spell 0 32 
+> sUUrya
+  spell 0 32 
+  sug sUrya
+> sUdryOnak
+  spell 0 32 
+> sUrOnak
+  spell 0 32 
+> sUray
+  spell 0 32 
+  sug sUrya
+> sUrryOdayaM
+  spell 0 32 
+  sug sUryOdayaM
+> sUrsya
+  spell 0 32 
+  sug sUrya
+> sUryOak
+  spell 0 32 
+  sug sUrya
+> sUryOdayaM
+  spell 1 33 sUrya
+> sUryOdayaM-nak
+  spell 1 33 
+> sUryOdayaM-sUryOdayaM
+  spell 1 33 
+> sUryOdayaM-sUrya
+  spell 1 33 
+> sUryOdayaM.
+  spell 1 33 sUrya
+> sUryOdayaMsUryOdayaM
+  spell 0 32 
+  sug sUryOdayaM sUryOdayaM
+> sUryOdyaaM
+  spell 0 32 
+  sug sUryOdayaM
+> sUryOna
+  spell 0 32 
+  sug sUrya
+> sUryOnak
+  spell 0 32 
+  sug sUrya
+> sUryOnak-nak
+  spell 0 32 
+  sug sUrya-nak
+> sUryOnak-sUrya
+  spell 0 32 
+  sug sUrya-sUrya
+> sUryOnak.
+  spell 0 32 
+  sug sUrya
+> sUryOnakM
+  spell 0 32 
+> sUryOnakday
+  spell 0 32 
+> sUryOnaknak
+  spell 0 32 
+> sUryOnaksUryOdayaM
+  spell 0 32 
+> sUryOnaksUrya
+  spell 0 32 
+> sUryOnank
+  spell 0 32 
+> sUryOnkk
+  spell 0 32 
+> sUrya
+  spell 1 32 
+  sug sUrya
+  ana  st:sUrya
+  stem sUrya
+  stemmorph sUrya
+> sUrya-day
+  spell 1 33 
+  sug sUryaday
+  sug sUrya
+> sUrya-nak
+  spell 1 33 
+  sug sUryanak
+  sug sUrya
+> sUrya-sUryOdayaM
+  spell 1 33 
+> sUrya.
+  spell 1 32 
+  sug sUrya
+  ana  st:sUrya
+  stem sUrya
+  stemmorph sUrya
+> sUryaM
+  spell 0 32 
+  sug sUrya
+> sUryaday
+  spell 1 33 sUrya
+  sug sUrya day
+  sug sUryaday
+  sug sUrya
+> sUryadayaM
+  spell 0 32 
+  sug sUrya dayaM
+> sUryak
+  spell 0 32 
+  sug sUrya
+> sUryanak
+  spell 1 33 sUrya
+  sug sUrya nak
+  sug sUryanak
+  sug sUrya
+> sUryasUryOdayaM
+  spell 0 32 
+> sUryasUrya
+  spell 0 32 
+  sug sUrya sUrya
+> sUrydayaM
+  spell 0 32 
+> sUya
+  spell 0 32 
+  sug sUrya
+> sUyra
+  spell 0 32 
+  sug sUrya
+> srya
+  spell 0 0 
+  sug sUrya
+> ssUryOnak
+  spell 0 32 
+> ssryOnak
+  spell 0 32 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> sUryOdayaM's
+  spell 0 32 
+> sUryOdayaMâ€™s
+  spell 0 32 
+> 'sUryOdayaM'
+  spell 0 32 
+> l'sUryOdayaM
+  spell 0 32 
+> sUryOdayaM.
+  spell 1 33 sUrya
+> sUryOdayaM..
+  spell 1 33 sUrya
+> .sUryOdayaM
+  spell 0 32 
+  sug sUryOdayaM
+> ...
+  spell 1 0 
+> -sUryOdayaM
+  spell 1 33 
+  sug sUryOdayaM
+> sUryOdayaM-
+  spell 1 33 
+  sug sUryOdayaM
+> sUryOdayaM--day
+  spell 1 33 
+> sUryOdayaM-day-sUryOdayaM
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> SURYODAYAM
+  spell 0 32 
+> SuRYoDAYAm
+  spell 0 32 
+> Suryodayam
+  spell 0 32 
+> sUryOdayaM day
+  spell 0 32 
+>  sUryOdayaM
+  spell 1 33 sUrya
+> sUryOdayaM 
+  spell 0 32 
+  sug sUryOdayaM
+> sUryOdayaM	day
+  spell 0 32 
+> ÿþsUryOdayaM
+  spell 0 32 
+> sUryOdayaMÃ
+  spell 0 32 
+  sug sUryOdayaM
+> €sUryOdayaM
+  spell 0 32 
+  sug sUryOdayaM
+> ð€sUryOdayaM
+  spell 0 32 
+> Ä°sUryOdayaM
+  spell 0 32 
+> sUryOdayaMÃŸ
+  spell 0 32 
+> sUryOdayaM
+  spell 1 33 sUrya
+> SURYODAYAMSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>sUryOdayaM</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>sUryOdayaM</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>sUryOdayaMx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>sUryOdayaM</word><word>day</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>sUryOdayaM</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>sUryOdayaM</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>sUryOdayaM</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;sUryOdayaM&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>sUryOdayaM</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

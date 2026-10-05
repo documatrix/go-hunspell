@@ -1,0 +1,4 @@
+exit 1
+stdout 0
+stderr 72
+Can't open affix or dictionary files for dictionary named "dict/extra".

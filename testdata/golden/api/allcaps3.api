@@ -1,0 +1,602 @@
+# example: UNESCO
+> A'TS
+  spell 0 32 
+  sug ACTS
+> ACTS
+  spell 1 32 
+  sug ACTS
+  sug ACT
+  ana  st:ACTS
+  ana  st:act fl:s
+  stem ACTS
+  stem act
+  stemmorph ACTS
+  stemmorph act
+> ACTS.
+  spell 1 32 
+  sug ACTS
+  sug ACT
+  ana  st:ACTS
+  ana  st:act fl:s
+  stem ACTS
+  stem act
+  stemmorph ACTS
+  stemmorph act
+> AECTS
+  spell 0 32 
+  sug ACTS
+> ANSA
+  spell 0 32 
+  sug NASA
+> Acst
+  spell 0 32 
+  sug Acts
+  sug Act
+  sug ACTS
+> Acts
+  spell 1 32 act
+  sug ACTS
+  sug Act
+  ana  st:act fl:s
+  stem act
+  stemmorph act
+> Acts-ACTS
+  spell 1 33 
+  sug Acts-acts
+> Acts-unesco's
+  spell 0 32 
+  sug Acts-Unesco's
+  sug Acts-UNESCO's
+> ActsN
+  spell 0 32 
+  sug Acts
+  sug ACTS
+> ActsNasa
+  spell 0 32 
+  sug Acts Nasa
+  sug ACTS
+> AuTS
+  spell 0 32 
+  sug ACTS
+> CATS
+  spell 0 32 
+  sug ACTS
+> Easa
+  spell 0 32 
+  sug NASA
+> NAA
+  spell 0 32 
+  sug NASA
+> NAAS
+  spell 0 32 
+  sug NASA
+> NAS'
+  spell 0 32 
+  sug NASA
+> NASA
+  spell 1 32 
+  sug NASA
+  ana  st:NASA
+  ana  st:Nasa
+  stem NASA
+  stem Nasa
+  stemmorph NASA
+  stemmorph Nasa
+  sfx NASA's
+> NASA'S
+  spell 1 32 Nasa
+  sug NASA'S
+  ana  st:Nasa fl:S
+  stem Nasa
+  stemmorph Nasa
+> NASA'S'
+  spell 0 32 
+  sug NASA'S
+  sug NASA
+> NASA'S.
+  spell 1 32 Nasa
+  sug NASA'S
+  ana  st:Nasa fl:S
+  stem Nasa
+  stemmorph Nasa
+> NASA'SUNESCO's
+  spell 0 32 
+> NASA's
+  spell 1 32 NASA
+  sug Nasa's
+  sug NASA's
+  ana  st:NASA fl:S
+  stem NASA
+  stemmorph NASA
+> NASA's.
+  spell 1 32 NASA
+  sug Nasa's
+  sug NASA's
+  ana  st:NASA fl:S
+  stem NASA
+  stemmorph NASA
+> NASA'sUNESCO's
+  spell 0 32 
+  sug NASA's UNESCO's
+> NASA-nasa
+  spell 0 32 
+  sug NASA-Nasa
+> NASA-unesco
+  spell 0 32 
+  sug NASA-Unesco
+> NASA.
+  spell 1 32 
+  sug NASA
+  ana  st:NASA
+  ana  st:Nasa
+  stem NASA
+  stem Nasa
+  stemmorph NASA
+  stemmorph Nasa
+> NASAO's
+  spell 0 32 
+  sug NASA's
+  sug Nasa's
+  sug Nasa
+> NASAUNESCO
+  spell 0 32 
+  sug UNESCO
+> NASAUNESCO'S
+  spell 0 32 
+> NSA'S
+  spell 0 32 
+  sug NASA'S
+> NasCa's
+  spell 0 32 
+  sug Nasa's
+  sug NASA's
+> Nasa
+  spell 1 32 
+  sug NASA
+  sug Nasa
+  ana  st:Nasa
+  stem Nasa
+  stemmorph Nasa
+  sfx Nasa's
+> Nasa's
+  spell 1 32 Nasa
+  sug Nasa's
+  ana  st:Nasa fl:S
+  stem Nasa
+  stemmorph Nasa
+> Nasa'sACTS
+  spell 0 32 
+  sug Nasa's Acts
+  sug Nasa's ACTS
+> Nasa-Unesco's
+  spell 1 33 
+> Nasa-acts
+  spell 1 33 
+> Nasa-unesco
+  spell 0 32 
+  sug Nasa-UNESCO
+  sug Nasa-Unesco
+> Nasa.
+  spell 1 32 
+  sug NASA
+  sug Nasa
+  ana  st:Nasa
+  stem Nasa
+  stemmorph Nasa
+> Nasoa
+  spell 0 32 
+  sug Nasa
+> TNasa
+  spell 0 32 
+  sug Nasa
+  sug NASA
+> UCESCO
+  spell 0 32 
+  sug UNESCO
+> UENESCO
+  spell 0 32 
+  sug UNESCO
+> UNEASCO
+  spell 0 32 
+  sug UNESCO
+> UNESCO
+  spell 1 32 
+  sug UNESCO
+  ana  st:UNESCO
+  ana  st:Unesco
+  stem UNESCO
+  stem Unesco
+  stemmorph UNESCO
+  stemmorph Unesco
+  sfx UNESCO's
+> UNESCO'S
+  spell 1 32 Unesco
+  sug UNESCO'S
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> UNESCO'SUNESCO's
+  spell 0 32 
+> UNESCO's
+  spell 1 32 UNESCO
+  sug Unesco's
+  sug UNESCO's
+  ana  st:UNESCO fl:S
+  stem UNESCO
+  stemmorph UNESCO
+> UNESCO's-Unesco
+  spell 1 33 
+> UNESCO'sunesco's
+  spell 0 32 
+> UNESCO't
+  spell 0 32 
+  sug Unesco
+  sug UNESCO
+> UNESCO-NASA
+  spell 0 32 
+> UNESCO.
+  spell 1 32 
+  sug UNESCO
+  ana  st:UNESCO
+  ana  st:Unesco
+  stem UNESCO
+  stem Unesco
+  stemmorph UNESCO
+  stemmorph Unesco
+> UNESCONASA
+  spell 0 32 
+  sug UNESCO
+> UNESCOS
+  spell 0 32 
+  sug UNESCO
+> UNESCOU
+  spell 0 32 
+  sug UNESCO
+> UNESCOUNESCO
+  spell 0 32 
+> UNESCo
+  spell 0 32 
+  sug Unesco
+  sug UNESCO
+> UNESOC
+  spell 0 32 
+  sug UNESCO
+> UNESOC's
+  spell 0 32 
+  sug UNESCO's
+  sug Unesco's
+  sug Unesco
+> UNSECO
+  spell 0 32 
+  sug UNESCO
+> UNUSCO
+  spell 0 32 
+  sug UNESCO
+> UNsESCO's
+  spell 0 32 
+  sug UNESCO's
+  sug Unesco's
+  sug Unesco
+> Uneco
+  spell 0 32 
+  sug Unesco
+  sug UNESCO
+> Unesc
+  spell 0 32 
+  sug Unesco
+  sug UNESCO
+> UnescS's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> UnescU
+  spell 0 32 
+  sug Unesco
+  sug UNESCO
+> Unesco
+  spell 1 32 
+  sug UNESCO
+  sug Unesco
+  ana  st:Unesco
+  stem Unesco
+  stemmorph Unesco
+  sfx Unesco's
+> Unesco's
+  spell 1 32 Unesco
+  sug Unesco's
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> Unesco-nasa
+  spell 0 32 
+  sug Unesco-NASA
+  sug Unesco-Nasa
+> Unesco-unesco
+  spell 0 32 
+  sug Unesco-UNESCO
+  sug Unesco-Unesco
+> Unesco.
+  spell 1 32 
+  sug UNESCO
+  sug Unesco
+  ana  st:Unesco
+  stem Unesco
+  stemmorph Unesco
+> UnescoNasa's
+  spell 0 32 
+  sug Unesco Nasa's
+> UnescoUnesco's
+  spell 0 32 
+  sug Unesco Unesco's
+> Unescos
+  spell 0 32 
+  sug Unesco
+  sug UNESCO
+> Unescounesco's
+  spell 0 32 
+> acA
+  spell 0 32 
+  sug act
+> acs
+  spell 0 0 
+  sug acts
+> act
+  spell 1 0 
+  sug act
+  ana  st:act
+  stem act
+  stemmorph act
+  sfx acts
+> act.
+  spell 1 0 
+  sug act
+  ana  st:act
+  stem act
+  stemmorph act
+> acts
+  spell 1 0 act
+  sug ACTS
+  sug act
+  ana  st:act fl:s
+  stem act
+  stemmorph act
+> actu
+  spell 0 0 
+  sug act
+> ct
+  spell 0 0 
+  sug act
+> naa's
+  spell 0 0 
+  sug NASA's
+> nacsa
+  spell 0 0 
+  sug NASA
+> nasE
+  spell 0 32 
+  sug Nasa
+> nasa
+  spell 0 0 
+  sug NASA
+  sug Nasa
+> nasa'Os
+  spell 0 32 
+  sug Nasa
+> nasa'S
+  spell 0 32 
+  sug Nasa's
+> nasa'n
+  spell 0 0 
+  sug NASA
+> nasa's
+  spell 0 0 
+  sug Nasa's
+  sug NASA's
+> nasa's.
+  spell 0 0 
+  sug Nasa's
+  sug NASA's
+> nasa'sACTS
+  spell 0 32 
+> nasa'us
+  spell 0 0 
+  sug NASA
+> nasa.
+  spell 0 0 
+  sug NASA
+  sug Nasa
+> nasaNASA'S
+  spell 0 32 
+> nasaT's
+  spell 0 32 
+  sug Nasa's
+  sug NASA's
+> nasaUnesco's
+  spell 0 32 
+> nassa's
+  spell 0 0 
+  sug NASA's
+> nesco
+  spell 0 0 
+  sug UNESCO
+> nesco's
+  spell 0 0 
+  sug UNESCO's
+> nsa's
+  spell 0 0 
+  sug NASA's
+> sACTS
+  spell 0 32 
+  sug ACTS
+  sug acts
+  sug act
+> unCsco's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> unesc
+  spell 0 0 
+  sug UNESCO
+> unesco
+  spell 0 0 
+  sug UNESCO
+  sug Unesco
+> unesco's
+  spell 0 0 
+  sug Unesco's
+  sug UNESCO's
+> unesco'sACTS
+  spell 0 32 
+> unesco'sa
+  spell 0 0 
+  sug UNESCO
+> unescoACTS
+  spell 0 32 
+  sug Unesco
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Unesco's's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> Unesco'sâ€™s
+  spell 0 32 
+> 'Unesco's'
+  spell 0 32 
+  sug Unesco
+> l'Unesco's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> Unesco's.
+  spell 1 32 Unesco
+  sug Unesco's
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> Unesco's..
+  spell 1 32 Unesco
+  sug Unesco's
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> .Unesco's
+  spell 0 32 
+  sug . Unesco's
+  sug Unesco's
+  sug UNESCO's
+> ...
+  spell 1 0 
+> -Unesco's
+  spell 1 33 
+  sug Unesco's
+  sug UNESCO's
+> Unesco's-
+  spell 1 33 
+  sug Unesco's
+  sug Unesco
+> Unesco's--UNESCO's
+  spell 1 33 
+> Unesco's-UNESCO's-Unesco's
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> UNESCO'S
+  spell 1 32 Unesco
+  sug UNESCO'S
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> uNESCO'S
+  spell 0 32 
+  sug Unesco's
+> Unesco'S
+  spell 0 32 
+  sug Unesco's
+> Unesco's UNESCO's
+  spell 0 32 
+>  Unesco's
+  spell 1 32 Unesco
+  sug Unesco's
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> Unesco's 
+  spell 0 32 
+  sug Unesco's
+  sug Unesco
+> Unesco's	UNESCO's
+  spell 0 32 
+> ÿþUnesco's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> Unesco'sÃ
+  spell 0 32 
+  sug Unesco's
+  sug Unesco
+> €Unesco's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> ð€Unesco's
+  spell 0 32 
+> Ä°Unesco's
+  spell 0 32 
+  sug Unesco's
+  sug UNESCO's
+> Unesco'sÃŸ
+  spell 0 32 
+  sug Unesco
+> Unesco's
+  spell 1 32 Unesco
+  sug Unesco's
+  ana  st:Unesco fl:S
+  stem Unesco
+  stemmorph Unesco
+> UNESCO'SSS
+  spell 0 32 
+  sug UNESCO
+> <?xml?><query type="analyze"><word>Unesco's</word></query>
+  spell 0 32 
+  sug <code><a> st:Unesco fl:S</a></code>
+> <?xml?><query type="stem"><word>Unesco's</word></query>
+  spell 0 32 
+  sug Unesco
+> <?xml?><query type="suggest"><word>Unesco'sx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Unesco's</word><word>UNESCO's</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Unesco's</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>Unesco's</word></query>
+  spell 0 32 
+  sug <code><a> st:Unesco fl:S</a></code>
+> <?xml?><query type="add"><word>Unesco's</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Unesco's&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Unesco's</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

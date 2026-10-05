@@ -1,0 +1,11 @@
+kind xml
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change textt text&__namp;__
+change bone b<\x00ne
+---
+<?xml version="1.0"?>
+<!-- coment --> <root attr="atribute value">
+<para>Some textt with &amp; &apos; and &#x41;BC.</para>
+<para lang='en'>The dog&apos;s bone</para> <![cdata[ skipped ]]>
+<note>multi
+line</note>

@@ -1,0 +1,8 @@
+# example: 
+# aff: longline.aff
+! .dic initial approximate word count line value of 10305 is too large for 2 lines
+! Hash Manager Error : 3
+> foo
+  spell 0 0 
+> bar
+  spell 0 0 

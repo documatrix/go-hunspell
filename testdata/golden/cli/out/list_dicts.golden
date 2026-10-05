@@ -1,0 +1,16 @@
+exit 1
+stdout 0
+stderr 361
+SEARCH PATH:
+.::dict:/usr/local/share/hunspell:/usr/share/hunspell:/usr/share/myspell:/usr/share/myspell/dicts:/Library/Spelling
+AVAILABLE DICTIONARIES (path is not mandatory for -d option):
+dict/apos
+dict/badcount
+dict/badflags
+dict/cwdtest
+dict/enc
+dict/extra
+dict/small
+dict/unkenc
+dict/ver
+Can't open affix or dictionary files for dictionary named "en_US".

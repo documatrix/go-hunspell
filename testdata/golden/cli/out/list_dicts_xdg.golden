@@ -1,0 +1,9 @@
+exit 0
+stdout 0
+stderr 264
+SEARCH PATH:
+.::/xdg/home/hunspell:/xdg/a/hunspell:/xdg/b/hunspell:/usr/share/hunspell:/usr/share/myspell:/usr/share/myspell/dicts:/Library/Spelling
+AVAILABLE DICTIONARIES (path is not mandatory for -d option):
+LOADED DICTIONARY:
+./dict/small.aff
+./dict/small.dic

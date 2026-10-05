@@ -1,0 +1,89 @@
+exit 0
+stdout 851
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+
+
+
+& Introdution 2 9: Introduction, Antineutron
+*
+*
+
+*
+*
+*
+*
+& mistaek 1 17: mistake
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+
+
+
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+*
+& linebreak 3 40: line break, line-break, breadline
+& wrds 4 50: weds, wards, words, wads
+
+*
+& qoted 5 9: quoted, noted, toted, doted, voted
+
+# 0ptt 24
+*
+& setlenght 1 36: settlement
+
+*
+& newcomand 1 36: command
+
+*
+& wordd 6 13: words, word, worded, world, wordy, word d
+& italik 2 28: italic, ital
+
+& colour 6 39: color, co lour, co-lour, col our, col-our, lour
+*
+
+& tabl 9 21: tab, table, tabla, tabs, tail, tall, ta bl, ta-bl, tab l
+
+*
+& skipp 6 16: skip, skips, skimp, ski pp, ski-pp, skip p
+*
+& pagebrek 1 40: pageboy
+
+
+*
+& argg 1 18: argue
+*
+*
+& wrd 7 41: wed, rd, ward, word, wad, wry, w rd
+
+*
+*
+*
+& percnt 2 15: percent, percipient
+
+
+
+
+
+stderr 0

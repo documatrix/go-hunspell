@@ -1,0 +1,12 @@
+# example: 
+# aff: longline2.aff.gz
+# dic: longline.dic
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foos
+  spell 0 0 
+  sug foo

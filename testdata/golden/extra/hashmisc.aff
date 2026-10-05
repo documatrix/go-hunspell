@@ -1,0 +1,8 @@
+# dictionary loading corner cases: homonyms in a hash chain, ph: fields of
+# capitalized words in German, a line without a word
+SET UTF-8
+LANG de
+SFX A Y 1
+SFX A 0 s .
+SFX B Y 1
+SFX B 0 t .

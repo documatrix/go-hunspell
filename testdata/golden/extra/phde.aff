@@ -1,0 +1,3 @@
+# ph: fields of a German UTF-8 dictionary (lowercase REP patterns)
+SET UTF-8
+LANG de_DE

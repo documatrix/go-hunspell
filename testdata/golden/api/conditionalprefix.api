@@ -1,0 +1,631 @@
+# example: drink
+> DRINK
+  spell 1 32 
+  sug DRINK
+  ana  st:drink po:verb
+  ana  st:drink po:noun
+  stem drink
+  stemmorph drink
+> DRINKABLE
+  spell 1 32 drink
+  sug DRINKABLE
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen DRINKABLE
+  genmorph DRINKABLE
+  genmorph DRINKABLE
+> DRINKS
+  spell 1 32 drink
+  sug DRINK
+  sug DRINKS
+  ana  st:drink po:verb is:3SGV
+  ana  st:drink po:noun is:PL
+  stem drink
+  stemmorph drink
+> Drink
+  spell 1 32 
+  sug drink
+  ana  st:drink po:verb
+  ana  st:drink po:noun
+  stem drink
+  stemmorph drink
+> Drinkable
+  spell 1 32 drink
+  sug drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  genmorph Drinkable
+  genmorph Drinkable
+> Drinkables
+  spell 1 32 drink
+  sug Drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  genmorph Drinkable
+  genmorph Drinkable
+> Drinks
+  spell 1 32 drink
+  sug Drink
+  ana  st:drink po:verb is:3SGV
+  ana  st:drink po:noun is:PL
+  stem drink
+  stemmorph drink
+> UNDRINK
+  spell 0 32 
+  sug DRINK
+> UNDRINKABLE
+  spell 1 32 drink
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen DRINKABLE
+  genmorph DRINKABLE
+  genmorph DRINKABLE
+> UNDRINKABLES
+  spell 1 32 drink
+  sug UNDRINKABLE
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen DRINKABLE
+  genmorph DRINKABLE
+  genmorph DRINKABLE
+> UNDRINKS
+  spell 0 32 
+  sug DRINKS
+> Undrink
+  spell 0 32 
+  sug Drink
+> Undrinkable
+  spell 1 32 drink
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  genmorph Drinkable
+  genmorph Drinkable
+> Undrinkables
+  spell 1 32 drink
+  sug Undrinkable
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  genmorph Drinkable
+  genmorph Drinkable
+> Undrinks
+  spell 0 32 
+  sug Drinks
+> adrinkable
+  spell 0 0 
+  sug drinkable
+> bundrink
+  spell 0 0 
+  sug drink
+> dbink
+  spell 0 0 
+  sug drink
+> diink
+  spell 0 0 
+  sug drink
+> dirnkables
+  spell 0 0 
+  sug drinkables
+> dkinkable
+  spell 0 0 
+  sug drinkable
+> dlink
+  spell 0 0 
+  sug drink
+> dninkables
+  spell 0 0 
+> drbink
+  spell 0 0 
+  sug drink
+> dridk
+  spell 0 0 
+  sug drink
+> drienkables
+  spell 0 0 
+  sug drinkables
+> drikkables
+  spell 0 0 
+> drikn
+  spell 0 0 
+  sug drink
+> driknk
+  spell 0 0 
+  sug drink
+> drinakble
+  spell 0 0 
+  sug drinkable
+  sug drink
+> drink
+  spell 1 0 
+  sug drink
+  ana  st:drink po:verb
+  ana  st:drink po:noun
+  stem drink
+  stemmorph drink
+  sfx drinkable
+  sfx drinks
+> drink-drink
+  spell 1 1 
+> drink-drinks
+  spell 1 1 
+> drink-undrinkables
+  spell 1 1 
+> drink-undrinks
+  spell 0 0 
+  sug drink-drinks
+> drink.
+  spell 1 0 
+  sug drink
+  ana  st:drink po:verb
+  ana  st:drink po:noun
+  stem drink
+  stemmorph drink
+> drinka
+  spell 0 0 
+  sug drinks
+  sug drink
+> drinkaable
+  spell 0 0 
+  sug drinkable
+> drinkable
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> drinkable.
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> drinkabledrink
+  spell 0 0 
+  sug drinkable drink
+> drinkabledrinks
+  spell 0 0 
+  sug drinkable drinks
+> drinkables
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> drinkables-drink
+  spell 1 1 
+> drinkables-drinks
+  spell 1 1 
+> drinkables.
+  spell 1 0 drink
+  sug drinkable
+  sug drinkables
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> drinkablesd
+  spell 0 0 
+  sug drinkables
+> drinkablesdrinkable
+  spell 0 0 
+  sug drinkables drinkable
+> drinkablrs
+  spell 0 0 
+  sug drinkables
+> drinkadble
+  spell 0 0 
+  sug drinkable
+> drinkbale
+  spell 0 0 
+  sug drinkable
+  sug drink
+> drinkdrink
+  spell 0 0 
+  sug drink drink
+> drinkdrinkable
+  spell 0 0 
+  sug drink drinkable
+> drinks
+  spell 1 0 drink
+  sug drink
+  ana  st:drink po:verb is:3SGV
+  ana  st:drink po:noun is:PL
+  stem drink
+  stemmorph drink
+> drinks-drink
+  spell 1 1 
+> drinks-drinkables
+  spell 1 1 
+> drinks.
+  spell 1 0 drink
+  sug drink
+  sug drinks
+  ana  st:drink po:verb is:3SGV
+  ana  st:drink po:noun is:PL
+  stem drink
+  stemmorph drink
+> drinkse
+  spell 0 0 
+  sug drinks
+  sug drink
+> drinkss
+  spell 0 0 
+  sug drinks
+  sug drink
+> drinku
+  spell 0 0 
+  sug drink
+> drinkundrinks
+  spell 0 0 
+> drinlables
+  spell 0 0 
+  sug drinkables
+> drinsk
+  spell 0 0 
+  sug drinks
+  sug drink
+> driukables
+  spell 0 0 
+> drlink
+  spell 0 0 
+  sug drink
+> drniks
+  spell 0 0 
+  sug drinks
+> drnks
+  spell 0 0 
+  sug drinks
+> druink
+  spell 0 0 
+  sug drink
+> druinks
+  spell 0 0 
+  sug drinks
+  sug drink
+> dsrinks
+  spell 0 0 
+  sug drinks
+  sug drink
+> irink
+  spell 0 0 
+  sug drink
+> ndrinkable
+  spell 0 0 
+  sug drinkable
+> ndrinkables
+  spell 0 0 
+  sug drinkables
+> nudrinkable
+  spell 0 0 
+  sug undrinkable
+> nundrink
+  spell 0 0 
+  sug drink
+> rinkables
+  spell 0 0 
+> rinks
+  spell 0 0 
+  sug drinks
+> srinkable
+  spell 0 0 
+  sug drinkable
+> ubdrinkable
+  spell 0 0 
+  sug undrinkable
+> udrinkable
+  spell 0 0 
+  sug drinkable
+> undirnks
+  spell 0 0 
+  sug drinks
+> undraink
+  spell 0 0 
+> undriink
+  spell 0 0 
+  sug drink
+> undriinks
+  spell 0 0 
+  sug drinks
+> undrikns
+  spell 0 0 
+> undriks
+  spell 0 0 
+  sug drinks
+> undrilkable
+  spell 0 0 
+> undrin
+  spell 0 0 
+  sug drink
+> undrinakbles
+  spell 0 0 
+  sug undrinkables
+> undrink
+  spell 0 0 
+  sug drink
+> undrink-undrinks
+  spell 0 0 
+  sug drink-undrinks
+> undrink.
+  spell 0 0 
+  sug drink
+> undrinkabes
+  spell 0 0 
+> undrinkabl
+  spell 0 0 
+> undrinkablas
+  spell 0 0 
+> undrinkable
+  spell 1 0 drink
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> undrinkable.
+  spell 1 0 drink
+  sug undrinkable
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> undrinkabledrink
+  spell 0 0 
+  sug undrinkable drink
+> undrinkabledrinkable
+  spell 0 0 
+  sug undrinkable drinkable
+> undrinkables
+  spell 1 0 drink
+  sug undrinkable
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> undrinkables-drinkable
+  spell 1 1 
+> undrinkables-undrinkables
+  spell 1 1 
+> undrinkables.
+  spell 1 0 drink
+  sug undrinkable
+  sug undrinkables
+  ana ip:un  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> undrinkableundrinkables
+  spell 0 0 
+  sug undrinkable undrinkables
+> undrinkableundrinks
+  spell 0 0 
+> undrinkabsle
+  spell 0 0 
+  sug undrinkable
+  sug undrinkables
+> undrinkabule
+  spell 0 0 
+  sug undrinkable
+> undrinkdble
+  spell 0 0 
+> undrinkdrink
+  spell 0 0 
+> undrinki
+  spell 0 0 
+  sug drink
+> undrinks
+  spell 0 0 
+  sug drinks
+> undrinks-drink
+  spell 0 0 
+  sug drinks-drink
+> undrinks.
+  spell 0 0 
+  sug drinks
+> undrinksdrink
+  spell 0 0 
+> undrinksundrinks
+  spell 0 0 
+> undrinkundrinkable
+  spell 0 0 
+> undrlnks
+  spell 0 0 
+  sug drinks
+> undrniks
+  spell 0 0 
+> undrnkables
+  spell 0 0 
+> undrnks
+  spell 0 0 
+  sug drinks
+> unrinks
+  spell 0 0 
+  sug drinks
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> drinkables's
+  spell 0 0 
+> drinkablesâ€™s
+  spell 0 0 
+> 'drinkables'
+  spell 0 0 
+> l'drinkables
+  spell 0 0 
+> drinkables.
+  spell 1 0 drink
+  sug drinkable
+  sug drinkables
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> drinkables..
+  spell 1 0 drink
+  sug drinkable
+  sug drinkables
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> .drinkables
+  spell 0 0 
+  sug drinkables
+> ...
+  spell 1 0 
+> -drinkables
+  spell 1 1 
+  sug drinkables
+> drinkables-
+  spell 1 1 
+  sug drinkables
+> drinkables--drinks
+  spell 1 1 
+> drinkables-drinks-drinkables
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> DRINKABLES
+  spell 1 32 drink
+  sug DRINKABLE
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen DRINKABLE
+  genmorph DRINKABLE
+  genmorph DRINKABLE
+> DRINKABLES
+  spell 1 32 drink
+  sug DRINKABLE
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen DRINKABLE
+  genmorph DRINKABLE
+  genmorph DRINKABLE
+> Drinkables
+  spell 1 32 drink
+  sug Drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen Drinkable
+  genmorph Drinkable
+  genmorph Drinkable
+> drinkables drinks
+  spell 0 0 
+>  drinkables
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> drinkables 
+  spell 0 0 
+  sug drinkables
+> drinkables	drinks
+  spell 0 0 
+> ÿþdrinkables
+  spell 0 0 
+> drinkablesÃ
+  spell 0 32 
+  sug drinkables
+> €drinkables
+  spell 0 0 
+  sug drinkables
+> ð€drinkables
+  spell 0 0 
+> Ä°drinkables
+  spell 0 32 
+> drinkablesÃŸ
+  spell 0 32 
+> drinkables
+  spell 1 0 drink
+  sug drinkable
+  ana  st:drink po:verb ds:DER_V_ADJ_ABLE is:PL
+  stem drinkable
+  stemmorph drinkable
+  gen drinkable
+  genmorph drinkable
+  genmorph drinkable
+> DRINKABLESSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>drinkables</word></query>
+  spell 0 0 
+  sug <code><a> st:drink po:verb ds:DER_V_ADJ_ABLE is:PL</a></code>
+> <?xml?><query type="stem"><word>drinkables</word></query>
+  spell 0 0 
+  sug drinkable
+> <?xml?><query type="suggest"><word>drinkablesx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>drinkables</word><word>drinks</word></query>
+  spell 0 0 
+  sug drinks
+  sug drinkables
+> <?xml?><query type="generate"><word>drinkables</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+  sug drinkable
+> <?xml?><query type='analyze'><word>drinkables</word></query>
+  spell 0 0 
+  sug <code><a> st:drink po:verb ds:DER_V_ADJ_ABLE is:PL</a></code>
+> <?xml?><query type="add"><word>drinkables</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;drinkables&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>drinkables</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,355 @@
+# example: éditer
+> EDITER
+  spell 0 32 
+  sug ÉDITER
+> EdiEter
+  spell 0 32 
+  sug Éditer
+> Edietr
+  spell 0 32 
+> Edirer
+  spell 0 32 
+> Editer
+  spell 0 32 
+  sug Éditer
+> Editer-editer
+  spell 0 32 
+> Editer-Ã©diter
+  spell 0 32 
+> Editer.
+  spell 0 32 
+  sug Éditer
+> Editerediter
+  spell 0 32 
+> Edtier
+  spell 0 32 
+> EÃ©diter
+  spell 0 32 
+  sug Éditer
+> dEiter
+  spell 0 32 
+  sug éditer
+> editer
+  spell 0 0 
+  sug éditer
+> editer-editer
+  spell 0 0 
+  sug éditer-editer
+> editer-Ã©diter
+  spell 0 32 
+> editer.
+  spell 0 0 
+  sug éditer
+> editerE
+  spell 0 32 
+  sug éditer
+> editerr
+  spell 0 0 
+  sug éditer
+> editerÃ©diter
+  spell 0 32 
+> editr
+  spell 0 0 
+  sug éditer
+> ediéer
+  spell 0 0 
+  sug éditer
+> eriter
+  spell 0 0 
+  sug éditer
+> e‰diter
+  spell 0 0 
+  sug éditer
+> ‰diter
+  spell 0 0 
+  sug éditer
+> ©diter
+  spell 0 0 
+  sug éditer
+> ©©diter
+  spell 0 0 
+  sug éditer
+> ©Ãditer
+  spell 0 32 
+  sug éditer
+> Ãditer
+  spell 0 32 
+  sug Éditer
+> Ãd‰diter
+  spell 0 32 
+  sug Éditer
+> Ãd©diter
+  spell 0 32 
+  sug Éditer
+> Ã‰DITER
+  spell 0 32 
+  sug ÉDITER
+> Ã‰deter
+  spell 0 32 
+> Ã‰diiter
+  spell 0 32 
+  sug Éditer
+> Ã‰diter
+  spell 0 32 
+  sug Éditer
+> Ã‰diter-Editer
+  spell 0 32 
+> Ã‰diter-Ã‰diter
+  spell 0 32 
+> Ã‰diter-Ã©diter
+  spell 0 32 
+> Ã‰diter.
+  spell 0 32 
+  sug Éditer
+> Ã‰diterEditer
+  spell 0 32 
+> Ã‰diterÃ‰diter
+  spell 0 32 
+> Ã‰diterÃ©diter
+  spell 0 32 
+> Ã‰dter
+  spell 0 32 
+> Ã‰dtier
+  spell 0 32 
+> Ã‰d©ter
+  spell 0 32 
+> Ã‰dÃiter
+  spell 0 32 
+  sug Éditer
+> Ã‰iter
+  spell 0 32 
+  sug Éditer
+> Ã©DITER
+  spell 0 32 
+  sug ÉDITER
+> Ã©dEiter
+  spell 0 32 
+  sug Éditer
+> Ã©dier
+  spell 0 32 
+> Ã©dietr
+  spell 0 32 
+> Ã©dite
+  spell 0 32 
+  sug Éditer
+> Ã©diteE
+  spell 0 32 
+  sug Éditer
+> Ã©diter
+  spell 0 32 
+  sug Éditer
+> Ã©diter-Editer
+  spell 0 32 
+> Ã©diter-editer
+  spell 0 32 
+> Ã©diter-Ã©diter
+  spell 0 32 
+> Ã©diter-éditer
+  spell 0 32 
+  sug Éditer-éditer
+> Ã©diter.
+  spell 0 32 
+  sug Éditer
+> Ã©diterd
+  spell 0 32 
+  sug Éditer
+> Ã©diterediter
+  spell 0 32 
+> Ã©diterÃ‰diter
+  spell 0 32 
+> Ã©diterÃ©diter
+  spell 0 32 
+> Ã©ditr
+  spell 0 32 
+> Ã©ditre
+  spell 0 32 
+> Ã©diÃter
+  spell 0 32 
+> ÉDITER
+  spell 1 32 
+  sug ÉDITER
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> Éditer
+  spell 1 32 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> édiiter
+  spell 0 0 
+  sug éditer
+> éditer
+  spell 1 0 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> éditer-editer
+  spell 0 0 
+  sug éditer-éditer
+> éditer-Ã‰diter
+  spell 0 32 
+  sug éditer-Éditer
+> éditer-Ã©diter
+  spell 0 32 
+  sug éditer-Éditer
+> éditer-éditer
+  spell 1 1 
+> éditer.
+  spell 1 0 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> éditerÃ‰diter
+  spell 0 32 
+> éditerÃ©diter
+  spell 0 32 
+> éditeréditer
+  spell 0 0 
+  sug éditer éditer
+> édrter
+  spell 0 0 
+  sug éditer
+> édtier
+  spell 0 0 
+  sug éditer
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> éditer's
+  spell 0 0 
+  sug éditer
+> éditerâ€™s
+  spell 0 0 
+  sug éditer
+> 'éditer'
+  spell 0 0 
+  sug éditer
+> l'éditer
+  spell 0 0 
+  sug éditer
+> éditer.
+  spell 1 0 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> éditer..
+  spell 1 0 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> .éditer
+  spell 0 0 
+  sug éditer
+> ...
+  spell 1 0 
+> -éditer
+  spell 1 1 
+  sug éditer
+> éditer-
+  spell 1 1 
+  sug éditer
+> éditer--editer
+  spell 0 0 
+  sug éditer--éditer
+> éditer-editer-éditer
+  spell 0 0 
+  sug éditer-éditer-éditer
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> éDITER
+  spell 0 32 
+  sug éditer
+> éDITER
+  spell 0 32 
+  sug éditer
+> éDiter
+  spell 0 32 
+  sug éditer
+> éditer editer
+  spell 0 0 
+>  éditer
+  spell 1 0 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> éditer 
+  spell 0 0 
+  sug éditer
+> éditer	editer
+  spell 0 0 
+> ÿþéditer
+  spell 0 0 
+  sug éditer
+> éditerÃ
+  spell 0 32 
+  sug éditer
+> €éditer
+  spell 0 0 
+  sug éditer
+> ð€éditer
+  spell 0 0 
+  sug éditer
+> Ä°éditer
+  spell 0 32 
+  sug Éditer
+> éditerÃŸ
+  spell 0 32 
+  sug éditer
+> éditer
+  spell 1 0 
+  sug éditer
+  ana  st:éditer
+  stem éditer
+  stemmorph éditer
+> éDITERSS
+  spell 0 32 
+  sug éditer
+> <?xml?><query type="analyze"><word>éditer</word></query>
+  spell 0 0 
+  sug <code><a> st:éditer</a></code>
+> <?xml?><query type="stem"><word>éditer</word></query>
+  spell 0 0 
+  sug éditer
+> <?xml?><query type="suggest"><word>éditerx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>éditer</word><word>editer</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>éditer</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>éditer</word></query>
+  spell 0 0 
+  sug <code><a> st:éditer</a></code>
+> <?xml?><query type="add"><word>éditer</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;éditer&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>éditer</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

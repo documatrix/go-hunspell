@@ -1,0 +1,303 @@
+# example: eiei
+> AAS
+  spell 0 32 
+> Aas
+  spell 0 32 
+  sug Eias
+> EIEI
+  spell 1 32 
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> Eiei
+  spell 1 32 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> aa
+  spell 1 0 
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> aaa
+  spell 0 0 
+  sug aa
+> aaas
+  spell 0 0 
+  sug aas
+  sug aa
+> aai
+  spell 0 0 
+  sug aa
+> aais
+  spell 0 0 
+  sug aas
+  sug aa
+> aas
+  spell 1 0 aa
+  sug aa
+  ana  st:aa fl:A
+  stem aa
+  stemmorph aa
+> aas-aas
+  spell 1 1 
+> aas-eiei
+  spell 1 1 
+> aas.
+  spell 1 0 aa
+  sug aa
+  sug aas
+  ana  st:aa fl:A
+  stem aa
+  stemmorph aa
+> aasa
+  spell 0 0 
+  sug aa
+> aasaas
+  spell 0 0 
+  sug aas aas
+> aase
+  spell 0 0 
+  sug aas
+  sug aa
+> aaseiei
+  spell 0 0 
+  sug aas aa
+> aeas
+  spell 0 0 
+  sug aas
+  sug aa
+> aeiei
+  spell 0 0 
+  sug aa
+> as
+  spell 0 0 
+  sug aas
+> asa
+  spell 0 0 
+  sug aa
+  sug aas
+> eei
+  spell 0 0 
+  sug aa
+> eeiei
+  spell 0 0 
+  sug aa
+> eie
+  spell 0 0 
+  sug aa
+> eiee
+  spell 0 0 
+  sug aa
+> eiei
+  spell 1 0 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+  sfx eieis
+> eiei-aas
+  spell 1 1 
+> eiei-eiei
+  spell 1 1 
+> eiei.
+  spell 1 0 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> eieiaas
+  spell 0 0 
+  sug aa aas
+> eieie
+  spell 0 0 
+  sug aa
+> eieieiei
+  spell 0 0 
+  sug aa aa
+  sug aa
+> eies
+  spell 0 0 
+  sug aas
+  sug aa
+> eiesi
+  spell 0 0 
+  sug aas
+  sug aa
+> eii
+  spell 0 0 
+  sug aa
+> eiie
+  spell 0 0 
+  sug aa
+> eiii
+  spell 0 0 
+  sug aa
+> eisei
+  spell 0 0 
+  sug aa
+  sug aas
+> eisi
+  spell 0 0 
+  sug aa
+> ieei
+  spell 0 0 
+  sug aa
+> iei
+  spell 0 0 
+  sug aa
+> ieiei
+  spell 0 0 
+  sug aa
+> iiei
+  spell 0 0 
+  sug aa
+> sas
+  spell 0 0 
+  sug aas
+> siei
+  spell 0 0 
+  sug aa
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> eiei's
+  spell 0 0 
+  sug aas
+> eieiâ€™s
+  spell 0 0 
+  sug aas
+> 'eiei'
+  spell 0 0 
+  sug aa
+> l'eiei
+  spell 0 0 
+  sug aa
+> eiei.
+  spell 1 0 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> eiei..
+  spell 1 0 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> .eiei
+  spell 0 0 
+  sug aa
+> ...
+  spell 1 0 
+> -eiei
+  spell 1 1 
+  sug aa
+> eiei-
+  spell 1 1 
+  sug aa
+> eiei--aas
+  spell 1 1 
+> eiei-aas-eiei
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> EIEI
+  spell 1 32 
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> EIEI
+  spell 1 32 
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> Eiei
+  spell 1 32 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> eiei aas
+  spell 0 0 
+>  eiei
+  spell 1 0 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+> eiei 
+  spell 0 0 
+  sug aa
+> eiei	aas
+  spell 0 0 
+> ÿşeiei
+  spell 0 0 
+  sug aa
+> eieiÃ
+  spell 0 0 
+  sug aa
+> €eiei
+  spell 0 0 
+  sug aa
+> ğ€eiei
+  spell 0 0 
+> Ä°eiei
+  spell 0 32 
+  sug Eia
+> eieiÃŸ
+  spell 0 0 
+  sug aa
+> eiei
+  spell 1 0 
+  sug aa
+  ana  st:aa
+  stem aa
+  stemmorph aa
+  sfx eieis
+> EIEISS
+  spell 0 32 
+  sug EIEIS
+> <?xml?><query type="analyze"><word>eiei</word></query>
+  spell 0 0 
+  sug <code><a> st:aa</a></code>
+> <?xml?><query type="stem"><word>eiei</word></query>
+  spell 0 0 
+  sug aa
+> <?xml?><query type="suggest"><word>eieix</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>eiei</word><word>aas</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>eiei</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>eiei</word></query>
+  spell 0 0 
+  sug <code><a> st:aa</a></code>
+> <?xml?><query type="add"><word>eiei</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;eiei&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>eiei</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

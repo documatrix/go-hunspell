@@ -1,0 +1,32 @@
+exit 0
+stdout 383
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wrold 2 6: world, wold
+& café 2 12: cafe, caff
+& naïve 2 17: nave, naive
+& résumé 1 23: resume
+# été 30
+
+*
+*
+*
+*
+*
+*
+
+*
+& uncreated 5 8: untreated, created, truncated, unrelated, uncleared
+*
+& decreate 6 27: decrease, recreate, desecrate, deprecate, decorate, create
+
+*
+*
+*
+*
+*
+*
+& doesn 2 21: does, does n
+*
+
+stderr 0

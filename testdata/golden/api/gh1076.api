@@ -1,0 +1,251 @@
+# example: eiti
+> EITI
+  spell 0 32 
+> Eiti
+  spell 0 32 
+> eii
+  spell 0 0 
+> eiit
+  spell 0 0 
+> eiiti
+  spell 0 0 
+> eit
+  spell 0 0 
+> eitei
+  spell 0 0 
+> eiti
+  spell 0 0 
+> eiti-eiti
+  spell 0 0 
+> eiti-ėjo
+  spell 0 0 
+> eiti.
+  spell 0 0 
+> eitieiti
+  spell 0 0 
+> eitij
+  spell 0 0 
+> eitiė
+  spell 0 0 
+> eitiėjo
+  spell 0 0 
+> eitj
+  spell 0 0 
+> eito
+  spell 0 0 
+> eitoi
+  spell 0 0 
+> eitė
+  spell 0 0 
+> eitėi
+  spell 0 0 
+> eiėi
+  spell 0 0 
+> ejiti
+  spell 0 0 
+> eti
+  spell 0 0 
+> etii
+  spell 0 0 
+> ieti
+  spell 0 0 
+> ijo
+  spell 0 0 
+> iti
+  spell 0 0 
+> jo
+  spell 0 0 
+> jėjo
+  spell 0 0 
+  sug ėjo
+> oeiti
+  spell 0 0 
+> oiti
+  spell 0 0 
+> oėjo
+  spell 0 0 
+  sug ėjo
+> titi
+  spell 0 0 
+> ĖJO
+  spell 1 32 eiti
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> Ėjo
+  spell 1 32 eiti
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> ėejo
+  spell 0 0 
+  sug ėjo
+> ėje
+  spell 0 0 
+> ėjj
+  spell 0 0 
+> ėjo
+  spell 1 0 eiti
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> ėjo-eiti
+  spell 0 0 
+> ėjo-ėjo
+  spell 1 1 
+> ėjo.
+  spell 1 0 eiti
+  sug ėjo
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> ėjoeiti
+  spell 0 0 
+> ėjoj
+  spell 0 0 
+  sug ėjo
+> ėjoo
+  spell 0 0 
+  sug ėjo
+> ėjoėjo
+  spell 0 0 
+  sug ėjo ėjo
+> ėjto
+  spell 0 0 
+  sug ėjo
+> ėjėo
+  spell 0 0 
+  sug ėjo
+> ėo
+  spell 0 0 
+> ėojo
+  spell 0 0 
+  sug ėjo
+> ėoo
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> ėjo's
+  spell 0 0 
+> ėjo’s
+  spell 0 0 
+> 'ėjo'
+  spell 0 0 
+> l'ėjo
+  spell 0 0 
+> ėjo.
+  spell 1 0 eiti
+  sug ėjo
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> ėjo..
+  spell 1 0 eiti
+  sug ėjo
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> .ėjo
+  spell 0 0 
+  sug ėjo
+> ...
+  spell 1 0 
+> -ėjo
+  spell 1 1 
+  sug ėjo
+> ėjo-
+  spell 1 1 
+  sug ėjo
+> ėjo--eiti
+  spell 0 0 
+> ėjo-eiti-ėjo
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ėJO
+  spell 0 32 
+  sug ėjo
+> ėJO
+  spell 0 32 
+  sug ėjo
+> ėJo
+  spell 0 32 
+  sug ėjo
+> ėjo eiti
+  spell 0 0 
+>  ėjo
+  spell 1 0 eiti
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> ėjo 
+  spell 0 0 
+  sug ėjo
+> ėjo	eiti
+  spell 0 0 
+> ��ėjo
+  spell 0 0 
+> ėjo�
+  spell 0 0 
+  sug ėjo
+> �ėjo
+  spell 0 0 
+  sug ėjo
+> 𐐀ėjo
+  spell 0 0 
+> İėjo
+  spell 0 32 
+  sug Ėjo
+> ėjoß
+  spell 0 0 
+  sug ėjo
+> ėjo
+  spell 1 0 eiti
+  ana  st:eiti fl:7990
+  stem eiti
+  stemmorph eiti
+> ėJOSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>ėjo</word></query>
+  spell 0 0 
+  sug <code><a> st:eiti fl:7990</a></code>
+> <?xml?><query type="stem"><word>ėjo</word></query>
+  spell 0 0 
+  sug eiti
+> <?xml?><query type="suggest"><word>ėjox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ėjo</word><word>eiti</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ėjo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>ėjo</word></query>
+  spell 0 0 
+  sug <code><a> st:eiti fl:7990</a></code>
+> <?xml?><query type="add"><word>ėjo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;ėjo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>ėjo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

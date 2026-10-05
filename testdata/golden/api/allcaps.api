@@ -1,0 +1,509 @@
+# example: OpenOffice.org
+> AFRIQUE
+  spell 1 32 
+  sug AFRIQUE
+  ana  st:Afrique
+  stem Afrique
+  stemmorph Afrique
+> Afrique
+  spell 1 32 
+  sug Afrique
+  ana  st:Afrique
+  stem Afrique
+  stemmorph Afrique
+> AfriqueAfrique
+  spell 0 32 
+  sug Afrique Afrique
+> AfriqueUNICEF
+  spell 0 32 
+  sug Afrique UNICEF
+> AfriqueUnicef's
+  spell 0 32 
+> Afrnique
+  spell 0 32 
+  sug Afrique
+> Afrque
+  spell 0 32 
+  sug Afrique
+> L'AFRIPUE
+  spell 0 32 
+  sug AFRIQUE
+> L'AFRIQPE
+  spell 0 32 
+  sug AFRIQUE
+> L'AFRIQUE
+  spell 1 32 Afrique
+  sug L'AFRIQUE
+  sug AFRIQUE
+> L'AFRIQUE-OpenOffice.org
+  spell 1 33 
+> L'AFRIQUE.
+  spell 1 32 Afrique
+  sug L'AFRIQUE
+  sug AFRIQUE
+> L'AFRIQUEOPENOFFICE.ORG
+  spell 0 32 
+> L'AFRIQUEUNICEF's
+  spell 0 32 
+> L'AfOique
+  spell 0 32 
+  sug Afrique
+> L'Afriqu'
+  spell 0 32 
+  sug Afrique
+> L'Afrique
+  spell 1 32 Afrique
+  sug L'Afrique
+  sug Afrique
+  ana L' st:Afrique fl:L
+  stem Afrique
+  stemmorph Afrique
+> L'Afrique-Openoffice.org
+  spell 0 32 
+  sug L'Afrique-OpenOffice.org
+> L'AfriqueAfrique
+  spell 0 32 
+  sug L'Afrique Afrique
+> L'AfriqueI
+  spell 0 32 
+  sug L'Afrique
+  sug Afrique
+> L'afrique
+  spell 0 32 
+  sug L'Afrique
+  sug Afrique
+> NICEF
+  spell 0 32 
+  sug UNICEF
+> NUICEF
+  spell 0 32 
+  sug UNICEF
+> NUICEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> OPENOFFICE.ORG
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORG-OPENOFFICE.ORG
+  spell 0 32 
+> OPENOFFICE.ORG.
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORGUNICEF's
+  spell 0 32 
+> OPENOFFICE.ORGUnicef's
+  spell 0 32 
+> OPENOFFICU.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPUNOFFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OfenOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpLenOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpQenOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> Ope'nOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpeOnffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenNOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffGice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffIice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffce.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffcie.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffgice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffice.ogr
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffice.org
+  spell 1 32 
+  sug OpenOffice.org
+  ana  st:OpenOffice.org
+  stem OpenOffice.org
+  stemmorph OpenOffice.org
+> OpenOffice.org-OPENOFFICE.ORG
+  spell 1 33 
+> OpenOffice.org-OpenOffice.org
+  spell 1 33 
+> OpenOffice.org-UNICEF
+  spell 1 33 
+> OpenOffice.org.
+  spell 1 32 
+  sug OpenOffice.org
+  ana  st:OpenOffice.org
+  stem OpenOffice.org
+  stemmorph OpenOffice.org
+> OpenOffice.rg
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOfficeo.rg
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOffie.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOfifce.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpenOfofice.org
+  spell 0 32 
+  sug OpenOffice.org
+> Openffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpeniOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> Openoffice.org
+  spell 0 32 
+  sug OpenOffice.org
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> Openoffice.org-OpenOffice.org
+  spell 0 32 
+  sug OpenOffice.org-OpenOffice.org
+> Openoffice.org.
+  spell 0 32 
+  sug OpenOffice.org
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> Openoffice.orgF
+  spell 0 32 
+  sug OpenOffice.org
+> Openoffice.orgOpenOffice.org
+  spell 0 32 
+> OpenuOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> Opeonoffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> OpneOffice.org
+  spell 0 32 
+  sug OpenOffice.org
+> RUNICEF
+  spell 0 32 
+  sug UNICEF
+> UNCEF
+  spell 0 32 
+  sug UNICEF
+> UNI'EF's
+  spell 0 32 
+  sug UNICEF's
+> UNI.EF's
+  spell 0 32 
+  sug UNICEF's
+> UNICE
+  spell 0 32 
+  sug UNICEF
+> UNICE'S
+  spell 0 32 
+  sug UNICEF'S
+> UNICEF
+  spell 1 32 
+  sug UNICEF
+  ana  st:UNICEF
+  ana  st:Unicef
+  stem UNICEF
+  stem Unicef
+  stemmorph UNICEF
+  stemmorph Unicef
+  sfx UNICEF's
+> UNICEF'S
+  spell 1 32 Unicef
+  sug UNICEF'S
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> UNICEF'S-L'AFRIQUE
+  spell 0 32 
+> UNICEF'S.
+  spell 1 32 Unicef
+  sug UNICEF'S
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> UNICEF'SAfrique
+  spell 0 32 
+> UNICEF'SOpenOffice.org
+  spell 0 32 
+> UNICEF's
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF's-Afrique
+  spell 1 33 
+> UNICEF's-L'Afrique
+  spell 1 33 
+> UNICEF's-UNICEF'S
+  spell 1 33 
+> UNICEF's.
+  spell 1 32 UNICEF
+  sug UNICEF's
+  ana  st:UNICEF fl:S
+  stem UNICEF
+  stemmorph UNICEF
+> UNICEF-L'AFRIQUE
+  spell 0 32 
+> UNICEF-OpenOffice.org
+  spell 1 33 
+> UNICEF-UNICEF
+  spell 0 32 
+> UNICEF.
+  spell 1 32 
+  sug UNICEF
+  ana  st:UNICEF
+  ana  st:Unicef
+  stem UNICEF
+  stem Unicef
+  stemmorph UNICEF
+  stemmorph Unicef
+> UNICEFAfrique
+  spell 0 32 
+  sug UNICEF Afrique
+> UNICEFOpenoffice.org
+  spell 0 32 
+> UNICEFUNICEF's
+  spell 0 32 
+  sug UNICEF UNICEF's
+> UNICEFs'
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNICErF
+  spell 0 32 
+  sug UNICEF
+> UNICgEF'S
+  spell 0 32 
+  sug UNICEF's
+> UNIECF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> UNIEF
+  spell 0 32 
+  sug UNICEF
+> UNInEF'S
+  spell 0 32 
+  sug UNICEF's
+> UNIqCEF's
+  spell 0 32 
+  sug UNICEF's
+  sug UNICEF
+> Uincef
+  spell 0 32 
+  sug UNICEF
+> UnicIef's
+  spell 0 32 
+  sug UNICEF's
+> Unice'fs
+  spell 0 32 
+  sug UNICEF
+> UniceE's
+  spell 0 32 
+  sug UNICEF's
+> UniceGf
+  spell 0 32 
+  sug UNICEF
+> Unicef
+  spell 0 32 
+  sug UNICEF
+  ana  st:Unicef
+  stem Unicef
+  stemmorph Unicef
+  sfx Unicef's
+> Unicef's
+  spell 0 32 
+  sug UNICEF's
+  ana  st:Unicef fl:S
+  stem Unicef
+  stemmorph Unicef
+> Unicef-UNICEF'S
+  spell 0 32 
+> Unicef.
+  spell 0 32 
+  sug UNICEF
+  ana  st:Unicef
+  stem Unicef
+  stemmorph Unicef
+> Unicefs
+  spell 0 32 
+  sug UNICEF
+> Uniecf
+  spell 0 32 
+  sug UNICEF
+> UsNICEF'S
+  spell 0 32 
+  sug UNICEF's
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> OPENOFFICE.ORG's
+  spell 0 32 
+  sug OpenOffice.org
+> OPENOFFICE.ORGâ€™s
+  spell 0 32 
+  sug OpenOffice.org
+> 'OPENOFFICE.ORG'
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> l'OPENOFFICE.ORG
+  spell 0 32 
+  sug OpenOffice.org
+> OPENOFFICE.ORG.
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORG..
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> .OPENOFFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> ...
+  spell 1 0 
+> -OPENOFFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFFICE.ORG-
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFFICE.ORG--L'Afrique
+  spell 1 33 
+> OPENOFFICE.ORG-L'Afrique-OPENOFFICE.ORG
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> OPENOFFICE.ORG
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> openoffice.org
+  spell 0 0 
+  sug OpenOffice.org
+> Openoffice.Org
+  spell 0 32 
+  sug OpenOffice.org
+> OPENOFFICE.ORG L'Afrique
+  spell 0 32 
+>  OPENOFFICE.ORG
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORG 
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFFICE.ORG	L'Afrique
+  spell 0 32 
+> ÿþOPENOFFICE.ORG
+  spell 0 32 
+  sug OpenOffice.org
+> OPENOFFICE.ORGÃ
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> €OPENOFFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> ð€OPENOFFICE.ORG
+  spell 0 32 
+  sug OpenOffice.org
+> Ä°OPENOFFICE.ORG
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFFICE.ORGÃŸ
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> OPENOFFICE.ORG
+  spell 1 32 
+  sug OPENOFFICE.ORG
+  ana  st:Openoffice.org
+  stem Openoffice.org
+  stemmorph Openoffice.org
+> OPENOFFICE.ORGSS
+  spell 0 32 
+  sug OPENOFFICE.ORG
+> <?xml?><query type="analyze"><word>OPENOFFICE.ORG</word></query>
+  spell 0 32 
+  sug <code><a> st:Openoffice.org</a></code>
+> <?xml?><query type="stem"><word>OPENOFFICE.ORG</word></query>
+  spell 0 32 
+  sug Openoffice.org
+> <?xml?><query type="suggest"><word>OPENOFFICE.ORGx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>OPENOFFICE.ORG</word><word>L'Afrique</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>OPENOFFICE.ORG</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>OPENOFFICE.ORG</word></query>
+  spell 0 32 
+  sug <code><a> st:Openoffice.org</a></code>
+> <?xml?><query type="add"><word>OPENOFFICE.ORG</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;OPENOFFICE.ORG&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>OPENOFFICE.ORG</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

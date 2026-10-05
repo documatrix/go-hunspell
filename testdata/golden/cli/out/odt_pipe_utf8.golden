@@ -1,0 +1,32 @@
+exit 0
+stdout 299
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+
+
+*
+& wrold 2 137: world, wold
+*
+*
+*
+& ODF 5 155: OFF, ODD, OF, ODE, OAF
+& documnet 1 159: document
+
+*
+*
+*
+*
+*
+
+*
+*
+*
+*
+& café 2 44: cafe, caff
+& naïve 2 50: nave, naive
+& münchen 1 57: henchmen
+
+*
+& paragrph 1 33: paragraph
+
+
+stderr 0

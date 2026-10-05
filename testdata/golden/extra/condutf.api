@@ -1,0 +1,31 @@
+# example: é
+> és
+  spell 0 0 
+  sug é
+> xés
+  spell 1 0 xé
+  sug xé
+  ana  st:xé fl:S
+  stem xé
+  stemmorph xé
+> bt
+  spell 0 0 
+  sug b
+> ébt
+  spell 0 0 
+  sug éb
+@trace ébt
+  trace 0 word "ébt"
+  trace 1 lookup "ébt" -> miss
+  trace 1 pfx "ébt" candidates=0
+  trace 1 sfx flag=T strip="" add="t" cont=(none) cond="[é]éb" at=aff:9 xprod=Y hdr=aff:8
+  trace 2 stem "éb"
+  trace 2 test condition cond="[é]éb" on "éb" -> fail
+  trace 1 sfx flag=S strip="" add="t" cont=(none) cond="[éa]b" at=aff:6 xprod=Y hdr=aff:4
+  trace 2 stem "éb"
+  trace 2 test condition cond="[éa]b" on "éb" -> pass
+  trace 2 lookup "éb" -> entry "éb" flags=T
+  trace 2 test sfx-aflag flag=S in=dic have=T -> fail
+  trace 2 lookup "éb" -> no more homonyms
+  trace 1 result incorrect
+  spell 0

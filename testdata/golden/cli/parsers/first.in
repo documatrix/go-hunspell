@@ -1,0 +1,8 @@
+kind first
+wordchars qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM
+change hello hi
+---
+hello\x09world
+wrold\x09foo\x09bar
+no tab here
+\x09leading

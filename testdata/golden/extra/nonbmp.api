@@ -1,0 +1,27 @@
+# warnings: load
+# example: abc
+! This UTF-8 encoding can't convert to UTF-16:
+! This UTF-8 encoding can't convert to UTF-16:
+! a𐀀
+! é€�
+> ab
+  spell 0 0 
+  sug abc
+> ax
+  spell 0 0 
+  sug abc
+> a
+  spell 0 0 
+  sug abc
+> abcdefgj
+  spell 0 0 
+  sug abcdefgh
+> abcdefgh𐀀
+  spell 1 0 abcdefgh
+  sug abcdefgh𐀀
+  ana  st:abcdefgh fl:S
+  stem abcdefgh
+  stemmorph abcdefgh
+> abcdefgx𐀀
+  spell 0 0 
+  sug abcdefgh𐀀

@@ -1,0 +1,497 @@
+# example: ai
+> AI
+  spell 1 32 
+  sug AI
+  ana  st:ai
+  stem ai
+  stemmorph ai
+> AIX
+  spell 1 32 ai
+  sug AI
+  sug AIX
+  ana  st:ai fl:N
+  stem ai
+  stemmorph ai
+> AX
+  spell 0 32 
+  sug AIX
+> Ai
+  spell 1 32 
+  sug ai
+  ana  st:ai
+  stem ai
+  stemmorph ai
+> a
+  spell 0 0 
+  sug ai
+> aa
+  spell 0 0 
+  sug ai
+> aax
+  spell 0 0 
+  sug aix
+> aex
+  spell 0 0 
+  sug áex
+> ai
+  spell 1 0 
+  sug ai
+  ana  st:ai
+  stem ai
+  stemmorph ai
+  sfx aix
+> ai-aix
+  spell 1 1 
+  sug aix
+> ai-ái
+  spell 1 1 
+> ai.
+  spell 1 0 
+  sug ai
+  ana  st:ai
+  stem ai
+  stemmorph ai
+> aia
+  spell 0 0 
+  sug ai
+> aiaix
+  spell 0 0 
+  sug ai aix
+  sug aix
+> aiax
+  spell 0 0 
+  sug aix
+> aii
+  spell 0 0 
+  sug ai
+> aix
+  spell 1 0 ai
+  sug ai
+  ana  st:ai fl:N
+  stem ai
+  stemmorph ai
+> aix.
+  spell 1 0 ai
+  sug ai
+  sug aix
+  ana  st:ai fl:N
+  stem ai
+  stemmorph ai
+> aixx
+  spell 0 0 
+  sug aix
+  sug ai
+> aixáex
+  spell 0 0 
+  sug aix áex
+  sug aix
+> aiáex
+  spell 0 0 
+  sug ai áex
+  sug áex
+> aiáx
+  spell 0 0 
+  sug aix
+> ax
+  spell 0 0 
+  sug aix
+> ax-aix
+  spell 0 0 
+  sug aix-aix
+  sug aix
+> ax-ái
+  spell 0 0 
+  sug aix-ái
+> ax.
+  spell 0 0 
+  sug aix
+> axa
+  spell 0 0 
+> axáe
+  spell 0 0 
+> axáx
+  spell 0 0 
+> aá
+  spell 0 0 
+  sug ai
+> aáex
+  spell 0 0 
+  sug áex
+> aái
+  spell 0 0 
+  sug ai
+  sug ái
+> aáx
+  spell 0 0 
+  sug aix
+> ex
+  spell 0 0 
+  sug áex
+> i
+  spell 0 0 
+  sug ái
+> iai
+  spell 0 0 
+  sug ai
+> iix
+  spell 0 0 
+  sug áix
+> x
+  spell 0 0 
+> xa
+  spell 0 0 
+> xi
+  spell 0 0 
+> xá
+  spell 0 0 
+> xáx
+  spell 0 0 
+> ÁE
+  spell 1 32 
+  sug ÁE
+  ana  st:áe
+  stem áe
+  stemmorph áe
+> ÁEX
+  spell 1 32 áe
+  sug ÁE
+  sug ÁEX
+  ana  st:áe fl:N
+  stem áe
+  stemmorph áe
+> ÁIX
+  spell 1 32 ái
+  sug ÁI
+  sug ÁIX
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> ÁX
+  spell 0 32 
+  sug ÁEX
+> Áe
+  spell 1 32 
+  sug áe
+  ana  st:áe
+  stem áe
+  stemmorph áe
+> Áex
+  spell 1 32 áe
+  sug Áe
+  ana  st:áe fl:N
+  stem áe
+  stemmorph áe
+> Ái
+  spell 1 32 
+  sug ái
+  ana  st:ái
+  stem ái
+  stemmorph ái
+> Áix
+  spell 1 32 ái
+  sug Ái
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> Áx
+  spell 0 32 
+  sug Áex
+> áai
+  spell 0 0 
+  sug ái
+  sug ai
+> áax
+  spell 0 0 
+  sug áex
+> áe
+  spell 1 0 
+  sug áe
+  ana  st:áe
+  stem áe
+  stemmorph áe
+  sfx áex
+  sfx áex
+> áe-ai
+  spell 1 1 
+> áe-áex
+  spell 1 1 
+  sug áex
+> áe.
+  spell 1 0 
+  sug áe
+  ana  st:áe
+  stem áe
+  stemmorph áe
+> áea
+  spell 0 0 
+  sug áe
+> áeax
+  spell 0 0 
+  sug áex
+> áei
+  spell 0 0 
+  sug áe
+  sug ái
+> áex
+  spell 1 0 áe
+  sug áe
+  ana  st:áe fl:N
+  stem áe
+  stemmorph áe
+> áex-áe
+  spell 1 1 
+> áex-áix
+  spell 1 1 
+> áex.
+  spell 1 0 áe
+  sug áe
+  sug áex
+  ana  st:áe fl:N
+  stem áe
+  stemmorph áe
+> áexa
+  spell 0 0 
+  sug áex
+  sug áe
+> áexaix
+  spell 0 0 
+  sug áex aix
+  sug áex
+> áexe
+  spell 0 0 
+  sug áex
+  sug áe
+> áexi
+  spell 0 0 
+  sug áex
+  sug áe
+> áexx
+  spell 0 0 
+  sug áex
+  sug áe
+> ái
+  spell 1 0 
+  sug ái
+  ana  st:ái
+  stem ái
+  stemmorph ái
+  sfx áix
+> ái-áix
+  spell 1 1 
+  sug áix
+> ái.
+  spell 1 0 
+  sug ái
+  ana  st:ái
+  stem ái
+  stemmorph ái
+> áiaix
+  spell 0 0 
+  sug ái aix
+  sug áix
+> áiix
+  spell 0 0 
+  sug áix
+  sug ái
+> áix
+  spell 1 0 ái
+  sug ái
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> áix-aix
+  spell 1 1 
+> áix-ax
+  spell 0 0 
+  sug áix-aix
+  sug áix
+> áix-áix
+  spell 1 1 
+> áix.
+  spell 1 0 ái
+  sug ái
+  sug áix
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> áixaix
+  spell 0 0 
+  sug áix aix
+  sug áix
+> áixáe
+  spell 0 0 
+  sug áix áe
+> áiáex
+  spell 0 0 
+  sug ái áex
+  sug áex
+> áiáix
+  spell 0 0 
+  sug ái áix
+  sug áix
+> áx
+  spell 0 0 
+  sug áex
+> áx-ái
+  spell 0 0 
+  sug áex-ái
+> áx.
+  spell 0 0 
+  sug áex
+> áxax
+  spell 0 0 
+> áxx
+  spell 0 0 
+  sug áex
+> áxáix
+  spell 0 0 
+  sug áix
+> áá
+  spell 0 0 
+  sug áe
+> ááx
+  spell 0 0 
+  sug áex
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> áix's
+  spell 0 0 
+> áix’s
+  spell 0 0 
+> 'áix'
+  spell 0 0 
+> l'áix
+  spell 0 0 
+  sug áix
+> áix.
+  spell 1 0 ái
+  sug ái
+  sug áix
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> áix..
+  spell 1 0 ái
+  sug ái
+  sug áix
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> .áix
+  spell 0 0 
+  sug áix
+> ...
+  spell 1 0 
+> -áix
+  spell 1 1 
+  sug áix
+> áix-
+  spell 1 1 
+  sug áix
+  sug ái
+> áix--ax
+  spell 0 0 
+  sug áix--aix
+> áix-ax-áix
+  spell 0 0 
+  sug áix-aix-áix
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> áIX
+  spell 0 32 
+  sug áix
+  sug ái
+> áIX
+  spell 0 32 
+  sug áix
+  sug ái
+> áIx
+  spell 0 32 
+  sug áix
+  sug ái
+> áix ax
+  spell 0 0 
+  sug áix
+>  áix
+  spell 1 0 ái
+  sug ái
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> áix 
+  spell 0 0 
+  sug áix
+  sug ái
+> áix	ax
+  spell 0 0 
+  sug áix
+> ��áix
+  spell 0 0 
+  sug áix
+> áix�
+  spell 0 0 
+  sug áix
+  sug ái
+> �áix
+  spell 0 0 
+  sug áix
+> 𐐀áix
+  spell 0 0 
+> İáix
+  spell 0 32 
+  sug Áix
+> áixß
+  spell 0 0 
+  sug áix
+  sug ái
+> áix
+  spell 1 0 ái
+  sug ái
+  ana  st:ái fl:N
+  stem ái
+  stemmorph ái
+> áIXSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>áix</word></query>
+  spell 0 0 
+  sug <code><a> st:ái fl:N</a></code>
+> <?xml?><query type="stem"><word>áix</word></query>
+  spell 0 0 
+  sug ái
+> <?xml?><query type="suggest"><word>áixx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>áix</word><word>ax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>áix</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>áix</word></query>
+  spell 0 0 
+  sug <code><a> st:ái fl:N</a></code>
+> <?xml?><query type="add"><word>áix</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;áix&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>áix</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

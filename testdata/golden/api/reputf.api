@@ -1,0 +1,243 @@
+# example: főő
+> FOO
+  spell 0 32 
+  sug FŐŐ
+> Foo
+  spell 0 32 
+  sug Főő
+> FŐŐ
+  spell 1 32 
+  sug FŐŐ
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> Főő
+  spell 1 32 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> ffo
+  spell 0 0 
+> ffoo
+  spell 0 0 
+> ffőő
+  spell 0 0 
+  sug főő
+> fo
+  spell 0 0 
+> fofo
+  spell 0 0 
+> foo
+  spell 0 0 
+  sug főő
+> foo-foo
+  spell 0 0 
+  sug főő-foo
+> foo-főő
+  spell 0 0 
+  sug főő-főő
+> foo.
+  spell 0 0 
+  sug főő
+> foof
+  spell 0 0 
+> foofoo
+  spell 0 0 
+> foofőő
+  spell 0 0 
+> fooo
+  spell 0 0 
+> fooő
+  spell 0 0 
+> foőo
+  spell 0 0 
+> foőő
+  spell 0 0 
+  sug főő
+> fő
+  spell 0 0 
+> főoő
+  spell 0 0 
+  sug főő
+> főő
+  spell 1 0 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> főő-foo
+  spell 0 0 
+  sug főő-főő
+> főő-főő
+  spell 1 1 
+> főő.
+  spell 1 0 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> főőfoo
+  spell 0 0 
+> főőfőő
+  spell 0 0 
+  sug főő főő
+> főőo
+  spell 0 0 
+  sug főő
+> főőő
+  spell 0 0 
+  sug főő
+> ofo
+  spell 0 0 
+> ofoo
+  spell 0 0 
+> ofőő
+  spell 0 0 
+  sug főő
+> ooo
+  spell 0 0 
+> oőő
+  spell 0 0 
+> őfő
+  spell 0 0 
+  sug főő
+> őőő
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> főő's
+  spell 0 0 
+> főő’s
+  spell 0 0 
+> 'főő'
+  spell 0 0 
+> l'főő
+  spell 0 0 
+> főő.
+  spell 1 0 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> főő..
+  spell 1 0 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> .főő
+  spell 0 0 
+  sug főő
+> ...
+  spell 1 0 
+> -főő
+  spell 1 1 
+  sug főő
+> főő-
+  spell 1 1 
+  sug főő
+> főő--főő
+  spell 1 1 
+> főő-főő-főő
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> Főő
+  spell 1 32 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> Főő
+  spell 1 32 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> Főő
+  spell 1 32 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> főő főő
+  spell 0 0 
+>  főő
+  spell 1 0 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> főő 
+  spell 0 0 
+  sug főő
+> főő	főő
+  spell 0 0 
+> ��főő
+  spell 0 0 
+> főő�
+  spell 0 0 
+  sug főő
+> �főő
+  spell 0 0 
+  sug főő
+> 𐐀főő
+  spell 0 0 
+> İfőő
+  spell 0 32 
+  sug Főő
+> főőß
+  spell 0 0 
+  sug főő
+> főő
+  spell 1 0 
+  sug főő
+  ana  st:főő
+  stem főő
+  stemmorph főő
+> FőőSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>főő</word></query>
+  spell 0 0 
+  sug <code><a> st:főő</a></code>
+> <?xml?><query type="stem"><word>főő</word></query>
+  spell 0 0 
+  sug főő
+> <?xml?><query type="suggest"><word>főőx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>főő</word><word>főő</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>főő</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>főő</word></query>
+  spell 0 0 
+  sug <code><a> st:főő</a></code>
+> <?xml?><query type="add"><word>főő</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;főő&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>főő</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

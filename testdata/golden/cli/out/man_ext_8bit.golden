@@ -1,0 +1,42 @@
+exit 0
+stdout 244
+NAME
+hunspell
+spell
+checker
+and
+morphologcal
+analyzer
+SYNOPSIS
+hunspell
+options
+filee
+boldd
+macro
+argument
+This
+is
+a
+manuall
+page
+with
+mistaeks.
+Escapes
+bolld
+and
+italc
+and
+em
+dash.
+a
+coment
+line
+wih
+errors
+Normal
+textt
+after
+an
+argless
+macro.
+stderr 0

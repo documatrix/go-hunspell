@@ -1,0 +1,463 @@
+# example: kˆnny
+> HOSSZK√∂NNYNYEL√©S
+  spell 0 32 
+> HOSSZNYEL√©S
+  spell 0 32 
+> HOSSZSZ√°M√≠T√°S
+  spell 0 32 
+> Hosszk„∂nnynyel„©s
+  spell 0 32 
+> Hossznyel„©s
+  spell 0 32 
+> Hosszsz„°m„≠t„°s
+  spell 0 32 
+> K√∂NNYNYEL√©S
+  spell 0 32 
+> K√∂NNYSZ√°M√≠T√°S
+  spell 0 32 
+> K÷NNY
+  spell 1 32 
+  sug K÷NNY
+  ana  st:kˆnny
+  stem kˆnny
+  stemmorph kˆnny
+> K„∂nnynyel„©s
+  spell 0 32 
+> K„∂nnynyel„©shossz
+  spell 0 32 
+> NYEL…S
+  spell 1 32 
+  sug NYEL…S
+  ana  st:nyelÈs
+  stem nyelÈs
+  stemmorph nyelÈs
+> NyelÈs
+  spell 1 32 
+  sug nyelÈs
+  ana  st:nyelÈs
+  stem nyelÈs
+  stemmorph nyelÈs
+> SZ¡MÕT¡S
+  spell 1 32 
+  sug SZ¡MÕT¡S
+  ana  st:sz·mÌt·s
+  stem sz·mÌt·s
+  stemmorph sz·mÌt·s
+> Sz·mÌt·s
+  spell 1 32 
+  sug sz·mÌt·s
+  ana  st:sz·mÌt·s
+  stem sz·mÌt·s
+  stemmorph sz·mÌt·s
+> hossnyel√©s
+  spell 0 32 
+> hossszz√°m√≠t√°s
+  spell 0 32 
+> hosstz
+  spell 0 0 
+  sug hossz
+> hossz
+  spell 1 0 
+  sug hossz
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> hossz-hosszsz√°m√≠t√°s
+  spell 0 32 
+> hossz.
+  spell 1 0 
+  sug hossz
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> hosszk∂nnynyel√©s
+  spell 0 32 
+> hosszk√n∂nynyel√©s
+  spell 0 32 
+> hosszk√ynnynyel√©s
+  spell 0 32 
+> hosszk√∂nnynyel√hs
+  spell 0 32 
+> hosszk√∂nnynyel√©l
+  spell 0 32 
+> hosszk√∂nnynyel√©s
+  spell 0 32 
+> hosszk√∂nnynyel√©s-k√∂nnynyel√©s
+  spell 0 32 
+> hosszk√∂nnynyel√©s-nyelÈs
+  spell 0 32 
+> hosszk√∂nnynyel√©s.
+  spell 0 32 
+> hosszk√∂nynnyel√©s
+  spell 0 32 
+> hosszkˆnny
+  spell 1 1 hossz
+  sug hossz kˆnny
+  sug hosszkˆnny
+  ana  pa:hossz st:hossz pa:kˆnny
+  stem hossz
+  stemmorph hossz
+> hossznyel√©s
+  spell 0 32 
+> hossznyel√©s-k√∂nnysz√°m√≠t√°s
+  spell 0 32 
+> hossznyel√©s-kˆnny
+  spell 0 32 
+> hossznyel√©s-nyelÈs
+  spell 0 32 
+> hossznyel√©shossznyel√©s
+  spell 0 32 
+> hossznyel√©snyelÈs
+  spell 0 32 
+> hossznyel√©∂s
+  spell 0 32 
+> hosszn·el√©s
+  spell 0 32 
+> hosszsz√°m√≠th√°s
+  spell 0 32 
+> hosszsz√°m√≠t√°
+  spell 0 32 
+> hosszsz√°m√≠t√°s
+  spell 0 32 
+> hosszsz√°m√≠t√°s-k√∂nnysz√°m√≠t√°s
+  spell 0 32 
+> hosszsz√°m√≠t√°s.
+  spell 0 32 
+> hosszsz√°m√≠t√°sk√∂nnynyel√©s
+  spell 0 32 
+> hosszsz√°m√≠t√°sk√∂nnysz√°m√≠t√°s
+  spell 0 32 
+> hosszyel√©s
+  spell 0 32 
+> hosszzs√°m√≠t√°s
+  spell 0 32 
+> hoss©z
+  spell 0 0 
+  sug hossz
+> hosz
+  spell 0 0 
+  sug hossz
+> hosznyel√©s
+  spell 0 32 
+> hoszz
+  spell 0 0 
+  sug hossz
+> hoÈszsz√°m√≠t√°s
+  spell 0 32 
+> hsssznyel√©s
+  spell 0 32 
+> hsszk√∂nnynyel√©s
+  spell 0 32 
+> k∂nnynyel√©s
+  spell 0 32 
+> k∂nnysz√°m√≠t√°s
+  spell 0 32 
+> k∂√nnynyel√©s
+  spell 0 32 
+> k∂√nnynyel√©shossz
+  spell 0 32 
+> k√ynnynyel√©shossz
+  spell 0 32 
+> k√∂nhynyel√©s
+  spell 0 32 
+> k√∂nnsyz√°m√≠t√°s
+  spell 0 32 
+> k√∂nnynel√©shossz
+  spell 0 32 
+> k√∂nnynyels©shossz
+  spell 0 32 
+> k√∂nnynyel√h©s
+  spell 0 32 
+> k√∂nnynyel√y©s
+  spell 0 32 
+> k√∂nnynyel√©hsossz
+  spell 0 32 
+> k√∂nnynyel√©s
+  spell 0 32 
+> k√∂nnynyel√©s-k√∂nnynyel√©s
+  spell 0 32 
+> k√∂nnynyel√©s.
+  spell 0 32 
+> k√∂nnynyel√©shoss
+  spell 0 32 
+> k√∂nnynyel√©shossz
+  spell 0 32 
+> k√∂nnynyel√©shossz-k√∂nnysz√°m√≠t√°s
+  spell 0 32 
+> k√∂nnynyel√©shossz-sz·mÌt·s
+  spell 0 32 
+> k√∂nnynyel√©shossz.
+  spell 0 32 
+> k√∂nnynyel√©shosszhosszk√∂nnynyel√©s
+  spell 0 32 
+> k√∂nnynyel√©shosszk√∂nnynyel√©s
+  spell 0 32 
+> k√∂nnynyel√©shosszk√∂nnynyel√©shossz
+  spell 0 32 
+> k√∂nnynyel√©sho©sz
+  spell 0 32 
+> k√∂nnynyel√©shssz
+  spell 0 32 
+> k√∂nnynyel√©sh©ossz
+  spell 0 32 
+> k√∂nnynyel√©sohssz
+  spell 0 32 
+> k√∂nnynyel√©s·
+  spell 0 32 
+> k√∂nnynye√©s
+  spell 0 32 
+> k√∂nnyosz√°m√≠t√°s
+  spell 0 32 
+> k√∂nnyoyel√©s
+  spell 0 32 
+> k√∂nnysz√°m√≠t°s
+  spell 0 32 
+> k√∂nnysz√°m√≠t√°s
+  spell 0 32 
+> k√∂nnysz√°m√≠t√°s-nyelÈs
+  spell 0 32 
+> k√∂nnysz√°m√≠t√°s.
+  spell 0 32 
+> k√∂nnysz√°m√≠t√°sk√∂nnynyel√©s
+  spell 0 32 
+> k√∂nnysz√°m√≠t√°sk√∂nnynyel√©shossz
+  spell 0 32 
+> k√∂nysz√°m√≠t√°s
+  spell 0 32 
+> k·nny
+  spell 0 0 
+  sug kˆnny
+> kˆnny
+  spell 1 0 
+  sug kˆnny
+  ana  st:kˆnny
+  stem kˆnny
+  stemmorph kˆnny
+> kˆnny-hosszk√∂nnynyel√©s
+  spell 0 32 
+> kˆnny-hosszsz√°m√≠t√°s
+  spell 0 32 
+> kˆnny-kˆnny
+  spell 1 1 
+  sug kˆnnykˆnny
+> kˆnny.
+  spell 1 0 
+  sug kˆnny
+  ana  st:kˆnny
+  stem kˆnny
+  stemmorph kˆnny
+> kˆnnyhossz
+  spell 1 1 kˆnny
+  sug kˆnny hossz
+  sug kˆnnyhossz
+  ana  pa:kˆnny st:kˆnny pa:hossz
+  stem kˆnny
+  stemmorph kˆnny
+> kˆny
+  spell 0 0 
+  sug kˆnny
+> neylÈs
+  spell 0 0 
+  sug nyelÈs
+> nyelos
+  spell 0 0 
+  sug nyelÈs
+> nyelÈs
+  spell 1 0 
+  sug nyelÈs
+  ana  st:nyelÈs
+  stem nyelÈs
+  stemmorph nyelÈs
+> nyelÈs-k√∂nnynyel√©s
+  spell 0 32 
+> nyelÈs.
+  spell 1 0 
+  sug nyelÈs
+  ana  st:nyelÈs
+  stem nyelÈs
+  stemmorph nyelÈs
+> nyelÈsk√∂nnynyel√©s
+  spell 0 32 
+> nyelÈ∂s
+  spell 0 0 
+  sug nyelÈs
+> ohssznyel√©s
+  spell 0 32 
+> ossznyel√©s
+  spell 0 32 
+> sz·mÌt·s
+  spell 1 0 
+  sug sz·mÌt·s
+  ana  st:sz·mÌt·s
+  stem sz·mÌt·s
+  stemmorph sz·mÌt·s
+> sz·mÌt·s.
+  spell 1 0 
+  sug sz·mÌt·s
+  ana  st:sz·mÌt·s
+  stem sz·mÌt·s
+  stemmorph sz·mÌt·s
+> sz·mÌt·shosszsz√°m√≠t√°s
+  spell 0 32 
+> sz·mÌt·sk√∂nnynyel√©s
+  spell 0 32 
+> sz·mÌt·sk√∂nnysz√°m√≠t√°s
+  spell 0 32 
+> sz·mÌt··s
+  spell 0 0 
+  sug sz·mÌt·s
+> sz·mÌ≠·s
+  spell 0 0 
+  sug sz·mÌt·s
+> sz·mÌ·ts
+  spell 0 0 
+  sug sz·mÌt·s
+> sz·mÌÈt·s
+  spell 0 0 
+  sug sz·mÌt·s
+> ynelÈs
+  spell 0 0 
+  sug nyelÈs
+> ©hossz
+  spell 0 0 
+  sug hossz
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> hossz's
+  spell 0 0 
+  sug hossz
+> hossz‚Äôs
+  spell 0 0 
+  sug hossz
+> 'hossz'
+  spell 0 0 
+  sug hossz
+> l'hossz
+  spell 0 0 
+  sug hossz
+> hossz.
+  spell 1 0 
+  sug hossz
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> hossz..
+  spell 1 0 
+  sug hossz
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> .hossz
+  spell 0 0 
+  sug hossz
+> ...
+  spell 1 0 
+> -hossz
+  spell 1 1 
+  sug hossz
+> hossz-
+  spell 1 1 
+  sug hossz
+> hossz--hosszk√∂nnynyel√©s
+  spell 0 32 
+> hossz-hosszk√∂nnynyel√©s-hossz
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> HOSSZ
+  spell 1 32 
+  sug HOSSZ
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> HOSSZ
+  spell 1 32 
+  sug HOSSZ
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> Hossz
+  spell 1 32 
+  sug hossz
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> hossz hosszk√∂nnynyel√©s
+  spell 0 32 
+>  hossz
+  spell 1 0 
+  sug hossz
+  ana  st:hossz
+  stem hossz
+  stemmorph hossz
+> hossz 
+  spell 0 0 
+  sug hossz
+> hossz	hosszk√∂nnynyel√©s
+  spell 0 32 
+> ˇ˛hossz
+  spell 0 0 
+  sug hossz
+> hossz√
+  spell 0 32 
+  sug hossz
+> Ähossz
+  spell 0 0 
+  sug hossz
+> êêÄhossz
+  spell 0 0 
+> ƒ∞hossz
+  spell 0 32 
+  sug Hossz
+> hossz√ü
+  spell 0 32 
+  sug hossz
+> ho√üz
+  spell 0 32 
+  sug hossz
+> HOSSZSS
+  spell 0 32 
+  sug HOSSZ
+> <?xml?><query type="analyze"><word>hossz</word></query>
+  spell 0 0 
+  sug <code><a> st:hossz</a></code>
+> <?xml?><query type="stem"><word>hossz</word></query>
+  spell 0 0 
+  sug hossz
+> <?xml?><query type="suggest"><word>hosszx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>hossz</word><word>hosszk√∂nnynyel√©s</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>hossz</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>hossz</word></query>
+  spell 0 0 
+  sug <code><a> st:hossz</a></code>
+> <?xml?><query type="add"><word>hossz</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;hossz&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>hossz</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

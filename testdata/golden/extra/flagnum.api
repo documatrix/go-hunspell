@@ -1,0 +1,53 @@
+# example: foos
+! error: 0 is wrong flag id
+! error: 0 is wrong flag id
+! error: 0 is wrong flag id
+! error: flag id 70000 is out of range
+! error: flag id 70002 is out of range
+! error: flag id 70002 is out of range
+! error: line 2: 0 is wrong flag id
+! error: line 2: flag id 70000 is out of range
+! error: line 3: 0 is wrong flag id
+! error: line 3: flag id -5 is out of range
+! error: line 5: 0 is wrong flag id
+! error: line 6: 0 is wrong flag id
+! error: line 6: flag id 70001 is out of range
+> foo
+  spell 1 0 
+  sfx foos
+  sfx foot
+> foos
+  spell 1 0 foo
+  ana  st:foo fl:1
+  stem foo
+  stemmorph foo
+> foot
+  spell 1 0 foo
+  ana  st:foo fl:(NULL)
+  stem foo
+  stemmorph foo
+> bar
+  spell 1 0 
+  sug baz
+  sfx bars
+  sfx bart
+> bars
+  spell 1 0 bar
+  sug baz
+  ana  st:bar fl:1
+  stem bar
+  stemmorph bar
+> foobar
+  spell 0 0 
+> barfoo
+  spell 0 0 
+> bazbaz
+  spell 1 1 baz
+  sug baz baz
+  sug baz
+  ana  pa:baz st:baz pa:baz st:baz
+  stem bazbaz
+  stemmorph bazbaz
+> qux
+  spell 1 0 
+  sfx quxt

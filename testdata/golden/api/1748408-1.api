@@ -1,0 +1,99 @@
+# example: 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> a's
+  spell 0 0 
+> aâ€™s
+  spell 0 0 
+> 'a'
+  spell 0 0 
+> l'a
+  spell 0 0 
+> a.
+  spell 0 0 
+> a..
+  spell 0 0 
+> .a
+  spell 0 0 
+> ...
+  spell 1 0 
+> -a
+  spell 0 0 
+> a-
+  spell 0 0 
+> a--a
+  spell 0 0 
+> a-a-a
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> A
+  spell 0 32 
+> A
+  spell 0 32 
+> A
+  spell 0 32 
+> a a
+  spell 0 0 
+>  a
+  spell 0 0 
+> a 
+  spell 0 0 
+> a	a
+  spell 0 0 
+> ÿþa
+  spell 0 0 
+> aÃ
+  spell 0 32 
+> €a
+  spell 0 0 
+> ð€a
+  spell 0 0 
+> Ä°a
+  spell 0 32 
+> aÃŸ
+  spell 0 32 
+> a
+  spell 0 0 
+> ASS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>a</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>a</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>ax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>a</word><word>a</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>a</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>a</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>a</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;a&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>a</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

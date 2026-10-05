@@ -1,0 +1,10 @@
+exit 0
+stdout 142
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& foo 1 0: bar
+& foos 2 4: foos, foo
+*
+& bars 1 13: bar
+& baz 1 18: bar
+
+stderr 0

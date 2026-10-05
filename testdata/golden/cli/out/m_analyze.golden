@@ -1,0 +1,37 @@
+exit 0
+stdout 845
+drink  st:drink po:noun
+drink  st:drink po:verb	al:drank	al:drunk	ts:present
+
+drinks  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+drinks  st:drink po:noun is:plur
+
+undrinkables dp:pfx_un sp:un  st:drink po:verb	al:drank	al:drunk	ts:present ds:der_able is:plur
+
+phenomena  po:noun st:phenomenon	is:plur
+
+xyzzy
+
+drink  st:drink po:noun
+drink  st:drink po:verb	al:drank	al:drunk	ts:present
+
+eat  st:eat po:verb	al:ate	al:eaten	ts:present
+
+drinks  st:drink po:verb	al:drank	al:drunk	ts:present is:sg_3
+drinks  st:drink po:noun is:plur
+
+eats  st:eat po:verb	al:ate	al:eaten	ts:present is:sg_3
+
+eat  st:eat po:verb	al:ate	al:eaten	ts:present
+
+drunk  po:verb	st:drink	is:past_2
+
+foo
+
+bar
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ate  po:verb	st:eat	is:past_1
+
+stderr 0

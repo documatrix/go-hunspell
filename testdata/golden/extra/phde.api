@@ -1,0 +1,13 @@
+# example: Foto
+> photo
+  spell 0 0 
+  sug Foto
+> Photo
+  spell 0 32 
+  sug Foto
+> ärga
+  spell 0 0 
+  sug Ärger
+> Ärga
+  spell 0 32 
+  sug Ärger

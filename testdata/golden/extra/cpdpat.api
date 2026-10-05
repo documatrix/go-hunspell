@@ -1,0 +1,150 @@
+# example: 
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+! break infinite loop
+> fobbar
+  spell 0 0 
+  sug fob bar
+  sug fob
+> fizar
+  spell 0 0 
+  sug fozar
+> fozar
+  spell 1 1 foo
+@trace fizar
+  trace 0 word "fizar"
+  trace 1 lookup "fizar" -> miss
+  trace 1 pfx "fizar" candidates=0
+  trace 1 sfx "fizar" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=1 left="f" right="izar"
+  trace 3 first "f" -> miss
+  trace 3 pfx "f" candidates=0
+  trace 3 sfx "f" candidates=0
+  trace 2 split at=2 left="fi" right="zar"
+  trace 3 first "fi" -> miss
+  trace 3 pfx "fi" candidates=0
+  trace 3 sfx "fi" candidates=0
+  trace 2 split at=3 left="fio" right="bar" cpdpattern=1
+  trace 3 first "fio" -> entry "fio" flags=F,X
+  trace 2 split at=3 left="fiz" right="ar"
+  trace 3 first "fiz" -> miss
+  trace 3 pfx "fiz" candidates=0
+  trace 3 sfx "fiz" candidates=0
+  trace 2 split at=4 left="fiza" right="r"
+  trace 3 first "fiza" -> miss
+  trace 3 pfx "fiza" candidates=0
+  trace 3 sfx "fiza" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=1 left="f" right="izar"
+  trace 3 first "f" -> miss
+  trace 3 pfx "f" candidates=0
+  trace 3 sfx "f" candidates=0
+  trace 2 split at=2 left="fi" right="zar"
+  trace 3 first "fi" -> miss
+  trace 3 pfx "fi" candidates=0
+  trace 3 sfx "fi" candidates=0
+  trace 2 split at=3 left="fio" right="bar" cpdpattern=1
+  trace 3 first "fio" -> entry "fio" flags=F,X
+  trace 2 split at=3 left="fiz" right="ar"
+  trace 3 first "fiz" -> miss
+  trace 3 pfx "fiz" candidates=0
+  trace 3 sfx "fiz" candidates=0
+  trace 2 split at=4 left="fiza" right="r"
+  trace 3 first "fiza" -> miss
+  trace 3 pfx "fiza" candidates=0
+  trace 3 sfx "fiza" candidates=0
+  trace 1 result incorrect
+  spell 0
+@trace fobbar
+  trace 0 word "fobbar"
+  trace 1 lookup "fobbar" -> miss
+  trace 1 pfx "fobbar" candidates=0
+  trace 1 sfx "fobbar" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=1 left="f" right="obbar"
+  trace 3 first "f" -> miss
+  trace 3 pfx "f" candidates=0
+  trace 3 sfx "f" candidates=0
+  trace 2 split at=2 left="fo" right="bbar"
+  trace 3 first "fo" -> miss
+  trace 3 pfx "fo" candidates=0
+  trace 3 sfx "fo" candidates=0
+  trace 2 split at=3 left="fob" right="bar"
+  trace 3 first "fob" -> entry "fob" flags=F,X
+  trace 2 split at=4 left="fobb" right="ar"
+  trace 3 first "fobb" -> miss
+  trace 3 pfx "fobb" candidates=0
+  trace 3 sfx "fobb" candidates=0
+  trace 2 split at=5 left="fobba" right="r"
+  trace 3 first "fobba" -> miss
+  trace 3 pfx "fobba" candidates=0
+  trace 3 sfx "fobba" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=1 left="f" right="obbar"
+  trace 3 first "f" -> miss
+  trace 3 pfx "f" candidates=0
+  trace 3 sfx "f" candidates=0
+  trace 2 split at=2 left="fo" right="bbar"
+  trace 3 first "fo" -> miss
+  trace 3 pfx "fo" candidates=0
+  trace 3 sfx "fo" candidates=0
+  trace 2 split at=3 left="fob" right="bar"
+  trace 3 first "fob" -> entry "fob" flags=F,X
+  trace 2 split at=4 left="fobb" right="ar"
+  trace 3 first "fobb" -> miss
+  trace 3 pfx "fobb" candidates=0
+  trace 3 sfx "fobb" candidates=0
+  trace 2 split at=5 left="fobba" right="r"
+  trace 3 first "fobba" -> miss
+  trace 3 pfx "fobba" candidates=0
+  trace 3 sfx "fobba" candidates=0
+  trace 1 result incorrect
+  spell 0

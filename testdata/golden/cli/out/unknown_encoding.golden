@@ -1,0 +1,11 @@
+exit 0
+stdout 26
+&iuml;v
+&Agrave;b
+&yuml;z
+stderr 180
+error - iconv_open: FOO-42 -> UTF-8
+error - iconv_open: UTF-8 -> FOO-42
+error - iconv_open: FOO-42 -> UTF-8
+error - iconv_open: FOO-42 -> UTF-8
+error - iconv_open: FOO-42 -> UTF-8

@@ -1,0 +1,37 @@
+exit 0
+stdout 835
+<!DOCTYPE html>
+<html><head><title>Ti tel of page</title>
+<style>body { colr: red; }</style>
+<script>var mispeled = 1;</script>
+</head>
+<body>
+<!-- a coment with errorz -->
+<p>Hello world &amp; cad&eacute; gravedigger d&apos;Arc it&apos;s fine.</p>
+<p>An <img src="pic.png" alt="a picture of a dog" title="title text"> image.</p>
+<p><a href="http://example.com/linkk" title="link titel">link text</a></p>
+<p><a href="x">no title attar</a> and <img src='y.png' alt='single quote'></p>
+<pre>preformated textt</pre> <code>codde</code> <kbd>kbdd</kbd> <var>varr</var>
+<samp>sampp</samp> <address>adress</address> <listing>listng</listing>
+<P CLASS="x">Uppercase TAG</P> <![CDATA[ cdata wordz ]]> after
+Entity in tart <span data-x="a&amp;bc wordd">inside span</span>
+Exterminated &ent and &nbsp;space and a &lt;tag&gt; weds.
+</body></html>
+stderr 412
+Line 2: Titel -> Ti tel
+Line 2: pagge -> page
+Line 8: wrold -> world
+Line 8: caf -> cad
+Line 8: &Agrave;lle -> gravedigger
+Line 9: picturre -> picture
+Line 9: dogg -> dog
+Line 9: titel -> title
+Line 9: txt -> text
+Line 10: textt -> text
+Line 11: attrr -> attar
+Line 11: quotte -> quote
+Line 14: TAGG -> TAG
+Line 15: attr -> tart
+Line 15: spann -> span
+Line 16: Unterminated -> Exterminated
+Line 16: wrds -> weds

@@ -1,0 +1,18 @@
+exit 0
+stdout 266
+> hello
+analyze(hello) =  st:hello
+stem(hello) = hello
+> wrold
+Unknown word.
+> tset
+Unknown word.
+> forbidden
+analyze(forbidden) =  st:forbidden
+stem(forbidden) = forbidden
+> NASA
+analyze(NASA) =  st:NASA
+analyze(NASA) =  st:Nasa
+stem(NASA) = NASA
+stem(NASA) = Nasa
+stderr 0

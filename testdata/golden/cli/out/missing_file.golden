@@ -1,0 +1,4 @@
+exit 1
+stdout 0
+stderr 31
+Can't open in/nonexistent.txt.

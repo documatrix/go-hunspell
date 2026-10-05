@@ -1,0 +1,6 @@
+exit 1
+stdout 0
+stderr 129
+correct syntax is:
+analyze affix_file dictionary_file file_of_words_to_check
+use two words per line for morphological generation

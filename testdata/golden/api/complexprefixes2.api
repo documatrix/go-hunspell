@@ -1,0 +1,359 @@
+# example: ouro
+> METOURO
+  spell 1 32 ouro
+  sug METOURO
+  ana affix_2/ ouro:ts [stem_1]
+> Metouro
+  spell 1 32 ouro
+  sug metouro
+  ana affix_2/ ouro:ts [stem_1]
+> OURO
+  spell 1 32 
+  sug OURO
+  ana [stem_1] ouro:ts 
+> OURO_TEST_
+  spell 1 32 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> Ouro
+  spell 1 32 
+  sug ouro
+  ana [stem_1] ouro:ts 
+> Ouro_test_
+  spell 1 32 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> TEKMETOURO
+  spell 1 32 ouro
+  ana affix_1/ affix_2/ ouro:ts [stem_1]
+> Tekmetouro
+  spell 1 32 ouro
+  ana affix_1/ affix_2/ ouro:ts [stem_1]
+> etekmetouro
+  spell 0 0 
+  sug tekmetouro
+> kuro
+  spell 0 0 
+  sug ouro
+> metosro
+  spell 0 0 
+  sug metouro
+> metouo
+  spell 0 0 
+  sug metouro
+> metour
+  spell 0 0 
+  sug metouro
+> metourmo
+  spell 0 0 
+  sug metouro
+> metouro
+  spell 1 0 ouro
+  sug metouro
+  ana affix_2/ ouro:ts [stem_1]
+> metouro-ouro
+  spell 1 1 
+> metouro.
+  spell 1 0 ouro
+  sug metouro
+  ana affix_2/ ouro:ts [stem_1]
+> metouroe
+  spell 0 0 
+  sug metouro
+> metourometouro
+  spell 0 0 
+  sug metouro metouro
+> metourotekmetouro
+  spell 0 0 
+  sug metouro tekmetouro
+> metouso
+  spell 0 0 
+  sug metouro
+> meuouro
+  spell 0 0 
+  sug ouro
+> mteouro
+  spell 0 0 
+  sug metouro
+> o_ro
+  spell 0 0 
+  sug ouro
+> o_uro
+  spell 0 0 
+  sug ouro
+> oeuro
+  spell 0 0 
+  sug ouro
+> okuro
+  spell 0 0 
+  sug ouro
+> omro
+  spell 0 0 
+  sug ouro
+> oruo
+  spell 0 0 
+  sug ouro
+  sfx oruotem
+> oumro_test_
+  spell 0 0 
+  sug ouro_test_
+> ouo
+  spell 0 0 
+  sug ouro
+> ouor
+  spell 0 0 
+  sug ouro
+> our
+  spell 0 0 
+  sug ouro
+> oureo
+  spell 0 0 
+  sug ouro
+> ouro
+  spell 1 0 
+  sug ouro
+  ana [stem_1] ouro:ts 
+> ouro-metouro
+  spell 1 1 
+> ouro-ouro
+  spell 1 1 
+> ouro-tekmetouro
+  spell 1 1 
+> ouro.
+  spell 1 0 
+  sug ouro
+  ana [stem_1] ouro:ts 
+> ouro_kest_
+  spell 0 0 
+> ouro_sest_
+  spell 0 0 
+> ouro_teet_
+  spell 0 0 
+> ouro_tes_
+  spell 0 0 
+> ouro_test_
+  spell 1 0 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> ouro_test_-metouro
+  spell 1 1 
+> ouro_test_.
+  spell 1 0 ouro
+  sug ouro_test_
+  ana [stem_1] ouro:ts /suffix_1 
+> ouro_test_metouro
+  spell 0 0 
+  sug ouro_test_ metouro
+> ouro_test_ouro
+  spell 0 0 
+  sug ouro_test_ ouro
+> ouro_test_tekmetouro
+  spell 0 0 
+  sug ouro_test_ tekmetouro
+> ouroe
+  spell 0 0 
+  sug ouro
+> ouroo
+  spell 0 0 
+  sug ouro
+> ouroouro
+  spell 0 0 
+  sug ouro ouro
+  sug ouro
+> ouroouro_test_
+  spell 0 0 
+  sug ouro ouro_test_
+> ourot
+  spell 0 0 
+  sug ouro
+> ourot_est_
+  spell 0 0 
+  sug ouro_test_
+> ourotekmetouro
+  spell 0 0 
+  sug ouro tekmetouro
+> ourou
+  spell 0 0 
+  sug ouro
+> ourr
+  spell 0 0 
+  sug ouro
+> ourro
+  spell 0 0 
+  sug ouro
+> ousro
+  spell 0 0 
+  sug ouro
+> tekemtouro
+  spell 0 0 
+  sug tekmetouro
+> tekmesouro
+  spell 0 0 
+> tekmeteouro
+  spell 0 0 
+  sug tekmetouro
+> tekmetoruo
+  spell 0 0 
+  sug tekmetouro
+> tekmetosuro
+  spell 0 0 
+  sug tekmetouro
+> tekmetour_o
+  spell 0 0 
+  sug tekmetouro
+> tekmetoureo
+  spell 0 0 
+  sug tekmetouro
+> tekmetourk
+  spell 0 0 
+> tekmetouro
+  spell 1 0 ouro
+  ana affix_1/ affix_2/ ouro:ts [stem_1]
+> tekmetouro-metouro
+  spell 1 1 
+> tekmetouro.
+  spell 1 0 ouro
+  sug tekmetouro
+  ana affix_1/ affix_2/ ouro:ts [stem_1]
+> tekmetourometouro
+  spell 0 0 
+  sug tekmetouro metouro
+> tekmetouroouro
+  spell 0 0 
+  sug tekmetouro ouro
+> tekmetourotekmetouro
+  spell 0 0 
+  sug tekmetouro tekmetouro
+> tekmeturo
+  spell 0 0 
+> tekmketouro
+  spell 0 0 
+  sug tekmetouro
+> tekuetouro
+  spell 0 0 
+> teskmetouro
+  spell 0 0 
+  sug tekmetouro
+> uoro
+  spell 0 0 
+  sug ouro
+> uouro
+  spell 0 0 
+  sug ouro
+> uro
+  spell 0 0 
+  sug ouro
+> uuro
+  spell 0 0 
+  sug ouro
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> ouro_test_'s
+  spell 0 0 
+> ouro_test_â€™s
+  spell 0 0 
+> 'ouro_test_'
+  spell 0 0 
+> l'ouro_test_
+  spell 0 0 
+> ouro_test_.
+  spell 1 0 ouro
+  sug ouro_test_
+  ana [stem_1] ouro:ts /suffix_1 
+> ouro_test_..
+  spell 1 0 ouro
+  sug ouro_test_
+  ana [stem_1] ouro:ts /suffix_1 
+> .ouro_test_
+  spell 0 0 
+  sug ouro_test_
+> ...
+  spell 1 0 
+> -ouro_test_
+  spell 1 1 
+  sug ouro_test_
+> ouro_test_-
+  spell 1 1 
+  sug ouro_test_
+> ouro_test_--ouro
+  spell 1 1 
+> ouro_test_-ouro-ouro_test_
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> OURO_TEST_
+  spell 1 32 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> OURO_TEST_
+  spell 1 32 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> Ouro_Test_
+  spell 0 32 
+> ouro_test_ ouro
+  spell 0 0 
+>  ouro_test_
+  spell 1 0 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> ouro_test_ 
+  spell 0 0 
+  sug ouro_test_
+> ouro_test_	ouro
+  spell 0 0 
+> ÿşouro_test_
+  spell 0 0 
+> ouro_test_Ã
+  spell 0 32 
+  sug ouro_test_
+> €ouro_test_
+  spell 0 0 
+  sug ouro_test_
+> ğ€ouro_test_
+  spell 0 0 
+> Ä°ouro_test_
+  spell 0 32 
+> ouro_test_ÃŸ
+  spell 0 32 
+> ouro_test_
+  spell 1 0 ouro
+  ana [stem_1] ouro:ts /suffix_1 
+> OURO_TEST_SS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>ouro_test_</word></query>
+  spell 0 0 
+  sug >edoc/<>a/< 1_xiffus/ st:oruo ]1_mets[>a<>edoc<
+> <?xml?><query type="stem"><word>ouro_test_</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>ouro_test_x</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ouro_test_</word><word>ouro</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>ouro_test_</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>ouro_test_</word></query>
+  spell 0 0 
+  sug >edoc/<>a/< 1_xiffus/ st:oruo ]1_mets[>a<>edoc<
+> <?xml?><query type="add"><word>ouro_test_</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;ouro_test_&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>ouro_test_</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

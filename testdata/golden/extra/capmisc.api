@@ -1,0 +1,149 @@
+# example: kiss
+! Hash Manager Error : 2
+! error: empty dic file nonexistent.dic
+! error: nonexistent.dic: cannot open
+> ABC.
+  spell 1 32 
+  sug ABC.
+  ana  st:ABC.
+  stem ABC.
+  stemmorph ABC.
+> ABC
+  spell 0 32 
+  sug ABC.
+> abc.
+  spell 0 0 
+  sug ABC.
+> SANT'ELIA
+  spell 1 32 
+  sug SANT'ELIA
+  ana  st:Sant'elia
+  stem Sant'elia
+  stemmorph Sant'elia
+> Sant'elia
+  spell 0 32 
+  sug Sant'Elia
+  ana  st:Sant'elia
+  stem Sant'elia
+  stemmorph Sant'elia
+> sant'elia
+  spell 0 0 
+  sug sant'Elia
+> ééé
+  spell 1 0 
+> é
+  spell 1 0 
+> kis
+  spell 1 0 
+  sug kis
+  ana  st:kis po:adj sp:leg
+  stem legkis
+  stemmorph legkis
+  sfx kiss
+> kiss
+  spell 1 0 kis
+  sug kiss
+  sug kis
+  ana  st:kis po:adj sp:leg is:s
+  stem legkis
+  stemmorph legkis
+> kéis
+  spell 1 0 
+  sug kis
+  ana  st:kis po:adj sp:leg
+  stem legkis
+  stemmorph legkis
+> extra
+  spell 0 0 
+@adddic capmisc2.dic
+  ret 0
+@adddic nonexistent.dic
+  ret 0
+> extra
+  spell 1 0 
+  sug extra
+  ana  st:extra po:x
+  stem extra
+  stemmorph extra
+  sfx extras
+  gen extras
+  genmorph extras
+> extras
+  spell 1 0 extra
+  sug extra
+  ana  st:extra po:x is:s
+  stem extra
+  stemmorph extra
+  gen extras
+  genmorph extras
+> foos
+  spell 0 0 
+  sug foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+@trace kis
+  trace 0 word "kis"
+  trace 1 lookup "kis" dic=0 -> entry "kis" flags=A
+  trace 1 result correct
+  spell 1
+@trace extra
+  trace 0 word "extra"
+  trace 1 lookup "extra" dic=0 -> miss
+  trace 1 lookup "extra" dic=1 -> entry "extra" flags=A
+  trace 1 result correct
+  spell 1
+@trace extras
+  trace 0 word "extras"
+  trace 1 lookup "extras" dic=0 -> miss
+  trace 1 lookup "extras" dic=1 -> miss
+  trace 1 lookup "extras" dic=2 -> miss
+  trace 1 pfx "extras" candidates=0
+  trace 1 sfx flag=A strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+  trace 2 stem "extra"
+  trace 2 test condition cond="." on "extra" -> pass
+  trace 2 lookup "extra" -> entry "extra" flags=A
+  trace 2 test sfx-aflag flag=A in=dic have=A -> pass
+  trace 2 accept
+  trace 1 form "extras" = "extra" + sfx(A:"s")
+  trace 1 result correct
+  spell 1
+@trace nothere
+  trace 0 word "nothere"
+  trace 1 lookup "nothere" dic=0 -> miss
+  trace 1 lookup "nothere" dic=1 -> miss
+  trace 1 lookup "nothere" dic=2 -> miss
+  trace 1 pfx "nothere" candidates=0
+  trace 1 sfx "nothere" candidates=0
+  trace 1 result incorrect
+  spell 0
+@trace FOOS
+  trace 0 word "FOOS"
+  trace 1 lookup "FOOS" dic=0 -> miss
+  trace 1 lookup "FOOS" dic=1 -> miss
+  trace 1 lookup "FOOS" dic=2 -> miss
+  trace 1 pfx "FOOS" candidates=0
+  trace 1 sfx "FOOS" candidates=0
+  trace 1 lookup "Foos" dic=0 -> miss
+  trace 1 lookup "Foos" dic=1 -> miss
+  trace 1 lookup "Foos" dic=2 -> miss
+  trace 1 pfx "Foos" candidates=0
+  trace 1 sfx flag=A strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+  trace 2 stem "Foo"
+  trace 2 test condition cond="." on "Foo" -> pass
+  trace 2 lookup "Foo" -> miss
+  trace 1 lookup "foos" dic=0 -> miss
+  trace 1 lookup "foos" dic=1 -> miss
+  trace 1 lookup "foos" dic=2 -> miss
+  trace 1 pfx "foos" candidates=0
+  trace 1 sfx flag=A strip="" add="s" cont=(none) cond="." at=aff:6 xprod=Y hdr=aff:5
+  trace 2 stem "foo"
+  trace 2 test condition cond="." on "foo" -> pass
+  trace 2 lookup "foo" -> entry "foo" flags=(none)
+  trace 2 test sfx-aflag flag=A in=dic have=(none) -> fail
+  trace 2 lookup "foo" -> no more homonyms
+  trace 1 result incorrect
+  spell 0

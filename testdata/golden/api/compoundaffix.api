@@ -1,0 +1,571 @@
+# example: foo
+> Bar
+  spell 1 32 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOOFOO
+  spell 1 33 foo
+  sug FOO FOO
+  sug FOOFOO
+  sug FOO
+  ana  pa:foo st:foo pa:foo
+  stem foo
+  stemmorph foo
+> FOOSUF
+  spell 1 32 foo
+  sug FOOSUF
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> FOOSUFBAR
+  spell 0 32 
+  sug FOOSUF BAR
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foofoo
+  spell 1 33 foo
+  sug Foo foo
+  sug foofoo
+  ana  pa:foo st:foo pa:foo
+  stem foo
+  stemmorph foo
+> Foosuf
+  spell 1 32 foo
+  sug foosuf
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> PREFOOBARSUF
+  spell 1 33 foo
+  sug PREFOO BARSUF
+  sug PREFOOBARSUF
+  ana  pa:prefoo pre st:foo fl:P pa:barsuf  st:bar fl:S
+  stem prefoobar
+  stemmorph prefoobar
+> PREFOOPREBARSUF
+  spell 0 32 
+  sug PREFOO PREBARSUF
+  ana  pa:prefoo pre st:foo fl:P pa:prebarsuf  fl:P st:bar fl:S
+  stem prefoobar
+  stemmorph prefoobar
+> PREFOOSUF
+  spell 1 32 foo
+  sug PREFOOSUF
+  ana  fl:P st:foo fl:S
+  stem foo
+  stemmorph foo
+> Prefoo
+  spell 1 32 foo
+  sug prefoo
+  ana pre st:foo fl:P
+  stem foo
+  stemmorph foo
+> Prefoobarsuf
+  spell 1 33 foo
+  sug Prefoo barsuf
+  sug prefoobarsuf
+  ana  pa:prefoo pre st:foo fl:P pa:barsuf  st:bar fl:S
+  stem prefoobar
+  stemmorph prefoobar
+> Prefoosuf
+  spell 1 32 foo
+  sug prefoosuf
+  ana  fl:P st:foo fl:S
+  stem foo
+  stemmorph foo
+> bar
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+  sfx barsuf
+> bar-prefoosuf
+  spell 1 1 
+> bar.
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bbar
+  spell 0 0 
+  sug bar
+> br
+  spell 0 0 
+  sug bar
+> bra
+  spell 0 0 
+  sug bar
+> brefooprebarsuf
+  spell 0 0 
+> feoofoo
+  spell 0 0 
+  sug foofoo
+> foa
+  spell 0 0 
+  sug foo
+> foao
+  spell 0 0 
+  sug foo
+> fobfoo
+  spell 0 0 
+  sug foo
+> fobo
+  spell 0 0 
+  sug foo
+> foeosuf
+  spell 0 0 
+  sug foosuf
+> fofprebarsuf
+  spell 0 0 
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+  sfx foosuf
+> foo-bar
+  spell 1 1 
+  sug foobar
+> foo-foofoo
+  spell 1 1 
+  sug foofoofoo
+> foo-foosuf
+  spell 1 1 
+  sug foofoosuf
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foof
+  spell 0 0 
+  sug foo
+> foofo
+  spell 0 0 
+  sug foo
+> foofobo
+  spell 0 0 
+  sug foofoo
+> foofoo
+  spell 1 1 foo
+  sug foo foo
+  sug foofoo
+  ana  pa:foo st:foo pa:foo
+  stem foo
+  stemmorph foo
+> foofoo-foofoo
+  spell 1 1 
+  sug foofoofoofoo
+> foofoo-fooprebarsuf
+  spell 0 0 
+  sug foofoo-foo prebarsuf
+> foofoobar
+  spell 1 1 foo
+  sug foofoobar
+  ana  pa:foo st:foo pa:foo st:foo pa:bar
+  stem foofoo
+  stemmorph foofoo
+> foofoof
+  spell 0 0 
+  sug foofoo
+> foofoofoo
+  spell 1 1 foo
+  sug foofoofoo
+  ana  pa:foo st:foo pa:foo st:foo pa:foo
+  stem foofoo
+  stemmorph foofoo
+> foofooprefoo
+  spell 0 0 
+  ana  pa:foo st:foo pa:foo st:foo pa:prefoo pre st:foo fl:P
+  stem foofoofoo
+  stemmorph foofoofoo
+> foofooprefoosuf
+  spell 0 0 
+  ana  pa:foo st:foo pa:foo st:foo pa:prefoosuf  fl:P st:foo fl:S
+  stem foofoofoo
+  stemmorph foofoofoo
+> foofoor
+  spell 0 0 
+  sug foofoo
+> fooo
+  spell 0 0 
+  sug foo
+> fooprebarsuf
+  spell 0 0 
+  sug foo prebarsuf
+  ana  pa:foo st:foo pa:prebarsuf  fl:P st:bar fl:S
+  stem foobar
+  stemmorph foobar
+> fooprebarsuf-foofoo
+  spell 0 0 
+  sug foo prebarsuf-foofoo
+> fooprebarsuf-prefoobarsuf
+  spell 0 0 
+  sug foo prebarsuf-prefoobarsuf
+> fooprebarsuf-prefoosuf
+  spell 0 0 
+  sug foo prebarsuf-prefoosuf
+> fooprebarsuf.
+  spell 0 0 
+  sug foo prebarsuf
+  ana  pa:foo st:foo pa:prebarsuf  fl:P st:bar fl:S
+  stem foobar
+  stemmorph foobar
+> fooprebarsuffoofoo
+  spell 0 0 
+> fooprebarsufprefoosuf
+  spell 0 0 
+> fooprebarsuu
+  spell 0 0 
+> fooprfbarsuf
+  spell 0 0 
+> foosof
+  spell 0 0 
+  sug foo
+> foosuf
+  spell 1 0 foo
+  sug foosuf
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> foosuf-prefoo
+  spell 1 1 
+> foosuf.
+  spell 1 0 foo
+  sug foosuf
+  ana  st:foo fl:S
+  stem foo
+  stemmorph foo
+> foosufa
+  spell 0 0 
+  sug foosuf
+> foosufbab
+  spell 0 0 
+> foosufbar
+  spell 0 0 
+  sug foosuf bar
+> foosufbar-foosuf
+  spell 0 0 
+  sug foosuf bar-foosuf
+> foosufbar-foosufbar
+  spell 0 0 
+  sug foosuf bar-foosufbar
+> foosufbar.
+  spell 0 0 
+  sug foosuf bar
+> foosufbarprefooprebarsuf
+  spell 0 0 
+> foosuffoosufbar
+  spell 0 0 
+> foosufprefoo
+  spell 0 0 
+  sug foosuf prefoo
+> foosufprefooprebarsuf
+  spell 0 0 
+> foouufbar
+  spell 0 0 
+> fosoufbar
+  spell 0 0 
+> fousuf
+  spell 0 0 
+  sug foosuf
+> fsoosufbar
+  spell 0 0 
+> oar
+  spell 0 0 
+  sug bar
+> ofosuf
+  spell 0 0 
+  sug foosuf
+> pfefooprebarsuf
+  spell 0 0 
+> pfrefoobarsuf
+  spell 0 0 
+  sug prefoobarsuf
+> porefoo
+  spell 0 0 
+  sug prefoo
+> prefoaoprebarsuf
+  spell 0 0 
+> prefofsuf
+  spell 0 0 
+> prefoo
+  spell 1 0 foo
+  sug prefoo
+  ana pre st:foo fl:P
+  stem foo
+  stemmorph foo
+> prefoo.
+  spell 1 0 foo
+  sug prefoo
+  ana pre st:foo fl:P
+  stem foo
+  stemmorph foo
+> prefoobaarsuf
+  spell 0 0 
+  sug prefoobarsuf
+> prefoobarsuf
+  spell 1 1 foo
+  sug prefoo barsuf
+  sug prefoobarsuf
+  ana  pa:prefoo pre st:foo fl:P pa:barsuf  st:bar fl:S
+  stem prefoobar
+  stemmorph prefoobar
+> prefoobarsuf-foo
+  spell 1 1 
+> prefoobarsuf-prefoo
+  spell 1 1 
+> prefoobarsuffoo
+  spell 0 0 
+> prefoobarsufprefoo
+  spell 0 0 
+> prefoobarsufu
+  spell 0 0 
+  sug prefoobarsuf
+> prefoobasruf
+  spell 0 0 
+  sug prefoobarsuf
+> prefoobasuf
+  spell 0 0 
+> prefoobrsuf
+  spell 0 0 
+> prefoofoo
+  spell 1 1 foo
+  sug prefoo foo
+  sug prefoofoo
+  ana  pa:prefoo pre st:foo fl:P pa:foo
+  stem prefoo
+  stemmorph prefoo
+> prefooo
+  spell 0 0 
+  sug prefoo
+> prefooouf
+  spell 0 0 
+> prefoopfebarsuf
+  spell 0 0 
+> prefoopprebarsuf
+  spell 0 0 
+> prefooprebarsuf
+  spell 0 0 
+  sug prefoo prebarsuf
+  ana  pa:prefoo pre st:foo fl:P pa:prebarsuf  fl:P st:bar fl:S
+  stem prefoobar
+  stemmorph prefoobar
+> prefooprebarsuf-foofoo
+  spell 0 0 
+  sug prefoo prebarsuf-foofoo
+> prefooprebarsuf-foosuf
+  spell 0 0 
+  sug prefoo prebarsuf-foosuf
+> prefooprebarsuf-prefooprebarsuf
+  spell 0 0 
+  sug prefoo prebarsuf-prefooprebarsuf
+> prefooprebarsuf.
+  spell 0 0 
+  sug prefoo prebarsuf
+  ana  pa:prefoo pre st:foo fl:P pa:prebarsuf  fl:P st:bar fl:S
+  stem prefoobar
+  stemmorph prefoobar
+> prefooprebarsuffoo
+  spell 0 0 
+> prefooprebasrsuf
+  spell 0 0 
+> prefooprebrasuf
+  spell 0 0 
+> prefooprebsarsuf
+  spell 0 0 
+> prefoosfu
+  spell 0 0 
+  sug prefoosuf
+> prefoosuf
+  spell 1 0 foo
+  sug prefoosuf
+  ana  fl:P st:foo fl:S
+  stem foo
+  stemmorph foo
+> prefoosuf.
+  spell 1 0 foo
+  sug prefoosuf
+  ana  fl:P st:foo fl:S
+  stem foo
+  stemmorph foo
+> prefoosuffoo
+  spell 0 0 
+  sug prefoosuf foo
+> prefoosupf
+  spell 0 0 
+  sug prefoosuf
+> prefoprebarsuf
+  spell 0 0 
+> prefor
+  spell 0 0 
+  sug prefoo
+> prefou
+  spell 0 0 
+  sug prefoo
+> prefuo
+  spell 0 0 
+  sug prefoo
+> prefuooprebarsuf
+  spell 0 0 
+> prfoobarsuf
+  spell 0 0 
+> refooprebarsuf
+  spell 0 0 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> foo's
+  spell 0 0 
+  sug foo
+> fooâ€™s
+  spell 0 0 
+> 'foo'
+  spell 0 0 
+> l'foo
+  spell 0 0 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo..
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> .foo
+  spell 0 0 
+  sug foo
+> ...
+  spell 1 0 
+> -foo
+  spell 1 1 
+  sug foo
+> foo-
+  spell 1 1 
+  sug foo
+> foo--bar
+  spell 1 1 
+> foo-bar-foo
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo bar
+  spell 0 0 
+  sug foobar
+>  foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo 
+  spell 0 0 
+  sug foo
+> foo	bar
+  spell 0 0 
+  sug foobar
+> ÿþfoo
+  spell 0 0 
+> fooÃ
+  spell 0 32 
+  sug foo
+> €foo
+  spell 0 0 
+  sug foo
+> ð€foo
+  spell 0 0 
+> Ä°foo
+  spell 0 32 
+> fooÃŸ
+  spell 0 32 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+  sfx foosuf
+> FOOSS
+  spell 0 32 
+  sug FOO
+> <?xml?><query type="analyze"><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo</a></code>
+> <?xml?><query type="stem"><word>foo</word></query>
+  spell 0 0 
+  sug foo
+> <?xml?><query type="suggest"><word>foox</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><word>bar</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>foo</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>foo</word></query>
+  spell 0 0 
+  sug <code><a> st:foo</a></code>
+> <?xml?><query type="add"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;foo&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>foo</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

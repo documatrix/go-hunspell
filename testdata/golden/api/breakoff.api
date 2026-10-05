@@ -1,0 +1,504 @@
+# example: foo
+> -FOO
+  spell 0 32 
+  sug FOO
+> -fo
+  spell 0 0 
+  sug -foo
+> -foo
+  spell 0 0 
+  sug foo
+> -foo-foo-
+  spell 0 0 
+> -foo.
+  spell 0 0 
+  sug foo
+> -fooscot-free
+  spell 0 0 
+> -fooscott
+  spell 0 0 
+  sug -foo scott
+> BAR
+  spell 1 32 
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> Bar
+  spell 1 32 
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> FOO-
+  spell 0 32 
+  sug FOO
+> FOO-BAR-FOO-BAR
+  spell 0 32 
+> FREE
+  spell 1 32 
+  sug FREE
+  ana  st:free
+  stem free
+  stemmorph free
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foo-bar
+  spell 0 32 
+> Free
+  spell 1 32 
+  sug free
+  ana  st:free
+  stem free
+  stemmorph free
+> SCOT
+  spell 0 32 
+  sug SCOTT
+> SCOT-FREE
+  spell 1 32 
+  sug SCOT-FREE
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> Scot
+  spell 0 32 
+  sug Scott
+> Scot-free
+  spell 1 32 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> Scott
+  spell 1 32 
+  sug scott
+  ana  st:scott
+  stem scott
+  stemmorph scott
+> abr
+  spell 0 0 
+  sug bar
+> ar
+  spell 0 0 
+> ba
+  spell 0 0 
+> bac
+  spell 0 0 
+> bar
+  spell 1 0 
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> bar-
+  spell 0 0 
+  sug bar
+> bar-bar
+  spell 0 0 
+> bar-foo
+  spell 0 0 
+> bar-foo-
+  spell 0 0 
+> bar-scot
+  spell 0 0 
+  sug bar-scott
+> bar-scot-free
+  spell 0 0 
+  sug bar-scott-free
+> bar-scott
+  spell 0 0 
+> bar.
+  spell 1 0 
+  sug bar
+  ana  st:bar
+  stem bar
+  stemmorph bar
+> barbar
+  spell 0 0 
+  sug bar bar
+> bars
+  spell 0 0 
+  sug bar
+> br
+  spell 0 0 
+> brr
+  spell 0 0 
+> coo
+  spell 0 0 
+> escot
+  spell 0 0 
+> fbo
+  spell 0 0 
+  sug foo
+> fo
+  spell 0 0 
+  sug foo
+> fo-
+  spell 0 0 
+  sug foo-
+  sug foo
+> fo-o
+  spell 0 0 
+  sug foo-o
+  sug foo
+> fof
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-
+  spell 0 0 
+  sug foo
+> foo--foo-
+  spell 0 0 
+> foo-.
+  spell 0 0 
+  sug foo
+> foo-bar
+  spell 0 0 
+> foo-bar-fo-bar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-bar-foo-bar
+  spell 0 0 
+> foo-bar-foo-bar--foo
+  spell 0 0 
+> foo-bar-foo-bar-foo-bar
+  spell 0 0 
+> foo-bar-foo-bar-scot-free
+  spell 0 0 
+  sug foo-bar-foo-bar-scott-free
+> foo-bar-foo-bar.
+  spell 0 0 
+> foo-bar-foo-barscot-free
+  spell 0 0 
+> foo-bar-foo-br
+  spell 0 0 
+> foo-bar-free
+  spell 0 0 
+> foo-bar-ofo-bar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-bar-scot-free
+  spell 0 0 
+  sug foo-bar-scott-free
+> foo-barscot-free
+  spell 0 0 
+> foo-batr
+  spell 0 0 
+  sug foo-bar
+> foo-bbr
+  spell 0 0 
+> foo-bra-foo-bar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> foo-foo-bar-foo-bar
+  spell 0 0 
+> foo-scot-free
+  spell 0 0 
+  sug foo-scott-free
+> foo-scott
+  spell 0 0 
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foob
+  spell 0 0 
+  sug foo
+> foobar
+  spell 0 0 
+  sug foo bar
+> foobar-foo-bar
+  spell 0 0 
+  sug foo bar-foo-bar
+> foofoo-bar-foo-bar
+  spell 0 0 
+  sug foo foo-bar-foo-bar
+> foofree
+  spell 0 0 
+  sug foo free
+> for-
+  spell 0 0 
+  sug foo-
+> fot
+  spell 0 0 
+  sug foo
+> foto
+  spell 0 0 
+  sug foo
+> frbee
+  spell 0 0 
+  sug free
+> free
+  spell 1 0 
+  sug free
+  ana  st:free
+  stem free
+  stemmorph free
+> free-foo
+  spell 0 0 
+> free-scott
+  spell 0 0 
+> freea
+  spell 0 0 
+  sug free
+> freec
+  spell 0 0 
+  sug free
+> freef
+  spell 0 0 
+  sug free
+> freefoo
+  spell 0 0 
+  sug free foo
+> frer
+  spell 0 0 
+  sug free
+> froo-bar-foo-bar
+  spell 0 0 
+  sug foo-bar-foo-bar
+> ofo
+  spell 0 0 
+  sug foo
+> oo
+  spell 0 0 
+> sacot-free
+  spell 0 0 
+  sug scot-free
+> sc-t
+  spell 0 0 
+> sceott
+  spell 0 0 
+  sug scott
+> scoatt
+  spell 0 0 
+  sug scott
+> scoe-free
+  spell 0 0 
+  sug scot-free
+> scof
+  spell 0 0 
+> scoo-free
+  spell 0 0 
+  sug scot-free
+> scot
+  spell 0 0 
+  sug scott
+> scot-aree
+  spell 0 0 
+  sug scott-aree
+> scot-foo-bar
+  spell 0 0 
+  sug scott-foo-bar
+> scot-fre
+  spell 0 0 
+  sug scott-fre
+> scot-free
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> scot-free-bar
+  spell 0 0 
+  sug scott-free-bar
+> scot-free-scot-free
+  spell 0 0 
+  sug scott-free-scot-free
+> scot-free.
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> scot-freefoo-bar
+  spell 0 0 
+  sug scott-freefoo-bar
+> scot-freescot-free
+  spell 0 0 
+  sug scot-free scot-free
+> scot.
+  spell 0 0 
+  sug scott
+> scotscot-free
+  spell 0 0 
+> scott
+  spell 1 0 
+  sug scott
+  ana  st:scott
+  stem scott
+  stemmorph scott
+> scott-bar
+  spell 0 0 
+> scott-foo
+  spell 0 0 
+> scott-free
+  spell 0 0 
+  sug scot-free
+> scottscott
+  spell 0 0 
+  sug scott scott
+> scottt
+  spell 0 0 
+  sug scott
+> soct
+  spell 0 0 
+> sott
+  spell 0 0 
+> tfoo
+  spell 0 0 
+  sug foo
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 0 0 
+> scot-free's
+  spell 0 0 
+  sug scott-free's
+> scot-freeâ€™s
+  spell 0 0 
+  sug scott-freeâ€™s
+> 'scot-free'
+  spell 0 0 
+> l'scot-free
+  spell 0 0 
+> scot-free.
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> scot-free..
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> .scot-free
+  spell 0 0 
+  sug scot-free
+> ...
+  spell 1 0 
+> -scot-free
+  spell 0 0 
+  sug scot-free
+> scot-free-
+  spell 0 0 
+  sug scot-free
+> scot-free--scot-free
+  spell 0 0 
+  sug scott-free--scot-free
+> scot-free-scot-free-scot-free
+  spell 0 0 
+  sug scott-free-scot-free-scot-free
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> SCOT-FREE
+  spell 1 32 
+  sug SCOT-FREE
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> SCOT-FREE
+  spell 1 32 
+  sug SCOT-FREE
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> Scot-Free
+  spell 0 32 
+  sug Scot-free
+> scot-free scot-free
+  spell 0 0 
+  sug scott-free scot-free
+>  scot-free
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> scot-free 
+  spell 0 0 
+  sug scot-free
+> scot-free	scot-free
+  spell 0 0 
+  sug scott-free	scot-free
+> ÿþscot-free
+  spell 0 0 
+> scot-freeÃ
+  spell 0 0 
+  sug scot-free
+> €scot-free
+  spell 0 0 
+  sug scot-free
+> ð€scot-free
+  spell 0 0 
+> Ä°scot-free
+  spell 0 32 
+  sug Scot-free
+> scot-freeÃŸ
+  spell 0 0 
+  sug scot-free
+> scot-free
+  spell 1 0 
+  sug scot-free
+  ana  st:scot-free
+  stem scot-free
+  stemmorph scot-free
+> SCOT-FREESS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>scot-free</word></query>
+  spell 0 0 
+  sug <code><a> st:scot-free</a></code>
+> <?xml?><query type="stem"><word>scot-free</word></query>
+  spell 0 0 
+  sug scot-free
+> <?xml?><query type="suggest"><word>scot-freex</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>scot-free</word><word>scot-free</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>scot-free</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>scot-free</word></query>
+  spell 0 0 
+  sug <code><a> st:scot-free</a></code>
+> <?xml?><query type="add"><word>scot-free</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;scot-free&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>scot-free</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

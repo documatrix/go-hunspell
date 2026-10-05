@@ -1,0 +1,13 @@
+exit 0
+stdout 177
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+& wr 15 6: qr, er, we, wt, w, r, war, wry, tr, or, gr, pr, hr, yr, fr
+*
+*
+*
+& café 2 19: cafe, caff
+*
+*
+
+stderr 0

@@ -1,0 +1,26 @@
+exit 0
+stdout 410
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& Café 2 0: Cafe, Caff
+& über 1 5: beer
+& wrold 2 10: world, wold
+& naïve 2 16: nave, naive
+& tset 5 24: stet, test, set, sett, t set
+# été 29
+& résumé 1 33: resume
+& ő 15 40: e, s, i, a, n, r, t, o, l, c, d, u, g, m, p
+& xyzzy 1 42: muzzy
+
+*
+*
+*
+*
+*
+*
+
+# 中文 0
+# русский 3
+# ελληνικά 11
+& wrold 2 20: world, wold
+
+stderr 0

@@ -1,0 +1,472 @@
+# example: fa
+> AJTÓ
+  spell 1 32 
+  sug AJTÓ
+  ana  st:ajtó
+  stem ajtó
+  stemmorph ajtó
+> AJTÓFA
+  spell 1 33 ajtó
+  sug AJTÓ FA
+  sug AJTÓ
+  ana  pa:ajtó st:ajtó pa:fa
+  stem ajtó
+  stemmorph ajtó
+> Ajtó
+  spell 1 32 
+  sug ajtó
+  ana  st:ajtó
+  stem ajtó
+  stemmorph ajtó
+> Ajtófa
+  spell 1 33 ajtó
+  sug Ajtó fa
+  sug Ajtó
+  ana  pa:ajtó st:ajtó pa:fa
+  stem ajtó
+  stemmorph ajtó
+> FA
+  spell 1 32 
+  sug FA
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> FAAJTÓ
+  spell 1 33 fa
+  sug FA AJTÓ
+  sug FAAJTÓ
+  sug AJTÓ
+  ana  pa:fa st:fa pa:ajtó
+  stem fa
+  stemmorph fa
+> FOJTÓ
+  spell 1 32 
+  sug FOJTÓ
+  ana  st:fojtó
+  stem fojtó
+  stemmorph fojtó
+> Fa
+  spell 1 32 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> Faajtó
+  spell 1 33 fa
+  sug Fa ajtó
+  sug faajtó
+  ana  pa:fa st:fa pa:ajtó
+  stem fa
+  stemmorph fa
+> Fojtó
+  spell 1 32 
+  sug fojtó
+  ana  st:fojtó
+  stem fojtó
+  stemmorph fojtó
+> a
+  spell 0 0 
+  sug fa
+> aajtó
+  spell 0 0 
+  sug ajtó
+> af
+  spell 0 0 
+  sug fa
+> afa
+  spell 0 0 
+  sug fa
+> ajjtó
+  spell 0 0 
+  sug ajtó
+> ajoó
+  spell 0 0 
+  sug ajtó
+> ajt
+  spell 0 0 
+  sug ajtó
+> ajtf
+  spell 0 0 
+  sug ajtó
+> ajtj
+  spell 0 0 
+  sug ajtó
+> ajttó
+  spell 0 0 
+  sug ajtó
+> ajtó
+  spell 1 0 
+  sug ajtó
+  ana  st:ajtó
+  stem ajtó
+  stemmorph ajtó
+> ajtó-ajtó
+  spell 1 1 
+  sug ajtóajtó
+> ajtó-fa
+  spell 1 1 
+  sug ajtófa
+> ajtó-faajtó
+  spell 1 1 
+  sug ajtófaajtó
+> ajtó.
+  spell 1 0 
+  sug ajtó
+  ana  st:ajtó
+  stem ajtó
+  stemmorph ajtó
+> ajtóa
+  spell 0 0 
+  sug ajtó
+> ajtóajtó
+  spell 1 1 ajtó
+  sug ajtó ajtó
+  sug ajtó
+  ana  pa:ajtó st:ajtó pa:ajtó
+  stem ajtó
+  stemmorph ajtó
+> ajtófa
+  spell 1 1 ajtó
+  sug ajtó fa
+  sug ajtó
+  ana  pa:ajtó st:ajtó pa:fa
+  stem ajtó
+  stemmorph ajtó
+> ajtófa-fa
+  spell 1 1 
+  sug ajtófafa
+> ajtófa.
+  spell 1 1 ajtó
+  sug ajtó fa
+  sug ajtófa
+  sug ajtó
+  ana  pa:ajtó st:ajtó pa:fa
+  stem ajtó
+  stemmorph ajtó
+> ajtófaajtófa
+  spell 1 1 ajtó
+  sug ajtófa ajtófa
+  ana  pa:ajtó st:ajtó pa:fa st:fa pa:ajtó st:ajtó pa:fa
+  stem ajtófaajtó
+  stemmorph ajtófaajtó
+> ajtófaf
+  spell 0 0 
+  sug ajtófa
+> ajtófafa
+  spell 1 1 ajtó
+  sug ajtófa
+  ana  pa:ajtó st:ajtó pa:fa st:fa pa:fa
+  stem ajtófa
+  stemmorph ajtófa
+> ajtófta
+  spell 0 0 
+  sug ajtófa
+> ajtótfa
+  spell 0 0 
+  sug ajtófa
+> ajtóófa
+  spell 0 0 
+  sug ajtófa
+> ajót
+  spell 0 0 
+  sug ajtó
+> ató
+  spell 0 0 
+  sug ajtó
+> f
+  spell 0 0 
+  sug fa
+> fa
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> fa-fa
+  spell 1 1 
+  sug fafa
+> fa-faajtó
+  spell 1 1 
+  sug fafaajtó
+> fa-fojtó
+  spell 1 1 
+  sug fojtó
+> fa.
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> faa
+  spell 0 0 
+  sug fa
+> faajtfó
+  spell 0 0 
+  sug faajtó
+> faajtó
+  spell 1 1 fa
+  sug fa ajtó
+  sug faajtó
+  ana  pa:fa st:fa pa:ajtó
+  stem fa
+  stemmorph fa
+> faajtó-ajtó
+  spell 1 1 
+  sug faajtóajtó
+> faajtó-ajtófa
+  spell 1 1 
+  sug faajtóajtófa
+> faajtó-fa
+  spell 1 1 
+  sug faajtófa
+> faajtó.
+  spell 1 1 fa
+  sug fa ajtó
+  sug faajtó
+  sug ajtó
+  ana  pa:fa st:fa pa:ajtó
+  stem fa
+  stemmorph fa
+> faajtóajtó
+  spell 1 1 fa
+  sug faajtóajtó
+  ana  pa:fa st:fa pa:ajtó st:ajtó pa:ajtó
+  stem faajtó
+  stemmorph faajtó
+> faajtófa
+  spell 1 1 fa
+  sug faajtófa
+  ana  pa:fa st:fa pa:ajtó st:ajtó pa:fa
+  stem faajtó
+  stemmorph faajtó
+> faajtófojtó
+  spell 0 0 
+> fafa
+  spell 1 1 fa
+  sug fa fa
+  sug fa
+  ana  pa:fa st:fa pa:fa
+  stem fa
+  stemmorph fa
+> fafaajtó
+  spell 1 1 fa
+  sug fafaajtó
+  ana  pa:fa st:fa pa:fa st:fa pa:ajtó
+  stem fafa
+  stemmorph fafa
+> fafojtó
+  spell 0 0 
+  sug fa fojtó
+  sug fojtó
+> fat
+  spell 0 0 
+  sug fa
+> faó
+  spell 0 0 
+  sug fa
+> ff
+  spell 0 0 
+  sug fa
+> ffa
+  spell 0 0 
+  sug fa
+> fj
+  spell 0 0 
+  sug fa
+> fjjtó
+  spell 0 0 
+  sug fojtó
+> fo
+  spell 0 0 
+  sug fojtó
+> foaajtó
+  spell 0 0 
+  sug faajtó
+> fojt
+  spell 0 0 
+  sug fojtó
+> fojtó
+  spell 1 0 
+  sug fojtó
+  ana  st:fojtó
+  stem fojtó
+  stemmorph fojtó
+> fojtó-ajtó
+  spell 1 1 
+> fojtó-ajtófa
+  spell 1 1 
+> fojtó-fa
+  spell 1 1 
+  sug fojtó
+> fojtó-faajtó
+  spell 1 1 
+> fojtófaajtó
+  spell 0 0 
+> fojtój
+  spell 0 0 
+  sug fojtó
+> fóojtó
+  spell 0 0 
+  sug fojtó
+> jajtó
+  spell 0 0 
+  sug ajtó
+> jató
+  spell 0 0 
+  sug ajtó
+> jjtó
+  spell 0 0 
+  sug ajtó
+> jtófa
+  spell 0 0 
+  sug ajtó
+> ofojtó
+  spell 0 0 
+  sug fojtó
+> ta
+  spell 0 0 
+  sug ajtó
+> tfa
+  spell 0 0 
+  sug fa
+> ójtó
+  spell 0 0 
+  sug ajtó
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> fa's
+  spell 0 0 
+  sug fa
+> fa’s
+  spell 0 0 
+  sug fa
+> 'fa'
+  spell 0 0 
+> l'fa
+  spell 0 0 
+> fa.
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> fa..
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> .fa
+  spell 0 0 
+  sug fa
+> ...
+  spell 1 0 
+> -fa
+  spell 1 1 
+  sug fa
+> fa-
+  spell 1 1 
+  sug fa
+> fa--faajtó
+  spell 1 1 
+> fa-faajtó-fa
+  spell 1 1 
+> FA
+  spell 1 32 
+  sug FA
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> FA
+  spell 1 32 
+  sug FA
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> Fa
+  spell 1 32 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> fa faajtó
+  spell 0 0 
+  sug fafaajtó
+>  fa
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> fa 
+  spell 0 0 
+  sug fa
+> fa	faajtó
+  spell 0 0 
+  sug fafaajtó
+> ��fa
+  spell 0 0 
+> fa�
+  spell 0 0 
+  sug fa
+> �fa
+  spell 0 0 
+  sug fa
+> 𐐀fa
+  spell 0 0 
+> İfa
+  spell 0 32 
+  sug Fa
+> faß
+  spell 0 0 
+  sug fa
+> fa
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> FASS
+  spell 0 32 
+  sug FA
+> <?xml?><query type="analyze"><word>fa</word></query>
+  spell 0 0 
+  sug <code><a> st:fa</a></code>
+> <?xml?><query type="stem"><word>fa</word></query>
+  spell 0 0 
+  sug fa
+> <?xml?><query type="suggest"><word>fax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>fa</word><word>faajtó</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>fa</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>fa</word></query>
+  spell 0 0 
+  sug <code><a> st:fa</a></code>
+> <?xml?><query type="add"><word>fa</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;fa&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>fa</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

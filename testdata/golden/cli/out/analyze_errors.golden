@@ -1,0 +1,15 @@
+exit 0
+stdout 112
+> hello
+Unknown word.
+> wrold
+Unknown word.
+> tset
+Unknown word.
+> forbidden
+Unknown word.
+> NASA
+Unknown word.
+stderr 99
+error: dict/badflags.dic: line 1: missing or bad word count in the dic file
+Hash Manager Error : 4

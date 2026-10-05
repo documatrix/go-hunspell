@@ -1,0 +1,30 @@
+exit 0
+stdout 600
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& Caf 15 0: Caph, Cad, Ca, Cf, Cafe, Calf, Caff, Can, Car, Cat, Oaf, Cal, Cam, Cap, Cab
+& ber 15 8: brr, bee, bet, be, er, beer, bier, bear, berg, berm, berk, bar, bed, bur, beg
+& wrold 2 12: world, wold
+& na 15 18: an, Na, ma, n, a, nae, nag, nap, nah, nab, nay, Ina, Ana, ea, ta
+& ve 15 22: be, v, e, eve, vie, ave, vet, veg, Eve, Ave, vs, vi, re, me, he
+& tset 5 29: stet, test, set, sett, t set
+*
+*
+*
+& xyzzy 1 52: muzzy
+
+*
+*
+*
+*
+& isn 9 16: sin, ins, ism, is, in, inn, ion, isl, is n
+*
+*
+*
+*
+*
+*
+*
+
+& wrold 2 39: world, wold
+
+stderr 0

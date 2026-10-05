@@ -1,0 +1,4 @@
+kind html-utf8
+wordchars '
+---
+<p>caf\xc3\xa9 dog\xe2\x80\x99s it&apos;s rock&apos;n</p> <img alt="\xc3\xa9t\xc3\xa9">

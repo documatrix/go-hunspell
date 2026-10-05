@@ -1,0 +1,9 @@
+utf8 0
+line [<p>dog&apos;s it&apos; rock&apos;n&apos;roll</p>]
+token 3 [dog&apos;s] word [dog&apos;s]
+token 14 [it] word [it]
+token 23 [rock&apos;n&apos;roll] word [rock&apos;n&apos;roll]
+prev 0 [<p>dog&apos;s it&apos; rock&apos;n&apos;roll</p>]
+prev 1 []
+prev 2 []
+prev 3 []

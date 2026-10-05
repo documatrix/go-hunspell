@@ -1,0 +1,19 @@
+# example: photo
+> fotos
+  spell 0 0 
+  sug photos
+> lafs
+  spell 0 0 
+  sug laughs
+> foto
+  spell 0 0 
+  sug photo
+> fodos
+  spell 0 0 
+  sug photos
+> fottos
+  spell 0 0 
+  sug photos
+> lavs
+  spell 0 0 
+  sug laughs

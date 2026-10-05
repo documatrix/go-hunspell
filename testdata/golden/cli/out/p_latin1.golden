@@ -1,0 +1,14 @@
+exit 0
+stdout 52
+wrold
+café
+naïve
+résumé
+été.
+The
+to
+decreate.
+can
+t
+stderr 73
+in/pers_latin1.dic:2: 'café': error - iconv: ANSI_X3.4-1968 -> ISO8859-1

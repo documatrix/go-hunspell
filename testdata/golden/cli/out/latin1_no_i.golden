@@ -1,0 +1,33 @@
+exit 0
+stdout 311
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+# wrold 6
+& caf 1 12: can't
+& na 1 17: NASA
+& ve 1 20: seven
+# r 23
+& sum 1 25: suggest
+& t 1 31: text
+*
+
+& The 1 0: Text
+*
+*
+*
+& to 1 22: text
+*
+
+*
+*
+*
+& decreate. 3 27: recreate, created, create
+
+*
+*
+*
+& can 1 15: can't
+& t 1 19: text
+*
+
+stderr 0

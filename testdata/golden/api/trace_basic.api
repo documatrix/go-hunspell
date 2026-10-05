@@ -1,0 +1,305 @@
+# example: cat
+> CAT
+  spell 1 32 
+  sug CAT
+  ana  st:cat
+  stem cat
+  stemmorph cat
+> Cat
+  spell 1 32 
+  sug cat
+  ana  st:cat
+  stem cat
+  stemmorph cat
+> DOG
+  spell 0 34 
+> Dog
+  spell 0 34 
+> OWN
+  spell 1 32 
+  sug OWN
+  ana  st:own
+  stem own
+  stemmorph own
+> Own
+  spell 1 32 
+  sug own
+  ana  st:own
+  stem own
+  stemmorph own
+> Xyzzy
+  spell 0 32 
+> acat
+  spell 0 0 
+  sug cat
+> act
+  spell 0 0 
+  sug cat
+> at
+  spell 0 0 
+  sug cat
+> ayzzy
+  spell 0 0 
+> cat
+  spell 1 0 
+  sug cat
+  ana  st:cat
+  stem cat
+  stemmorph cat
+> cat-cat
+  spell 1 1 
+  sug cat
+> cat-dog
+  spell 0 0 
+> cat-own
+  spell 1 1 
+> cat-xyzzy
+  spell 0 0 
+> cat.
+  spell 1 0 
+  sug cat
+  ana  st:cat
+  stem cat
+  stemmorph cat
+> catcat
+  spell 0 0 
+  sug cat cat
+  sug cat
+> catown
+  spell 0 0 
+  sug cat own
+  sug cat
+> catt
+  spell 0 0 
+  sug cat
+> cta
+  spell 0 0 
+  sug cat
+> ddog
+  spell 0 0 
+> dg
+  spell 0 0 
+> dgo
+  spell 0 0 
+> do
+  spell 0 0 
+> dog
+  spell 0 2 
+> dog-cat
+  spell 0 0 
+> dog-dog
+  spell 0 0 
+> dog-xyzzy
+  spell 0 0 
+> dog.
+  spell 0 2 
+> dogcat
+  spell 0 0 
+> dogg
+  spell 0 0 
+> dogown
+  spell 0 0 
+> dogxyzzy
+  spell 0 0 
+> dowg
+  spell 0 0 
+> doy
+  spell 0 0 
+> gwn
+  spell 0 0 
+  sug own
+> oan
+  spell 0 0 
+  sug own
+> ocwn
+  spell 0 0 
+  sug own
+> odg
+  spell 0 0 
+> odn
+  spell 0 0 
+  sug own
+> og
+  spell 0 0 
+  sug own
+> on
+  spell 0 0 
+  sug own
+> onw
+  spell 0 0 
+  sug own
+> oog
+  spell 0 0 
+> ow
+  spell 0 0 
+  sug own
+> owc
+  spell 0 0 
+  sug own
+> own
+  spell 1 0 
+  sug own
+  ana  st:own
+  stem own
+  stemmorph own
+> own-cat
+  spell 1 1 
+> own-dog
+  spell 0 0 
+> own.
+  spell 1 0 
+  sug own
+  ana  st:own
+  stem own
+  stemmorph own
+> owncat
+  spell 0 0 
+  sug own cat
+  sug own
+> owndog
+  spell 0 0 
+  sug own
+> ownxyzzy
+  spell 0 0 
+> owny
+  spell 0 0 
+  sug own
+> wn
+  spell 0 0 
+  sug own
+> wog
+  spell 0 0 
+> won
+  spell 0 0 
+  sug own
+> xyzyz
+  spell 0 0 
+> xyzz
+  spell 0 0 
+> xyzzgy
+  spell 0 0 
+> xyzzo
+  spell 0 0 
+> xyzzy
+  spell 0 0 
+> xyzzy-cat
+  spell 0 0 
+> xyzzy.
+  spell 0 0 
+> xyzzydog
+  spell 0 0 
+> xyzzyn
+  spell 0 0 
+> xyzzyown
+  spell 0 0 
+> xyzzyw
+  spell 0 0 
+> xyzzyxyzzy
+  spell 0 0 
+> xzzy
+  spell 0 0 
+> yzzy
+  spell 0 0 
+> zdog
+  spell 0 0 
+> zwn
+  spell 0 0 
+  sug own
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> dog's
+  spell 0 0 
+> dogâ€™s
+  spell 0 0 
+> 'dog'
+  spell 0 0 
+> l'dog
+  spell 0 0 
+> dog.
+  spell 0 2 
+> dog..
+  spell 0 2 
+> .dog
+  spell 0 0 
+> ...
+  spell 1 0 
+> -dog
+  spell 0 0 
+> dog-
+  spell 0 0 
+> dog--xyzzy
+  spell 0 0 
+> dog-xyzzy-dog
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> DOG
+  spell 0 34 
+> DOG
+  spell 0 34 
+> Dog
+  spell 0 34 
+> dog xyzzy
+  spell 0 0 
+>  dog
+  spell 0 2 
+> dog 
+  spell 0 0 
+> dog	xyzzy
+  spell 0 0 
+> ÿþdog
+  spell 0 0 
+> dogÃ
+  spell 0 32 
+> €dog
+  spell 0 0 
+> ð€dog
+  spell 0 0 
+> Ä°dog
+  spell 0 32 
+> dogÃŸ
+  spell 0 32 
+> dog
+  spell 0 2 
+> DOGSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>dog</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>dog</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>dogx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>dog</word><word>xyzzy</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>dog</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>dog</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>dog</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;dog&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>dog</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

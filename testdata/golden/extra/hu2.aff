@@ -1,0 +1,13 @@
+# Hungarian compounds without continuation classes
+SET UTF-8
+LANG hu_HU
+COMPOUNDFLAG X
+COMPOUNDSYLLABLE 4 aáeéiíoóöőuúüű
+COMPOUNDWORDMAX 2
+SYLLABLENUM c
+
+PFX P Y 1
+PFX P 0 ele .
+
+SFX c Y 1
+SFX c 0 nak .

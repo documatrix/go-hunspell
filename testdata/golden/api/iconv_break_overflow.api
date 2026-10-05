@@ -1,0 +1,224 @@
+# example: test
+> AA
+  spell 0 32 
+> Aa
+  spell 0 32 
+> TEST
+  spell 1 32 
+  sug TEST
+  ana  st:test
+  stem test
+  stemmorph test
+> Test
+  spell 1 32 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> a
+  spell 0 0 
+> aa
+  spell 0 0 
+> aa-aa
+  spell 0 0 
+> aa-test
+  spell 0 0 
+> aa.
+  spell 0 0 
+> aaa
+  spell 0 0 
+> aaaa
+  spell 0 0 
+> aae
+  spell 0 0 
+> aas
+  spell 0 0 
+> aat
+  spell 0 0 
+> aatest
+  spell 0 0 
+> ae
+  spell 0 0 
+> aest
+  spell 0 0 
+> asa
+  spell 0 0 
+> ea
+  spell 0 0 
+> eaa
+  spell 0 0 
+> eest
+  spell 0 0 
+  sug test
+> est
+  spell 0 0 
+  sug test
+> etst
+  spell 0 0 
+  sug test
+> sa
+  spell 0 0 
+> taa
+  spell 0 0 
+> tast
+  spell 0 0 
+> tes
+  spell 0 0 
+  sug test
+> tesat
+  spell 0 0 
+  sug test
+> tesst
+  spell 0 0 
+  sug test
+> test
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> test-aa
+  spell 0 0 
+  sug test
+> test-test
+  spell 0 0 
+> test.
+  spell 1 0 
+  sug test
+  ana  st:test
+  stem test
+  stemmorph test
+> testaa
+  spell 0 0 
+  sug test
+> teste
+  spell 0 0 
+  sug test
+> tests
+  spell 0 0 
+  sug test
+> testtest
+  spell 0 0 
+  sug test test
+  sug test
+> tet
+  spell 0 0 
+  sug test
+> tets
+  spell 0 0 
+  sug test
+> tetst
+  spell 0 0 
+  sug test
+> tset
+  spell 0 0 
+  sug test
+> tsst
+  spell 0 0 
+  sug test
+> tst
+  spell 0 0 
+  sug test
+> ttest
+  spell 0 0 
+  sug test
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+  sug 12-test
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+  sug test
+> 0x1F
+  spell 0 32 
+> -1
+  spell 0 0 
+> aa's
+  spell 0 0 
+> aaâ€™s
+  spell 0 0 
+> 'aa'
+  spell 0 0 
+> l'aa
+  spell 0 0 
+> aa.
+  spell 0 0 
+> aa..
+  spell 0 0 
+> .aa
+  spell 0 0 
+> ...
+  spell 1 0 
+> -aa
+  spell 0 0 
+> aa-
+  spell 0 0 
+> aa--test
+  spell 0 0 
+> aa-test-aa
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> AA
+  spell 0 32 
+> AA
+  spell 0 32 
+> Aa
+  spell 0 32 
+> aa test
+  spell 0 0 
+>  aa
+  spell 0 0 
+> aa 
+  spell 0 0 
+> aa	test
+  spell 0 0 
+> ÿþaa
+  spell 0 0 
+> aaÃ
+  spell 0 32 
+> €aa
+  spell 0 0 
+> ð€aa
+  spell 0 0 
+> Ä°aa
+  spell 0 32 
+> aaÃŸ
+  spell 0 32 
+> aa
+  spell 0 0 
+> AASS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>aa</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>aa</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>aax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>aa</word><word>test</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>aa</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>aa</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>aa</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;aa&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>aa</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

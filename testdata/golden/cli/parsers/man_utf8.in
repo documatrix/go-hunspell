@@ -1,0 +1,4 @@
+kind man-utf8
+---
+.TH X 1
+caf\xc3\xa9 \\fBm\xc3\xbcnchen\\fR

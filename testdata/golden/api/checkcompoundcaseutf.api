@@ -1,0 +1,482 @@
+# example: áoó
+> ooó
+  spell 0 0 
+  sug áoó
+> oÓoá
+  spell 0 32 
+  sug Óoá
+  sug áoó
+> oÓááoó
+  spell 0 32 
+  sug Óoááoó
+  sug áoóáoó
+> oá
+  spell 0 0 
+  sug áoó
+> oááoó
+  spell 0 0 
+  sug áoó
+> oáóáoó
+  spell 0 0 
+  sug áoóáoó
+> oó
+  spell 0 0 
+  sug áoó
+> oóáoó
+  spell 0 0 
+  sug áoó
+> ÁOÓ
+  spell 1 32 
+  sug ÁOÓ
+  ana  st:áoó
+  stem áoó
+  stemmorph áoó
+> ÁOÓÁOÓ
+  spell 1 33 áoó
+  sug ÁOÓ ÁOÓ
+  sug ÁOÓ
+  ana  pa:áoó st:áoó pa:áoó
+  stem áoó
+  stemmorph áoó
+> ÁOÓÓOÁ
+  spell 0 32 
+  sug ÁOÓÁOÓ
+  sug ÁOÓ
+> Áoó
+  spell 1 32 
+  sug áoó
+  ana  st:áoó
+  stem áoó
+  stemmorph áoó
+> Áoóáoó
+  spell 1 33 áoó
+  sug Áoó áoó
+  sug Áoó
+  ana  pa:áoó st:áoó pa:áoó
+  stem áoó
+  stemmorph áoó
+> ÓOÁ
+  spell 1 32 
+  sug ÁOÓ
+  sug ÓOÁ
+  ana  st:Óoá
+  stem Óoá
+  stemmorph Óoá
+> ÓOÁÁOÓ
+  spell 1 33 Óoá
+  sug ÁOÓÁOÓ
+  sug ÓOÁÁOÓ
+  sug ÓOÁ ÁOÓ
+  sug ÓOÁ
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> Óo
+  spell 0 32 
+  sug Óoá
+> Óooá
+  spell 0 32 
+  sug Óoá
+> Óoá
+  spell 1 32 
+  sug Áoó
+  sug Óoá
+  ana  st:Óoá
+  stem Óoá
+  stemmorph Óoá
+> Óoá-Óoá
+  spell 1 33 
+  sug Óoá
+> Óoá-áoó
+  spell 1 33 
+  sug Óoááoó
+  sug Óoá
+> Óoá-áoóáoó
+  spell 1 33 
+  sug Óoááoóáoó
+> Óoá.
+  spell 1 32 
+  sug Áoó
+  sug Óoá
+  ana  st:Óoá
+  stem Óoá
+  stemmorph Óoá
+> Óoáo
+  spell 0 32 
+  sug Óoá
+  sug Áoó
+> Óoáoáó
+  spell 0 32 
+  sug Óoááoó
+  sug Óoá
+> Óoáoó
+  spell 0 32 
+  sug Óoá
+  sug Áoó
+> Óoááoó
+  spell 1 33 Óoá
+  sug Óoá áoó
+  sug Óoááoó
+  sug Áoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> Óoááoó-Óoá
+  spell 1 33 
+> Óoááoó-Óoááoó
+  spell 1 33 
+> Óoááoó-áoóÓoá
+  spell 0 32 
+  sug Óoááoó-áoó Óoá
+  sug Óoááoó-áoóáoó
+  sug Óoááoó-áoó
+> Óoááoó.
+  spell 1 33 Óoá
+  sug Óoá áoó
+  sug Óoááoó
+  sug Áoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> ÓoááoóÓoá
+  spell 0 32 
+  sug Óoááoóáoó
+> Óoááoóáoó
+  spell 1 33 Óoá
+  sug Óoááoóáoó
+  sug Áoóáoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó st:áoó pa:áoó
+  stem Óoááoó
+  stemmorph Óoááoó
+> ÓoááoóáoóÓoá
+  spell 0 32 
+  sug Óoááoóáoóáoó
+> Óoááoóó
+  spell 0 32 
+  sug Óoááoó
+  sug Óoá
+> ÓoááÓoó
+  spell 0 32 
+  sug Óoááoó
+  sug Óoá
+> Óoááó
+  spell 0 32 
+  sug Óoá
+> Óoááóoó
+  spell 0 32 
+  sug Óoááoó
+  sug Óoá
+> Óoáóoó
+  spell 0 32 
+  sug Óoá
+> Óoó
+  spell 0 32 
+  sug Óoá
+> Óoóá
+  spell 0 32 
+  sug Óoá
+> Óá
+  spell 0 32 
+  sug Óoá
+> ÓáoóÓoá
+  spell 0 32 
+> Óóááoó
+  spell 0 32 
+> áo
+  spell 0 0 
+  sug áoó
+> áooó
+  spell 0 0 
+  sug áoó
+> áooóáoó
+  spell 0 0 
+  sug áoóáoó
+> áoÓ
+  spell 0 32 
+  sug áoó
+  sug Óoá
+> áoáóÓoá
+  spell 0 32 
+> áoó
+  spell 1 0 
+  sug áoó
+  ana  st:áoó
+  stem áoó
+  stemmorph áoó
+> áoó-Óoá
+  spell 1 33 
+  sug áoó
+> áoó-áoó
+  spell 1 1 
+  sug áoóáoó
+> áoó-áoóáoó
+  spell 1 1 
+  sug áoóáoóáoó
+> áoó.
+  spell 1 0 
+  sug áoó
+  ana  st:áoó
+  stem áoó
+  stemmorph áoó
+> áoóoá
+  spell 0 0 
+  sug áoó
+> áoóoáó
+  spell 0 0 
+  sug áoóáoó
+> áoóÓoá
+  spell 0 32 
+  sug áoó Óoá
+  sug áoóáoó
+  sug áoó
+> áoóÓoá-Óoá
+  spell 0 32 
+  sug áoó Óoá-Óoá
+  sug áoóáoó-Óoá
+  sug áoó-Óoá
+> áoóÓoá.
+  spell 0 32 
+  sug áoó Óoá
+  sug áoóáoó
+  sug áoó
+> áoóÓoáÓoááoó
+  spell 0 32 
+> áoóÓoáá
+  spell 0 32 
+  sug áoó
+> áoóÓoááoó
+  spell 0 32 
+  sug áoóáoóáoó
+> áoóÓoááoóáoó
+  spell 0 32 
+  sug áoóáoóáoóáoó
+> áoóÓoó
+  spell 0 32 
+  sug áoó
+> áoóÓoóá
+  spell 0 32 
+  sug áoó
+> áoóÓáo
+  spell 0 32 
+  sug áoóáoó
+> áoóá
+  spell 0 0 
+  sug áoó
+> áoóáooó
+  spell 0 0 
+  sug áoóáoó
+> áoóáoó
+  spell 1 1 áoó
+  sug áoó áoó
+  sug áoó
+  ana  pa:áoó st:áoó pa:áoó
+  stem áoó
+  stemmorph áoó
+> áoóáoó-Óoá
+  spell 1 33 
+> áoóáoó-áoó
+  spell 1 1 
+  sug áoóáoóáoó
+> áoóáoó.
+  spell 1 1 áoó
+  sug áoó áoó
+  sug áoóáoó
+  sug áoó
+  ana  pa:áoó st:áoó pa:áoó
+  stem áoó
+  stemmorph áoó
+> áoóáoóÓoá
+  spell 0 32 
+  sug áoóáoóáoó
+> áoóáoóÓoááoó
+  spell 0 32 
+  sug áoóáoó Óoááoó
+  sug áoóáoóáoóáoó
+> áoóáoóá
+  spell 0 0 
+  sug áoóáoó
+> áoóáoóáoó
+  spell 1 1 áoó
+  ana  pa:áoó st:áoó pa:áoó st:áoó pa:áoó
+  stem áoóáoó
+  stemmorph áoóáoó
+> áoóáoóáoóáoó
+  spell 1 1 áoó
+  sug áoóáoó áoóáoó
+  ana  pa:áoó st:áoó pa:áoó st:áoó pa:áoó st:áoó pa:áoó
+  stem áoóáoóáoó
+  stemmorph áoóáoóáoó
+> áoóáó
+  spell 0 0 
+  sug áoó
+> áoóáóo
+  spell 0 0 
+  sug áoóáoó
+> áoóóoó
+  spell 0 0 
+  sug áoó
+> áÓó
+  spell 0 32 
+  sug áoó
+> áÓóáoó
+  spell 0 32 
+  sug áoó
+> áó
+  spell 0 0 
+  sug áoó
+> áóoáoó
+  spell 0 0 
+  sug áoóáoó
+> áóoóÓoá
+  spell 0 32 
+> óoóÓoá
+  spell 0 32 
+  sug Óoá
+> óáoóÓoá
+  spell 0 32 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Óoááoó's
+  spell 0 32 
+> Óoááoó’s
+  spell 0 32 
+> 'Óoááoó'
+  spell 0 32 
+> l'Óoááoó
+  spell 0 32 
+> Óoááoó.
+  spell 1 33 Óoá
+  sug Óoá áoó
+  sug Óoááoó
+  sug Áoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> Óoááoó..
+  spell 1 33 Óoá
+  sug Óoá áoó
+  sug Óoááoó
+  sug Áoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> .Óoááoó
+  spell 0 32 
+  sug . Óoááoó
+  sug Óoááoó
+> ...
+  spell 1 0 
+> -Óoááoó
+  spell 1 33 
+  sug Óoááoó
+> Óoááoó-
+  spell 1 33 
+  sug Óoááoó
+> Óoááoó--áoóÓoá
+  spell 0 32 
+  sug Óoááoó--áoó Óoá
+  sug Óoááoó--áoóáoó
+  sug Óoááoó--áoó
+> Óoááoó-áoóÓoá-Óoááoó
+  spell 0 32 
+  sug Óoááoó-áoó Óoá-Óoááoó
+  sug Óoááoó-áoóáoó-Óoááoó
+  sug Óoááoó-áoó-Óoááoó
+> ÓOááOó
+  spell 0 32 
+  sug Óoá Áoó
+  sug Óoááoó
+  sug Áoóáoó
+  sug Óoá
+> ÓOááOó
+  spell 0 32 
+  sug Óoá Áoó
+  sug Óoááoó
+  sug Áoóáoó
+  sug Óoá
+> ÓOááOó
+  spell 0 32 
+  sug Óoá Áoó
+  sug Óoááoó
+  sug Áoóáoó
+  sug Óoá
+> Óoááoó áoóÓoá
+  spell 0 32 
+>  Óoááoó
+  spell 1 33 Óoá
+  sug Óoá áoó
+  sug Óoááoó
+  sug Áoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> Óoááoó 
+  spell 0 32 
+  sug Óoááoó
+> Óoááoó	áoóÓoá
+  spell 0 32 
+> ��Óoááoó
+  spell 0 0 
+> Óoááoó�
+  spell 0 32 
+  sug Óoááoó
+> �Óoááoó
+  spell 0 32 
+  sug Óoááoó
+> 𐐀Óoááoó
+  spell 0 0 
+> İÓoááoó
+  spell 0 32 
+  sug Óoááoó
+> Óoááoóß
+  spell 0 32 
+  sug Óoááoó
+> Óoááoó
+  spell 1 33 Óoá
+  sug Óoá áoó
+  sug Óoááoó
+  sug Áoóáoó
+  ana  pa:Óoá st:Óoá pa:áoó
+  stem Óoá
+  stemmorph Óoá
+> ÓOááOóSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>Óoááoó</word></query>
+  spell 0 32 
+  sug <code><a> pa:Óoá st:Óoá pa:áoó</a></code>
+> <?xml?><query type="stem"><word>Óoááoó</word></query>
+  spell 0 32 
+  sug Óoá
+> <?xml?><query type="suggest"><word>Óoááoóx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Óoááoó</word><word>áoóÓoá</word></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Óoááoó</word></query>
+  spell 0 32 
+  sug <code><a> pa:Óoá st:Óoá pa:áoó</a></code>
+> <?xml?><query type="add"><word>Óoááoó</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Óoááoó&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Óoááoó</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

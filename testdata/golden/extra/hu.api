@@ -1,0 +1,739 @@
+# example: alma
+> alma
+  spell 1 0 
+  sug alma-
+  ana  st:alma po:noun
+  stem alma
+  stemmorph alma
+  sfx almani
+  sfx almanak
+  sfx almaval
+  sfx almaban
+> almafa
+  spell 0 3 
+  sug alma fa
+  sug alma
+> fakert
+  spell 0 2 
+  sug fa-kert
+  sug kert
+> almaház
+  spell 1 1 alma
+  sug alma-ház
+  sug alma-
+  ana  pa:alma st:alma po:noun pa:ház st:ház po:noun
+  stem almaház
+  stemmorph almaház
+> házalma
+  spell 1 1 ház
+  sug ház-alma
+  sug házalma-
+  ana  pa:ház st:ház po:noun pa:alma st:alma po:noun
+  stem házalma
+  stemmorph házalma
+> elealmaház
+  spell 0 0 
+  sug elealma-ház
+  ana  pa:elealma ele st:alma po:noun pa:ház st:ház po:noun
+  stem elealmaház
+  stemmorph elealmaház
+> házelealma
+  spell 0 0 
+  sug ház-elealma
+> almanak
+  spell 1 0 alma
+  sug almanak
+  ana  st:alma po:noun fl:c
+  stem alma
+  stemmorph alma
+> házalmanak
+  spell 1 1 ház
+  sug ház-almanak
+  ana  pa:ház st:ház po:noun pa:almanak  st:alma po:noun fl:c
+  stem házalma
+  stemmorph házalma
+> almaházban
+  spell 1 1 alma
+  sug alma-házban
+  ana  pa:alma st:alma po:noun pa:házban  st:ház po:noun fl:J
+  stem almaház
+  stemmorph almaház
+> házkertval
+  spell 1 1 ház
+  sug ház-kertval
+  ana  pa:ház st:ház po:noun pa:kertval  st:kert po:noun fl:I
+  stem házkert
+  stemmorph házkert
+> kertházval
+  spell 1 1 kert
+  sug kert-házval
+  ana  pa:kert st:kert po:noun pa:házval  st:ház po:noun fl:I
+  stem kertház
+  stemmorph kertház
+> almaházval
+  spell 1 1 alma
+  sug alma-házval
+  ana  pa:alma st:alma po:noun pa:házval  st:ház po:noun fl:I
+  stem almaház
+  stemmorph almaház
+> kertalmaval
+  spell 1 1 kert
+  sug kert-almaval
+  ana  pa:kert st:kert po:noun pa:almaval  st:alma po:noun fl:I
+  stem kertalma
+  stemmorph kertalma
+> almaházni
+  spell 0 0 
+> almaházanis
+  spell 0 0 
+> vízfa
+  spell 0 0 
+  sug víz-fa
+  sug víz
+> fafavíz
+  spell 0 0 
+> almavízház
+  spell 1 1 alma
+  sug alma-vízház
+  ana  pa:alma st:alma po:noun pa:víz st:víz po:noun pa:ház st:ház po:noun
+  stem almavízház
+  stemmorph almavízház
+> autóbusz
+  spell 1 1 autó
+  sug autó-busz
+  sug autó
+  ana  pa:autó st:autó po:noun pa:busz st:busz po:noun
+  stem autóbusz
+  stemmorph autóbusz
+> autóbusz-
+  spell 1 1 autó
+  sug autóbusz
+  ana  pa:autó st:autó po:noun pa:busz st:busz po:noun
+  stem autóbusz
+  stemmorph autóbusz
+> tető-
+  spell 1 1 
+  sug tető
+  ana  st:tető po:noun
+  stem tető
+  stemmorph tető
+> tetőablak-
+  spell 1 1 tető
+  sug tetőablak
+  ana  pa:tető st:tető po:noun pa:ablak st:ablak po:noun
+  stem tetőablak
+  stemmorph tetőablak
+> ablakajtó-
+  spell 1 1 ablak
+  sug ablakajtó
+  ana  pa:ablak st:ablak po:noun pa:ajtó st:ajtó po:noun
+  stem ablakajtó
+  stemmorph ablakajtó
+> késó-
+  spell 1 1 
+  sug késó
+  sug kés
+  ana  st:kés po:verb fl:x
+  stem kés
+  stemmorph kés
+> késóház-
+  spell 1 1 kés
+  sug késó ház-
+  sug késó-ház-
+> alma-
+  spell 1 0 
+  sug alma
+  ana  st:alma- po:noun
+  stem alma-
+  stemmorph alma-
+> alma-e
+  spell 0 0 
+  sug alma-
+  sug alma -e
+  sug alma--e
+  ana  st:alma po:noun+ st:-e po:part
+  stem alma
+  stemmorph alma
+> alma-ház
+  spell 1 1 alma-
+  sug alma--ház
+  sug almaház
+  ana  pa:alma- st:alma- po:noun pa:ház st:ház po:noun
+  stem alma-ház
+  stemmorph alma-ház
+> alma-körte
+  spell 1 1 alma-
+  sug alma--körte
+  sug almakörte
+  ana  pa:alma- st:alma- po:noun pa:körte st:körte po:noun
+  stem alma-körte
+  stemmorph alma-körte
+> alma-kx-y
+  spell 1 1 
+  sug alma- kx-y
+  sug alma--kx-y
+  sug alma-
+> 1000-ban
+  spell 0 0 
+  sug 000-ban
+  sug 0-ban
+  ana 000-ban st:000-ban po:num
+  stem 000-ban
+  stemmorph 000-ban
+> 12-ban
+  spell 0 0 
+  sug 1-ban
+> 1.000-ban
+  spell 0 0 
+  sug 000-ban
+  ana 000-ban st:000-ban po:num
+  stem 000-ban
+  stemmorph 000-ban
+> 5.-ban
+  spell 0 0 
+  sug 0-ban
+> 1000-hoz
+  spell 0 0 
+  sug 0-hoz
+  ana 0-hoz st:0-hoz po:num
+  stem 0-hoz
+  stemmorph 0-hoz
+> 50%
+  spell 0 0 
+  ana 5+
+  ana  st:% po:symbol
+  stem %
+  stemmorph %
+> 12345.6
+  spell 1 0 
+> 1..2
+  spell 0 0 
+> 1.2345
+  spell 1 0 
+> 3%
+  spell 0 0 
+  sug %
+  ana +
+  ana  st:% po:symbol
+  stem %
+  stemmorph %
+> 1000
+  spell 1 0 
+  ana 100
+> körtelábszilva
+  spell 0 0 
+> lábkörte
+  spell 1 1 láb
+  sug körte
+  ana  pa:láb st:láb po:noun pa:körte st:körte po:noun
+  stem lábkörte
+  stemmorph lábkörte
+> ló-
+  spell 1 1 
+  sug ló
+  ana  st:ló po:noun
+  stem ló
+  stemmorph ló
+> almaksz
+  spell 0 0 
+  sug alma-
+> almax
+  spell 0 0 
+  sug alma
+  sug alma-
+> almaszilvakörte
+  spell 0 0 
+> fakertház
+  spell 0 0 
+> ALMAHÁZ
+  spell 1 33 alma
+  sug ALMA-HÁZ
+  sug ALMAHÁZ
+  sug ALMA-
+  ana  pa:alma st:alma po:noun pa:ház st:ház po:noun
+  stem almaház
+  stemmorph almaház
+> Almaház
+  spell 1 33 alma
+  sug almaház
+  sug Alma-ház
+  sug Alma-
+  ana  pa:alma st:alma po:noun pa:ház st:ház po:noun
+  stem almaház
+  stemmorph almaház
+@trace almaház
+  trace 0 word "almaház"
+  trace 1 lookup "almaház" -> miss
+  trace 1 pfx "almaház" candidates=0
+  trace 1 sfx "almaház" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=3 left="alm" right="aház"
+  trace 3 first "alm" -> miss
+  trace 3 pfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 pfx "alm" candidates=0
+  trace 2 split at=4 left="alma" right="ház"
+  trace 3 first "alma" -> entry "alma" flags=I,J,K,P,Q,X,c
+  trace 3 second "ház" -> entry "ház" flags=I,J,L,X,c
+  trace 3 test wordpair -> pass, no space splits this into a known word pair
+  trace 1 result correct
+  spell 1
+@trace almaszilvakörte
+  trace 0 word "almaszilvakörte"
+  trace 1 lookup "almaszilvakörte" -> miss
+  trace 1 pfx "almaszilvakörte" candidates=0
+  trace 1 sfx "almaszilvakörte" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=3 left="alm" right="aszilvakörte"
+  trace 3 first "alm" -> miss
+  trace 3 pfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 pfx "alm" candidates=0
+  trace 2 split at=4 left="alma" right="szilvakörte"
+  trace 3 first "alma" -> entry "alma" flags=I,J,K,P,Q,X,c
+  trace 3 second "szilvakörte" -> miss
+  trace 3 pfx "szilvakörte" candidates=0
+  trace 3 sfx "szilvakörte" candidates=0
+  trace 3 pfx "szilvakörte" candidates=0
+  trace 3 sfx "szilvakörte" candidates=0
+  trace 2 split at=5 left="almas" right="zilvakörte"
+  trace 3 first "almas" -> miss
+  trace 3 pfx "almas" candidates=0
+  trace 3 sfx flag=Z strip="" add="s" cont=(none) cond="." at=aff:44 xprod=Y hdr=aff:43
+  trace 4 test compoundpermit flag=W in=sfx-cont have=(none) -> fail, a suffix at the start of a compound needs this flag
+  trace 3 sfx flag=Z strip="" add="s" cont=(none) cond="." at=aff:44 xprod=Y hdr=aff:43
+  trace 4 test compoundpermit flag=W in=sfx-cont have=(none) -> fail, a suffix at the start of a compound needs this flag
+  trace 3 pfx "almas" candidates=0
+  trace 2 split at=6 left="almasz" right="ilvakörte"
+  trace 3 first "almasz" -> miss
+  trace 3 pfx "almasz" candidates=0
+  trace 3 sfx "almasz" candidates=0
+  trace 3 sfx "almasz" candidates=0
+  trace 3 pfx "almasz" candidates=0
+  trace 2 split at=7 left="almaszi" right="lvakörte"
+  trace 3 first "almaszi" -> miss
+  trace 3 pfx "almaszi" candidates=0
+  trace 3 sfx "almaszi" candidates=0
+  trace 3 sfx "almaszi" candidates=0
+  trace 3 pfx "almaszi" candidates=0
+  trace 2 split at=8 left="almaszil" right="vakörte"
+  trace 3 first "almaszil" -> miss
+  trace 3 pfx "almaszil" candidates=0
+  trace 3 sfx "almaszil" candidates=0
+  trace 3 sfx "almaszil" candidates=0
+  trace 3 pfx "almaszil" candidates=0
+  trace 2 split at=9 left="almaszilv" right="akörte"
+  trace 3 first "almaszilv" -> miss
+  trace 3 pfx "almaszilv" candidates=0
+  trace 3 sfx "almaszilv" candidates=0
+  trace 3 sfx "almaszilv" candidates=0
+  trace 3 pfx "almaszilv" candidates=0
+  trace 2 split at=10 left="almaszilva" right="körte"
+  trace 3 first "almaszilva" -> miss
+  trace 3 pfx "almaszilva" candidates=0
+  trace 3 sfx "almaszilva" candidates=0
+  trace 3 sfx "almaszilva" candidates=0
+  trace 3 pfx "almaszilva" candidates=0
+  trace 2 split at=11 left="almaszilvak" right="örte"
+  trace 3 first "almaszilvak" -> miss
+  trace 3 pfx "almaszilvak" candidates=0
+  trace 3 sfx "almaszilvak" candidates=0
+  trace 3 sfx "almaszilvak" candidates=0
+  trace 3 pfx "almaszilvak" candidates=0
+  trace 2 split at=13 left="almaszilvakö" right="rte"
+  trace 3 first "almaszilvakö" -> miss
+  trace 3 pfx "almaszilvakö" candidates=0
+  trace 3 sfx "almaszilvakö" candidates=0
+  trace 3 sfx "almaszilvakö" candidates=0
+  trace 3 pfx "almaszilvakö" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=3 left="alm" right="aszilvakörte"
+  trace 3 first "alm" -> miss
+  trace 3 pfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 pfx "alm" candidates=0
+  trace 2 split at=4 left="alma" right="szilvakörte"
+  trace 3 first "alma" -> entry "alma" flags=I,J,K,P,Q,X,c
+  trace 3 second "szilvakörte" -> miss
+  trace 3 pfx "szilvakörte" candidates=0
+  trace 3 sfx "szilvakörte" candidates=0
+  trace 3 pfx "szilvakörte" candidates=0
+  trace 3 sfx "szilvakörte" candidates=0
+  trace 3 split at=3 left="szi" right="lvakörte"
+  trace 4 first "szi" -> miss
+  trace 4 pfx "szi" candidates=0
+  trace 4 sfx "szi" candidates=0
+  trace 3 split at=4 left="szil" right="vakörte"
+  trace 4 first "szil" -> miss
+  trace 4 pfx "szil" candidates=0
+  trace 4 sfx "szil" candidates=0
+  trace 3 split at=5 left="szilv" right="akörte"
+  trace 4 first "szilv" -> miss
+  trace 4 pfx "szilv" candidates=0
+  trace 4 sfx "szilv" candidates=0
+  trace 3 split at=6 left="szilva" right="körte"
+  trace 4 first "szilva" -> entry "szilva" flags=X
+  trace 4 second "körte" -> entry "körte" flags=X
+  trace 4 pfx "körte" candidates=0
+  trace 4 sfx "körte" candidates=0
+  trace 4 pfx "körte" candidates=0
+  trace 4 sfx "körte" candidates=0
+  trace 3 split at=7 left="szilvak" right="örte"
+  trace 4 first "szilvak" -> miss
+  trace 4 pfx "szilvak" candidates=0
+  trace 4 sfx "szilvak" candidates=0
+  trace 3 split at=9 left="szilvakö" right="rte"
+  trace 4 first "szilvakö" -> miss
+  trace 4 pfx "szilvakö" candidates=0
+  trace 4 sfx "szilvakö" candidates=0
+  trace 2 split at=5 left="almas" right="zilvakörte"
+  trace 3 first "almas" -> miss
+  trace 3 pfx "almas" candidates=0
+  trace 3 sfx flag=Z strip="" add="s" cont=(none) cond="." at=aff:44 xprod=Y hdr=aff:43
+  trace 4 test compoundpermit flag=W in=sfx-cont have=(none) -> fail, a suffix at the start of a compound needs this flag
+  trace 3 sfx flag=Z strip="" add="s" cont=(none) cond="." at=aff:44 xprod=Y hdr=aff:43
+  trace 4 test compoundpermit flag=W in=sfx-cont have=(none) -> fail, a suffix at the start of a compound needs this flag
+  trace 3 pfx "almas" candidates=0
+  trace 2 split at=6 left="almasz" right="ilvakörte"
+  trace 3 first "almasz" -> miss
+  trace 3 pfx "almasz" candidates=0
+  trace 3 sfx "almasz" candidates=0
+  trace 3 sfx "almasz" candidates=0
+  trace 3 pfx "almasz" candidates=0
+  trace 2 split at=7 left="almaszi" right="lvakörte"
+  trace 3 first "almaszi" -> miss
+  trace 3 pfx "almaszi" candidates=0
+  trace 3 sfx "almaszi" candidates=0
+  trace 3 sfx "almaszi" candidates=0
+  trace 3 pfx "almaszi" candidates=0
+  trace 2 split at=8 left="almaszil" right="vakörte"
+  trace 3 first "almaszil" -> miss
+  trace 3 pfx "almaszil" candidates=0
+  trace 3 sfx "almaszil" candidates=0
+  trace 3 sfx "almaszil" candidates=0
+  trace 3 pfx "almaszil" candidates=0
+  trace 2 split at=9 left="almaszilv" right="akörte"
+  trace 3 first "almaszilv" -> miss
+  trace 3 pfx "almaszilv" candidates=0
+  trace 3 sfx "almaszilv" candidates=0
+  trace 3 sfx "almaszilv" candidates=0
+  trace 3 pfx "almaszilv" candidates=0
+  trace 2 split at=10 left="almaszilva" right="körte"
+  trace 3 first "almaszilva" -> miss
+  trace 3 pfx "almaszilva" candidates=0
+  trace 3 sfx "almaszilva" candidates=0
+  trace 3 sfx "almaszilva" candidates=0
+  trace 3 pfx "almaszilva" candidates=0
+  trace 2 split at=11 left="almaszilvak" right="örte"
+  trace 3 first "almaszilvak" -> miss
+  trace 3 pfx "almaszilvak" candidates=0
+  trace 3 sfx "almaszilvak" candidates=0
+  trace 3 sfx "almaszilvak" candidates=0
+  trace 3 pfx "almaszilvak" candidates=0
+  trace 2 split at=13 left="almaszilvakö" right="rte"
+  trace 3 first "almaszilvakö" -> miss
+  trace 3 pfx "almaszilvakö" candidates=0
+  trace 3 sfx "almaszilvakö" candidates=0
+  trace 3 sfx "almaszilvakö" candidates=0
+  trace 3 pfx "almaszilvakö" candidates=0
+  trace 1 result incorrect
+  spell 0
+@trace autóbusz-
+  trace 0 word "autóbusz-"
+  trace 1 lookup "autóbusz-" -> miss
+  trace 1 pfx "autóbusz-" candidates=0
+  trace 1 sfx "autóbusz-" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=3 left="aut" right="óbusz-"
+  trace 3 first "aut" -> miss
+  trace 3 pfx "aut" candidates=0
+  trace 3 sfx "aut" candidates=0
+  trace 3 sfx "aut" candidates=0
+  trace 3 pfx "aut" candidates=0
+  trace 2 split at=5 left="autó" right="busz-"
+  trace 3 first "autó" -> entry "autó" flags=B,J,X,c
+  trace 3 second "busz-" -> miss
+  trace 3 pfx "busz-" candidates=0
+  trace 3 sfx "busz-" candidates=0
+  trace 3 pfx "busz-" candidates=0
+  trace 3 sfx "busz-" candidates=0
+  trace 2 split at=6 left="autób" right="usz-"
+  trace 3 first "autób" -> miss
+  trace 3 pfx "autób" candidates=0
+  trace 3 sfx "autób" candidates=0
+  trace 3 sfx "autób" candidates=0
+  trace 3 pfx "autób" candidates=0
+  trace 2 split at=7 left="autóbu" right="sz-"
+  trace 3 first "autóbu" -> miss
+  trace 3 pfx "autóbu" candidates=0
+  trace 3 sfx "autóbu" candidates=0
+  trace 3 sfx "autóbu" candidates=0
+  trace 3 pfx "autóbu" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=3 left="aut" right="óbusz-"
+  trace 3 first "aut" -> miss
+  trace 3 pfx "aut" candidates=0
+  trace 3 sfx "aut" candidates=0
+  trace 3 sfx "aut" candidates=0
+  trace 3 pfx "aut" candidates=0
+  trace 2 split at=5 left="autó" right="busz-"
+  trace 3 first "autó" -> entry "autó" flags=B,J,X,c
+  trace 3 second "busz-" -> miss
+  trace 3 pfx "busz-" candidates=0
+  trace 3 sfx "busz-" candidates=0
+  trace 3 pfx "busz-" candidates=0
+  trace 3 sfx "busz-" candidates=0
+  trace 2 split at=6 left="autób" right="usz-"
+  trace 3 first "autób" -> miss
+  trace 3 pfx "autób" candidates=0
+  trace 3 sfx "autób" candidates=0
+  trace 3 sfx "autób" candidates=0
+  trace 3 pfx "autób" candidates=0
+  trace 2 split at=7 left="autóbu" right="sz-"
+  trace 3 first "autóbu" -> miss
+  trace 3 pfx "autóbu" candidates=0
+  trace 3 sfx "autóbu" candidates=0
+  trace 3 sfx "autóbu" candidates=0
+  trace 3 pfx "autóbu" candidates=0
+  trace 1 split at=3 left="aut" right="óbusz"
+  trace 2 first "aut" -> miss
+  trace 2 pfx "aut" candidates=0
+  trace 2 sfx "aut" candidates=0
+  trace 2 pfx "aut" candidates=0
+  trace 2 sfx "aut" candidates=0
+  trace 1 split at=5 left="autó" right="busz"
+  trace 2 first "autó" -> entry "autó" flags=B,J,X,c
+  trace 2 second "busz" -> entry "busz" flags=E,J,X,c
+  trace 2 test wordpair -> pass, no space splits this into a known word pair
+  trace 1 result correct
+  spell 1
+@trace almafa
+  trace 0 word "almafa"
+  trace 1 lookup "almafa" -> entry "almafa" flags=!,X
+  trace 1 test forbidden flag=! in=dic have=!,X -> fail, the word is forbidden
+  trace 1 result incorrect
+  spell 0
+@trace almaksz
+  trace 0 word "almaksz"
+  trace 1 lookup "almaksz" -> miss
+  trace 1 pfx "almaksz" candidates=0
+  trace 1 sfx "almaksz" candidates=0
+  trace 1 compound words=2
+  trace 2 split at=3 left="alm" right="aksz"
+  trace 3 first "alm" -> miss
+  trace 3 pfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 pfx "alm" candidates=0
+  trace 2 split at=4 left="alma" right="ksz"
+  trace 3 first "alma" -> entry "alma" flags=I,J,K,P,Q,X,c
+  trace 3 second "ksz" -> miss
+  trace 3 pfx "ksz" candidates=0
+  trace 3 sfx "ksz" candidates=0
+  trace 3 pfx "ksz" candidates=0
+  trace 3 sfx "ksz" candidates=0
+  trace 1 compound words=3+
+  trace 2 split at=3 left="alm" right="aksz"
+  trace 3 first "alm" -> miss
+  trace 3 pfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 sfx "alm" candidates=0
+  trace 3 pfx "alm" candidates=0
+  trace 2 split at=4 left="alma" right="ksz"
+  trace 3 first "alma" -> entry "alma" flags=I,J,K,P,Q,X,c
+  trace 3 second "ksz" -> miss
+  trace 3 pfx "ksz" candidates=0
+  trace 3 sfx "ksz" candidates=0
+  trace 3 pfx "ksz" candidates=0
+  trace 3 sfx "ksz" candidates=0
+  trace 1 result incorrect
+  spell 0
+@info
+  enc UTF-8
+  wordchars -.%0123456789
+  wordchars16 37 45 46 48 49 50 51 52 53 54 55 56 57
+  version 
+  langnum 36
+> körte-szilva
+  spell 1 1 
+  sug körteszilva
+  ana  st:körte po:noun+ st:szilva po:noun
+  stem körte
+  stemmorph körte
+> dió-kx-y
+  spell 1 1 
+  sug dió- kx-y
+  sug dió--kx-y
+  sug dió-
+> 1.-ban
+  spell 0 0 
+  sug 1-ban
+> 100.-ban
+  spell 0 0 
+  sug 000-ban
+> 1000-hoz
+  spell 0 0 
+  sug 0-hoz
+  ana 0-hoz st:0-hoz po:num
+  stem 0-hoz
+  stemmorph 0-hoz
+> 123456-hoz
+  spell 0 0 
+  sug 123456-ház
+> almaffa
+  spell 0 0 
+  sug alma-
+> almfa
+  spell 0 0 
+  sug alma
+> alma fa
+  spell 0 0 
+  sug alma-
+> lábnak
+  spell 0 0 
+  sug ablaknak
+  ana  st:láb po:noun fl:c
+  stem láb
+  stemmorph láb
+@trace láb
+  trace 0 word "láb"
+  trace 1 lookup "láb" -> entry "láb" flags=O,P,X,c
+  trace 1 test onlyincompound flag=O in=dic have=O,P,X,c -> fail, on to the next homonym
+  trace 1 lookup "láb" -> no more homonyms
+  trace 1 pfx "láb" candidates=0
+  trace 1 sfx "láb" candidates=0
+  trace 1 compound words=2
+  trace 1 compound words=3+
+  trace 1 result incorrect
+  spell 0
+@trace lábnak
+  trace 0 word "lábnak"
+  trace 1 lookup "lábnak" -> miss
+  trace 1 pfx "lábnak" candidates=0
+  trace 1 sfx flag=c strip="" add="nak" cont=(none) cond="." at=aff:32 xprod=Y hdr=aff:31
+  trace 2 stem "láb"
+  trace 2 test condition cond="." on "láb" -> pass
+  trace 2 lookup "láb" -> entry "láb" flags=O,P,X,c
+  trace 2 test sfx-aflag flag=c in=dic have=O,P,X,c -> pass
+  trace 2 test badflag flag=O in=dic have=O,P,X,c -> fail, the stem has a flag this context forbids
+  trace 2 lookup "láb" -> no more homonyms
+  trace 1 compound words=2
+  trace 2 split at=4 left="láb" right="nak"
+  trace 3 first "láb" -> entry "láb" flags=O,P,X,c
+  trace 3 second "nak" -> miss
+  trace 3 pfx "nak" candidates=0
+  trace 3 sfx flag=c strip="" add="nak" cont=(none) cond="." at=aff:32 xprod=Y hdr=aff:31
+  trace 4 test length have=0 need=0 -> fail, too little is left of the word to test
+  trace 3 pfx "nak" candidates=0
+  trace 3 sfx flag=c strip="" add="nak" cont=(none) cond="." at=aff:32 xprod=Y hdr=aff:31
+  trace 4 test length have=0 need=0 -> fail, too little is left of the word to test
+  trace 1 compound words=3+
+  trace 2 split at=4 left="láb" right="nak"
+  trace 3 first "láb" -> entry "láb" flags=O,P,X,c
+  trace 3 second "nak" -> miss
+  trace 3 pfx "nak" candidates=0
+  trace 3 sfx flag=c strip="" add="nak" cont=(none) cond="." at=aff:32 xprod=Y hdr=aff:31
+  trace 4 test length have=0 need=0 -> fail, too little is left of the word to test
+  trace 3 pfx "nak" candidates=0
+  trace 3 sfx flag=c strip="" add="nak" cont=(none) cond="." at=aff:32 xprod=Y hdr=aff:31
+  trace 4 test length have=0 need=0 -> fail, too little is left of the word to test
+  trace 1 result incorrect
+  spell 0
+@trace almafa
+  trace 0 word "almafa"
+  trace 1 lookup "almafa" -> entry "almafa" flags=!,X
+  trace 1 test forbidden flag=! in=dic have=!,X -> fail, the word is forbidden
+  trace 1 result incorrect
+  spell 0
+> 1-hoz
+  spell 0 0 
+  sug 0-hoz
+> 1-ban
+  spell 1 0 
+  sug 1-ban
+  ana  st:1-ban po:num
+  stem 1-ban
+  stemmorph 1-ban
+> 11.-ban
+  spell 0 0 
+  sug 1-ban
+> eleláb
+  spell 0 0 
+  sug elealma
+  ana ele st:láb po:noun
+  stem láb
+  stemmorph láb
+@trace eleláb
+  trace 0 word "eleláb"
+  trace 1 lookup "eleláb" -> miss
+  trace 1 pfx flag=P strip="" add="ele" cont=W cond="." at=aff:26 xprod=Y hdr=aff:25
+  trace 2 stem "láb"
+  trace 2 test condition cond="." on "láb" -> pass
+  trace 2 lookup "láb" -> entry "láb" flags=O,P,X,c
+  trace 2 test pfx-aflag flag=P in=dic have=O,P,X,c -> pass
+  trace 2 accept
+  trace 1 form "eleláb" = pfx(P:"ele") + "láb"
+  trace 1 compound words=2
+  trace 2 split at=3 left="ele" right="láb"
+  trace 3 first "ele" -> miss
+  trace 3 pfx flag=P strip="" add="ele" cont=W cond="." at=aff:26 xprod=Y hdr=aff:25
+  trace 4 test length have=0 -> fail, nothing would be left of the word
+  trace 3 sfx "ele" candidates=0
+  trace 3 sfx "ele" candidates=0
+  trace 3 pfx flag=P strip="" add="ele" cont=W cond="." at=aff:26 xprod=Y hdr=aff:25
+  trace 4 test length have=0 -> fail, nothing would be left of the word
+  trace 1 compound words=3+
+  trace 2 split at=3 left="ele" right="láb"
+  trace 3 first "ele" -> miss
+  trace 3 pfx flag=P strip="" add="ele" cont=W cond="." at=aff:26 xprod=Y hdr=aff:25
+  trace 4 test length have=0 -> fail, nothing would be left of the word
+  trace 3 sfx "ele" candidates=0
+  trace 3 sfx "ele" candidates=0
+  trace 3 pfx flag=P strip="" add="ele" cont=W cond="." at=aff:26 xprod=Y hdr=aff:25
+  trace 4 test length have=0 -> fail, nothing would be left of the word
+  trace 1 result incorrect
+  spell 0
+> almakert
+  spell 1 1 alma
+  sug alma-kert
+  sug alma-
+  ana  pa:alma st:alma po:noun pa:kert st:kert po:noun
+  stem almakert
+  stemmorph almakert
+> házkert
+  spell 1 1 ház
+  sug ház-kert
+  sug kert
+  ana  pa:ház st:ház po:noun pa:kert st:kert po:noun
+  stem házkert
+  stemmorph házkert
+> kertalma
+  spell 1 1 kert
+  sug kert-alma
+  sug kertalma-
+  ana  pa:kert st:kert po:noun pa:alma st:alma po:noun
+  stem kertalma
+  stemmorph kertalma
+> almani
+  spell 1 0 alma
+  sug almanis
+  ana  st:alma po:noun fl:K
+  stem alma
+  stemmorph alma
+> almanis
+  spell 1 0 alma
+  sug almani
+  ana  st:alma po:noun fl:K fl:Z
+  stem alma
+  stemmorph alma
+> láb
+  spell 0 0 
+  sfx lábnak
+> lábház
+  spell 1 1 láb
+  ana  pa:láb st:láb po:noun pa:ház st:ház po:noun
+  stem lábház
+  stemmorph lábház

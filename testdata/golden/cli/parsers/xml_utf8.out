@@ -1,0 +1,12 @@
+utf8 1
+line [<p a="v">caf\xc3\xa9 dog\xe2\x80\x99s it&apos;s &#233;t\xc3\xa9</p>]
+token 9 [caf\xc3\xa9] word [caf\xc3\xa9]
+change [<p a="v">&quot;caf\xc3\xa9&quot; dog\xe2\x80\x99s it&apos;s &#233;t\xc3\xa9</p>]
+skip 1 [caf\xc3\xa9]
+token 27 [dog\xe2\x80\x99s] word [dog\xe2\x80\x99s]
+token 35 [it&apos;s] word [it&apos;s]
+token 51 [t\xc3\xa9] word [t\xc3\xa9]
+prev 0 [<p a="v">&quot;caf\xc3\xa9&quot; dog\xe2\x80\x99s it&apos;s &#233;t\xc3\xa9</p>]
+prev 1 []
+prev 2 []
+prev 3 []

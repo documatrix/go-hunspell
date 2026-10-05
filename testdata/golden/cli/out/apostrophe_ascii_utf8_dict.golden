@@ -1,0 +1,16 @@
+exit 0
+stdout 134
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+*
+*
+# rock'n'roll 17
+
+*
+*
+*
+& isn 1 17: it's
+# apos 21
+# t 26
+
+stderr 0

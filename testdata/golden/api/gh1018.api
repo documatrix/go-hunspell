@@ -1,0 +1,246 @@
+# example: zuri
+> ZURI
+  spell 1 32 
+  sug ZURI
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> Zuri
+  spell 1 32 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> ruri
+  spell 0 0 
+  sug zuri
+> rzuri
+  spell 0 0 
+  sug zuri
+> uri
+  spell 0 0 
+  sug zuri
+> uuri
+  spell 0 0 
+  sug zuri
+> uzri
+  spell 0 0 
+  sug zuri
+> zri
+  spell 0 0 
+  sug zuri
+> zrui
+  spell 0 0 
+  sug zuri
+> zruri
+  spell 0 0 
+  sug zuri
+> zui
+  spell 0 0 
+  sug zuri
+> zuir
+  spell 0 0 
+  sug zuri
+> zuiri
+  spell 0 0 
+  sug zuri
+> zur
+  spell 0 0 
+  sug zuri
+> zuri
+  spell 1 0 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> zuri-zuri
+  spell 1 1 
+> zuri.
+  spell 1 0 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> zurii
+  spell 0 0 
+  sug zuri
+> zuriu
+  spell 0 0 
+  sug zuri
+> zuriz
+  spell 0 0 
+  sug zuri
+> zurizuri
+  spell 0 0 
+  sug zuri zuri
+  sug zuri
+> zurr
+  spell 0 0 
+  sug zuri
+> zuru
+  spell 0 0 
+  sug zuri
+> zurui
+  spell 0 0 
+  sug zuri
+> zurz
+  spell 0 0 
+  sug zuri
+> zuuri
+  spell 0 0 
+  sug zuri
+> zuzi
+  spell 0 0 
+  sug zuri
+> zuzri
+  spell 0 0 
+  sug zuri
+> zzri
+  spell 0 0 
+  sug zuri
+> zzuri
+  spell 0 0 
+  sug zuri
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> zuri's
+  spell 0 0 
+  sug zuri
+> zuriâ€™s
+  spell 0 0 
+  sug zuri
+> 'zuri'
+  spell 0 0 
+  sug zuri
+> l'zuri
+  spell 0 0 
+  sug zuri
+> zuri.
+  spell 1 0 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> zuri..
+  spell 1 0 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> .zuri
+  spell 0 0 
+  sug zuri
+> ...
+  spell 1 0 
+> -zuri
+  spell 1 1 
+  sug zuri
+> zuri-
+  spell 1 1 
+  sug zuri
+> zuri--zuri
+  spell 1 1 
+> zuri-zuri-zuri
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> ZURI
+  spell 1 32 
+  sug ZURI
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> ZURI
+  spell 1 32 
+  sug ZURI
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> Zuri
+  spell 1 32 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> zuri zuri
+  spell 0 0 
+>  zuri
+  spell 1 0 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> zuri 
+  spell 0 0 
+  sug zuri
+> zuri	zuri
+  spell 0 0 
+> ÿþzuri
+  spell 0 0 
+  sug zuri
+> zuriÃ
+  spell 0 32 
+  sug zuri
+> €zuri
+  spell 0 0 
+  sug zuri
+> ð€zuri
+  spell 0 0 
+> Ä°zuri
+  spell 0 32 
+  sug Zuri
+> zuriÃŸ
+  spell 0 32 
+  sug zuri
+> zuri
+  spell 1 0 
+  sug zuri
+  ana  st:zuri
+  stem zuri
+  stemmorph zuri
+> ZURISS
+  spell 0 32 
+  sug ZURI
+> <?xml?><query type="analyze"><word>zuri</word></query>
+  spell 0 0 
+  sug <code><a> st:zuri</a></code>
+> <?xml?><query type="stem"><word>zuri</word></query>
+  spell 0 0 
+  sug zuri
+> <?xml?><query type="suggest"><word>zurix</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>zuri</word><word>zuri</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>zuri</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>zuri</word></query>
+  spell 0 0 
+  sug <code><a> st:zuri</a></code>
+> <?xml?><query type="add"><word>zuri</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;zuri&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>zuri</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

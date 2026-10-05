@@ -1,0 +1,106 @@
+exit 0
+stdout 1323
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& Hello 5 0: Cello, Jello, Hell, Hell o, Helot
+*
+*
+*
+*
+& tset 5 23: stet, test, set, sett, t set
+*
+*
+& speling 5 35: spieling, spelling, spewing, peeling, splinting
+*
+
+*
+*
+*
+*
+& jumpss 3 20: jumps, jump's, jumps s
+*
+*
+*
+*
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+& ated 15 70: ate, ted, sated, anted, rated, acted, dated, gated, mated, hated, bated, fated, date, aced, aged
+*
+
+& MiXeD 12 0: Mix Ed, Mixed, Nixed, Mixes, Maxed, Mined, Mixer, Mired, Mimed, Fixed, Miked, Mix-ed
+& CaSe 11 6: Case, Cage, Ca Se, Ca-Se, Cane, Care, Came, Cape, Cafe, Cave, Cake
+*
+& HELLO 6 18: JELLO, HELL, CELLO, HELL O, OTHELLO, HELOT
+& Hello 5 24: Cello, Jello, Hell, Hell o, Helot
+& hello 5 30: jello, hell, cello, hell o, helot
+& hELLO 5 36: hell O, jello, hell, cello, helot
+*
+& Nasa 5 47: NASA, Nyasa, Napa, Nash, Nasal
+
+*
+*
+*
+& doesn 2 20: does, does n
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+& isn 9 80: sin, ins, ism, is, in, inn, ion, isl, is n
+*
+
+*
+*
+*
+& ssa 6 22: SSA, ass, sea, spa, ssh, ska
+*
+*
+*
+*
+
+*
+& caf 15 10: cad, ca, cf, cafe, calf, caff, can, car, cat, oaf, cal, cam, cap, cab, cay
+& eacute 6 14: acute, e acute, ea cute, ea-cute, teacup, cute
+# na&iuml;ve 22
+& &Agrave;bc 1 33: engraver
+*
+# x&yuml;z 50
+
+*
+*
+*
+*
+*
+*
+
+*
+*
+*
+& ok 2 68: OK, och
+
+*
+*
+*
+& tabz 3 18: tab, tabs, tab z
+
+stderr 74
+@HOME@/.hunspell_en_US:3: 'zörg': error - iconv: ANSI_X3.4-1968 -> UTF-8

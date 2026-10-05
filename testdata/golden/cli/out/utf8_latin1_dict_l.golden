@@ -1,0 +1,28 @@
+exit 0
+stdout 107
+Café
+über
+wrold
+naïve
+tset
+été
+résumé
+xyzzy.
+Can’t
+won’t
+isn’t
+don’t
+it’s
+dog’s.
+wrold.
+stderr 340
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1
+error - iconv: UTF-8 -> ISO8859-1

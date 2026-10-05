@@ -1,0 +1,487 @@
+# example: bébé
+> ABÁBCDEÉ
+  spell 0 32 
+  sug AÁBCDEÉ
+> AÁBCDE
+  spell 0 32 
+  sug AÁBCDEÉ
+> AÁBCDEÉ
+  spell 1 32 
+  ana  st:AÁBCDEÉ
+  stem AÁBCDEÉ
+  stemmorph AÁBCDEÉ
+> AÁBCDEÉ-aábcdeé
+  spell 1 33 
+  sug AÁBCDEÉ-AÁBCDEÉ
+> AÁBCDEÉ.
+  spell 1 32 
+  sug AÁBCDEÉ
+  ana  st:AÁBCDEÉ
+  stem AÁBCDEÉ
+  stemmorph AÁBCDEÉ
+> AÁBCDEÉaábcdeé
+  spell 0 32 
+  sug AÁBCDEÉ AÁBCDEÉ
+> AÁBCDéÉ
+  spell 0 32 
+  sug AÁBCDEÉ
+> Aábcde
+  spell 0 32 
+  sug AÁBCDEÉ
+> Aábcdeé
+  spell 1 32 
+  sug AÁBCDEÉ
+  ana  st:AÁBCDEÉ
+  stem AÁBCDEÉ
+  stemmorph AÁBCDEÉ
+> BBÉÉ
+  spell 0 32 
+  sug BÉBÉ
+> BÉB
+  spell 0 32 
+  sug BÉBÉ
+> BÉBÉ
+  spell 1 32 
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> BÉBÉ-aábcdeé
+  spell 1 33 
+  sug BÉBÉ-AÁBCDEÉ
+> BÉBÉ-dádá
+  spell 1 33 
+  sug BÉBÉ-DÁDÁ
+> BÉBÉ.
+  spell 1 32 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> BÉBÉAÁBCDEÉ
+  spell 0 32 
+  sug BÉBÉ AÁBCDEÉ
+  sug AÁBCDEÉ
+> Béb
+  spell 0 32 
+  sug BÉBÉ
+> Bébé
+  spell 1 32 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> Cbéb
+  spell 0 32 
+  sug BÉBÉ
+> DDÁÁ
+  spell 0 32 
+  sug DÁDÁ
+> DÁD
+  spell 0 32 
+  sug DÁDÁ
+> DÁDÁ
+  spell 1 32 
+  ana  st:DÁDÁ
+  stem DÁDÁ
+  stemmorph DÁDÁ
+> DÁDÁ-AÁBCDEÉ
+  spell 1 33 
+> DÁDÁ.
+  spell 1 32 
+  sug DÁDÁ
+  ana  st:DÁDÁ
+  stem DÁDÁ
+  stemmorph DÁDÁ
+> DÁDÁAÁBCDEÉ
+  spell 0 32 
+  sug DÁDÁ AÁBCDEÉ
+  sug AÁBCDEÉ
+> DÁDÁdád
+  spell 0 32 
+  sug DÁDÁ
+> Dádá
+  spell 1 32 
+  sug DÁDÁ
+  ana  st:DÁDÁ
+  stem DÁDÁ
+  stemmorph DÁDÁ
+> abcde
+  spell 0 0 
+  sug AÁBCDEÉ
+> aáCbcde
+  spell 0 32 
+  sug AÁBCDEÉ
+> aábbde
+  spell 0 0 
+  sug AÁBCDEÉ
+> aábcde
+  spell 0 0 
+  sug AÁBCDEÉ
+> aábcde.
+  spell 0 0 
+  sug AÁBCDEÉ
+> aábcdeaé
+  spell 0 0 
+  sug AÁBCDEÉ
+> aábcdeé
+  spell 1 0 
+  sug AÁBCDEÉ
+  ana  st:AÁBCDEÉ
+  stem AÁBCDEÉ
+  stemmorph AÁBCDEÉ
+> aábcdeé-bébé
+  spell 1 1 
+> aábcdeé.
+  spell 1 0 
+  sug AÁBCDEÉ
+  ana  st:AÁBCDEÉ
+  stem AÁBCDEÉ
+  stemmorph AÁBCDEÉ
+> aábcÉe
+  spell 0 32 
+  sug AÁBCDEÉ
+> aábdceé
+  spell 0 0 
+  sug AÁBCDEÉ
+> aábde
+  spell 0 0 
+  sug AÁBCDEÉ
+> aábdeé
+  spell 0 0 
+  sug AÁBCDEÉ
+> aáebcde
+  spell 0 0 
+  sug AÁBCDEÉ
+> aébé
+  spell 0 0 
+  sug BÉBÉ
+> bb
+  spell 0 0 
+  sug BÉBÉ
+> bbé
+  spell 0 0 
+  sug BÉBÉ
+> beéb
+  spell 0 0 
+  sug BÉBÉ
+> bé
+  spell 0 0 
+  sug BÉBÉ
+> béb
+  spell 0 0 
+  sug BÉBÉ
+> béb-bébé
+  spell 0 0 
+  sug BÉBÉ-BÉBÉ
+  sug BÉBÉ
+> béb-dádá
+  spell 0 0 
+  sug BÉBÉ-DÁDÁ
+> béb.
+  spell 0 0 
+  sug BÉBÉ
+> bébD
+  spell 0 32 
+  sug BÉBÉ
+> bébDé
+  spell 0 32 
+  sug BÉBÉ
+> bébbébé
+  spell 0 0 
+  sug BÉBÉ
+> bébd
+  spell 0 0 
+  sug BÉBÉ
+> bébé
+  spell 1 0 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> bébé-AÁBCDEÉ
+  spell 1 33 
+  sug BÉBÉ-AÁBCDEÉ
+> bébé-BÉBÉ
+  spell 1 33 
+  sug BÉBÉ-BÉBÉ
+> bébé-aábcde
+  spell 0 0 
+  sug BÉBÉ-AÁBCDEÉ
+  sug AÁBCDEÉ
+> bébé-aábcdeé
+  spell 1 1 
+> bébé-béb
+  spell 0 0 
+  sug BÉBÉ-BÉBÉ
+  sug BÉBÉ
+> bébé-dád
+  spell 0 0 
+  sug BÉBÉ-DÁDÁ
+> bébé.
+  spell 1 0 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> bébéA
+  spell 0 32 
+  sug BÉBÉ
+> bébéAÁBCDEÉ
+  spell 0 32 
+  sug BÉBÉ AÁBCDEÉ
+  sug AÁBCDEÉ
+> bébéa
+  spell 0 0 
+  sug BÉBÉ
+> bébéb
+  spell 0 0 
+  sug BÉBÉ
+> bébébéb
+  spell 0 0 
+  sug BÉBÉ
+> bébébébé
+  spell 0 0 
+  sug BÉBÉ BÉBÉ
+  sug BÉBÉ
+> bébédádá
+  spell 0 0 
+  sug BÉBÉ DÁDÁ
+> bébée
+  spell 0 0 
+  sug BÉBÉ
+> béé
+  spell 0 0 
+  sug BÉBÉ
+> bééb
+  spell 0 0 
+  sug BÉBÉ
+> ddá
+  spell 0 0 
+  sug DÁDÁ
+> dá
+  spell 0 0 
+  sug DÁDÁ
+> dáD
+  spell 0 32 
+  sug DÁDÁ
+> dáDá
+  spell 0 32 
+  sug DÁDÁ
+> dácá
+  spell 0 0 
+  sug DÁDÁ
+> dád
+  spell 0 0 
+  sug DÁDÁ
+> dád-bébé
+  spell 0 0 
+  sug DÁDÁ-BÉBÉ
+> dád-dád
+  spell 0 0 
+  sug DÁDÁ-DÁD
+  sug DÁDÁ
+> dád.
+  spell 0 0 
+  sug DÁDÁ
+> dádaábcde
+  spell 0 0 
+  sug AÁBCDEÉ
+> dáddá
+  spell 0 0 
+  sug DÁDÁ
+> dádÁ
+  spell 0 32 
+  sug DÁDÁ
+> dádá
+  spell 1 0 
+  sug DÁDÁ
+  ana  st:DÁDÁ
+  stem DÁDÁ
+  stemmorph DÁDÁ
+> dádá-aábcdeé
+  spell 1 1 
+> dádá.
+  spell 1 0 
+  sug DÁDÁ
+  ana  st:DÁDÁ
+  stem DÁDÁ
+  stemmorph DÁDÁ
+> dádáa
+  spell 0 0 
+  sug DÁDÁ
+> dádádád
+  spell 0 0 
+  sug DÁDÁ
+> dádádádá
+  spell 0 0 
+  sug DÁDÁ DÁDÁ
+  sug DÁDÁ
+> dáá
+  spell 0 0 
+  sug DÁDÁ
+> ÁDÁ
+  spell 0 32 
+  sug DÁDÁ
+> Áébé
+  spell 0 32 
+  sug BÉBÉ
+> Éád
+  spell 0 32 
+  sug DÁDÁ
+> ábcdeé
+  spell 0 0 
+  sug AÁBCDEÉ
+> ád
+  spell 0 0 
+  sug DÁDÁ
+> ádá
+  spell 0 0 
+  sug DÁDÁ
+> ébbé
+  spell 0 0 
+  sug BÉBÉ
+> ébébé
+  spell 0 0 
+  sug BÉBÉ
+> ééb
+  spell 0 0 
+  sug BÉBÉ
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> bébé's
+  spell 0 0 
+  sug BÉBÉ
+> bébé’s
+  spell 0 0 
+  sug BÉBÉ
+> 'bébé'
+  spell 0 0 
+  sug BÉBÉ
+> l'bébé
+  spell 0 0 
+  sug BÉBÉ
+> bébé.
+  spell 1 0 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> bébé..
+  spell 1 0 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> .bébé
+  spell 0 0 
+  sug BÉBÉ
+> ...
+  spell 1 0 
+> -bébé
+  spell 1 1 
+  sug BÉBÉ
+> bébé-
+  spell 1 1 
+  sug BÉBÉ
+> bébé--béb
+  spell 0 0 
+  sug BÉBÉ--BÉBÉ
+> bébé-béb-bébé
+  spell 0 0 
+  sug BÉBÉ-BÉBÉ-BÉBÉ
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> BéBé
+  spell 0 32 
+  sug BÉBÉ
+> BéBé
+  spell 0 32 
+  sug BÉBÉ
+> BéBé
+  spell 0 32 
+  sug BÉBÉ
+> bébé béb
+  spell 0 0 
+  sug BÉBÉ
+>  bébé
+  spell 1 0 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> bébé 
+  spell 0 0 
+  sug BÉBÉ
+> bébé	béb
+  spell 0 0 
+  sug BÉBÉ
+> ��bébé
+  spell 0 0 
+  sug BÉBÉ
+> bébé�
+  spell 0 0 
+  sug BÉBÉ
+> �bébé
+  spell 0 0 
+  sug BÉBÉ
+> 𐐀bébé
+  spell 0 0 
+  sug BÉBÉ
+> İbébé
+  spell 0 32 
+  sug BÉBÉ
+> bébéß
+  spell 0 0 
+  sug BÉBÉ
+> bébé
+  spell 1 0 
+  sug BÉBÉ
+  ana  st:BÉBÉ
+  stem BÉBÉ
+  stemmorph BÉBÉ
+> BéBéSS
+  spell 0 32 
+  sug BÉBÉ
+> <?xml?><query type="analyze"><word>bébé</word></query>
+  spell 0 0 
+  sug <CoDE><A> st:BÉBÉ</A></CoDE>
+> <?xml?><query type="stem"><word>bébé</word></query>
+  spell 0 0 
+  sug BÉBÉ
+> <?xml?><query type="suggest"><word>bébéx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>bébé</word><word>béb</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>bébé</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>bébé</word></query>
+  spell 0 0 
+  sug <CoDE><A> st:BÉBÉ</A></CoDE>
+> <?xml?><query type="add"><word>bébé</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;bébé&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>bébé</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

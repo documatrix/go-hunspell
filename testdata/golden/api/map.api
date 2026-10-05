@@ -1,0 +1,390 @@
+# example: Fr¸hst¸ck
+> FR√ºHST√ºCK
+  spell 0 32 
+> Frhustuck
+  spell 0 32 
+> Fruhstck
+  spell 0 32 
+> Fruhstuck
+  spell 0 32 
+  sug Fr¸hst¸ck
+> Fruhstuck-Fruhstuck
+  spell 0 32 
+> Fruhstuck-groﬂ
+  spell 0 32 
+  sug Fr¸hst¸ck-groﬂ
+> Fruhstuck-t¸kˆrf˙rÛ
+  spell 0 32 
+  sug Fr¸hst¸ck-t¸kˆrf˙rÛ
+> Fruhstuck.
+  spell 0 32 
+  sug Fr¸hst¸ck
+> FruhstuckFr¸hst¸ck
+  spell 0 32 
+> Fruhstuckgro√ü
+  spell 0 32 
+> Fruhstuckgroﬂ
+  spell 0 32 
+> Fruhstuckt√ºk√∂rf√∫r√≥
+  spell 0 32 
+> Fruhstukc
+  spell 0 32 
+> Fruhtuck
+  spell 0 32 
+> Frushtuck
+  spell 0 32 
+> Fru≥hstuck
+  spell 0 32 
+> Fr√ºhst√cºk
+  spell 0 32 
+> Fr√ºhst√ºck
+  spell 0 32 
+> Fr√ºhst√ºck.
+  spell 0 32 
+> Fr√ºhst√ºckFruhstuck
+  spell 0 32 
+> Fr√ºhst√ºckt¸kˆrf˙rÛ
+  spell 0 32 
+> Fr√ºhst√ºc√k
+  spell 0 32 
+> Fr√ºhst√ºkc
+  spell 0 32 
+> Fr√ºhs√t√ºck
+  spell 0 32 
+> Fr√ºuhst√ºck
+  spell 0 32 
+> FrÛhst¸ck
+  spell 0 32 
+> Fr¸hsc¸ck
+  spell 0 32 
+> Fr¸hsts¸ck
+  spell 0 32 
+  sug Fr¸hst¸ck
+> Fr¸hst¸ck
+  spell 1 32 
+  sug Fr¸hst¸ck
+  ana  st:Fr¸hst¸ck
+  stem Fr¸hst¸ck
+  stemmorph Fr¸hst¸ck
+> Fr¸hst¸ck.
+  spell 1 32 
+  sug Fr¸hst¸ck
+  ana  st:Fr¸hst¸ck
+  stem Fr¸hst¸ck
+  stemmorph Fr¸hst¸ck
+> Fr¸hst¸ckFruhstuck
+  spell 0 32 
+> Fr¸hst¸ckgroﬂ
+  spell 0 32 
+  sug Fr¸hst¸ck groﬂ
+> Fr¸hst¸ckk
+  spell 0 32 
+  sug Fr¸hst¸ck
+> Fr¸hst¸ckt¸kˆrf˙rÛ
+  spell 0 32 
+  sug Fr¸hst¸ck t¸kˆrf˙rÛ
+> Fr¸hst¸∫ck
+  spell 0 32 
+  sug Fr¸hst¸ck
+> Fr¸hst¸√k
+  spell 0 32 
+> Fr¸hs¸tck
+  spell 0 32 
+  sug Fr¸hst¸ck
+> Fr¸hts¸ck
+  spell 0 32 
+  sug Fr¸hst¸ck
+> F∫√ºhst√ºck
+  spell 0 32 
+> Fºr¸hst¸ck
+  spell 0 32 
+  sug Fr¸hst¸ck
+> F√rºhst√ºck
+  spell 0 32 
+> GROSS
+  spell 0 32 
+  sug GROﬂ
+> GRO√ü
+  spell 0 32 
+> Gross
+  spell 0 32 
+  sug Groﬂ
+> Groﬂ
+  spell 1 32 
+  ana  st:groﬂ
+  stem groﬂ
+  stemmorph groﬂ
+> Gro„ü
+  spell 0 32 
+> TUKORFURO
+  spell 0 32 
+  sug T‹K÷RF⁄R”
+> Tukorfuro
+  spell 0 32 
+  sug T¸kˆrf˙rÛ
+> T√ºK√∂RF√∫R√≥
+  spell 0 32 
+> T‹K÷RF⁄R”
+  spell 1 32 
+  ana  st:t¸kˆrf˙rÛ
+  stem t¸kˆrf˙rÛ
+  stemmorph t¸kˆrf˙rÛ
+> T„ºk„∂rf„∫r„≥
+  spell 0 32 
+> T¸kˆrf˙rÛ
+  spell 1 32 
+  ana  st:t¸kˆrf˙rÛ
+  stem t¸kˆrf˙rÛ
+  stemmorph t¸kˆrf˙rÛ
+> go√ü
+  spell 0 32 
+> goﬂ
+  spell 0 0 
+> grgss
+  spell 0 0 
+> gro
+  spell 0 0 
+> groo√ü
+  spell 0 32 
+> grorss
+  spell 0 0 
+> gross
+  spell 0 0 
+  sug groﬂ
+> gross-Fruhstuck
+  spell 0 32 
+> gross-Fr√ºhst√ºck
+  spell 0 32 
+> gross-gro√ü
+  spell 0 32 
+> gross.
+  spell 0 0 
+  sug groﬂ
+> grossFr√ºhst√ºck
+  spell 0 32 
+> grosst√ºk√∂rf√∫r√≥
+  spell 0 32 
+> grossu
+  spell 0 0 
+> groü√
+  spell 0 32 
+> gro√ü
+  spell 0 32 
+> gro√ü-Fr√ºhst√ºck
+  spell 0 32 
+> gro√ü-Fr¸hst¸ck
+  spell 0 32 
+> gro√ü-t√ºk√∂rf√∫r√≥
+  spell 0 32 
+> gro√ü.
+  spell 0 32 
+> gro√üFruhstuck
+  spell 0 32 
+> gro√ütukorfuro
+  spell 0 32 
+> gro√üt√ºk√∂rf√∫r√≥
+  spell 0 32 
+> gro√üt¸kˆrf˙rÛ
+  spell 0 32 
+> gro√üü
+  spell 0 32 
+> gro√Ûü
+  spell 0 32 
+> groﬂ
+  spell 1 0 
+  ana  st:groﬂ
+  stem groﬂ
+  stemmorph groﬂ
+> groﬂ.
+  spell 1 0 
+  sug groﬂ
+  ana  st:groﬂ
+  stem groﬂ
+  stemmorph groﬂ
+> groﬂt√ºk√∂rf√∫r√≥
+  spell 0 32 
+> groﬂt¸kˆrf˙rÛ
+  spell 0 0 
+  sug groﬂ t¸kˆrf˙rÛ
+> groﬂ¸
+  spell 0 0 
+  sug groﬂ
+> grss
+  spell 0 0 
+> gr∫ﬂ
+  spell 0 0 
+> grﬂo
+  spell 0 0 
+  sug groﬂ
+> grﬂo√ü
+  spell 0 32 
+> gsro√ü
+  spell 0 32 
+> g√ºk√∂rf√∫r√≥
+  spell 0 32 
+> ot√ºk√∂rf√∫r√≥
+  spell 0 32 
+> rgro√ü
+  spell 0 32 
+> to√ºk√∂rf√∫r√≥
+  spell 0 32 
+> tukorfuro
+  spell 0 0 
+  sug t¸kˆrf˙rÛ
+> tukorfuro-gro√ü
+  spell 0 32 
+> tukorfuro.
+  spell 0 0 
+  sug t¸kˆrf˙rÛ
+> tukorfurotukorfuro
+  spell 0 0 
+> tukrofuro
+  spell 0 0 
+> tuorfuro
+  spell 0 0 
+> t√ºk√r∂f√∫r√≥
+  spell 0 32 
+> t√ºk√∂rfs√∫r√≥
+  spell 0 32 
+> t√ºk√∂rf√∫hr√≥
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥-Fr√ºhst√ºck
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥-Fr¸hst¸ck
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥-groﬂ
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥.
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥tukorfuro
+  spell 0 32 
+> t√ºk√∂rf√∫r√≥t¸kˆrf˙rÛ
+  spell 0 32 
+> t√ºk√∂rf√∫√r≥
+  spell 0 32 
+> t¸kˆrf˙rs
+  spell 0 0 
+> t¸kˆrf˙rÛ
+  spell 1 0 
+  ana  st:t¸kˆrf˙rÛ
+  stem t¸kˆrf˙rÛ
+  stemmorph t¸kˆrf˙rÛ
+> t¸kˆrf˙rÛ-groﬂ
+  spell 1 1 
+> t¸kˆrf˙rÛ.
+  spell 1 0 
+  sug t¸kˆrf˙rÛ
+  ana  st:t¸kˆrf˙rÛ
+  stem t¸kˆrf˙rÛ
+  stemmorph t¸kˆrf˙rÛ
+> t¸kˆrf˙rÛFruhstuck
+  spell 0 32 
+> t¸kˆrf˙rÛgro√ü
+  spell 0 32 
+> t¸ˆkrf˙rÛ
+  spell 0 0 
+  sug t¸kˆrf˙rÛ
+> utkorfuro
+  spell 0 0 
+> √ºk√∂rf√∫r√≥
+  spell 0 32 
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Fr√ºhst√ºck's
+  spell 0 32 
+> Fr√ºhst√ºck‚Äôs
+  spell 0 32 
+> 'Fr√ºhst√ºck'
+  spell 0 32 
+> l'Fr√ºhst√ºck
+  spell 0 32 
+> Fr√ºhst√ºck.
+  spell 0 32 
+> Fr√ºhst√ºck..
+  spell 0 32 
+> .Fr√ºhst√ºck
+  spell 0 32 
+> ...
+  spell 1 0 
+> -Fr√ºhst√ºck
+  spell 0 32 
+> Fr√ºhst√ºck-
+  spell 0 32 
+> Fr√ºhst√ºck--t√ºk√∂rf√∫r√≥
+  spell 0 32 
+> Fr√ºhst√ºck-t√ºk√∂rf√∫r√≥-Fr√ºhst√ºck
+  spell 0 32 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> FR√ºHST√ºCK
+  spell 0 32 
+> fR√ºHST√ºCK
+  spell 0 32 
+> Fr√ºHst√ºCk
+  spell 0 32 
+> Fr√ºhst√ºck t√ºk√∂rf√∫r√≥
+  spell 0 32 
+>  Fr√ºhst√ºck
+  spell 0 32 
+> Fr√ºhst√ºck 
+  spell 0 32 
+> Fr√ºhst√ºck	t√ºk√∂rf√∫r√≥
+  spell 0 32 
+> ˇ˛Fr√ºhst√ºck
+  spell 0 32 
+> Fr√ºhst√ºck√
+  spell 0 32 
+> ÄFr√ºhst√ºck
+  spell 0 32 
+> êêÄFr√ºhst√ºck
+  spell 0 32 
+> ƒ∞Fr√ºhst√ºck
+  spell 0 32 
+> Fr√ºhst√ºck√ü
+  spell 0 32 
+> Fr√ºhst√ºck
+  spell 0 32 
+> FR√ºHST√ºCKSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>Fr√ºhst√ºck</word></query>
+  spell 0 32 
+> <?xml?><query type="stem"><word>Fr√ºhst√ºck</word></query>
+  spell 0 32 
+> <?xml?><query type="suggest"><word>Fr√ºhst√ºckx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Fr√ºhst√ºck</word><word>t√ºk√∂rf√∫r√≥</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Fr√ºhst√ºck</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>Fr√ºhst√ºck</word></query>
+  spell 0 32 
+> <?xml?><query type="add"><word>Fr√ºhst√ºck</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Fr√ºhst√ºck&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Fr√ºhst√ºck</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

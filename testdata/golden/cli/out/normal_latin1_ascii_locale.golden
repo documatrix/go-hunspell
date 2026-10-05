@@ -1,0 +1,34 @@
+exit 0
+stdout 220
+Hunspell 1.7.2
+*
+# wrold 6
+& caf 1 12: can't
+# na 17
+# r 23
+#  30
+
+& The 1 0: Text
+*
+*
+*
+& to 1 22: text
+*
+
+*
++ created
++ create
+& decreate. 3 27: recreate, created, create
+
+*
++ FAQ
+*
+& can 1 15: can't
+& t 1 19: text
+*
+
+stderr 172
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968

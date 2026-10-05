@@ -1,0 +1,452 @@
+# example: schoonheid
+> PORT
+  spell 1 32 
+  sug PORT
+  ana  st:port
+  stem port
+  stemmorph port
+> Port
+  spell 1 32 
+  sug port
+  ana  st:port
+  stem port
+  stemmorph port
+> SCHOONHEID
+  spell 1 32 
+  sug SCHOONHEID
+  ana  st:schoonheid
+  stem schoonheid
+  stemmorph schoonheid
+> SCHOONHEIDSPORT
+  spell 0 32 
+  sug SCHOONHEID SPORT
+> SCHOONHEIDSSPORT
+  spell 1 33 schoonheid
+  sug SCHOONHEIDSSPORT
+> SPORT
+  spell 1 32 
+  sug PORT
+  sug SPORT
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> Schoonheid
+  spell 1 32 
+  sug schoonheid
+  ana  st:schoonheid
+  stem schoonheid
+  stemmorph schoonheid
+> Schoonheidsport
+  spell 0 32 
+  sug Schoonheid sport
+> Schoonheidssport
+  spell 1 33 schoonheid
+  sug schoonheidssport
+> Sport
+  spell 1 32 
+  sug Port
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> choonheidssport
+  spell 0 0 
+> oprt
+  spell 0 0 
+  sug port
+> oschoonheid
+  spell 0 0 
+  sug schoonheid
+> podt
+  spell 0 0 
+  sug port
+> por
+  spell 0 0 
+  sug port
+> porpt
+  spell 0 0 
+  sug port
+> port
+  spell 1 0 
+  sug port
+  ana  st:port
+  stem port
+  stemmorph port
+> port-schoonheidsport
+  spell 0 0 
+  sug port-schoonheid sport
+> port-schoonheidssport
+  spell 1 1 
+> port-sport
+  spell 1 1 
+> port.
+  spell 1 0 
+  sug port
+  ana  st:port
+  stem port
+  stemmorph port
+> portc
+  spell 0 0 
+  sug port
+> portschoonheid
+  spell 0 0 
+  sug port schoonheid
+  sug schoonheid
+> pot
+  spell 0 0 
+  sug port
+> potr
+  spell 0 0 
+  sug port
+> prot
+  spell 0 0 
+  sug port
+> prt
+  spell 0 0 
+  sug port
+> psort
+  spell 0 0 
+  sug sport
+  sug port
+> rschoonheidssport
+  spell 0 0 
+  sug schoonheidssport
+> schonheidsport
+  spell 0 0 
+  sug schoonheid
+> schonheidssport
+  spell 0 0 
+> schonoheidssport
+  spell 0 0 
+  sug schoonheidssport
+> schoohneid
+  spell 0 0 
+  sug schoonheid
+> schoohneidssport
+  spell 0 0 
+  sug schoonheidssport
+> schooncheid
+  spell 0 0 
+  sug schoonheid
+> schoonehid
+  spell 0 0 
+  sug schoonheid
+> schoonhdeidssport
+  spell 0 0 
+  sug schoonheidssport
+> schoonhedi
+  spell 0 0 
+  sug schoonheid
+> schoonheid
+  spell 1 0 
+  sug schoonheid
+  ana  st:schoonheid
+  stem schoonheid
+  stemmorph schoonheid
+  sfx schoonheids-
+  sfx schoonheids
+> schoonheid-schoonheidsport
+  spell 0 0 
+  sug schoonheid-schoonheid sport
+> schoonheid-schoonheidssport
+  spell 1 1 
+> schoonheid-sport
+  spell 1 1 
+> schoonheid.
+  spell 1 0 
+  sug schoonheid
+  ana  st:schoonheid
+  stem schoonheid
+  stemmorph schoonheid
+> schoonheidpsort
+  spell 0 0 
+> schoonheidschoonheid
+  spell 0 0 
+  sug schoonheid schoonheid
+> schoonheidschoonheidsport
+  spell 0 0 
+> schoonheidscort
+  spell 0 0 
+> schoonheidsoprt
+  spell 0 0 
+> schoonheidspoot
+  spell 0 0 
+> schoonheidsporst
+  spell 0 0 
+  sug schoonheidssport
+> schoonheidsport
+  spell 0 0 
+  sug schoonheid sport
+> schoonheidsport-schoonheid
+  spell 0 0 
+  sug schoonheid sport-schoonheid
+> schoonheidsport-schoonheidsport
+  spell 0 0 
+  sug schoonheid sport-schoonheidsport
+> schoonheidsport.
+  spell 0 0 
+  sug schoonheid sport
+> schoonheidspost
+  spell 0 0 
+> schoonheidsspeort
+  spell 0 0 
+  sug schoonheidssport
+> schoonheidssport
+  spell 1 1 schoonheid
+  sug schoonheidssport
+> schoonheidssport-port
+  spell 1 1 
+> schoonheidssport-schoonheidsport
+  spell 0 0 
+  sug schoonheidssport-schoonheid sport
+> schoonheidssport.
+  spell 1 1 schoonheid
+  sug schoonheidssport
+> schoonheidssporti
+  spell 0 0 
+  sug schoonheidssport
+> schoonheidssportschoonheid
+  spell 0 0 
+> schoonheidssportsport
+  spell 0 0 
+> schoonheidssprot
+  spell 0 0 
+  sug schoonheidssport
+> schoonheisdport
+  spell 0 0 
+> schoonhheidsport
+  spell 0 0 
+> schoonhid
+  spell 0 0 
+  sug schoonheid
+> schoonhneid
+  spell 0 0 
+  sug schoonheid
+> schooonheid
+  spell 0 0 
+  sug schoonheid
+> schroonheidssport
+  spell 0 0 
+  sug schoonheidssport
+> scohonheidsport
+  spell 0 0 
+> scoonheid
+  spell 0 0 
+  sug schoonheid
+> scoonheidssport
+  spell 0 0 
+> scroonheidsport
+  spell 0 0 
+> shchoonheid
+  spell 0 0 
+  sug schoonheid
+> shoonheid
+  spell 0 0 
+  sug schoonheid
+> speort
+  spell 0 0 
+  sug sport
+> sphoonheidsport
+  spell 0 0 
+> sphort
+  spell 0 0 
+  sug sport
+> spoort
+  spell 0 0 
+  sug sport
+  sug port
+> spordt
+  spell 0 0 
+  sug sport
+> sport
+  spell 1 0 
+  sug port
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> sport-schoonheid
+  spell 1 1 
+> sport-schoonheidsport
+  spell 0 0 
+  sug sport-schoonheid sport
+> sport.
+  spell 1 0 
+  sug port
+  sug sport
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> sportn
+  spell 0 0 
+  sug sport
+  sug port
+> sportschoonheid
+  spell 0 0 
+  sug sport schoonheid
+> sportschoonheidsport
+  spell 0 0 
+> sportsport
+  spell 0 0 
+  sug sport sport
+> spot
+  spell 0 0 
+  sug sport
+> spotr
+  spell 0 0 
+  sug sport
+> sprot
+  spell 0 0 
+  sug sport
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> sport's
+  spell 0 0 
+  sug sport
+> sportâ€™s
+  spell 0 0 
+  sug sport
+> 'sport'
+  spell 0 0 
+  sug sport
+> l'sport
+  spell 0 0 
+  sug sport
+> sport.
+  spell 1 0 
+  sug port
+  sug sport
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> sport..
+  spell 1 0 
+  sug port
+  sug sport
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> .sport
+  spell 0 0 
+  sug sport
+  sug port
+> ...
+  spell 1 0 
+> -sport
+  spell 1 1 
+  sug sport
+  sug port
+> sport-
+  spell 1 1 
+  sug sport
+  sug port
+> sport--port
+  spell 1 1 
+> sport-port-sport
+  spell 1 1 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> SPORT
+  spell 1 32 
+  sug PORT
+  sug SPORT
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> SPORT
+  spell 1 32 
+  sug PORT
+  sug SPORT
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> Sport
+  spell 1 32 
+  sug Port
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> sport port
+  spell 0 0 
+>  sport
+  spell 1 0 
+  sug port
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> sport 
+  spell 0 0 
+  sug sport
+  sug port
+> sport	port
+  spell 0 0 
+> ÿþsport
+  spell 0 0 
+  sug sport
+> sportÃ
+  spell 0 32 
+  sug sport
+  sug port
+> €sport
+  spell 0 0 
+  sug sport
+  sug port
+> ð€sport
+  spell 0 0 
+  sug sport
+> Ä°sport
+  spell 0 32 
+  sug Sport
+> sportÃŸ
+  spell 0 32 
+  sug sport
+> sport
+  spell 1 0 
+  sug port
+  ana  st:sport
+  stem sport
+  stemmorph sport
+> SPORTSS
+  spell 0 32 
+  sug SPORT
+> <?xml?><query type="analyze"><word>sport</word></query>
+  spell 0 0 
+  sug <code><a> st:sport</a></code>
+> <?xml?><query type="stem"><word>sport</word></query>
+  spell 0 0 
+  sug sport
+> <?xml?><query type="suggest"><word>sportx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>sport</word><word>port</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>sport</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>sport</word></query>
+  spell 0 0 
+  sug <code><a> st:sport</a></code>
+> <?xml?><query type="add"><word>sport</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;sport&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>sport</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

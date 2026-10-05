@@ -1,0 +1,12 @@
+exit 0
+stdout 88
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+& café 1 0: caf
+*
+
+stderr 86
+error - iconv: ANSI_X3.4-1968 -> ISO8859-1
+error - iconv: ISO8859-1 -> ANSI_X3.4-1968
+file .hunspell_base 10
+caf
+plain

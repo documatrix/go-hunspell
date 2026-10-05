@@ -1,0 +1,101 @@
+exit 0
+stdout 985
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+# Hello 0
+# wrold 6
+# this 13
+# is 18
+& a 1 21: c:a
+# tset 23
+& of 1 28: foo
+# the 31
+# speling 35
+# checker 43
+
+# The 0
+# quick 4
+# brown 10
+& fox 1 16: foo
+# jumpss 20
+# over 27
+# the 32
+# lazy 36
+# dog 41
+
+# Numbers 0
+# like 8
+# and 16
+# and 25
+# st 30
+# nd 35
+# rd 40
+# are 43
+# skipped 47
+# so 56
+# are 59
+# hyphen 63
+# ated 70
+# words 75
+
+# MiXeD 0
+# CaSe 6
+# words 11
+# HELLO 18
+# Hello 24
+# hello 30
+# hELLO 36
+# NASA 42
+# Nasa 47
+
+# Apostrophes 0
+# don 13
+# t 17
+# doesn 20
+# t 26
+# it 29
+# s 32
+# rock 35
+# n 40
+# roll 42
+# quoted 49
+# dogs 58
+# bones 64
+& can 1 71: c:a
+# t 77
+# isn 80
+# t 86
+
+# Colons 0
+# word 8
+# Finnish:ssa 14
+# and 26
+& a 1 30: c:a
+# lone 32
+# colon 39
+
+# Entities 0
+& caf 1 10: c:a
+# eacute 14
+# na&iuml;ve 22
+# &Agrave;bc 33
+# amp 45
+# x&yuml;z 50
+
+# Mail 0
+# me 5
+# at 8
+# or 31
+# visit 34
+# today 83
+
+# Paths 0
+# and 30
+# and 53
+# ok 68
+
+# Tabbed 1
+# line 8
+# with 13
+# tabz 18
+
+stderr 0

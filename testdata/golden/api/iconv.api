@@ -1,0 +1,465 @@
+# example: Chișinău
+> CHIŞINĂU
+  spell 1 32 
+  sug CHIȘINĂU
+  ana  st:Chișinău
+  stem Chișinău
+  stemmorph Chișinău
+> CHIȘINĂU
+  spell 1 32 
+  sug CHIȘINĂU
+  ana  st:Chișinău
+  stem Chișinău
+  stemmorph Chișinău
+> Cheșinău
+  spell 0 32 
+  sug Chișinău
+> Chieșinău
+  spell 0 32 
+  sug Chișinău
+> Chiișnău
+  spell 0 32 
+  sug Chișinău
+> Chişină
+  spell 0 32 
+  sug Chișinău
+> Chişinău
+  spell 1 32 
+  sug Chișinău
+  ana  st:Chișinău
+  stem Chișinău
+  stemmorph Chișinău
+> Chişinău-Țepes
+  spell 1 33 
+> Chişinău.
+  spell 1 32 
+  sug Chișinău
+  ana  st:Chișinău
+  stem Chișinău
+  stemmorph Chișinău
+> Chişinăue
+  spell 0 32 
+  sug Chișinău
+> Chişnău
+  spell 0 32 
+  sug Chișinău
+> Chişșinău
+  spell 0 32 
+  sug Chișinău
+> ChișinăCu
+  spell 0 32 
+  sug Chișinău
+> Chișinăh
+  spell 0 32 
+  sug Chișinău
+> Chișinău
+  spell 1 32 
+  sug Chișinău
+  ana  st:Chișinău
+  stem Chișinău
+  stemmorph Chișinău
+> Chișinău-Chișinău
+  spell 1 33 
+> Chișinău-Ţepes
+  spell 1 33 
+> Chișinău-ţ
+  spell 1 33 
+  sug Chișinău
+> Chișinău-Ș
+  spell 1 33 
+  sug Chișinău
+> Chișinău.
+  spell 1 32 
+  sug Chișinău
+  ana  st:Chișinău
+  stem Chișinău
+  stemmorph Chișinău
+> ChișinăuChişinău
+  spell 0 32 
+  sug Chișinău Chișinău
+> ChișinăuŞ
+  spell 0 32 
+  sug Chișinău
+  sug Chișinău Ș
+> ChișinăuȘ
+  spell 0 32 
+  sug Chișinău
+  sug Chișinău Ș
+> ChișinăuȚepes
+  spell 0 32 
+  sug Chișinău Țepes
+> Chișinăţu
+  spell 0 32 
+  sug Chișinău
+> ChișinŢău
+  spell 0 32 
+  sug Chișinău
+> ChișinȘu
+  spell 0 32 
+  sug Chișinău
+> Chișiănu
+  spell 0 32 
+  sug Chișinău
+> Chișniău
+  spell 0 32 
+  sug Chișinău
+> Chișnău
+  spell 0 32 
+  sug Chișinău
+> Chșinău
+  spell 0 32 
+  sug Chișinău
+> CȚişinău
+  spell 0 32 
+  sug Chișinău
+> epes
+  spell 0 0 
+> hCişinău
+  spell 0 32 
+  sug Chișinău
+> hișinău
+  spell 0 0 
+> i
+  spell 0 0 
+> iŞ
+  spell 0 32 
+  sug Ș
+> iȘ
+  spell 0 32 
+  sug Ș
+> uȘ
+  spell 0 32 
+  sug Ș
+> ă
+  spell 0 0 
+> Ş
+  spell 1 32 
+  sug Ș
+  ana  st:Ș
+  stem Ș
+  stemmorph Ș
+> Ş-Ţepes
+  spell 1 33 
+  sug Țepes
+> Ş-ț
+  spell 1 33 
+> Ş.
+  spell 1 32 
+  sug Ș
+  ana  st:Ș
+  stem Ș
+  stemmorph Ș
+> Şn
+  spell 0 32 
+  sug Ș
+> ŞŞ
+  spell 0 32 
+  sug Ș
+> ŞȘ
+  spell 0 32 
+  sug Ș
+> Şț
+  spell 0 32 
+  sug Ș
+  sug Ț
+  sug Ș ț
+> şepes
+  spell 0 0 
+> Ţ
+  spell 1 32 
+  sug Ț
+  ana  st:ț
+  stem ț
+  stemmorph ț
+> ŢEPES
+  spell 1 32 
+  sug ȚEPES
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> Ţepes
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> Ţepes-ţ
+  spell 1 33 
+  sug Țepes
+> Ţepes.
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> ŢŢepes
+  spell 0 32 
+  sug Țepes
+  sug Ț Țepes
+> ŢȘ
+  spell 0 32 
+  sug Ț
+> ţ
+  spell 1 0 
+  sug ț
+  ana  st:ț
+  stem ț
+  stemmorph ț
+> ţ-Chișinău
+  spell 1 33 
+  sug Chișinău
+> ţ-Ţepes
+  spell 1 33 
+  sug Țepes
+> ţ-Țepes
+  spell 1 33 
+  sug Țepes
+> ţ-ț
+  spell 1 1 
+> ţ.
+  spell 1 0 
+  sug ț
+  ana  st:ț
+  stem ț
+  stemmorph ț
+> ţChișinău
+  spell 0 32 
+  sug Chișinău
+  sug ț Chișinău
+> ţn
+  spell 0 0 
+  sug ț
+> Ș
+  spell 1 32 
+  sug Ș
+  ana  st:Ș
+  stem Ș
+  stemmorph Ș
+> Ș-Ș
+  spell 0 32 
+> Ș.
+  spell 1 32 
+  sug Ș
+  ana  st:Ș
+  stem Ș
+  stemmorph Ș
+> Șă
+  spell 0 32 
+  sug Ș
+> ș
+  spell 0 0 
+  sug Ș
+> Ț
+  spell 1 32 
+  sug ț
+  ana  st:ț
+  stem ț
+  stemmorph ț
+> ȚEPES
+  spell 1 32 
+  sug ȚEPES
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> Țeeps
+  spell 0 32 
+  sug Țepes
+> Țees
+  spell 0 32 
+  sug Țepes
+> Țepes
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> Țepes-Chişinău
+  spell 1 33 
+> Țepes-Chișinău
+  spell 1 33 
+> Țepes-ţ
+  spell 1 33 
+  sug Țepes
+> Țepes.
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> ȚepesChișinău
+  spell 0 32 
+  sug Țepes Chișinău
+> Țepesi
+  spell 0 32 
+  sug Țepes
+> ȚepesŢepes
+  spell 0 32 
+  sug Țepes Țepes
+> ȚepesȚepes
+  spell 0 32 
+  sug Țepes Țepes
+> Țpees
+  spell 0 32 
+  sug Țepes
+> ț
+  spell 1 0 
+  sug ț
+  ana  st:ț
+  stem ț
+  stemmorph ț
+> ț-Țepes
+  spell 1 33 
+  sug Țepes
+> ț.
+  spell 1 0 
+  sug ț
+  ana  st:ț
+  stem ț
+  stemmorph ț
+> țChișinău
+  spell 0 32 
+  sug Chișinău
+  sug ț Chișinău
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Țepes's
+  spell 0 32 
+  sug Țepes
+> Țepes’s
+  spell 0 32 
+  sug Țepes
+> 'Țepes'
+  spell 0 32 
+  sug Țepes
+> l'Țepes
+  spell 0 32 
+  sug Țepes
+> Țepes.
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> Țepes..
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> .Țepes
+  spell 0 32 
+  sug . Țepes
+  sug Țepes
+> ...
+  spell 1 0 
+> -Țepes
+  spell 1 33 
+  sug Țepes
+> Țepes-
+  spell 1 33 
+  sug Țepes
+> Țepes--ț
+  spell 1 33 
+  sug Țepes
+> Țepes-ț-Țepes
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ȚEPES
+  spell 1 32 
+  sug ȚEPES
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> ȚEPES
+  spell 1 32 
+  sug ȚEPES
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> ȚEpes
+  spell 0 32 
+  sug Țepes
+> Țepes ț
+  spell 0 32 
+  sug Țepes
+>  Țepes
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> Țepes 
+  spell 0 32 
+  sug Țepes
+> Țepes	ț
+  spell 0 32 
+  sug Țepes
+> ��Țepes
+  spell 0 0 
+> Țepes�
+  spell 0 32 
+  sug Țepes
+> �Țepes
+  spell 0 32 
+  sug Țepes
+> 𐐀Țepes
+  spell 0 0 
+> İȚepes
+  spell 0 32 
+  sug Țepes
+> Țepesß
+  spell 0 32 
+  sug Țepes
+> Țepes
+  spell 1 32 
+  sug Țepes
+  ana  st:Țepes
+  stem Țepes
+  stemmorph Țepes
+> ȚEPESSS
+  spell 0 32 
+  sug ȚEPES
+> <?xml?><query type="analyze"><word>Țepes</word></query>
+  spell 0 32 
+  sug <code><a> st:Țepes</a></code>
+> <?xml?><query type="stem"><word>Țepes</word></query>
+  spell 0 32 
+  sug Țepes
+> <?xml?><query type="suggest"><word>Țepesx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Țepes</word><word>ț</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Țepes</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Țepes</word></query>
+  spell 0 32 
+  sug <code><a> st:Țepes</a></code>
+> <?xml?><query type="add"><word>Țepes</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Țepes&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Țepes</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

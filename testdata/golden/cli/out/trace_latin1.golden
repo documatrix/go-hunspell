@@ -1,0 +1,148 @@
+exit 0
+stdout 4415
+word "Hello"
+  lookup "Hello" -> miss
+  pfx "Hello" candidates=0
+  sfx "Hello" candidates=0
+  lookup "hello" -> entry "hello" flags=(none)
+  result correct
+word "wrold"
+  lookup "wrold" -> miss
+  pfx "wrold" candidates=0
+  sfx flag=D strip="" add="d" cont=(none) cond="e" at=aff:59 xprod=Y hdr=aff:58
+    stem "wrol"
+    test condition cond="e" on "wrol" -> fail
+  result incorrect
+word "café"
+  lookup "café" -> miss
+  pfx "café" candidates=0
+  sfx "café" candidates=0
+  result incorrect
+word "naïve"
+  lookup "naïve" -> miss
+  pfx "naïve" candidates=0
+  sfx "naïve" candidates=0
+  result incorrect
+word "résumé"
+  lookup "résumé" -> miss
+  pfx "résumé" candidates=0
+  sfx "résumé" candidates=0
+  result incorrect
+word "été."
+  lookup "été" -> miss
+  pfx "été" candidates=0
+  sfx "été" candidates=0
+  lookup "été." -> miss
+  pfx "été." candidates=0
+  sfx "été." candidates=0
+  result incorrect
+word "The"
+  lookup "The" -> miss
+  pfx "The" candidates=0
+  sfx "The" candidates=0
+  lookup "the" -> miss
+  pfx "the" candidates=0
+  sfx "the" candidates=0
+  result incorrect
+word "sawyer"
+  lookup "sawyer" -> entry "sawyer" flags=(none)
+  result correct
+word "said"
+  lookup "said" -> entry "said" flags=(none)
+  result correct
+word "hello"
+  lookup "hello" -> entry "hello" flags=(none)
+  result correct
+word "to"
+  lookup "to" -> miss
+  pfx "to" candidates=0
+  sfx "to" candidates=0
+  result incorrect
+word "NASA."
+  lookup "NASA" -> entry "NASA" flags=(none)
+  result correct
+word "Created"
+  lookup "Created" -> miss
+  pfx "Created" candidates=0
+  sfx flag=D strip="" add="d" cont=(none) cond="e" at=aff:59 xprod=Y hdr=aff:58
+    stem "Create"
+    test condition cond="e" on "Create" -> pass
+    lookup "Create" -> miss
+  sfx flag=D strip="" add="ed" cont=(none) cond="[aeiou]y" at=aff:62 xprod=Y hdr=aff:58
+    stem "Creat"
+    test condition cond="[aeiou]y" on "Creat" -> fail
+  sfx flag=D strip="" add="ed" cont=(none) cond="[^ey]" at=aff:61 xprod=Y hdr=aff:58
+    stem "Creat"
+    test condition cond="[^ey]" on "Creat" -> pass
+    lookup "Creat" -> miss
+  lookup "created" -> entry "created" flags=U
+  result correct
+word "uncreated"
+  lookup "uncreated" -> miss
+  pfx flag=U strip="" add="un" cont=(none) cond="." at=aff:15 xprod=Y hdr=aff:14
+    stem "created"
+    test condition cond="." on "created" -> pass
+    lookup "created" -> entry "created" flags=U
+    test pfx-aflag flag=U in=dic have=U -> pass
+    accept
+  form "uncreated" = pfx(U:"un") + "created"
+  result correct
+word "recreate"
+  lookup "recreate" -> miss
+  pfx flag=A strip="" add="re" cont=(none) cond="." at=aff:9 xprod=Y hdr=aff:8
+    stem "create"
+    test condition cond="." on "create" -> pass
+    lookup "create" -> entry "create" flags=A,D,G,K,N,S,V,X
+    test pfx-aflag flag=A in=dic have=A,D,G,K,N,S,V,X -> pass
+    accept
+  form "recreate" = pfx(A:"re") + "create"
+  result correct
+word "decreate."
+  lookup "decreate" -> miss
+  pfx flag=C strip="" add="de" cont=(none) cond="." at=aff:18 xprod=Y hdr=aff:17
+    stem "create"
+    test condition cond="." on "create" -> pass
+    lookup "create" -> entry "create" flags=A,D,G,K,N,S,V,X
+    test pfx-aflag flag=C in=dic have=A,D,G,K,N,S,V,X -> fail
+    lookup "create" -> no more homonyms
+    sfx "create" candidates=0 xprod=Y
+  sfx "decreate" candidates=0
+  lookup "decreate." -> miss
+  pfx flag=C strip="" add="de" cont=(none) cond="." at=aff:18 xprod=Y hdr=aff:17
+    stem "create."
+    test condition cond="." on "create." -> pass
+    lookup "create." -> miss
+    sfx "create." candidates=0 xprod=Y
+  sfx "decreate." candidates=0
+  result incorrect
+word "FAQ"
+  lookup "FAQ" -> entry "FAQ" flags=M,S
+  result correct
+word "FAQs"
+  lookup "FAQs" -> miss
+  pfx "FAQs" candidates=0
+  sfx flag=S strip="" add="s" cont=(none) cond="[^sxzhy]" at=aff:86 xprod=Y hdr=aff:82
+    stem "FAQ"
+    test condition cond="[^sxzhy]" on "FAQ" -> pass
+    lookup "FAQ" -> entry "FAQ" flags=M,S
+    test sfx-aflag flag=S in=dic have=M,S -> pass
+    accept
+  form "FAQs" = "FAQ" + sfx(S:"s")
+  result correct
+word "can't"
+  lookup "can't" -> entry "can't" flags=(none)
+  result correct
+word "can"
+  lookup "can" -> miss
+  pfx "can" candidates=0
+  sfx "can" candidates=0
+  result incorrect
+word "t"
+  lookup "t" -> miss
+  pfx "t" candidates=0
+  sfx "t" candidates=0
+  result incorrect
+word "doesn't."
+  lookup "doesn't" -> entry "doesn't" flags=(none)
+  result correct
+stderr 0

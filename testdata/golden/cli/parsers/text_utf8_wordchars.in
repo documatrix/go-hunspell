@@ -1,0 +1,5 @@
+kind text-utf8
+wordchars '0123456789\xe2\x80\x99-
+---
+don't dog\xe2\x80\x99s it\xe2\x80\x99 x\xe2\x80\x99' 42nd 3.14 well-known -x
+\xe2\x80\x99s 'q' a''b

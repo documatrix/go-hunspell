@@ -1,0 +1,886 @@
+# example: majom
+> AKCIÓ
+  spell 1 32 
+  sug AKCIÓ
+  ana  st:akció
+  stem akció
+  stemmorph akció
+> Akció
+  spell 1 32 
+  sug akció
+  ana  st:akció
+  stem akció
+  stemmorph akció
+> Ba-tthyány-Strattmann-nal
+  spell 0 32 
+> Bakció
+  spell 0 32 
+  sug Akció
+> Batmhyány
+  spell 0 32 
+  sug Batthyány
+> Batthyny
+  spell 0 32 
+  sug Batthyány
+> Batthynány
+  spell 0 32 
+  sug Batthyány
+> Batthyány
+  spell 1 32 
+  sug Batthyány
+  ana  st:Batthyány
+  stem Batthyány
+  stemmorph Batthyány
+> Batthyány-Strat-tmann-nal
+  spell 0 32 
+> Batthyány-Strattmann
+  spell 1 33 
+> Batthyány-Strattmann-nal
+  spell 1 33 
+> Batthyány-Strattmann.
+  spell 1 33 
+> Batthyány-Strattmanná
+  spell 0 32 
+  sug Batthyány-Strattmann
+> Battyhány
+  spell 0 32 
+  sug Batthyány
+> CÍM
+  spell 1 32 
+  sug CÍM
+  ana  st:cím
+  stem cím
+  stemmorph cím
+> DEVON
+  spell 1 32 
+  sug DEVON
+  ana  st:devon
+  stem devon
+  stemmorph devon
+> Devon
+  spell 1 32 
+  sug devon
+  ana  st:devon
+  stem devon
+  stemmorph devon
+> E-mail
+  spell 1 32 
+  sug e-mail
+  ana  st:e-mail
+  stem e-mail
+  stemmorph e-mail
+> FORR
+  spell 1 32 
+  sug FORR
+  ana  st:forr
+  stem forr
+  stemmorph forr
+> Forró
+  spell 1 32 
+  sug forró
+  sug Forr
+  ana  st:forró
+  ana  st:forr fl:S
+  stem forró
+  stem forr
+  stemmorph forró
+  stemmorph forr
+> Iskola
+  spell 1 32 
+  sug iskola
+  ana  st:iskola
+  stem iskola
+  stemmorph iskola
+> KENYÉRFAVIRÁG
+  spell 1 33 kenyér
+  ana  pa:kenyér st:kenyér pa:fa st:fa pa:virág
+  stem kenyérfa
+  stemmorph kenyérfa
+> MAJOMKENYÉR
+  spell 1 33 majom
+  sug MAJOM-KENYÉR
+  ana  pa:majom st:majom pa:kenyér
+  stem majom
+  stemmorph majom
+> MAJOMKENYÉRFAVIRÁG
+  spell 0 32 
+  sug MAJOMKENYÉR-FAVIRÁG
+> MAJOMKENYÉRFAÁG
+  spell 1 33 majom
+  sug MAJOMKENYÉR-FAÁG
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:fa st:fa pa:ág
+  stem majomkenyérfa
+  stemmorph majomkenyérfa
+> MAJOMKENYÉRVIRÁG
+  spell 1 33 majom
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:virág
+  stem majomkenyér
+  stemmorph majomkenyér
+> Majomkenyér
+  spell 1 33 majom
+  sug Majom-kenyér
+  ana  pa:majom st:majom pa:kenyér
+  stem majom
+  stemmorph majom
+> Majomkenyérfa
+  spell 1 33 majom
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:fa
+  stem majomkenyér
+  stemmorph majomkenyér
+> STRATTMANN-NAL
+  spell 1 32 
+  sug STRATTMANN-NAL
+  ana  st:Strattmann-nal
+  stem Strattmann-nal
+  stemmorph Strattmann-nal
+> Stgrattmann-nal
+  spell 0 32 
+  sug Strattmann-nal
+> Stradtmann
+  spell 0 32 
+  sug Strattmann
+> Strattmann
+  spell 1 32 
+  sug Strattmann
+  ana  st:Strattmann
+  stem Strattmann
+  stemmorph Strattmann
+> Strattmann-majom
+  spell 1 33 
+  sug Strattmann-nal
+> Strattmann-nal
+  spell 1 32 
+  sug Strattmann-nal
+  ana  st:Strattmann-nal
+  stem Strattmann-nal
+  stemmorph Strattmann-nal
+> Strattmann-nal.
+  spell 1 32 
+  sug Strattmann-nal
+  ana  st:Strattmann-nal
+  stem Strattmann-nal
+  stemmorph Strattmann-nal
+> Strattmann-nalág
+  spell 0 32 
+  sug Strattmann-nal ág
+  sug Strattmann-nal
+> Strattmann.
+  spell 1 32 
+  sug Strattmann
+  ana  st:Strattmann
+  stem Strattmann
+  stemmorph Strattmann
+> Sárkányfogvetemény
+  spell 1 33 sárkány
+  ana  pa:sárkány st:sárkány pa:fog st:fog pa:vetemény
+  stem sárkányfog
+  stemmorph sárkányfog
+> TEJ
+  spell 1 32 
+  sug TEJ
+  ana  st:tej
+  stem tej
+  stemmorph tej
+> Társ
+  spell 1 32 
+  sug társ
+  ana  st:társ
+  stem társ
+  stemmorph társ
+> VÍZ
+  spell 1 32 
+  sug VÍZ
+  ana  st:víz
+  stem víz
+  stemmorph víz
+> Víz
+  spell 1 32 
+  sug víz
+  ana  st:víz
+  stem víz
+  stemmorph víz
+> akció
+  spell 1 0 
+  sug akció
+  ana  st:akció
+  stem akció
+  stemmorph akció
+> akció.
+  spell 1 0 
+  sug akció
+  ana  st:akció
+  stem akció
+  stemmorph akció
+> cím
+  spell 1 0 
+  sug cím
+  ana  st:cím
+  stem cím
+  stemmorph cím
+> deovn
+  spell 0 0 
+  sug devon
+> devon
+  spell 1 0 
+  sug devon
+  ana  st:devon
+  stem devon
+  stemmorph devon
+> devon-társ
+  spell 1 1 
+  sug devontárs
+> devonkor
+  spell 0 0 
+  sug devon kor
+  ana  pa:devon st:devon pa:kor
+  stem devon
+  stemmorph devon
+> devonkor-kortárs
+  spell 0 0 
+  sug devon kor-kortárs
+> devonkory
+  spell 0 0 
+  sug devon kor
+> devonmajomkenyér
+  spell 1 1 devon
+  ana  pa:devon st:devon pa:majom st:majom pa:kenyér
+  stem devonmajom
+  stemmorph devonmajom
+> e-mBil
+  spell 0 32 
+  sug e-mail
+> e-mail
+  spell 1 0 
+  sug e-mail
+  ana  st:e-mail
+  stem e-mail
+  stemmorph e-mail
+> e-mail-cím
+  spell 1 1 
+  sug e-mail
+> e-mail-cím.
+  spell 1 1 
+  sug e-mail
+> e-mail-ícm
+  spell 0 0 
+  sug e-mail
+> email-cím
+  spell 0 0 
+  sug e-mail
+> evon
+  spell 0 0 
+  sug devon
+> fa
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> fa.
+  spell 1 0 
+  sug fa
+  ana  st:fa
+  stem fa
+  stemmorph fa
+> faa
+  spell 0 0 
+  sug fa
+> fog
+  spell 1 0 
+  sug fog
+  ana  st:fog
+  stem fog
+  stemmorph fog
+> fogfa
+  spell 1 1 fog
+  sug fog-fa
+  sug fog
+  ana  pa:fog st:fog pa:fa
+  stem fog
+  stemmorph fog
+> fogá
+  spell 0 0 
+  sug fog
+> forr
+  spell 1 0 
+  sug forr
+  ana  st:forr
+  stem forr
+  stemmorph forr
+  sfx forró
+> forr.
+  spell 1 0 
+  sug forr
+  ana  st:forr
+  stem forr
+  stemmorph forr
+> forrvóíz-tartály
+  spell 0 0 
+  sug forró-tartály
+> forré
+  spell 0 0 
+  sug forr
+> forrí
+  spell 0 0 
+  sug forr
+> forró
+  spell 1 0 
+  sug forró
+  sug forr
+  ana  st:forró
+  ana  st:forr fl:S
+  stem forró
+  stem forr
+  stemmorph forró
+  stemmorph forr
+> forró-forró
+  spell 1 1 
+> forrórvíz-tartály
+  spell 0 0 
+  sug forró-tartály
+> forrótárs
+  spell 0 0 
+  sug forró társ
+  sug forró
+> forróvíz
+  spell 0 0 
+  sug forró víz
+  sug forró
+> forróvíz-tartály
+  spell 1 1 
+  sug forró víz-tartály
+  sug forró-tartály
+> forróvíz-tatrály
+  spell 0 0 
+  sug forró víz-tatrály
+  sug forró-tatrály
+> forróvíz.
+  spell 0 0 
+  sug forró víz
+  sug forró
+> forróvíziskola
+  spell 0 0 
+> foyr
+  spell 0 0 
+  sug forr
+> fvrró
+  spell 0 0 
+  sug forró
+> hartály
+  spell 0 0 
+  sug tartály
+> isaola
+  spell 0 0 
+  sug iskola
+> iskola
+  spell 1 0 
+  sug iskola
+  ana  st:iskola
+  stem iskola
+  stemmorph iskola
+> iskola.
+  spell 1 0 
+  sug iskola
+  ana  st:iskola
+  stem iskola
+  stemmorph iskola
+> iskolatejakcieó
+  spell 0 0 
+> iskolatejakció
+  spell 0 0 
+> iskolatejakció.
+  spell 0 0 
+> kenyrfavirág
+  spell 0 0 
+> kenyé
+  spell 0 0 
+  sug kenyér
+> kenyér
+  spell 1 0 
+  sug kenyér
+  ana  st:kenyér
+  stem kenyér
+  stemmorph kenyér
+> kenyérfavirág
+  spell 1 1 kenyér
+  ana  pa:kenyér st:kenyér pa:fa st:fa pa:virág
+  stem kenyérfa
+  stemmorph kenyérfa
+> kenyérfaviság
+  spell 0 0 
+> kenyérfvairág
+  spell 0 0 
+  sug kenyérfavirág
+> ko
+  spell 0 0 
+  sug kor
+> kor
+  spell 1 0 
+  sug kor
+  ana  st:kor
+  stem kor
+  stemmorph kor
+> kortárs
+  spell 1 1 kor
+  sug kor-társ
+  sug társ
+  ana  pa:kor st:kor pa:társ
+  stem kor
+  stemmorph kor
+> kortárs-kor
+  spell 1 1 
+  sug kortárskor
+> kortárs-kortárs
+  spell 1 1 
+  sug kortárskortárs
+> kortárs.
+  spell 1 1 kor
+  sug kor-társ
+  sug kortárs
+  sug társ
+  ana  pa:kor st:kor pa:társ
+  stem kor
+  stemmorph kor
+> láló
+  spell 0 0 
+  sug álló
+> madomkenyérfaág
+  spell 0 0 
+> majmkenyérfavirág
+  spell 0 0 
+> majmokenyérfavirág
+  spell 0 0 
+> majokenyérvirág
+  spell 0 0 
+> majom
+  spell 1 0 
+  sug majom
+  ana  st:majom
+  stem majom
+  stemmorph majom
+> majomkenyégfa
+  spell 0 0 
+> majomkenyér
+  spell 1 1 majom
+  sug majom-kenyér
+  ana  pa:majom st:majom pa:kenyér
+  stem majom
+  stemmorph majom
+> majomkenyérBatthyány-Strattmann
+  spell 0 32 
+> majomkenyércfaág
+  spell 0 0 
+  sug majomkenyérfaág
+> majomkenyérfa
+  spell 1 1 majom
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:fa
+  stem majomkenyér
+  stemmorph majomkenyér
+> majomkenyérfakenyérfavirág
+  spell 0 0 
+  sug majomkenyér-fakenyérfavirág
+  sug majomkenyérfa-kenyérfavirág
+> majomkenyérfavirág
+  spell 0 0 
+  sug majomkenyér-favirág
+> majomkenyérfaviráág
+  spell 0 0 
+> majomkenyérfaviág
+  spell 0 0 
+> majomkenyérfaág
+  spell 1 1 majom
+  sug majomkenyér-faág
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:fa st:fa pa:ág
+  stem majomkenyérfa
+  stemmorph majomkenyérfa
+> majomkenyérfaág.
+  spell 1 1 majom
+  sug majomkenyér-faág
+  sug majomkenyérfaág
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:fa st:fa pa:ág
+  stem majomkenyérfa
+  stemmorph majomkenyérfa
+> majomkenyérfaágállóvíz
+  spell 0 0 
+  sug majomkenyér-faágállóvíz
+  sug majomkenyérfa-ágállóvíz
+  sug majomkenyérfaág-állóvíz
+> majomkenyérfvairág
+  spell 0 0 
+> majomkenyérvirág
+  spell 1 1 majom
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:virág
+  stem majomkenyér
+  stemmorph majomkenyér
+> majomkenyérvirág.
+  spell 1 1 majom
+  sug majomkenyérvirág
+  ana  pa:majom st:majom pa:kenyér st:kenyér pa:virág
+  stem majomkenyér
+  stemmorph majomkenyér
+> majomkenéyr
+  spell 0 0 
+  sug majomkenyér
+> masomkenyérvirág
+  spell 0 0 
+> nevon
+  spell 0 0 
+  sug devon
+> skortárs
+  spell 0 0 
+  sug kortárs
+> sorr
+  spell 0 0 
+  sug forr
+> svíz
+  spell 0 0 
+  sug víz
+> sárknáy
+  spell 0 0 
+  sug sárkány
+> sárkány
+  spell 1 0 
+  sug sárkány
+  ana  st:sárkány
+  stem sárkány
+  stemmorph sárkány
+> sárkány-majomkenyérvirág
+  spell 1 1 
+> sárkány.
+  spell 1 0 
+  sug sárkány
+  ana  st:sárkány
+  stem sárkány
+  stemmorph sárkány
+> sárkányB
+  spell 0 32 
+  sug sárkány
+> sárkányfogvetemény
+  spell 1 1 sárkány
+  ana  pa:sárkány st:sárkány pa:fog st:fog pa:vetemény
+  stem sárkányfog
+  stemmorph sárkányfog
+> sárkányfogvetemény-társ
+  spell 1 1 
+> sárkányfogvetemény-vetemény
+  spell 1 1 
+> sárkányfogvetemény.
+  spell 1 1 sárkány
+  sug sárkányfogvetemény
+  ana  pa:sárkány st:sárkány pa:fog st:fog pa:vetemény
+  stem sárkányfog
+  stemmorph sárkányfog
+> sárkányfogveytemény
+  spell 0 0 
+  sug sárkányfogvetemény
+> sárkáyfogvetemény
+  spell 0 0 
+> tartály
+  spell 1 0 
+  sug tartály
+  ana  st:tartály
+  stem tartály
+  stemmorph tartály
+> tartály.
+  spell 1 0 
+  sug tartály
+  ana  st:tartály
+  stem tartály
+  stemmorph tartály
+> tartályó
+  spell 0 0 
+  sug tartály
+> tarátly
+  spell 0 0 
+  sug tartály
+> tej
+  spell 1 0 
+  sug tej
+  ana  st:tej
+  stem tej
+  stemmorph tej
+> tej.
+  spell 1 0 
+  sug tej
+  ana  st:tej
+  stem tej
+  stemmorph tej
+> tj
+  spell 0 0 
+  sug tej
+> társ
+  spell 1 0 
+  sug társ
+  ana  st:társ
+  stem társ
+  stemmorph társ
+> társ.
+  spell 1 0 
+  sug társ
+  ana  st:társ
+  stem társ
+  stemmorph társ
+> tárz
+  spell 0 0 
+  sug társ
+> tásr
+  spell 0 0 
+  sug társ
+> veiemény
+  spell 0 0 
+  sug vetemény
+> vetemyny
+  spell 0 0 
+  sug vetemény
+> vetemény
+  spell 1 0 
+  sug vetemény
+  ana  st:vetemény
+  stem vetemény
+  stemmorph vetemény
+> viirág
+  spell 0 0 
+  sug virág
+> virág
+  spell 1 0 
+  sug virág
+  ana  st:virág
+  stem virág
+  stemmorph virág
+> virágStrattmann
+  spell 0 32 
+  sug virág Strattmann
+  sug Strattmann-nal
+> víz
+  spell 1 0 
+  sug víz
+  ana  st:víz
+  stem víz
+  stemmorph víz
+> víz.
+  spell 1 0 
+  sug víz
+  ana  st:víz
+  stem víz
+  stemmorph víz
+> vízm
+  spell 0 0 
+  sug víz
+> ÁG
+  spell 1 32 
+  sug ÁG
+  ana  st:ág
+  stem ág
+  stemmorph ág
+> ÁLL
+  spell 1 32 
+  sug ÁLL
+  ana  st:áll
+  stem áll
+  stemmorph áll
+> ág
+  spell 1 0 
+  sug ág
+  ana  st:ág
+  stem ág
+  stemmorph ág
+> ágBatthyány
+  spell 0 32 
+  sug ág Batthyány
+  sug Batthyány
+> ál
+  spell 0 0 
+  sug áll
+> álS
+  spell 0 32 
+  sug áll
+> áll
+  spell 1 0 
+  sug áll
+  ana  st:áll
+  stem áll
+  stemmorph áll
+  sfx álló
+> áll.
+  spell 1 0 
+  sug áll
+  ana  st:áll
+  stem áll
+  stemmorph áll
+> állm
+  spell 0 0 
+  sug áll
+> állvirág
+  spell 0 0 
+  sug áll virág
+  sug virág
+> álló
+  spell 1 0 áll
+  sug álló
+  sug áll
+  ana  st:áll fl:S
+  stem áll
+  stemmorph áll
+> állóvíz
+  spell 1 1 áll
+  sug álló víz
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> állóvíz.
+  spell 1 1 áll
+  sug álló víz
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> állóvízfog
+  spell 1 1 áll
+  sug állóvízfog
+  ana  pa:álló st:áll fl:S pa:víz st:víz pa:fog
+  stem állóvíz
+  stemmorph állóvíz
+> ásll
+  spell 0 0 
+  sug áll
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+  ana 12
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+  ana 1.
+> 12-th
+  spell 0 0 
+  sug 12-tej
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 0 0 
+> állóvíz's
+  spell 0 0 
+> állóvíz’s
+  spell 0 0 
+> 'állóvíz'
+  spell 0 0 
+> l'állóvíz
+  spell 0 0 
+> állóvíz.
+  spell 1 1 áll
+  sug álló víz
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> állóvíz..
+  spell 1 1 áll
+  sug álló víz
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> .állóvíz
+  spell 0 0 
+  sug állóvíz
+> ...
+  spell 1 0 
+> -állóvíz
+  spell 0 0 
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> állóvíz-
+  spell 1 1 áll
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> állóvíz--sárkány
+  spell 1 1 
+> állóvíz-sárkány-állóvíz
+  spell 1 1 
+> áLLóVíZ
+  spell 0 32 
+  sug álló Víz
+  sug állóvíz
+> áLLóVíZ
+  spell 0 32 
+  sug álló Víz
+  sug állóvíz
+> áLlóVíZ
+  spell 0 32 
+  sug álló Víz
+  sug állóvíz
+> állóvíz sárkány
+  spell 0 0 
+  sug állóvízsárkány
+>  állóvíz
+  spell 1 1 áll
+  sug álló víz
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> állóvíz 
+  spell 0 0 
+  sug állóvíz
+> állóvíz	sárkány
+  spell 0 0 
+  sug állóvízsárkány
+> ��állóvíz
+  spell 0 0 
+> állóvíz�
+  spell 0 0 
+  sug állóvíz
+> �állóvíz
+  spell 0 0 
+  sug állóvíz
+> 𐐀állóvíz
+  spell 0 0 
+> İállóvíz
+  spell 0 32 
+  sug Állóvíz
+> állóvízß
+  spell 0 0 
+  sug állóvíz
+> állóvíz
+  spell 1 1 áll
+  sug álló víz
+  sug állóvíz
+  ana  pa:álló st:áll fl:S pa:víz
+  stem álló
+  stemmorph álló
+> áLLóVíZSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>állóvíz</word></query>
+  spell 0 0 
+  sug <code><a> pa:álló st:áll fl:S pa:víz</a></code>
+> <?xml?><query type="stem"><word>állóvíz</word></query>
+  spell 0 0 
+  sug álló
+> <?xml?><query type="suggest"><word>állóvízx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>állóvíz</word><word>sárkány</word></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>állóvíz</word></query>
+  spell 0 0 
+  sug <code><a> pa:álló st:áll fl:S pa:víz</a></code>
+> <?xml?><query type="add"><word>állóvíz</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;állóvíz&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>állóvíz</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

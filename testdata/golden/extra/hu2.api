@@ -1,0 +1,27 @@
+# example: alma
+> elealmaház
+  spell 0 0 
+  sug elealma-ház
+> eleházalma
+  spell 0 0 
+  sug eleház-alma
+> almaeleház
+  spell 0 0 
+  sug alma-eleház
+> elealmaházfa
+  spell 0 0 
+> almakert
+  spell 1 1 alma
+  sug alma-kert
+  sug alma
+  ana  pa:alma st:alma po:noun pa:kert st:kert po:noun
+  stem almakert
+  stemmorph almakert
+> házkertnak
+  spell 0 0 
+> almaháznak
+  spell 1 1 alma
+  sug alma-háznak
+  ana  pa:alma st:alma po:noun pa:háznak  st:ház po:noun fl:c
+  stem almaház
+  stemmorph almaház

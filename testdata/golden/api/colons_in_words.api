@@ -1,0 +1,365 @@
+# example: c:a
+> :a
+  spell 0 0 
+  sug c:a
+> :ca
+  spell 0 0 
+  sug c:a
+> :foo
+  spell 0 0 
+  sug foo
+> :t
+  spell 0 0 
+> C:A
+  spell 1 32 
+  sug C:A
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> C:a
+  spell 1 32 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> FOO
+  spell 1 32 
+  sug FOO
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> Foo
+  spell 1 32 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> S:
+  spell 0 32 
+  sug S:t
+> S:S
+  spell 0 32 
+  sug S:T
+> S:T
+  spell 1 32 
+  sug S:T
+  ana  st:S:t
+  stem S:t
+  stemmorph S:t
+> S:a
+  spell 0 32 
+  sug S:t
+> S:ft
+  spell 0 32 
+  sug S:t
+> S:t
+  spell 1 32 
+  sug S:t
+  ana  st:S:t
+  stem S:t
+  stemmorph S:t
+> S:t-c:a
+  spell 1 33 
+> S:t-foo
+  spell 1 33 
+> S:t.
+  spell 1 32 
+  sug S:t
+  ana  st:S:t
+  stem S:t
+  stemmorph S:t
+> S:tS:t
+  spell 0 32 
+  sug S:t S:t
+  sug S:t
+> S:tc:a
+  spell 0 32 
+  sug S:t c:a
+  sug S:t
+> S:tf
+  spell 0 32 
+  sug S:t
+> S:tfoo
+  spell 0 32 
+  sug S:t foo
+  sug S:t
+> S:to
+  spell 0 32 
+  sug S:t
+> S:tt
+  spell 0 32 
+  sug S:t
+> Sc:a
+  spell 0 32 
+  sug C:a
+> Sft
+  spell 0 32 
+  sug S:t
+> Soo
+  spell 0 32 
+> St:
+  spell 0 32 
+  sug S:t
+> c::a
+  spell 0 0 
+  sug c:a
+> c:a
+  spell 1 0 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> c:a-c:a
+  spell 1 1 
+  sug c:a
+> c:a-foo
+  spell 1 1 
+> c:a.
+  spell 1 0 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> c:aS
+  spell 0 32 
+  sug c:a
+> c:aS:t
+  spell 0 32 
+  sug c:a S:t
+  sug c:a
+> c:ac:a
+  spell 0 0 
+  sug c:a c:a
+  sug c:a
+> c:afoo
+  spell 0 0 
+  sug c:a foo
+  sug c:a
+> c:ao
+  spell 0 0 
+  sug c:a
+> c:at
+  spell 0 0 
+  sug c:a
+> c:f
+  spell 0 0 
+  sug c:a
+> c:o
+  spell 0 0 
+  sug c:a
+> c:ta
+  spell 0 0 
+  sug c:a
+> ca
+  spell 0 0 
+  sug c:a
+> ca:
+  spell 0 0 
+  sug c:a
+> cta
+  spell 0 0 
+  sug c:a
+> fSoo
+  spell 0 32 
+  sug foo
+> faoo
+  spell 0 0 
+  sug foo
+> fc:a
+  spell 0 0 
+  sug c:a
+> fo
+  spell 0 0 
+  sug foo
+> fo:
+  spell 0 0 
+  sug foo
+> fo:o
+  spell 0 0 
+  sug foo
+> foSo
+  spell 0 32 
+  sug foo
+> foco
+  spell 0 0 
+  sug foo
+> foo
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> foo-c:a
+  spell 1 1 
+> foo-foo
+  spell 1 1 
+  sug foo
+> foo.
+  spell 1 0 
+  sug foo
+  ana  st:foo
+  stem foo
+  stemmorph foo
+> fooa
+  spell 0 0 
+  sug foo
+> fooc:a
+  spell 0 0 
+  sug foo c:a
+> foofoo
+  spell 0 0 
+  sug foo foo
+  sug foo
+> fooo
+  spell 0 0 
+  sug foo
+> o:t
+  spell 0 0 
+> oc:a
+  spell 0 0 
+  sug c:a
+> oo
+  spell 0 0 
+  sug foo
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> c:a's
+  spell 0 0 
+  sug c:a
+> c:aâ€™s
+  spell 0 0 
+> 'c:a'
+  spell 0 0 
+  sug c:a
+> l'c:a
+  spell 0 0 
+  sug c:a
+> c:a.
+  spell 1 0 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> c:a..
+  spell 1 0 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> .c:a
+  spell 0 0 
+  sug c:a
+> ...
+  spell 1 0 
+> -c:a
+  spell 1 1 
+  sug c:a
+> c:a-
+  spell 1 1 
+  sug c:a
+> c:a--S:t
+  spell 1 33 
+> c:a-S:t-c:a
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> C:A
+  spell 1 32 
+  sug C:A
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> C:A
+  spell 1 32 
+  sug C:A
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> C:A
+  spell 1 32 
+  sug C:A
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> c:a S:t
+  spell 0 32 
+>  c:a
+  spell 1 0 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> c:a 
+  spell 0 0 
+  sug c:a
+> c:a	S:t
+  spell 0 32 
+> ÿþc:a
+  spell 0 0 
+  sug c:a
+> c:aÃ
+  spell 0 32 
+  sug c:a
+> €c:a
+  spell 0 0 
+  sug c:a
+> ð€c:a
+  spell 0 0 
+> Ä°c:a
+  spell 0 32 
+  sug C:a
+> c:aÃŸ
+  spell 0 32 
+  sug c:a
+> c:a
+  spell 1 0 
+  sug c:a
+  ana  st:c:a
+  stem c:a
+  stemmorph c:a
+> C:ASS
+  spell 0 32 
+  sug C:A
+> <?xml?><query type="analyze"><word>c:a</word></query>
+  spell 0 0 
+  sug <code><a> st:c:a</a></code>
+> <?xml?><query type="stem"><word>c:a</word></query>
+  spell 0 0 
+  sug c:a
+> <?xml?><query type="suggest"><word>c:ax</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>c:a</word><word>S:t</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>c:a</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>c:a</word></query>
+  spell 0 0 
+  sug <code><a> st:c:a</a></code>
+> <?xml?><query type="add"><word>c:a</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;c:a&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>c:a</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

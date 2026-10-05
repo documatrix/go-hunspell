@@ -1,0 +1,7 @@
+exit 0
+stdout 72
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+
+stderr 30
+error - missing HOME variable

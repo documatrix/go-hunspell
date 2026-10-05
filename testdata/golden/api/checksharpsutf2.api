@@ -1,0 +1,512 @@
+# example: Straße
+> AUENMAẞE
+  spell 0 32 
+  sug AUßENMAßE
+> AUSSENMAASSE
+  spell 0 32 
+> AUSSENMASSE
+  spell 1 32 
+> AUSSEẞNMASSE
+  spell 0 32 
+> AUuẞENMAẞE
+  spell 0 32 
+  sug Außenmaße
+> AUẞENMAE
+  spell 0 32 
+  sug AUßENMAßE
+> AUẞENMAẞE
+  spell 1 32 
+  sug AUSSENMASSE
+  sug AUßENMAßE
+  ana  st:Außenmaße
+  stem Außenmaße
+  stemmorph Außenmaße
+> AUẞENMAẞE-Straße
+  spell 1 33 
+> AUẞENMAẞE-müßig
+  spell 1 33 
+  sug Außenmaße-müßig
+> AUẞENMAẞE.
+  spell 1 32 
+  sug AUSSENMASSE
+  sug AUßENMAßE
+  ana  st:Außenmaße
+  stem Außenmaße
+  stemmorph Außenmaße
+> AUẞENMAẞEGROẞMANN
+  spell 0 32 
+> AUẞENMUẞE
+  spell 0 32 
+  sug AUßENMAßE
+> AUẞENMẞE
+  spell 0 32 
+  sug AUßENMAßE
+> Aueenmaße
+  spell 0 32 
+  sug Außenmaße
+> AußenOaße
+  spell 0 32 
+  sug Außenmaße
+> AußenSaße
+  spell 0 32 
+  sug Außenmaße
+> Außenaße
+  spell 0 32 
+  sug Außenmaße
+> Außenmaae
+  spell 0 32 
+  sug Außenmaße
+> Außenmae
+  spell 0 32 
+  sug Außenmaße
+> Außenmatße
+  spell 0 32 
+  sug Außenmaße
+> Außenmaße
+  spell 1 32 
+  sug Außenmaße
+  ana  st:Außenmaße
+  stem Außenmaße
+  stemmorph Außenmaße
+> Außenmaße-MÜẞIG
+  spell 0 32 
+  sug Außenmaße-müßig
+> Außenmaße-Müßig
+  spell 1 33 
+  sug Außenmaße-müßig
+> Außenmaße-STRAẞE
+  spell 1 33 
+> Außenmaße.
+  spell 1 32 
+  sug Außenmaße
+  ana  st:Außenmaße
+  stem Außenmaße
+  stemmorph Außenmaße
+> AußenmaßeStraße
+  spell 0 32 
+  sug Außenmaße Straße
+> AußenmaßeU
+  spell 0 32 
+  sug Außenmaße
+> Außenmiaße
+  spell 0 32 
+  sug Außenmaße
+> Außnemaße
+  spell 0 32 
+  sug Außenmaße
+> GROSMSANN
+  spell 0 32 
+  sug GROßMANN
+> GROSSMANN
+  spell 1 32 
+  sug GROßMANN
+> GROSSMANNA
+  spell 0 32 
+  sug GROßMANN
+> GROSSMANu
+  spell 0 32 
+  sug Großmann
+> GROSSMNAN
+  spell 0 32 
+  sug GROßMANN
+> GROẞMANN
+  spell 1 32 
+  sug GROSSMANN
+  sug GROßMANN
+  ana  st:Großmann
+  stem Großmann
+  stemmorph Großmann
+> GROẞMANN-AUẞENMAẞE
+  spell 0 32 
+> GROẞMANN-Straẞe
+  spell 0 32 
+  sug GROẞMANN-Straße
+> GROẞMANNa
+  spell 0 32 
+  sug Großmann
+> GROẞMoNN
+  spell 0 32 
+  sug Großmann
+> Gooßmann
+  spell 0 32 
+  sug Großmann
+> GrToßmann
+  spell 0 32 
+  sug Großmann
+> Grossmann
+  spell 0 32 
+  sug Großmann
+> GroßmGnn
+  spell 0 32 
+  sug Großmann
+> GroßmNann
+  spell 0 32 
+  sug Großmann
+> GroßmaOnn
+  spell 0 32 
+  sug Großmann
+> Großman
+  spell 0 32 
+  sug Großmann
+> GroßmanUn
+  spell 0 32 
+  sug Großmann
+> Großmann
+  spell 1 32 
+  sug Großmann
+  ana  st:Großmann
+  stem Großmann
+  stemmorph Großmann
+> Großmann-GROSSMANN
+  spell 1 33 
+> Großmann.
+  spell 1 32 
+  sug Großmann
+  ana  st:Großmann
+  stem Großmann
+  stemmorph Großmann
+> Großmannmüßig
+  spell 0 32 
+  sug Großmann müßig
+> MeÜẞIG
+  spell 0 32 
+  sug Müßig
+> MÜSISG
+  spell 0 32 
+> MÜSISIG
+  spell 0 32 
+> MÜSSIG
+  spell 1 32 
+> MÜSSIG.
+  spell 1 32 
+> MÜSSIGGroßmann
+  spell 0 32 
+> MÜSSIUG
+  spell 0 32 
+> MÜSUSIG
+  spell 0 32 
+> MÜẞGIG
+  spell 0 32 
+  sug MÜSSIG
+  sug müßig
+> MÜẞI
+  spell 0 32 
+  sug müßig
+> MÜẞIG
+  spell 0 32 
+  sug MÜSSIG
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> MÜẞIG-Straße
+  spell 0 32 
+  sug MÜSSIG-Straße
+  sug Müßig-Straße
+> MÜẞIG.
+  spell 0 32 
+  sug MÜSSIG
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> MÜẞIGGroßmann
+  spell 0 32 
+> MÜẞIGMüßig
+  spell 0 32 
+  sug Müßig Müßig
+> MÜẞIGStraße
+  spell 0 32 
+> MÜẞmIG
+  spell 0 32 
+  sug Müßig
+> Müißg
+  spell 0 32 
+  sug Müßig
+> Müssig
+  spell 0 32 
+> Müßg
+  spell 0 32 
+  sug Müßig
+> Müßig
+  spell 1 32 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> Müßig.
+  spell 1 32 
+  sug Müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> MüßigMÜẞIG
+  spell 0 32 
+  sug Müßig Müßig
+> STRAGSSE
+  spell 0 32 
+  sug STRAßE
+> STRASSE
+  spell 1 32 
+  sug STRAßE
+> STRASSE.
+  spell 1 32 
+  sug STRAßE
+> STRAoE
+  spell 0 32 
+  sug Straße
+> STRAẞE
+  spell 1 32 
+  sug STRASSE
+  sug STRAßE
+  ana  st:Straße
+  stem Straße
+  stemmorph Straße
+> STRAẞE-Großmann
+  spell 1 33 
+> STRAẞE-MÜẞIG
+  spell 1 33 
+  sug STRAẞE-müßig
+> STRAẞE.
+  spell 1 32 
+  sug STRASSE
+  sug STRAßE
+  ana  st:Straße
+  stem Straße
+  stemmorph Straße
+> STRAẞEG
+  spell 0 32 
+  sug STRASSE
+  sug STRAßE
+> STRAẞEGROSSMANN
+  spell 0 32 
+> Srtaẞe
+  spell 0 32 
+  sug Straße
+> StrEẞe
+  spell 0 32 
+  sug Straße
+> Strae
+  spell 0 32 
+  sug Straße
+> Straeẞ
+  spell 0 32 
+  sug Straße
+> Strasse
+  spell 0 32 
+  sug Straße
+> Straß
+  spell 0 32 
+  sug Straße
+> Straße
+  spell 1 32 
+  sug Straße
+  ana  st:Straße
+  stem Straße
+  stemmorph Straße
+> Straße-Außenmaße
+  spell 1 33 
+> Straße.
+  spell 1 32 
+  sug Straße
+  ana  st:Straße
+  stem Straße
+  stemmorph Straße
+> Straẞe
+  spell 0 32 
+  sug Straße
+> Straẞe.
+  spell 0 32 
+  sug Straße
+> StraẞeMüßig
+  spell 0 32 
+  sug Straße Müßig
+> StraẞeSTRASSE
+  spell 0 32 
+> Straẞẞe
+  spell 0 32 
+  sug Straße
+> Strẞaße
+  spell 0 32 
+  sug Straße
+> eSTRAẞE
+  spell 0 32 
+  sug Straße
+> müSig
+  spell 0 32 
+  sug müßig
+> müißg
+  spell 0 0 
+  sug müßig
+> müßaig
+  spell 0 0 
+  sug müßig
+> müßig
+  spell 1 0 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> müßig-MÜẞIG
+  spell 0 32 
+  sug müßig-müßig
+> müßig-Straße
+  spell 1 33 
+> müßig-müßig
+  spell 1 1 
+> müßig.
+  spell 1 0 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> müßigSTRAẞE
+  spell 0 32 
+> müßigStraße
+  spell 0 32 
+  sug müßig Straße
+> müßigÜ
+  spell 0 32 
+  sug müßig
+> ußenmaße
+  spell 0 0 
+> üßig
+  spell 0 0 
+  sug müßig
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Müßig's
+  spell 0 32 
+  sug Müßig
+> Müßig’s
+  spell 0 32 
+  sug Müßig
+> 'Müßig'
+  spell 0 32 
+  sug müßig
+> l'Müßig
+  spell 0 32 
+  sug müßig
+> Müßig.
+  spell 1 32 
+  sug Müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> Müßig..
+  spell 1 32 
+  sug Müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> .Müßig
+  spell 0 32 
+  sug . Müßig
+  sug müßig
+> ...
+  spell 1 0 
+> -Müßig
+  spell 1 33 
+  sug -müßig
+  sug müßig
+> Müßig-
+  spell 1 33 
+  sug Müßig
+> Müßig--AUSSENMASSE
+  spell 1 33 
+> Müßig-AUSSENMASSE-Müßig
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> MüßIG
+  spell 0 32 
+  sug Müßig
+> müßIG
+  spell 0 32 
+  sug müßig
+> MüßIg
+  spell 0 32 
+  sug Müßig
+> Müßig AUSSENMASSE
+  spell 0 32 
+>  Müßig
+  spell 1 32 
+  sug Müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> Müßig 
+  spell 0 32 
+  sug Müßig
+> Müßig	AUSSENMASSE
+  spell 0 32 
+> ��Müßig
+  spell 0 0 
+  sug müßig
+> Müßig�
+  spell 0 32 
+  sug Müßig
+> �Müßig
+  spell 0 32 
+  sug müßig
+> 𐐀Müßig
+  spell 0 0 
+  sug müßig
+> İMüßig
+  spell 0 32 
+  sug Müßig
+> Müßigß
+  spell 0 32 
+  sug Müßig
+> Müßig
+  spell 1 32 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> MüßIGSS
+  spell 0 32 
+  sug Müßig
+> <?xml?><query type="analyze"><word>Müßig</word></query>
+  spell 0 32 
+  sug <code><a> st:müßig</a></code>
+> <?xml?><query type="stem"><word>Müßig</word></query>
+  spell 0 32 
+  sug müßig
+> <?xml?><query type="suggest"><word>Müßigx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Müßig</word><word>AUSSENMASSE</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Müßig</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Müßig</word></query>
+  spell 0 32 
+  sug <code><a> st:müßig</a></code>
+> <?xml?><query type="add"><word>Müßig</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Müßig&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Müßig</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

@@ -1,0 +1,438 @@
+# example: uLinda
+> LLinda
+  spell 0 32 
+  sug ULinda
+> Linda
+  spell 0 32 
+  sug ULinda
+> Luinda
+  spell 0 32 
+  sug ULinda
+> NLLinda
+  spell 0 32 
+  sug ULinda
+> NLinda
+  spell 0 32 
+  sug ULinda
+> NLoinda
+  spell 0 32 
+  sug NoLinda
+  sug ULinda
+> NOLINDA
+  spell 0 32 
+> NoLida
+  spell 0 32 
+  sug NoLinda
+> NoLidna
+  spell 0 32 
+  sug NoLinda
+> NoLindUa
+  spell 0 32 
+  sug NoLinda
+  sug ULinda
+> NoLinda
+  spell 1 32 uLinda
+  sug noLinda
+> NoLinda-uLinda
+  spell 1 33 
+> NoLinda.
+  spell 1 32 uLinda
+  sug NoLinda
+> NoLindaULinda
+  spell 0 32 
+> NoLindauLinda
+  spell 0 32 
+  sug NoLinda uLinda
+> NoLindaulinda
+  spell 0 32 
+> NoLnida
+  spell 0 32 
+  sug NoLinda
+> NoLninda
+  spell 0 32 
+  sug NoLinda
+  sug ULinda
+> NoULinda
+  spell 0 32 
+  sug NoLinda
+  sug ULinda
+> Noinda
+  spell 0 32 
+  sug NoLinda
+> Nolinda
+  spell 0 32 
+  sug NoLinda
+> NonLinda
+  spell 0 32 
+  sug NoLinda
+  sug ULinda
+> ULINDA
+  spell 1 32 
+  sug ULINDA
+  ana  st:Ulinda
+  stem Ulinda
+  stemmorph Ulinda
+> ULanda
+  spell 0 32 
+  sug ULinda
+> ULida
+  spell 0 32 
+  sug ULinda
+> ULiinda
+  spell 0 32 
+  sug ULinda
+> ULind
+  spell 0 32 
+  sug ULinda
+> ULindL
+  spell 0 32 
+  sug ULinda
+> ULinda
+  spell 1 32 
+  sug uLinda
+> ULinda-NoLinda
+  spell 1 33 
+> ULinda-uLinda
+  spell 1 33 
+> ULinda.
+  spell 1 32 
+  sug ULinda
+> ULindaNoLinda
+  spell 0 32 
+> ULindaa
+  spell 0 32 
+  sug ULinda
+> ULindai
+  spell 0 32 
+  sug ULinda
+> ULindanoLinda
+  spell 0 32 
+  sug ULinda noLinda
+> ULindda
+  spell 0 32 
+  sug ULinda
+> ULindia
+  spell 0 32 
+  sug ULinda
+> ULiuda
+  spell 0 32 
+  sug ULinda
+> ULnda
+  spell 0 32 
+  sug ULinda
+> ULnida
+  spell 0 32 
+  sug ULinda
+> Uinda
+  spell 0 32 
+  sug ULinda
+> Ulinda
+  spell 0 32 
+  sug ULinda
+  ana  st:Ulinda
+  stem Ulinda
+  stemmorph Ulinda
+> Uuinda
+  spell 0 32 
+  sug ULinda
+> linda
+  spell 0 0 
+  sug uLinda
+> nULinda
+  spell 0 32 
+  sug uLinda
+> noLLinda
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> noLinad
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> noLind
+  spell 0 32 
+  sug noLinda
+> noLindL
+  spell 0 32 
+  sug noLinda
+> noLindU
+  spell 0 32 
+  sug noLinda
+> noLinda
+  spell 1 32 uLinda
+  sug noLinda
+  ana no st:uLinda fl:a
+  stem uLinda
+  stemmorph uLinda
+> noLinda-noLinda
+  spell 1 33 
+> noLinda-uLinda
+  spell 1 33 
+> noLinda.
+  spell 1 32 uLinda
+  sug noLinda
+  ana no st:uLinda fl:a
+  stem uLinda
+  stemmorph uLinda
+> noLindanoLinda
+  spell 0 32 
+  sug noLinda noLinda
+> noLindau
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> noLindaulinda
+  spell 0 32 
+> noLindu
+  spell 0 32 
+  sug noLinda
+> noLionda
+  spell 0 32 
+  sug noLinda
+> noiLnda
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> oNLinda
+  spell 0 32 
+  sug uLinda
+> oNoLinda
+  spell 0 32 
+  sug uLinda
+> onLinda
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> ouLinda
+  spell 0 32 
+  sug uLinda
+> uLainda
+  spell 0 32 
+  sug uLinda
+> uLina
+  spell 0 32 
+  sug uLinda
+> uLinda
+  spell 1 32 
+  sug uLinda
+  ana  st:uLinda
+  stem uLinda
+  stemmorph uLinda
+> uLinda-NoLinda
+  spell 1 33 
+> uLinda-ULinda
+  spell 1 33 
+> uLinda-noLinda
+  spell 1 33 
+> uLinda-uLinda
+  spell 1 33 
+> uLinda.
+  spell 1 32 
+  sug uLinda
+  ana  st:uLinda
+  stem uLinda
+  stemmorph uLinda
+> uLindanoLinda
+  spell 0 32 
+  sug uLinda noLinda
+> uLindao
+  spell 0 32 
+  sug uLinda
+> uLindauLinda
+  spell 0 32 
+  sug uLinda uLinda
+> uLindaulinda
+  spell 0 32 
+> uLindo
+  spell 0 32 
+  sug uLinda
+> uLnda
+  spell 0 32 
+  sug uLinda
+> uLnida
+  spell 0 32 
+  sug uLinda
+> uilnda
+  spell 0 0 
+  sug uLinda
+> uinda
+  spell 0 0 
+  sug uLinda
+> ulidna
+  spell 0 0 
+  sug uLinda
+> ulina
+  spell 0 0 
+  sug uLinda
+> ulind
+  spell 0 0 
+  sug uLinda
+> ulinda
+  spell 0 0 
+  sug uLinda
+> ulinda-ULinda
+  spell 0 32 
+  sug uLinda-ULinda
+> ulinda-noLinda
+  spell 0 32 
+  sug uLinda-noLinda
+> ulinda.
+  spell 0 0 
+  sug uLinda
+> ulindaa
+  spell 0 0 
+  sug uLinda
+> ulindao
+  spell 0 0 
+  sug uLinda
+> ulindauLinda
+  spell 0 32 
+> ulindua
+  spell 0 0 
+  sug uLinda
+> ulinna
+  spell 0 0 
+  sug uLinda
+> uloinda
+  spell 0 0 
+  sug uLinda
+> uuLinda
+  spell 0 32 
+  sug uLinda
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> noLinda's
+  spell 0 32 
+  sug noLinda
+> noLindaâ€™s
+  spell 0 32 
+> 'noLinda'
+  spell 0 32 
+  sug uLinda
+> l'noLinda
+  spell 0 32 
+  sug uLinda
+> noLinda.
+  spell 1 32 uLinda
+  sug noLinda
+  ana no st:uLinda fl:a
+  stem uLinda
+  stemmorph uLinda
+> noLinda..
+  spell 1 32 uLinda
+  sug noLinda
+  ana no st:uLinda fl:a
+  stem uLinda
+  stemmorph uLinda
+> .noLinda
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> ...
+  spell 1 0 
+> -noLinda
+  spell 1 33 
+  sug noLinda
+  sug uLinda
+> noLinda-
+  spell 1 33 
+  sug noLinda
+  sug uLinda
+> noLinda--uLinda
+  spell 1 33 
+> noLinda-uLinda-noLinda
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 0 
+> NOLINDA
+  spell 0 32 
+> NOlINDA
+  spell 0 32 
+  sug NoLinda
+> Nolinda
+  spell 0 32 
+  sug NoLinda
+> noLinda uLinda
+  spell 0 32 
+>  noLinda
+  spell 1 32 uLinda
+  sug noLinda
+  ana no st:uLinda fl:a
+  stem uLinda
+  stemmorph uLinda
+> noLinda 
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> noLinda	uLinda
+  spell 0 32 
+> ÿþnoLinda
+  spell 0 32 
+  sug uLinda
+> noLindaÃ
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> €noLinda
+  spell 0 32 
+  sug noLinda
+  sug uLinda
+> ð€noLinda
+  spell 0 32 
+> Ä°noLinda
+  spell 0 32 
+  sug ULinda
+> noLindaÃŸ
+  spell 0 32 
+  sug noLinda
+> noLinda
+  spell 1 32 uLinda
+  sug noLinda
+  ana no st:uLinda fl:a
+  stem uLinda
+  stemmorph uLinda
+> NOLINDASS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>noLinda</word></query>
+  spell 0 32 
+  sug <code><a>no st:uLinda fl:a</a></code>
+> <?xml?><query type="stem"><word>noLinda</word></query>
+  spell 0 32 
+  sug uLinda
+> <?xml?><query type="suggest"><word>noLindax</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>noLinda</word><word>uLinda</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>noLinda</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>noLinda</word></query>
+  spell 0 32 
+  sug <code><a>no st:uLinda fl:a</a></code>
+> <?xml?><query type="add"><word>noLinda</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;noLinda&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>noLinda</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

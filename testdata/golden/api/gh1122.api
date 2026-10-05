@@ -1,0 +1,456 @@
+# example: 
+> /
+  spell 0 0 
+  sug /AB
+> //foob
+  spell 0 0 
+  sug /foob
+  sug /foo
+> /A
+  spell 0 32 
+  sug /AB
+> /A/a
+  spell 0 32 
+  sug /AB
+> /AB
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> /AB-/fooa
+  spell 1 33 
+> /AB-/foob
+  spell 1 33 
+> /AB.
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> /AB/
+  spell 0 32 
+  sug /AB
+> /AB/AB
+  spell 0 32 
+  sug /AB
+> /AB/b
+  spell 0 32 
+  sug /AB
+> /AB/fooa
+  spell 0 32 
+  sug /AB /fooa
+  sug /fooa
+> /AB/foob
+  spell 0 32 
+  sug /AB /foob
+  sug /foob
+> /ABA
+  spell 0 32 
+  sug /AB
+> /ABAa
+  spell 0 32 
+  sug /AB
+> /ABa
+  spell 0 32 
+  sug /AB
+> /ABa-/b
+  spell 0 32 
+> /ABa-/foo
+  spell 0 32 
+  sug /AB-/foo
+> /ABa.
+  spell 0 32 
+  sug /AB
+> /ABa/AB
+  spell 0 32 
+  sug /AB
+> /ABa/b
+  spell 0 32 
+  sug /AB
+> /Ab
+  spell 0 32 
+  sug /AB
+> /AoBa
+  spell 0 32 
+> /B
+  spell 0 32 
+  sug /AB
+> /BA
+  spell 0 32 
+  sug /AB
+> /Ba
+  spell 0 32 
+  sug /AB
+> /FOOA
+  spell 1 32 /foo
+  sug /FOOA
+  sug /FOO
+  ana  st:/foo fl:A
+  ana  st:/foo fl:A
+  stem /foo
+  stemmorph /foo
+> /FOOB
+  spell 1 32 /foo
+  sug /FOOB
+  sug /FOO
+  ana  st:/foo fl:B
+  ana  st:/foo fl:B
+  stem /foo
+  stemmorph /foo
+> /ab
+  spell 0 0 
+  sug /AB
+> /aba
+  spell 0 0 
+  sug /AB
+> /b
+  spell 0 0 
+  sug /AB
+> /b-/foob
+  spell 0 0 
+  sug /AB-/foob
+  sug /foob
+> /b.
+  spell 0 0 
+  sug /AB
+> /b/
+  spell 0 0 
+  sug /AB
+> /b/ABa
+  spell 0 32 
+  sug /AB
+> /bf
+  spell 0 0 
+  sug /AB
+> /f/o
+  spell 0 0 
+  sug /foo
+> /f/ob
+  spell 0 0 
+  sug /foob
+> /fAob
+  spell 0 32 
+  sug /foob
+> /fBo
+  spell 0 32 
+  sug /foo
+> /faoob
+  spell 0 0 
+  sug /foob
+  sug /foo
+> /fb
+  spell 0 0 
+  sug /foob
+> /fo
+  spell 0 0 
+  sug /foo
+> /foBoa
+  spell 0 32 
+  sug /fooa
+  sug /foo
+> /foab
+  spell 0 0 
+  sug /foob
+> /foao
+  spell 0 0 
+  sug /fooa
+  sug /foo
+> /fob
+  spell 0 0 
+  sug /foob
+> /fobo
+  spell 0 0 
+  sug /foob
+  sug /foo
+> /foboa
+  spell 0 0 
+  sug /fooa
+  sug /foo
+> /fofo
+  spell 0 0 
+  sug /foo
+> /foo
+  spell 1 0 
+  sug /foo
+  ana  st:/foo
+  stem /foo
+  stemmorph /foo
+  sfx /fooa
+  sfx /foob
+> /foo-/AB
+  spell 1 33 
+  sug /foob
+> /foo-/ABa
+  spell 0 32 
+  sug /foo-/AB
+> /foo-/foob
+  spell 1 1 
+> /foo.
+  spell 1 0 
+  sug /foo
+  ana  st:/foo
+  stem /foo
+  stemmorph /foo
+> /foo/
+  spell 0 0 
+  sug /foo
+> /foo/a
+  spell 0 0 
+  sug /fooa
+  sug /foo
+> /foo/b
+  spell 0 0 
+  sug /foob
+  sug /foo
+> /foo/fooa
+  spell 0 0 
+  sug /foo /fooa
+> /fooBa
+  spell 0 32 
+  sug /fooa
+  sug /foob
+> /fooa
+  spell 1 0 /foo
+  sug /fooa
+  sug /foo
+  ana  st:/foo fl:A
+  stem /foo
+  stemmorph /foo
+> /fooa-/AB
+  spell 1 33 
+> /fooa-/ABa
+  spell 0 32 
+  sug /fooa-/AB
+> /fooa-/foo
+  spell 1 1 
+> /fooa-/foob
+  spell 1 1 
+> /fooa.
+  spell 1 0 /foo
+  sug /fooa
+  sug /foo
+  ana  st:/foo fl:A
+  stem /foo
+  stemmorph /foo
+> /fooa/b
+  spell 0 0 
+  sug /foob
+> /fooa/fooa
+  spell 0 0 
+  sug /fooa /fooa
+> /fooaa
+  spell 0 0 
+  sug /fooa
+  sug /foo
+> /fooaf
+  spell 0 0 
+  sug /fooa
+  sug /foo
+> /foob
+  spell 1 0 /foo
+  sug /foob
+  sug /foo
+  ana  st:/foo fl:B
+  stem /foo
+  stemmorph /foo
+> /foob-/ABa
+  spell 0 32 
+  sug /foob-/AB
+> /foob-/b
+  spell 0 0 
+  sug /foob-/AB
+  sug /foob
+> /foob-/fooa
+  spell 1 1 
+> /foob-/foob
+  spell 1 1 
+> /foob.
+  spell 1 0 /foo
+  sug /foob
+  sug /foo
+  ana  st:/foo fl:B
+  stem /foo
+  stemmorph /foo
+> /foob/ABa
+  spell 0 32 
+> /foob/foo
+  spell 0 0 
+  sug /foob /foo
+> /foob/fooa
+  spell 0 0 
+  sug /foob /fooa
+> /fooba
+  spell 0 0 
+  sug /foob
+  sug /fooa
+> /fooo
+  spell 0 0 
+  sug /foo
+> /oB
+  spell 0 32 
+  sug /foob
+> /ofo
+  spell 0 0 
+  sug /foo
+> /ofoa
+  spell 0 0 
+  sug /fooa
+> /ofob
+  spell 0 0 
+  sug /foob
+> /oob
+  spell 0 0 
+  sug /foob
+> A/B
+  spell 0 32 
+  sug /AB
+> Afoo
+  spell 0 32 
+  sug /foo
+> b
+  spell 0 0 
+  sug /AB
+> b/
+  spell 0 0 
+  sug /AB
+> f/oob
+  spell 0 0 
+  sug /foob
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> /AB's
+  spell 0 32 
+  sug /AB
+> /ABâ€™s
+  spell 0 32 
+  sug /AB
+> '/AB'
+  spell 0 32 
+  sug /AB
+> l'/AB
+  spell 0 32 
+  sug /AB
+> /AB.
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> /AB..
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> ./AB
+  spell 0 32 
+  sug /AB
+> ...
+  spell 1 0 
+> -/AB
+  spell 0 32 
+  sug /AB
+> /AB-
+  spell 0 32 
+  sug /AB
+> /AB--/foo
+  spell 1 33 
+> /AB-/foo-/AB
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> /AB
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> /ab
+  spell 0 0 
+  sug /AB
+> /Ab
+  spell 0 32 
+  sug /AB
+> /AB /foo
+  spell 0 32 
+>  /AB
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> /AB 
+  spell 0 32 
+  sug /AB
+> /AB	/foo
+  spell 0 32 
+> ÿþ/AB
+  spell 0 0 
+  sug /AB
+> /ABÃ
+  spell 0 32 
+  sug /AB
+> €/AB
+  spell 0 32 
+  sug /AB
+> ð€/AB
+  spell 0 0 
+> Ä°/AB
+  spell 0 32 
+  sug /AB
+> /ABÃŸ
+  spell 0 32 
+  sug /AB
+> /AB
+  spell 1 32 
+  sug /AB
+  ana  st:/AB
+  stem /AB
+  stemmorph /AB
+> /ABSS
+  spell 0 32 
+  sug /AB
+> <?xml?><query type="analyze"><word>/AB</word></query>
+  spell 0 32 
+  sug <code><a> st:/AB</a></code>
+> <?xml?><query type="stem"><word>/AB</word></query>
+  spell 0 32 
+  sug /AB
+> <?xml?><query type="suggest"><word>/ABx</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>/AB</word><word>/foo</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>/AB</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>/AB</word></query>
+  spell 0 32 
+  sug <code><a> st:/AB</a></code>
+> <?xml?><query type="add"><word>/AB</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;/AB&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>/AB</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

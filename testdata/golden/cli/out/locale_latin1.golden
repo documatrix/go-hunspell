@@ -1,0 +1,30 @@
+exit 0
+stdout 268
+@(#) International Ispell Version 3.2.06 (but really Hunspell 1.7.2)
+*
+# wrold 6
+& café 1 12: can't
+# naïve 17
+# résumé 23
+# été. 30
+
+& The 1 0: Text
+*
+*
+*
+& to 1 22: text
+*
+
+*
+*
+*
+& decreate. 3 27: recreate, created, create
+
+*
+*
+*
+& can 1 15: can't
+& t 1 19: text
+*
+
+stderr 0

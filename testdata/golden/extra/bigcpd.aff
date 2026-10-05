@@ -1,0 +1,3 @@
+# compound analyses over the 4 MB limit of a morphological result
+COMPOUNDFLAG C
+COMPOUNDMIN 1

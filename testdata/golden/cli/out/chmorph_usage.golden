@@ -1,0 +1,8 @@
+exit 1
+stdout 0
+stderr 344
+chmorph - change affixes by morphological analysis and generation
+correct syntax is:
+chmorph affix_file dictionary_file file_to_convert STRING1 STRING2
+STRINGS may be arbitrary parts of the morphological descriptions
+example: chmorph hu.aff hu.dic hu.txt SG_2 SG_3  (convert informal Hungarian second person texts to formal third person texts)

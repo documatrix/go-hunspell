@@ -1,0 +1,321 @@
+# example: románus
+> ROMANÓRUM
+  spell 0 32 
+  sug ROMÁNÓRUM
+> ROMÁNUS
+  spell 1 32 
+  ana  st:románus
+  stem románus
+  stemmorph románus
+> Romanórum
+  spell 0 32 
+> Románus
+  spell 1 32 
+  sug románus
+  ana  st:románus
+  stem románus
+  stemmorph románus
+> aománus
+  spell 0 0 
+  sug románus
+> aromanórum
+  spell 0 0 
+  sug romanórum
+> mománus
+  spell 0 0 
+  sug románus
+> nománus
+  spell 0 0 
+  sug románus
+> nromanórum
+  spell 0 0 
+  sug romanórum
+> omanórum
+  spell 0 0 
+  sug romanórum
+> ománus
+  spell 0 0 
+  sug románus
+> oomanórum
+  spell 0 0 
+  sug romanórum
+> ormánus
+  spell 0 0 
+  sug románus
+> rmmanórum
+  spell 0 0 
+  sug romanórum
+> rmoánus
+  spell 0 0 
+  sug románus
+> rmánus
+  spell 0 0 
+  sug románus
+> rnmanórum
+  spell 0 0 
+  sug romanórum
+> roamnórum
+  spell 0 0 
+  sug romanórum
+> roamánus
+  spell 0 0 
+  sug románus
+> roanórum
+  spell 0 0 
+  sug romanórum
+> romamórum
+  spell 0 0 
+  sug romanórum
+> romanaórum
+  spell 0 0 
+  sug romanórum
+> romanrum
+  spell 0 0 
+  sug románus
+> romansórum
+  spell 0 0 
+  sug romanórum
+> romanórm
+  spell 0 0 
+  sug románus
+> romanórmu
+  spell 0 0 
+  sug románus
+> romanóru
+  spell 0 0 
+  sug románus
+> romanórum
+  spell 0 0 
+> romanórum-romanórum
+  spell 0 0 
+> romanórum-románus
+  spell 0 0 
+> romanórum.
+  spell 0 0 
+  sug romanórum
+> romanórumromanórum
+  spell 0 0 
+> romanórumrománus
+  spell 0 0 
+> romanórumu
+  spell 0 0 
+> romanóróm
+  spell 0 0 
+> romanósum
+  spell 0 0 
+  sug románus
+> romanóurm
+  spell 0 0 
+  sug románus
+> romanóáum
+  spell 0 0 
+  sug románus
+> romanóórum
+  spell 0 0 
+  sug romanórum
+> romaáórum
+  spell 0 0 
+  sug romanórum
+> romaónrum
+  spell 0 0 
+  sug románus
+> romnaórum
+  spell 0 0 
+  sug romanórum
+> romnnus
+  spell 0 0 
+  sug románus
+> romnánus
+  spell 0 0 
+  sug románus
+> romnáus
+  spell 0 0 
+  sug románus
+> romnórum
+  spell 0 0 
+  sug romanórum
+> romunus
+  spell 0 0 
+  sug románus
+> romámnus
+  spell 0 0 
+  sug románus
+> románnus
+  spell 0 0 
+  sug románus
+> románs
+  spell 0 0 
+  sug románus
+> románsu
+  spell 0 0 
+  sug románus
+> románur
+  spell 0 0 
+  sug románus
+> románus
+  spell 1 0 
+  ana  st:románus
+  stem románus
+  stemmorph románus
+> románus-romanórum
+  spell 0 0 
+> románus-románus
+  spell 1 1 
+> románus.
+  spell 1 0 
+  sug románus
+  ana  st:románus
+  stem románus
+  stemmorph románus
+> románusromanórum
+  spell 0 0 
+> románusrománus
+  spell 0 0 
+  sug románus románus
+> románusu
+  spell 0 0 
+  sug románus
+> romárnus
+  spell 0 0 
+  sug románus
+> romáuns
+  spell 0 0 
+  sug románus
+> romáus
+  spell 0 0 
+  sug románus
+> romááus
+  spell 0 0 
+  sug románus
+> ronmánus
+  spell 0 0 
+  sug románus
+> rouánus
+  spell 0 0 
+  sug románus
+> roánus
+  spell 0 0 
+  sug románus
+> roómánus
+  spell 0 0 
+  sug románus
+> rrománus
+  spell 0 0 
+  sug románus
+> rumanórum
+  spell 0 0 
+  sug romanórum
+> rómánus
+  spell 0 0 
+  sug románus
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> romanórum's
+  spell 0 0 
+> romanórum’s
+  spell 0 0 
+> 'romanórum'
+  spell 0 0 
+> l'romanórum
+  spell 0 0 
+  sug romanórum
+> romanórum.
+  spell 0 0 
+  sug romanórum
+> romanórum..
+  spell 0 0 
+  sug romanórum
+> .romanórum
+  spell 0 0 
+  sug romanórum
+> ...
+  spell 1 0 
+> -romanórum
+  spell 0 0 
+  sug romanórum
+> romanórum-
+  spell 0 0 
+> romanórum--románus
+  spell 0 0 
+> romanórum-románus-romanórum
+  spell 0 0 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> ROMANóRUM
+  spell 0 32 
+  sug Romanórum
+> ROMANóRUM
+  spell 0 32 
+  sug Romanórum
+> RomanóRum
+  spell 0 32 
+  sug Romanórum
+> romanórum románus
+  spell 0 0 
+>  romanórum
+  spell 0 0 
+  sug romanórum
+> romanórum 
+  spell 0 0 
+> romanórum	románus
+  spell 0 0 
+> ��romanórum
+  spell 0 0 
+  sug romanórum
+> romanórum�
+  spell 0 0 
+> �romanórum
+  spell 0 0 
+  sug romanórum
+> 𐐀romanórum
+  spell 0 0 
+  sug romanórum
+> İromanórum
+  spell 0 32 
+  sug Romanórum
+> romanórumß
+  spell 0 0 
+> romanórum
+  spell 0 0 
+> ROMANóRUMSS
+  spell 0 32 
+> <?xml?><query type="analyze"><word>romanórum</word></query>
+  spell 0 0 
+> <?xml?><query type="stem"><word>romanórum</word></query>
+  spell 0 0 
+> <?xml?><query type="suggest"><word>romanórumx</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>romanórum</word><word>románus</word></query>
+  spell 0 0 
+> <?xml?><query type="generate"><word>romanórum</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 0 
+> <?xml?><query type='analyze'><word>romanórum</word></query>
+  spell 0 0 
+> <?xml?><query type="add"><word>romanórum</word></query>
+  spell 0 0 
+> <?xml?><query type="analyze"><word>&lt;romanórum&amp;</word></query>
+  spell 0 0 
+> <?xml?><query type="bad"><word>romanórum</word></query>
+  spell 0 0 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

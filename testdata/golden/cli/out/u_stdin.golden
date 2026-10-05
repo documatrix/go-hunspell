@@ -1,0 +1,20 @@
+exit 0
+stdout 378
+Line 1: wrold -> world
+Line 1: tset -> stet
+Line 1: speling -> spieling
+Line 2: jumpss -> jumps
+Line 3: ated -> ate
+Line 4: MiXeD -> Mix Ed
+Line 4: CaSe -> Case
+Line 4: hELLO -> hell O
+Line 4: Nasa -> NASA
+Line 5: doesn -> does
+Line 5: isn -> sin
+Line 6: ssa -> SSA
+Line 7: caf -> cad
+Line 7: eacute -> acute
+Line 7: &Agrave;bc -> engraver
+Line 9: ok -> OK
+Line 10: tabz -> tab
+stderr 0

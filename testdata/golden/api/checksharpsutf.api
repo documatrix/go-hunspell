@@ -1,0 +1,479 @@
+# example: müßig
+> ABSTOSS.
+  spell 1 32 
+  sug ABSTOß.
+> ABSTOSS.-Müßig
+  spell 1 33 
+> ABSTOSS.-PROZESSIONSSTRASSE
+  spell 0 32 
+> ABSTOSS..
+  spell 1 32 
+  sug ABSTOß.
+> AUSSENABMESSUNG
+  spell 1 32 
+  sug AUßENABMESSUNG
+> AUSSENABMESSUNGAUSSENABMESSUNG
+  spell 0 32 
+> AUSSENMASSE
+  spell 1 32 
+> AUSSENMASSE-Abstoß.
+  spell 0 32 
+> AUSSENMASSE.
+  spell 1 32 
+> AUSSENMASSEAbstoß.
+  spell 0 32 
+> AUSSENMASSEAusstoß
+  spell 0 32 
+> AUSSENMASSI
+  spell 0 32 
+> AUSSENMASbE
+  spell 0 32 
+> AUSSTOSS
+  spell 1 32 
+  sug AUSSTOß
+> AUSSTOSS.
+  spell 1 32 
+  sug AUSSTOß
+> AUSSTOSSAbstoß.
+  spell 0 32 
+> AUSSTOSSProzessionsstraße
+  spell 0 32 
+> AUSZENABMESSUNG
+  spell 0 32 
+  sug AUßENABMESSUNG
+> Abstoß.
+  spell 1 32 
+  sug Abstoß.
+  ana  st:Abstoß.
+  stem Abstoß.
+  stemmorph Abstoß.
+> Abstoß.-MÜSSIG
+  spell 1 33 
+> Abstoß..
+  spell 1 32 
+  sug Abstoß.
+  ana  st:Abstoß.
+  stem Abstoß.
+  stemmorph Abstoß.
+> AuBßenabmessung
+  spell 0 32 
+  sug Außenabmessung
+> AuSenabmessung
+  spell 0 32 
+  sug Außenabmessung
+> Auenmaße
+  spell 0 32 
+  sug Außenmaße
+> Aueßnmaße
+  spell 0 32 
+  sug Außenmaße
+> Aussenmasse
+  spell 0 32 
+> Aussotß
+  spell 0 32 
+  sug Ausstoß
+> AusstoMß
+  spell 0 32 
+  sug Ausstoß
+> Ausstooß
+  spell 0 32 
+  sug Ausstoß
+  sug Abstoß.
+> Ausstoss
+  spell 0 32 
+  sug Ausstoß
+> Ausstoß
+  spell 1 32 
+  sug Ausstoß
+  ana  st:Ausstoß
+  stem Ausstoß
+  stemmorph Ausstoß
+> Ausstoß-Außenabmessung
+  spell 1 33 
+> Ausstoß-MÜßIG
+  spell 0 32 
+  sug Ausstoß-müßig
+> Ausstoß.
+  spell 1 32 
+  sug Ausstoß
+  ana  st:Ausstoß
+  stem Ausstoß
+  stemmorph Ausstoß
+> AusstoßMÜSSIG
+  spell 0 32 
+> Ausstßo
+  spell 0 32 
+  sug Ausstoß
+> AußeZmaße
+  spell 0 32 
+  sug Außenmaße
+> AußeZnmaße
+  spell 0 32 
+  sug Außenmaße
+  sug Außenabmessung
+> AußenabmBssung
+  spell 0 32 
+  sug Außenabmessung
+> Außenabmesiung
+  spell 0 32 
+  sug Außenabmessung
+> Außenabmessnug
+  spell 0 32 
+  sug Außenabmessung
+> Außenabmessung
+  spell 1 32 
+  sug Außenabmessung
+  ana  st:Außenabmessung
+  stem Außenabmessung
+  stemmorph Außenabmessung
+> Außenabmessung-Ausstoß
+  spell 1 33 
+> Außenabmessung-Außenabmessung
+  spell 1 33 
+> Außenabmessung-PROZESSIONSSTRASSE
+  spell 1 33 
+> Außenabmessung-müßig
+  spell 1 33 
+> Außenabmessung.
+  spell 1 32 
+  sug Außenabmessung
+  ana  st:Außenabmessung
+  stem Außenabmessung
+  stemmorph Außenabmessung
+> AußenabmessungAusstoß
+  spell 0 32 
+  sug Außenabmessung Ausstoß
+> Außenamße
+  spell 0 32 
+  sug Außenmaße
+> Außenbamessung
+  spell 0 32 
+  sug Außenabmessung
+> Außenmaße
+  spell 1 32 
+  sug Außenmaße
+  ana  st:Außenmaße
+  stem Außenmaße
+  stemmorph Außenmaße
+> Außenmaße-Prozessionsstraße
+  spell 1 33 
+> Außenmaße.
+  spell 1 32 
+  sug Außenmaße
+  ana  st:Außenmaße
+  stem Außenmaße
+  stemmorph Außenmaße
+> AußenmaßeA
+  spell 0 32 
+  sug Außenmaße
+  sug Außenabmessung
+> MSSIG
+  spell 0 32 
+> Mmßig
+  spell 0 32 
+  sug Müßig
+> Mnüßig
+  spell 0 32 
+  sug Müßig
+> MÜSIG
+  spell 0 32 
+  sug müßig
+> MÜSSIG
+  spell 1 32 
+> MÜSSIG-Ausstoß
+  spell 1 33 
+> MÜSSIG-müßig
+  spell 1 33 
+> MÜSSIG.
+  spell 1 32 
+> MÜSSIGAbstoß.
+  spell 0 32 
+> MÜSUSIG
+  spell 0 32 
+> MÜßIG
+  spell 0 32 
+  sug MÜSSIG
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> MÜßIG.
+  spell 0 32 
+  sug MÜSSIG
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> MÜßSIG
+  spell 0 32 
+  sug MÜSSIG
+  sug müßig
+> Mßig
+  spell 0 32 
+  sug Müßig
+> Müig
+  spell 0 32 
+  sug Müßig
+> Müssig
+  spell 0 32 
+> MüßEig
+  spell 0 32 
+  sug Müßig
+> Müßig
+  spell 1 32 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> Müßig.
+  spell 1 32 
+  sug Müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> PROZESIONSSTRASSE
+  spell 0 32 
+  sug PROZESSIONSSTRAßE
+> PROZESSIONSSTRASSE
+  spell 1 32 
+  sug PROZESSIONSSTRAßE
+> PROZESSIONSSTRASStE
+  spell 0 32 
+  sug Prozessionsstraße
+> ProzEssionsstraße
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozesionsstraße
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstrasse
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraß
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraße
+  spell 1 32 
+  sug Prozessionsstraße
+  ana  st:Prozessionsstraße
+  stem Prozessionsstraße
+  stemmorph Prozessionsstraße
+> Prozessionsstraße-ABSTOSS.
+  spell 0 32 
+> Prozessionsstraße-MÜßIG
+  spell 0 32 
+  sug Prozessionsstraße-müßig
+> Prozessionsstraße.
+  spell 1 32 
+  sug Prozessionsstraße
+  ana  st:Prozessionsstraße
+  stem Prozessionsstraße
+  stemmorph Prozessionsstraße
+> ProzessionsstraßeAbstoß.
+  spell 0 32 
+> ProzessionsstraßeAusstoß
+  spell 0 32 
+  sug Prozessionsstraße Ausstoß
+> ProzessionsstraßeAußenabmessung
+  spell 0 32 
+  sug Prozessionsstraße Außenabmessung
+> mnüßig
+  spell 0 0 
+  sug müßig
+> müig
+  spell 0 0 
+  sug müßig
+> müißg
+  spell 0 0 
+  sug müßig
+> müßig
+  spell 1 0 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> müßig-Abstoß.
+  spell 0 32 
+> müßig-Prozessionsstraße
+  spell 1 33 
+> müßig-müßig
+  spell 1 1 
+> müßig.
+  spell 1 0 
+  sug müßig
+  ana  st:müßig
+  stem müßig
+  stemmorph müßig
+> müßigAbstoß.
+  spell 0 32 
+  sug Abstoß.
+> müßigAußenabmessung
+  spell 0 32 
+  sug müßig Außenabmessung
+> müßigAußenmaße
+  spell 0 32 
+  sug müßig Außenmaße
+  sug Außenabmessung
+> müßigR
+  spell 0 32 
+  sug müßig
+> müßigi
+  spell 0 0 
+  sug müßig
+> müßigmüßig
+  spell 0 0 
+  sug müßig müßig
+> uAßenabmessung
+  spell 0 32 
+  sug Außenabmessung
+> usstoß
+  spell 0 0 
+> ÜSSIG
+  spell 0 32 
+> üAUSSTOSS
+  spell 0 32 
+  sug Ausstoß
+> üMßig
+  spell 0 32 
+  sug müßig
+> ümßig
+  spell 0 0 
+  sug müßig
+> üßig
+  spell 0 0 
+  sug müßig
+> 1
+  spell 1 0 
+> 123
+  spell 1 0 
+> 1,000
+  spell 1 0 
+> 1.5
+  spell 1 0 
+> 12-th
+  spell 0 0 
+> 3rd
+  spell 0 0 
+> 1st.
+  spell 0 0 
+> 0x1F
+  spell 0 32 
+> -1
+  spell 1 1 
+> Prozessionsstraße's
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraße’s
+  spell 0 32 
+  sug Prozessionsstraße
+> 'Prozessionsstraße'
+  spell 0 32 
+  sug Prozessionsstraße
+> l'Prozessionsstraße
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraße.
+  spell 1 32 
+  sug Prozessionsstraße
+  ana  st:Prozessionsstraße
+  stem Prozessionsstraße
+  stemmorph Prozessionsstraße
+> Prozessionsstraße..
+  spell 1 32 
+  sug Prozessionsstraße
+  ana  st:Prozessionsstraße
+  stem Prozessionsstraße
+  stemmorph Prozessionsstraße
+> .Prozessionsstraße
+  spell 0 32 
+  sug . Prozessionsstraße
+  sug Prozessionsstraße
+> ...
+  spell 1 0 
+> -Prozessionsstraße
+  spell 1 33 
+  sug Prozessionsstraße
+> Prozessionsstraße-
+  spell 1 33 
+  sug Prozessionsstraße
+> Prozessionsstraße--AUSSENABMESSUNG
+  spell 1 33 
+> Prozessionsstraße-AUSSENABMESSUNG-Prozessionsstraße
+  spell 1 33 
+> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  spell 0 0 
+> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  spell 0 32 
+> PROZESSIONSSTRAßE
+  spell 1 32 
+  sug PROZESSIONSSTRASSE
+  sug PROZESSIONSSTRAßE
+  ana  st:Prozessionsstraße
+  stem Prozessionsstraße
+  stemmorph Prozessionsstraße
+> pROZESSIONSSTRAßE
+  spell 0 32 
+  sug Prozessionsstraße
+> ProzessionsstraßE
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraße AUSSENABMESSUNG
+  spell 0 32 
+>  Prozessionsstraße
+  spell 1 32 
+  sug Prozessionsstraße
+  ana  st:Prozessionsstraße
+  stem Prozessionsstraße
+  stemmorph Prozessionsstraße
+> Prozessionsstraße 
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraße	AUSSENABMESSUNG
+  spell 0 32 
+> ��Prozessionsstraße
+  spell 0 0 
+> Prozessionsstraße�
+  spell 0 32 
+  sug Prozessionsstraße
+> �Prozessionsstraße
+  spell 0 32 
+  sug Prozessionsstraße
+> 𐐀Prozessionsstraße
+  spell 0 0 
+> İProzessionsstraße
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozessionsstraßeß
+  spell 0 32 
+  sug Prozessionsstraße
+> Prozeßionßtraße
+  spell 0 32 
+  sug Prozessionsstraße
+> PROZESSIONSSTRAßESS
+  spell 0 32 
+  sug PROZESSIONSSTRAßE
+> <?xml?><query type="analyze"><word>Prozessionsstraße</word></query>
+  spell 0 32 
+  sug <code><a> st:Prozessionsstraße</a></code>
+> <?xml?><query type="stem"><word>Prozessionsstraße</word></query>
+  spell 0 32 
+  sug Prozessionsstraße
+> <?xml?><query type="suggest"><word>Prozessionsstraßex</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Prozessionsstraße</word><word>AUSSENABMESSUNG</word></query>
+  spell 0 32 
+> <?xml?><query type="generate"><word>Prozessionsstraße</word><code><a>po:noun</a><a>is:plural</a></code></query>
+  spell 0 32 
+> <?xml?><query type='analyze'><word>Prozessionsstraße</word></query>
+  spell 0 32 
+  sug <code><a> st:Prozessionsstraße</a></code>
+> <?xml?><query type="add"><word>Prozessionsstraße</word></query>
+  spell 0 32 
+> <?xml?><query type="analyze"><word>&lt;Prozessionsstraße&amp;</word></query>
+  spell 0 32 
+> <?xml?><query type="bad"><word>Prozessionsstraße</word></query>
+  spell 0 32 
+> <?xml?><query>
+  spell 0 0 
+> <?xml?>
+  spell 1 0 

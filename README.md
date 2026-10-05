@@ -7,12 +7,14 @@
 <p align="center">
   <a href="https://github.com/documatrix/go-hunspell/actions/workflows/go.yml"><img src="https://github.com/documatrix/go-hunspell/actions/workflows/go.yml/badge.svg" alt="CI"></a>
   <a href="https://pkg.go.dev/github.com/documatrix/go-hunspell"><img src="https://pkg.go.dev/badge/github.com/documatrix/go-hunspell.svg" alt="Go Reference"></a>
-  <a href="https://goreportcard.com/report/github.com/documatrix/go-hunspell"><img src="https://goreportcard.com/badge/github.com/documatrix/go-hunspell" alt="Go Report Card"></a>
+  <img src="https://img.shields.io/badge/Hunspell-1.7%20compatible-blue" alt="Hunspell 1.7 compatible">
+  <a href="#compatibility-testing"><img src="https://img.shields.io/badge/tests-Hunspell%20upstream%20suite-success" alt="Tests: Hunspell upstream suite"></a>
   <a href="https://github.com/documatrix/go-hunspell/tags"><img src="https://img.shields.io/github/v/tag/documatrix/go-hunspell?label=release&sort=semver" alt="Release"></a>
   <img src="https://img.shields.io/github/go-mod/go-version/documatrix/go-hunspell" alt="Go version">
   <img src="https://img.shields.io/badge/cgo-none-success" alt="No cgo">
   <img src="https://img.shields.io/badge/coverage-98.9%25-brightgreen" alt="Coverage 98.9%">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MPL--1.1%20%7C%20GPL--2.0%20%7C%20LGPL--2.1-blue" alt="License"></a>
+  <a href="https://neeyo.io"><img src="https://img.shields.io/badge/made%20with-%E2%99%A5%20by%20neeyo-red" alt="Made with love by neeyo"></a>
 </p>
 
 `go-hunspell` is a pure Go port of [Hunspell](https://github.com/hunspell/hunspell),

@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/go-mod/go-version/documatrix/go-hunspell" alt="Go version">
   <img src="https://img.shields.io/badge/cgo-none-success" alt="No cgo">
   <img src="https://img.shields.io/badge/coverage-98.9%25-brightgreen" alt="Coverage 98.9%">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MPL--1.1%20%7C%20GPL--2.0%20%7C%20LGPL--2.1-blue" alt="License"></a>
+  <a href="NOTICE"><img src="https://img.shields.io/badge/license-MPL--1.1%20%7C%20GPL--2.0%20%7C%20LGPL--2.1-blue" alt="License"></a>
   <a href="https://neeyo.io"><img src="https://img.shields.io/badge/made%20with-%E2%99%A5%20by%20neeyo-red" alt="Made with love by neeyo"></a>
 </p>
 
@@ -398,7 +398,8 @@ Run them with `go test -bench . .` (go-hunspell) and
 
 go-hunspell is a derivative of Hunspell and is available, like Hunspell,
 under the terms of any one of the MPL 1.1, the GPL 2.0 or later, or the LGPL
-2.1 or later. See [LICENSE](LICENSE).
+2.1 or later. See [NOTICE](NOTICE), [COPYING.MPL](COPYING.MPL), [COPYING](COPYING)
+and [COPYING.LESSER](COPYING.LESSER).
 
 The artwork in `docs/gopher.png` is our own. The Go gopher character it is
 based on was designed by [Renée French](https://reneefrench.blogspot.com/)

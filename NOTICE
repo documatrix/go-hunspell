@@ -5,8 +5,8 @@ based on MySpell, Copyright (C) 2002 Kevin Hendricks. Like Hunspell, this
 port is available under the terms of any one of the following licenses:
 
   * Mozilla Public License 1.1             (COPYING.MPL)
-  * GNU General Public License 2.0 or later (COPYING.GPL)
-  * GNU Lesser General Public License 2.1 or later (COPYING.LGPL)
+  * GNU General Public License 2.0 or later (COPYING)
+  * GNU Lesser General Public License 2.1 or later (COPYING.LESSER)
 
 The test data in testdata/hunspell is taken unchanged from the Hunspell
 repository and is distributed under the same terms.
